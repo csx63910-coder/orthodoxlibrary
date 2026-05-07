@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.74",
+    "bibleId": "179568874c45066f-01",
+    "number": "74",
+    "bookId": "PSA",
+    "reference": "Psalms 74",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 11,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 74:1\" class=\"v\">1</span>Unto the end, corrupt not, a psalm of a canticle for Asaph.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 74:2\" class=\"v\">2</span>We will praise thee, O God: we will praise, and we will call upon thy name. We will relate thy wondrous works:</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 74:3\" class=\"v\">3</span>When I shall take a time, I will judge justices.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 74:4\" class=\"v\">4</span>The earth is melted, and all that dwell therein: I have established the pillars thereof.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 74:5\" class=\"v\">5</span>I said to the wicked: Do not act wickedly: and to the sinners: Lift not up the horn.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 74:6\" class=\"v\">6</span>Lift not up your horn on high: speak not iniquity against God.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 74:7\" class=\"v\">7</span>For neither from the east, nor from the west, nor from the desert hills:</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 74:8\" class=\"v\">8</span>For God is the judge. One he putteth down, and another he lifteth up:</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 74:9\" class=\"v\">9</span>For in the hand of the Lord there is a cup of strong wine full of mixture. And he hath poured it out from this to that: but the dregs thereof are not emptied: all the sinners of the earth shall drink.</p><p class=\"q1\"><span data-number=\"10\" data-sid=\"PSA 74:10\" class=\"v\">10</span>But I will declare for ever: I will sing to the God of Jacob.</p><p class=\"q1\"><span data-number=\"11\" data-sid=\"PSA 74:11\" class=\"v\">11</span>And I will break all the horns of sinners: but the horns of the just shall be exalted.</p>",
+    "next": {
+      "id": "PSA.75",
+      "number": "75",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.73",
+      "number": "73",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzUBIIzTFfOihHUPAjom-fFX23CWtFFUtA5LV9-3DVyOuxWXIF8QR7PbuL3VmbZajYL_W06SyaLg6r8r_zxvB6BfVoPzedc215hKyWEeoklpJY3Veu7uujfsqByI-RHOGIHkDX_WrLoLEEE4N0nmA1cHf_ddmihNGtnYYmk-KhftmNjetenP2xKIzJ0UfcEmhiP4dAltAWsFq-fx_qzLZFczO00rOV8spzKkMJdTtyoOdVHqKi5Dns9WHA"
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "translation": {
+    "id": "rus_syn",
+    "name": "Синодальный перевод",
+    "website": "https://ebible.org/Scriptures/details.php?id=russyn",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=russyn",
+    "shortName": "SYN",
+    "englishName": "Russian Synodal Bible",
+    "language": "rus",
+    "textDirection": "ltr",
+    "sha256": "0ae481d3257ba895a57748179fc194012ffbfd500c141f9c3ef042a4db4771c6",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/rus_syn/books.json",
+    "completeTranslationApiLink": "/api/rus_syn/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31169,
+    "languageName": "русский",
+    "languageEnglishName": "Russian"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "rus_syn",
+    "name": "Псалтырь",
+    "commonName": "Псалтырь",
+    "title": "Псалтырь",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "e62d3dc6e880ec6e368dddb5c78ada932240d86d48b244417ae5c8951145dcf8",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/rus_syn/PSA/1.json",
+    "lastChapterNumber": 150,
+    "lastChapterApiLink": "/api/rus_syn/PSA/150.json",
+    "totalNumberOfVerses": 2526
+  },
+  "chapter": {
+    "number": 144,
+    "content": [
+      {
+        "type": "hebrew_subtitle",
+        "content": [
+          "Хвала Давида."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Буду превозносить Тебя, Боже мой, Царь мой, и благословлять имя Твое во веки и веки.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Всякий день буду благословлять Тебя и восхвалять имя Твое во веки и веки.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Велик Господь и достохвален, и величие Его неисследимо.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Род роду будет восхвалять дела Твои и возвещать о могуществе Твоем.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "А я буду размышлять о высокой славе величия Твоего и о дивных делах Твоих.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Будут говорить о могуществе страшных дел Твоих, и я буду возвещать о величии Твоем.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Будут провозглашать память великой благости Твоей и воспевать правду Твою.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Щедр и милостив Господь, долготерпелив и многомилостив.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Благ Господь ко всем, и щедроты Его на всех делах Его.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "Да славят Тебя, Господи, все дела Твои, и да благословляют Тебя святые Твои;",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "да проповедуют славу царства Твоего, и да повествуют о могуществе Твоем,",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "чтобы дать знать сынам человеческим о могуществе Твоем и о славном величии царства Твоего.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "Царство Твое - царство всех веков, и владычество Твое во все роды. Верен Господь во всех словах Своих и свят во всех делах Своих.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "Господь поддерживает всех падающих и восставляет всех низверженных.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "Очи всех уповают на Тебя, и Ты даешь им пищу их в свое время;",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "открываешь руку Твою и насыщаешь все живущее по благоволению.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "Праведен Господь во всех путях Своих и благ во всех делах Своих.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "Близок Господь ко всем призывающим Его, ко всем призывающим Его в истине.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "Желание боящихся Его Он исполняет, вопль их слышит и спасает их.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "Хранит Господь всех любящих Его, а всех нечестивых истребит.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "Уста мои изрекут хвалу Господню, и да благословляет всякая плоть святое имя Его во веки и веки.",
+            "poem": 1
+          }
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/rus_syn/PSA/144.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/rus_syn/PSA/145.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/rus_syn/PSA/143.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 21
+}

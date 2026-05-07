@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.2",
+    "bibleId": "179568874c45066f-01",
+    "number": "2",
+    "bookId": "PSA",
+    "reference": "Psalms 2",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 13,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 2:1\" class=\"v\">1</span>Why have the Gentiles raged, and the people devised vain things?</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 2:2\" class=\"v\">2</span>The kings of the earth stood up, and the princes met together, against the Lord and against his Christ.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 2:3\" class=\"v\">3</span>Let us break their bonds asunder: and let us cast away their yoke from us.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 2:4\" class=\"v\">4</span>He that dwelleth in heaven shall laugh at them: and the Lord shall deride them.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 2:5\" class=\"v\">5</span>Then shall he speak to them in his anger, and trouble them in his rage.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 2:6\" class=\"v\">6</span>But I am appointed king by him over Sion his holy mountain, preaching his commandment.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 2:7\" class=\"v\">7</span>The Lord hath said to me: Thou art my son, this day have I begotten thee.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 2:8\" class=\"v\">8</span>Ask of me, and I will give thee the Gentiles for thy inheritance, and the utmost parts of the earth for thy possession.</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 2:9\" class=\"v\">9</span>Thou shalt rule them with a rod of iron, and shalt break them in pieces like a potter’s vessel.</p><p class=\"q1\"><span data-number=\"10\" data-sid=\"PSA 2:10\" class=\"v\">10</span>And now, O ye kings, understand: receive instruction, you that judge the earth.</p><p class=\"q1\"><span data-number=\"11\" data-sid=\"PSA 2:11\" class=\"v\">11</span>Serve ye the Lord with fear: and rejoice unto him with trembling.</p><p class=\"q1\"><span data-number=\"12\" data-sid=\"PSA 2:12\" class=\"v\">12</span>Embrace discipline, lest at any time the Lord be angry, and you perish from the just way.</p><p class=\"q1\"><span data-number=\"13\" data-sid=\"PSA 2:13\" class=\"v\">13</span>When his wrath shall be kindled in a short time, blessed are all they that trust in him.</p>",
+    "next": {
+      "id": "PSA.3",
+      "number": "3",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.1",
+      "number": "1",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzIBABwHbqxlyoOgvZ5Fa0t98p5pI9I0QXrZxy1ZuvpCZ91tp4Py_9N3Oba1IEwDzSjBB1ge_N9ykkzKAFf_XfrH83YA1Msoch7vyqQSYs7Jdz7oGAehjRL0cFeT-UhawPwMqzVB8o4_1uzGPRAV4Nwl2QZaC_B174UOQseFCTXkqo0Mxi0B27s043ljELJ2UuUFXxlG6Bkjm8A4wvA83l_1oS022dx54RKz8ImjaHtuhI7sjeMmmjIw"
+  }
+}

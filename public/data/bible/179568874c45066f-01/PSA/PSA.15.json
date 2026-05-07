@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.15",
+    "bibleId": "179568874c45066f-01",
+    "number": "15",
+    "bookId": "PSA",
+    "reference": "Psalms 15",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 11,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 15:1\" class=\"v\">1</span>The inscription of a title to David himself. Preserve me, O Lord, for I have put trust in thee.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 15:2\" class=\"v\">2</span>I have said to the Lord, thou art my God, for thou hast no need of my goods.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 15:3\" class=\"v\">3</span>To the saints, who are in his land, he hath made wonderful all my desires in them.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 15:4\" class=\"v\">4</span>Their infirmities were multiplied: afterwards they made haste. I will not gather together their meetings for blood offerings: nor will I be mindful of their names by my lips.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 15:5\" class=\"v\">5</span>The Lord is the portion of my inheritance and of my cup: it is thou that wilt restore my inheritance to me.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 15:6\" class=\"v\">6</span>The lines are fallen unto me in goodly places: for my inheritance is goodly to me.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 15:7\" class=\"v\">7</span>I will bless the Lord, who hath given me understanding: moreover my reins also have corrected me even till night.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 15:8\" class=\"v\">8</span>I set the Lord always in my sight: for he is at my right hand, that I be not moved.</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 15:9\" class=\"v\">9</span>Therefore my heart hath been glad, and my tongue hath rejoiced: moreover my flesh also shall rest in hope.</p><p class=\"q1\"><span data-number=\"10\" data-sid=\"PSA 15:10\" class=\"v\">10</span>Because thou wilt not leave my soul in hell; nor wilt then give thy holy one to see corruption.</p><p class=\"q1\"><span data-number=\"11\" data-sid=\"PSA 15:11\" class=\"v\">11</span>Thou hast made known to me the ways of life, thou shalt fill me with joy with thy countenance: at thy right hand are delights even to the end.</p>",
+    "next": {
+      "id": "PSA.16",
+      "number": "16",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.14",
+      "number": "14",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzUBIBwHbqxlyoOgvZ6Fcyp_OkD3Seoq60ZqU0CQLF19ofO2gctxt-ISHE4hGs1u4_ZWZ4XxGwW1zUnESXBQK_gr_eN5OwD25S04n3frc6WUktM80YmstPNWz9Pd9oat8QTsjwjOKUje8Mcxq24BRAE4D0nWAdcA_u67dtRORp4NS-Oy8axjwPauTX_elkBk7krRF2xiGMGnS2gTeK-weh7vz9pWrjhf5KKTTOtN9VFPsyz1crac-3miSM8x"
+  }
+}

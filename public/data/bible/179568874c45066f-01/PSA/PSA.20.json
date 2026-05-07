@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.20",
+    "bibleId": "179568874c45066f-01",
+    "number": "20",
+    "bookId": "PSA",
+    "reference": "Psalms 20",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 14,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 20:1\" class=\"v\">1</span>Unto the end. A psalm for David.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 20:2\" class=\"v\">2</span>In thy strength, O Lord, the king shall joy; and in thy salvation he shall rejoice exceedingly.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 20:3\" class=\"v\">3</span>Thou hast given him his heart’s desire: and hast not withholden from him the will of his lips.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 20:4\" class=\"v\">4</span>For thou hast prevented him with blessings of sweetness: thou hast set on his head a crown of precious stones.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 20:5\" class=\"v\">5</span>He asked life of thee: and thou hast given him length of days for ever and ever.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 20:6\" class=\"v\">6</span>His glory is great in thy salvation: glory and great beauty shalt thou lay upon him.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 20:7\" class=\"v\">7</span>For thou shalt give him to be a blessing for ever and ever: thou shalt make him joyful in gladness with thy countenance.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 20:8\" class=\"v\">8</span>For the king hopeth in the Lord: and through the mercy of the most High he shall not be moved.</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 20:9\" class=\"v\">9</span>Let thy hand be found by all thy enemies: let thy right hand find out all them that hate thee.</p><p class=\"q1\"><span data-number=\"10\" data-sid=\"PSA 20:10\" class=\"v\">10</span>Thou shalt make them as an oven of fire, in the time of thy anger: the Lord shall trouble them in his wrath, and fire shall devour them.</p><p class=\"q1\"><span data-number=\"11\" data-sid=\"PSA 20:11\" class=\"v\">11</span>Their fruit shalt thou destroy from the earth: and their seed from among the children of men.</p><p class=\"q1\"><span data-number=\"12\" data-sid=\"PSA 20:12\" class=\"v\">12</span>For they have intended evils against thee: they have devised counsels which they have not been able to establish.</p><p class=\"q1\"><span data-number=\"13\" data-sid=\"PSA 20:13\" class=\"v\">13</span>For thou shalt make them turn their back: in thy remnants thou shalt prepare their face.</p><p class=\"q1\"><span data-number=\"14\" data-sid=\"PSA 20:14\" class=\"v\">14</span>Be thou exalted, O Lord, in thy own strength: we will sing and praise thy power.</p>",
+    "next": {
+      "id": "PSA.21",
+      "number": "21",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.19",
+      "number": "19",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzUBYBwHbqxlyoOgvZ6FY0v98uRl3og0TZDEJFm6-kLnbROX427VJUjQjn6d3VudaeMGjcA2RknEIOYXbukfz9sB8C_22FzePecaUyk5zEOklFaW2Kt5uvvesOOEANMFSaSCQ_1jya67AKIBXFqs-gDrNyAkyVK0lEYcWyyNqmMqY8D2rsx83pYAZO2gqYsxMYrR8yWyCTgYrJ7H-1OvOSvnkKY2qCYbhJKdSVarecazWJrHdJow"
+  }
+}

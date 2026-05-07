@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.136",
+    "bibleId": "179568874c45066f-01",
+    "number": "136",
+    "bookId": "PSA",
+    "reference": "Psalms 136",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 9,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 136:1\" class=\"v\">1</span>Upon the rivers of Babylon, there we sat and wept: when we remembered Sion:</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 136:2\" class=\"v\">2</span>On the willows in the midst thereof we hung up our instruments.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 136:3\" class=\"v\">3</span>For there they that led us into captivity required of us the words of songs. And they that carried us away, said: Sing ye to us a hymn of the songs of Sion.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 136:4\" class=\"v\">4</span>How shall we sing the song of the Lord in a strange land?</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 136:5\" class=\"v\">5</span>If I forget thee, O Jerusalem, let my right hand be forgotten.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 136:6\" class=\"v\">6</span>Let my tongue cleave to my jaws, if I do not remember thee: If I make not Jerusalem the beginning of my joy.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 136:7\" class=\"v\">7</span>Remember, O Lord, the children of Edom, in the day of Jerusalem: Who say: Rase it, rase it, even to the foundation thereof.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 136:8\" class=\"v\">8</span>O daughter of Babylon, miserable: blessed shall he be who shall repay thee thy payment which thou hast paid us.</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 136:9\" class=\"v\">9</span>Blessed be he that shall take and dash thy little ones against the rock.</p>",
+    "next": {
+      "id": "PSA.137",
+      "number": "137",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.135",
+      "number": "135",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzcBoIzTFfOihHUPAjom-fFX23CWtFFUtA5LV991t50Oyv9-Ody_tSBMszijxKp5UFCnTiImiw2a_HX753k7AP2yGprPu7a5xlRKDvMQTUoraazW8njXvWFHWZ-I4RbOGIHeBX92zLoLEIlwbtDMD1gD_Nx3aaI0aWRji7WZrFJ0Y2J7V6Y-b0sAMnZP1AWfGI7YsyWzPapg9Tze33Rr7GrhTJjLxXLhZLDVyjpNodY-urmvNdU44w"
+  }
+}

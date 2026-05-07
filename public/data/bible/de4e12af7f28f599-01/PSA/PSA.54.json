@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.54",
+    "bibleId": "de4e12af7f28f599-01",
+    "number": "54",
+    "bookId": "PSA",
+    "reference": "Psalms 54",
+    "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+    "verseCount": 7,
+    "content": "<p class=\"d\">To the chief Musician on Neginoth, Maschil, <span class=\"add\">A Psalm</span> of David, when the Ziphims came and said to Saul, Doth not David hide himself with us?</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 54:1\" class=\"v\">1</span>Save me, O God, by thy name, and judge me by thy strength.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 54:2\" class=\"v\">2</span>Hear my prayer, O God; give ear to the words of my mouth.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 54:3\" class=\"v\">3</span>For strangers are risen up against me, and oppressors seek after my soul: they have not set God before them. Selah.</p><p class=\"b\"></p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 54:4\" class=\"v\">4</span>Behold, God <span class=\"add\">is</span> mine helper: the Lord <span class=\"add\">is</span> with them that uphold my soul.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 54:5\" class=\"v\">5</span>He shall reward evil unto mine enemies: cut them off in thy truth.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 54:6\" class=\"v\">6</span>I will freely sacrifice unto thee: I will praise thy name, O <span class=\"nd\">LORD</span>; for <span class=\"add\">it is</span> good.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 54:7\" class=\"v\">7</span>For he hath delivered me out of all trouble: and mine eye hath seen <span class=\"add\">his desire</span> upon mine enemies.</p>",
+    "next": {
+      "id": "PSA.55",
+      "number": "55",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.53",
+      "number": "53",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBIBwHbqxlyoOgvZ6F0yl_Oms7JG4qUGn7Ya9k6eoLnbcNXI67FZcgXxBHs9tr91Zn1mhHwf8tJ8mkLHD13y3_eN4OgHxpCc7nXQ7kSJvaYjOp-Zy50lLP3V1O5iPhHWC-hVGKQfKCP9bMxgMQAXBukswBVwf-7jtXnquw0L5YV5wTMeclYHvXpj5vBETGToq-YCvDCD4laHtEhvY83l91zkMI3UCZm9hH7sjUm86bnlPUSqcukbcGAw"
+  }
+}

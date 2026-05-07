@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.15",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "15",
+    "bookId": "PSA",
+    "reference": "Psalms 15",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 5,
+    "content": "<p class=\"d\">A Psalm by David.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 15:1\" class=\"v\">1</span>Yahweh, who shall dwell in your sanctuary?</p><p data-vid=\"PSA 15:1\" class=\"q2\">Who shall live on your holy hill?</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 15:2\" class=\"v\">2</span>He who walks blamelessly and does what is right,</p><p data-vid=\"PSA 15:2\" class=\"q2\">and speaks truth in his heart;</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 15:3\" class=\"v\">3</span>he who doesn’t slander with his tongue,</p><p data-vid=\"PSA 15:3\" class=\"q2\">nor does evil to his friend,</p><p data-vid=\"PSA 15:3\" class=\"q2\">nor casts slurs against his fellow man;</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 15:4\" class=\"v\">4</span>in whose eyes a vile man is despised,</p><p data-vid=\"PSA 15:4\" class=\"q2\">but who honors those who fear Yahweh;</p><p data-vid=\"PSA 15:4\" class=\"q2\">he who keeps an oath even when it hurts, and doesn’t change;</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 15:5\" class=\"v\">5</span>he who doesn’t lend out his money for usury,</p><p data-vid=\"PSA 15:5\" class=\"q2\">nor take a bribe against the innocent.</p><p data-vid=\"PSA 15:5\" class=\"b\"></p><p data-vid=\"PSA 15:5\" class=\"q1\">He who does these things shall never be shaken.</p>",
+    "next": {
+      "id": "PSA.16",
+      "number": "16",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.14",
+      "number": "14",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBIBwHbqxlyoOgvR4EdEzy46-24Sxpo6hIlq6-0HnbwOWbjrEVl-COIBrNbq_dW50T5FhBUNucRJzUSSv46_rneTuAflkNzudd15LrYjbL89XS12VYSGO1ntFd94YdZSPYH3HGCCRv_Dlm111AFOAypFkHrhn-bpImdpJGNrYQxqRMdWOwvWvTn7cliKxdqfqCTwxj-GwJ7UwUrJ7H-6tO2QRX3NLIXOpdhtk8yplbTeWizkKyy-RXLjM"
+  }
+}

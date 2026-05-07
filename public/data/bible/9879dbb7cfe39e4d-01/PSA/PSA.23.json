@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.23",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "23",
+    "bookId": "PSA",
+    "reference": "Psalms 23",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 6,
+    "content": "<p class=\"d\">A Psalm by David.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 23:1\" class=\"v\">1</span>Yahweh is my shepherd;</p><p data-vid=\"PSA 23:1\" class=\"q2\">I shall lack nothing.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 23:2\" class=\"v\">2</span>He makes me lie down in green pastures.</p><p data-vid=\"PSA 23:2\" class=\"q2\">He leads me beside still waters.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 23:3\" class=\"v\">3</span>He restores my soul.</p><p data-vid=\"PSA 23:3\" class=\"q2\">He guides me in the paths of righteousness for his name’s sake.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 23:4\" class=\"v\">4</span>Even though I walk through the valley of the shadow of death,</p><p data-vid=\"PSA 23:4\" class=\"q2\">I will fear no evil, for you are with me.</p><p data-vid=\"PSA 23:4\" class=\"q1\">Your rod and your staff,</p><p data-vid=\"PSA 23:4\" class=\"q2\">they comfort me.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 23:5\" class=\"v\">5</span>You prepare a table before me</p><p data-vid=\"PSA 23:5\" class=\"q2\">in the presence of my enemies.</p><p data-vid=\"PSA 23:5\" class=\"q1\">You anoint my head with oil.</p><p data-vid=\"PSA 23:5\" class=\"q2\">My cup runs over.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 23:6\" class=\"v\">6</span>Surely goodness and loving kindness shall follow me all the days of my life,</p><p data-vid=\"PSA 23:6\" class=\"q2\">and I will dwell in Yahweh’s house forever.</p>",
+    "next": {
+      "id": "PSA.24",
+      "number": "24",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.22",
+      "number": "22",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBIIzTFfOihHUPAjom-fFX23CWtFFUtA5LV9-3DVy-6RhbcQnuCKLR7EWv3VudmeMGQW1zEnESB9EK_rr-ed4OQL-sBufxrmvJdTGb5flq6esyLKSxWs_ornvDjnKe2J_hjBFI3vDnmFN3AaIQLkOa9YFrBn83SRMrSSMbWwhjVTW6MbG9a9OftyUQ2btS9QWfGI7hsyW0K5Jg9TzeX_W3muWVX4apNHNbZKjVylLdTE7LamU749yUOOU"
+  }
+}

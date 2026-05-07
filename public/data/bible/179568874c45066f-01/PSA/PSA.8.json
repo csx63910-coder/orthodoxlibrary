@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.8",
+    "bibleId": "179568874c45066f-01",
+    "number": "8",
+    "bookId": "PSA",
+    "reference": "Psalms 8",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 10,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 8:1\" class=\"v\">1</span>Unto the end, for the presses: a psalm of David.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 8:2\" class=\"v\">2</span>O Lord our Lord, how admirable is thy name in the whole earth! For thy magnificence is elevated above the heavens.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 8:3\" class=\"v\">3</span>Out of the mouth of infants and of sucklings thou hast perfected praise, because of thy enemies, that thou mayst destroy the enemy and the avenger.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 8:4\" class=\"v\">4</span>For I will behold thy heavens, the works of thy fingers: the moon and the stars which thou hast founded.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 8:5\" class=\"v\">5</span>What is man that thou art mindful of him? or the son of man that thou visitest hi?</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 8:6\" class=\"v\">6</span>Thou hast made him a little less than the angels, thou hast crowned him with glory and honour:</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 8:7\" class=\"v\">7</span>And hast set him over the works of thy hands.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 8:8\" class=\"v\">8</span>Thou hast subjected all things under his feet, all sheep and oxen: moreover the beasts also of the fields.</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 8:9\" class=\"v\">9</span>The birds of the air, and the fishes of the sea, that pass through the paths of the sea.</p><p class=\"q1\"><span data-number=\"10\" data-sid=\"PSA 8:10\" class=\"v\">10</span>O Lord our Lord, how admirable is thy name in all the earth!</p>",
+    "next": {
+      "id": "PSA.9",
+      "number": "9",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.7",
+      "number": "7",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzIBYBwHbqxlyoOgvZ6FY0v98uRl3og0TZDEJFm6-kJn3W2ng_L_03c5trUgTAPNKLEKsDyokxVmkgzhz_aP5-0A-Bd7bB7vnnONqZQc5iFSSitL7NU83H1v2HEFMNxDiAz0rvhjx6y7ADIDglukyoBqAv723lK0lEYcWyyNgqPEY8D2rkt73pbAY-yeags-cYy4syWvCzAZrJ7He88PrKTORDjbGlK0YRqirSkubKEyDcxV5xYY"
+  }
+}

@@ -1,0 +1,613 @@
+[
+  {
+    "pascha_distance": 256,
+    "julian_day_number": 2461042,
+    "year": 2026,
+    "month": 1,
+    "day": 1,
+    "weekday": 4,
+    "tone": 4,
+    "titles": [
+      "Thursday of the 30th week after Pentecost"
+    ],
+    "summary_title": "Περιτομή του Κυρίου μας. Άγιος Βασίλειος ο Μέγας",
+    "feast_level": 6,
+    "feast_level_description": "Red cross circle (great feast typikon symbol)",
+    "feasts": [
+      "Circumcision of Our Lord; St Basil the Great"
+    ],
+    "fast_level": 0,
+    "fast_level_desc": "Όχι Γρήγορα",
+    "fast_exception": 11,
+    "fast_exception_desc": "Γρήγορα Δωρεάν",
+    "saints": [
+      "Άγιος Γρηγόριος, Επίσκοπος Ναζιανζού (374), πατέρας του Αγίου Γρηγορίου του Θεολόγου",
+      "Αγία Αιμιλία (375), μητέρα των αγίων Μακρίνας, του Μεγάλου Βασιλείου και του Γρηγορίου Νύσσης, του Πέτρου του Σεβαστού και της Θεοσεβίας."
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      4,
+      6
+    ],
+    "readings": [
+      {
+        "source": "Εσπερινός",
+        "book": "ΟΤ",
+        "description": "",
+        "display": "Σύνθετο 1 - Γένεση 17.1-2, 4, 5-7, 8, 9-10, 11-12, 14",
+        "short_display": "Gen 17.1-2, 4, 5-7, 8, 9-10, 11-12, 14",
+        "passage": null
+      },
+      {
+        "source": "Εσπερινός",
+        "book": "ΟΤ",
+        "description": "",
+        "display": "Παροιμίες 8,22-30",
+        "short_display": "Prov 8.22-30",
+        "passage": null
+      },
+      {
+        "source": "Εσπερινός",
+        "book": "ΟΤ",
+        "description": "",
+        "display": "Παροιμίες 10.31-11.12",
+        "short_display": "Prov 10.31-11.12",
+        "passage": null
+      },
+      {
+        "source": "Matins Gospel",
+        "book": "Γιάννης",
+        "description": "",
+        "display": "Ιωάννης 10,9-16",
+        "short_display": "John 10.9-16",
+        "passage": null
+      },
+      {
+        "source": "Επιστολή",
+        "book": "Αποστολ",
+        "description": "Circumcision",
+        "display": "Κολοσσαείς 2,8-12",
+        "short_display": "Col 2.8-12",
+        "passage": null
+      },
+      {
+        "source": "Επιστολή",
+        "book": "Αποστολ",
+        "description": "St Basil",
+        "display": "Εβραίους 7.26-8.2",
+        "short_display": "Heb 7.26-8.2",
+        "passage": null
+      },
+      {
+        "source": "Ευαγγέλιο",
+        "book": "Λουκ",
+        "description": "Circumcision",
+        "display": "Λουκάς 2,20-21, 40-52",
+        "short_display": "Luke 2.20-21, 40-52",
+        "passage": null
+      },
+      {
+        "source": "Ευαγγέλιο",
+        "book": "Λουκ",
+        "description": "St Basil",
+        "display": "Λουκάς 6,17-23",
+        "short_display": "Luke 6.17-23",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 257,
+    "julian_day_number": 2461043,
+    "year": 2026,
+    "month": 1,
+    "day": 2,
+    "weekday": 5,
+    "tone": 4,
+    "titles": [
+      "Friday of the 30th week after Pentecost"
+    ],
+    "summary_title": "Πανηγύρι των Θεοφανίων",
+    "feast_level": 4,
+    "feast_level_description": "Red cross (polyeleos typikon symbol)",
+    "feasts": [
+      "Forefeast of Theophany"
+    ],
+    "fast_level": 0,
+    "fast_level_desc": "Όχι Γρήγορα",
+    "fast_exception": 11,
+    "fast_exception_desc": "Γρήγορα Δωρεάν",
+    "saints": [
+      "Κοίμηση του Αγίου Σεραφείμ του Σαρώφ",
+      "Άγιος Σιλβέστρος, Πάπας της Ρώμης (335)",
+      "Σεβασμιώτατη Ιουλιανή του Λαζαρέφσκογιε (1604)",
+      "Άγιος Νεομάρτυρας Γεώργιος ο Γεωργιανός (1770)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      4,
+      6
+    ],
+    "readings": [
+      {
+        "source": "Εσπερινός",
+        "book": "ΟΤ",
+        "description": "",
+        "display": "Σοφία Σολομώντα 3.1-9",
+        "short_display": "Wis 3.1-9",
+        "passage": null
+      },
+      {
+        "source": "Εσπερινός",
+        "book": "ΟΤ",
+        "description": "",
+        "display": "Σοφία Σολομώντα 5.15-6.3",
+        "short_display": "Wis 5.15-6.3",
+        "passage": null
+      },
+      {
+        "source": "Εσπερινός",
+        "book": "ΟΤ",
+        "description": "",
+        "display": "Σοφία Σολομώντα 4.7-15",
+        "short_display": "Wis 4.7-15",
+        "passage": null
+      },
+      {
+        "source": "Matins Gospel",
+        "book": "Ματθαίος",
+        "description": "",
+        "display": "Ματθαίος 11.27-30",
+        "short_display": "Matt 11.27-30",
+        "passage": null
+      },
+      {
+        "source": "Επιστολή",
+        "book": "Αποστολ",
+        "description": "",
+        "display": "Εβραίους 11.8, 11-16",
+        "short_display": "Heb 11.8, 11-16",
+        "passage": null
+      },
+      {
+        "source": "Επιστολή",
+        "book": "Αποστολ",
+        "description": "St Seraphim",
+        "display": "Γαλάτες 5,22-6,2",
+        "short_display": "Gal 5.22-6.2",
+        "passage": null
+      },
+      {
+        "source": "Ευαγγέλιο",
+        "book": "Σημάδι",
+        "description": "",
+        "display": "Μάρκος 12.1-12",
+        "short_display": "Mark 12.1-12",
+        "passage": null
+      },
+      {
+        "source": "Ευαγγέλιο",
+        "book": "Λουκ",
+        "description": "St Seraphim",
+        "display": "Λουκάς 6,17-23",
+        "short_display": "Luke 6.17-23",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 258,
+    "julian_day_number": 2461044,
+    "year": 2026,
+    "month": 1,
+    "day": 3,
+    "weekday": 6,
+    "tone": 4,
+    "titles": [
+      "Saturday of the 30th week after Pentecost"
+    ],
+    "summary_title": "Σάββατο πριν τα Θεοφάνεια. Πανηγύρι των Θεοφανίων",
+    "feast_level": 0,
+    "feast_level_description": "Liturgy",
+    "feasts": [
+      "Saturday before Theophany",
+      "Forefeast of Theophany"
+    ],
+    "fast_level": 0,
+    "fast_level_desc": "Όχι Γρήγορα",
+    "fast_exception": 11,
+    "fast_exception_desc": "Γρήγορα Δωρεάν",
+    "saints": [
+      "Προφήτης Μαλαχίας",
+      "Ο Άγιος Μάρτυς Γόρδιος Καισαρείας (4ος αι.)",
+      "Η Παναγία μας Γενεβιέβ του Παρισιού (περίπου 502)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      2
+    ],
+    "readings": [
+      {
+        "source": "Επιστολή",
+        "book": "Αποστολ",
+        "description": "",
+        "display": "Εφεσίους 5,1-8",
+        "short_display": "Eph 5.1-8",
+        "passage": null
+      },
+      {
+        "source": "Επιστολή",
+        "book": "Αποστολ",
+        "description": "Saturday before Theophany",
+        "display": "1 Τιμόθεο 3,14-4,5",
+        "short_display": "1 Tim 3.14-4.5",
+        "passage": null
+      },
+      {
+        "source": "Ευαγγέλιο",
+        "book": "Λουκ",
+        "description": "",
+        "display": "Λουκάς 17,3-10",
+        "short_display": "Luke 17.3-10",
+        "passage": null
+      },
+      {
+        "source": "Ευαγγέλιο",
+        "book": "Ματθαίος",
+        "description": "Saturday before Theophany",
+        "display": "Ματθαίος 3.1-11",
+        "short_display": "Matt 3.1-11",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 259,
+    "julian_day_number": 2461045,
+    "year": 2026,
+    "month": 1,
+    "day": 4,
+    "weekday": 0,
+    "tone": 5,
+    "titles": [
+      "30th Sunday after Pentecost"
+    ],
+    "summary_title": "30η Κυριακή μετά την Πεντηκοστή",
+    "feast_level": 0,
+    "feast_level_description": "Liturgy",
+    "feasts": [
+      "Sunday before Theophany",
+      "Forefeast of Theophany"
+    ],
+    "fast_level": 0,
+    "fast_level_desc": "Όχι Γρήγορα",
+    "fast_exception": 11,
+    "fast_exception_desc": "Γρήγορα Δωρεάν",
+    "saints": [
+      "Σύναξη Εβδομήκοντα Αποστόλων",
+      "Ο Αιθίοπας Ευνούχος της Βασίλισσας Καντάσης",
+      "Σεβασμιώτατη Απολλιναρία (5ος αι.)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      1,
+      2
+    ],
+    "readings": [
+      {
+        "source": "8ο Ευαγγέλιο του Μάτιν",
+        "book": "Γιάννης",
+        "description": "",
+        "display": "Ιωάννης 20.11-18",
+        "short_display": "John 20.11-18",
+        "passage": null
+      },
+      {
+        "source": "Επιστολή",
+        "book": "Αποστολ",
+        "description": "Sunday before Theophany",
+        "display": "2 Τιμόθεο 4,5-8",
+        "short_display": "2 Tim 4.5-8",
+        "passage": null
+      },
+      {
+        "source": "Ευαγγέλιο",
+        "book": "Σημάδι",
+        "description": "Sunday before Theophany",
+        "display": "Μάρκος 1.1-8",
+        "short_display": "Mark 1.1-8",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 260,
+    "julian_day_number": 2461046,
+    "year": 2026,
+    "month": 1,
+    "day": 5,
+    "weekday": 1,
+    "tone": 5,
+    "titles": [
+      "Monday of the 31st week after Pentecost"
+    ],
+    "summary_title": "Παραμονή Θεοφανίων",
+    "feast_level": 0,
+    "feast_level_description": "Liturgy",
+    "feasts": [
+      "Eve of Theophany"
+    ],
+    "fast_level": 1,
+    "fast_level_desc": "Γρήγορα",
+    "fast_exception": 9,
+    "fast_exception_desc": "Αυστηρά Γρήγορα",
+    "saints": [
+      "Αγίων Μαρτύρων Θεοπέμπτου και Θεωνά (περίπου 290)",
+      "Η Σεβασμιώτατη Μητέρα μας Συνκλητική (4ος αι.)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      25,
+      26
+    ],
+    "readings": [
+      {
+        "source": "1η Ώρα, Προφητεία",
+        "book": "ΟΤ",
+        "description": "",
+        "display": "Ησαΐας 35,1-10",
+        "short_display": "Isa 35.1-10",
+        "passage": null
+      },
+      {
+        "source": "1η Ώρα, Επιστολή",
+        "book": "Αποστολ",
+        "description": "",
+        "display": "Πράξεις 13,25-33",
+        "short_display": "Acts 13.25-33",
+        "passage": null
+      },
+      {
+        "source": "1η Ώρα, Ευαγγέλιο",
+        "book": "Ματθαίος",
+        "description": "",
+        "display": "Ματθαίος 3.1-11",
+        "short_display": "Matt 3.1-11",
+        "passage": null
+      },
+      {
+        "source": "3η Ώρα, Προφητεία",
+        "book": "ΟΤ",
+        "description": "",
+        "display": "Ησαΐας 1.16-20",
+        "short_display": "Isa 1.16-20",
+        "passage": null
+      },
+      {
+        "source": "3η Ώρα, Επιστολή",
+        "book": "Αποστολ",
+        "description": "",
+        "display": "Πράξεις 19.1-8",
+        "short_display": "Acts 19.1-8",
+        "passage": null
+      },
+      {
+        "source": "3η Ώρα, Ευαγγέλιο",
+        "book": "Σημάδι",
+        "description": "",
+        "display": "Μάρκος 1.1-8",
+        "short_display": "Mark 1.1-8",
+        "passage": null
+      },
+      {
+        "source": "6η Ώρα, Προφητεία",
+        "book": "ΟΤ",
+        "description": "",
+        "display": "Ησαΐας 12,3-6",
+        "short_display": "Isa 12.3-6",
+        "passage": null
+      },
+      {
+        "source": "6η Ώρα, Επιστολή",
+        "book": "Αποστολ",
+        "description": "",
+        "display": "Ρωμαίους 6,3-11",
+        "short_display": "Rom 6.3-11",
+        "passage": null
+      },
+      {
+        "source": "6η Ώρα, Ευαγγέλιο",
+        "book": "Σημάδι",
+        "description": "",
+        "display": "Μάρκος 1,9-15",
+        "short_display": "Mark 1.9-15",
+        "passage": null
+      },
+      {
+        "source": "9η Ώρα, Προφητεία",
+        "book": "ΟΤ",
+        "description": "",
+        "display": "Ησαΐας 49,8-15",
+        "short_display": "Isa 49.8-15",
+        "passage": null
+      },
+      {
+        "source": "9η Ώρα, Επιστολή",
+        "book": "Αποστολ",
+        "description": "",
+        "display": "Τίτος 2,11-14, 3,4-7",
+        "short_display": "Titus 2.11-14, 3.4-7",
+        "passage": null
+      },
+      {
+        "source": "9η Ώρα, Ευαγγέλιο",
+        "book": "Ματθαίος",
+        "description": "",
+        "display": "Ματθαίος 3.13-17",
+        "short_display": "Matt 3.13-17",
+        "passage": null
+      },
+      {
+        "source": "Εσπερινός",
+        "book": "ΟΤ",
+        "description": "",
+        "display": "Γένεση 1.1-13",
+        "short_display": "Gen 1.1-13",
+        "passage": null
+      },
+      {
+        "source": "Εσπερινός",
+        "book": "ΟΤ",
+        "description": "",
+        "display": "Έξοδος 14.15-18, 21-23, 27-29",
+        "short_display": "Exod 14.15-18, 21-23, 27-29",
+        "passage": null
+      },
+      {
+        "source": "Εσπερινός",
+        "book": "ΟΤ",
+        "description": "",
+        "display": "Έξοδος 15.22-16.1",
+        "short_display": "Exod 15.22-16.1",
+        "passage": null
+      },
+      {
+        "source": "Εσπερινός",
+        "book": "ΟΤ",
+        "description": "",
+        "display": "Τζόσουα 3,7-8, 15-17",
+        "short_display": "Josh 3.7-8, 15-17",
+        "passage": null
+      },
+      {
+        "source": "Εσπερινός",
+        "book": "ΟΤ",
+        "description": "",
+        "display": "4[2] Βασιλέων 2,6-14",
+        "short_display": "4 Kgs 2.6-14",
+        "passage": null
+      },
+      {
+        "source": "Εσπερινός",
+        "book": "ΟΤ",
+        "description": "",
+        "display": "4[2] Βασιλέων 5,9-14",
+        "short_display": "4 Kgs 5.9-14",
+        "passage": null
+      },
+      {
+        "source": "Εσπερινός",
+        "book": "ΟΤ",
+        "description": "",
+        "display": "Ησαΐας 1.16-20",
+        "short_display": "Isa 1.16-20",
+        "passage": null
+      },
+      {
+        "source": "Εσπερινός",
+        "book": "ΟΤ",
+        "description": "",
+        "display": "Γένεση 32.1-10",
+        "short_display": "Gen 32.1-10",
+        "passage": null
+      },
+      {
+        "source": "Εσπερινός",
+        "book": "ΟΤ",
+        "description": "",
+        "display": "Έξοδος 2,5-10",
+        "short_display": "Exod 2.5-10",
+        "passage": null
+      },
+      {
+        "source": "Εσπερινός",
+        "book": "ΟΤ",
+        "description": "",
+        "display": "Κριτές 6.36-40",
+        "short_display": "Judges 6.36-40",
+        "passage": null
+      },
+      {
+        "source": "Εσπερινός",
+        "book": "ΟΤ",
+        "description": "",
+        "display": "3[1] Βασιλέων 18.30-39",
+        "short_display": "3 Kgs 18.30-39",
+        "passage": null
+      },
+      {
+        "source": "Εσπερινός",
+        "book": "ΟΤ",
+        "description": "",
+        "display": "4[2] Βασιλέων 2.19-22",
+        "short_display": "4 Kgs 2.19-22",
+        "passage": null
+      },
+      {
+        "source": "Εσπερινός",
+        "book": "ΟΤ",
+        "description": "",
+        "display": "Ησαΐας 49,8-15",
+        "short_display": "Isa 49.8-15",
+        "passage": null
+      },
+      {
+        "source": "Επιστολή",
+        "book": "Αποστολ",
+        "description": "Eve of Theophany",
+        "display": "Α Κορινθίους 9,19-27",
+        "short_display": "1 Cor 9.19-27",
+        "passage": null
+      },
+      {
+        "source": "Ευαγγέλιο",
+        "book": "Λουκ",
+        "description": "Eve of Theophany",
+        "display": "Λουκάς 3,1-18",
+        "short_display": "Luke 3.1-18",
+        "passage": null
+      },
+      {
+        "source": "Μεγάλη ευλογία των υδάτων",
+        "book": "ΟΤ",
+        "description": "",
+        "display": "Ησαΐας 35,1-10",
+        "short_display": "Isa 35.1-10",
+        "passage": null
+      },
+      {
+        "source": "Μεγάλη ευλογία των υδάτων",
+        "book": "ΟΤ",
+        "description": "",
+        "display": "Ησαΐας 55,1-13",
+        "short_display": "Isa 55.1-13",
+        "passage": null
+      },
+      {
+        "source": "Μεγάλη ευλογία των υδάτων",
+        "book": "ΟΤ",
+        "description": "",
+        "display": "Ησαΐας 12,3-6",
+        "short_display": "Isa 12.3-6",
+        "passage": null
+      },
+      {
+        "source": "Μεγάλη ευλογία των υδάτων",
+        "book": "Αποστολ",
+        "description": "Epistle",
+        "display": "Α Κορινθίους 10,1-4",
+        "short_display": "1 Cor 10.1-4",
+        "passage": null
+      },
+      {
+        "source": "Μεγάλη ευλογία των υδάτων",
+        "book": "Σημάδι",
+        "description": "Gospel",
+        "display": "Μάρκος 1.9-11",
+        "short_display": "Mark 1.9-11",
+        "passage": null
+      }
+    ]
+  }
+]

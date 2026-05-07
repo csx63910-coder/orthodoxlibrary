@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "1PE.5",
+    "bibleId": "179568874c45066f-01",
+    "number": "5",
+    "bookId": "1PE",
+    "reference": "1 Peter 5",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 14,
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"1PE 5:1\" class=\"v\">1</span>The ancients therefore that are among you, I beseech, who am myself also an ancient, and a witness of the sufferings of Christ: as also a partaker of that glory which is to be revealed in time to come: <span data-number=\"2\" data-sid=\"1PE 5:2\" class=\"v\">2</span>Feed the flock of God which is among you, taking care of it, not by constraint, but willingly, according to God: not for filthy lucre’s sake, but voluntarily: <span data-number=\"3\" data-sid=\"1PE 5:3\" class=\"v\">3</span>Neither as lording it over the clergy, but being made a pattern of the flock from the heart. <span data-number=\"4\" data-sid=\"1PE 5:4\" class=\"v\">4</span>And when the prince of pastors shall appear, you shall receive a never fading crown of glory. <span data-number=\"5\" data-sid=\"1PE 5:5\" class=\"v\">5</span>In like manner, ye young men, be subject to the ancients. And do you all insinuate humility one to another, for God resisteth the proud, but to the humble he giveth grace. <span data-number=\"6\" data-sid=\"1PE 5:6\" class=\"v\">6</span>Be you humbled therefore under the mighty hand of God, that he may exalt you in the time of visitation: <span data-number=\"7\" data-sid=\"1PE 5:7\" class=\"v\">7</span>Casting all your care upon him, for he hath care of you. <span data-number=\"8\" data-sid=\"1PE 5:8\" class=\"v\">8</span>Be sober and watch: because your adversary the devil, as a roaring lion, goeth about seeking whom he may devour. <span data-number=\"9\" data-sid=\"1PE 5:9\" class=\"v\">9</span>Whom resist ye, strong in faith: knowing that the same affliction befalls your brethren who are in the world. <span data-number=\"10\" data-sid=\"1PE 5:10\" class=\"v\">10</span>But the God of all grace, who hath called us into his eternal glory in Christ Jesus, after you have suffered a little, will himself perfect you, and confirm you, and establish you. <span data-number=\"11\" data-sid=\"1PE 5:11\" class=\"v\">11</span>To him be glory and empire for ever and ever. Amen. <span data-number=\"12\" data-sid=\"1PE 5:12\" class=\"v\">12</span>By Sylvanus, a faithful brother unto you, as I think, I have written briefly: beseeching and testifying that this is the true grace of God, wherein you stand. <span data-number=\"13\" data-sid=\"1PE 5:13\" class=\"v\">13</span>The church that is in Babylon, elected together with you, saluteth you: and so doth my son Mark. <span data-number=\"14\" data-sid=\"1PE 5:14\" class=\"v\">14</span>Salute one another with a holy kiss. Grace be to all you, who are in Christ Jesus. Amen.</p>",
+    "next": {
+      "id": "2PE.intro",
+      "number": "intro",
+      "bookId": "2PE"
+    },
+    "previous": {
+      "id": "1PE.4",
+      "number": "4",
+      "bookId": "1PE"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzIBoBwHbqxlyoOgvZ6GayofXcgVyP_ATW8KCJKlqy90zh1tRweqL7VA2lqQlbUDzSjB07QtqG1OIk7OqhX8Ff7xvB0A-xILzePdSq4xlZLDPESmtNIUqyX1_KgzEbDq4UgFtTv-OOE0XABRAS4Dmm0AtQC_dtGMmgnhG3OjM5QyBmzvqsznbQk49m4zZSFPDGPq0pLWABIUVs_j_UG_87hY1CpFT0tJOkxz1mW1jHpVp9WtQnFMEzE"
+  }
+}

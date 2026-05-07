@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "MAL.4",
+    "bibleId": "179568874c45066f-01",
+    "number": "4",
+    "bookId": "MAL",
+    "reference": "Malachi 4",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 6,
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"MAL 4:1\" class=\"v\">1</span>For behold the day shall come kindled as a furnace: and all the proud, and all that do wickedly shall be stubble: and the day that cometh shall set them on fire, saith the Lord of hosts, it shall not leave them root, nor branch. <span data-number=\"2\" data-sid=\"MAL 4:2\" class=\"v\">2</span>But unto you that fear my name, the Sun of justice shall arise, and health in his wings: and you shall go forth, and shall leap like calves of the herd. <span data-number=\"3\" data-sid=\"MAL 4:3\" class=\"v\">3</span>And you shall tread down the wicked when they shall be ashes under the sole of your feet in the day that I do this, saith the Lord of hosts. <span data-number=\"4\" data-sid=\"MAL 4:4\" class=\"v\">4</span>Remember the law of Moses my servant, which I commanded him in Horeb for all Israel, the precepts, and judgments. <span data-number=\"5\" data-sid=\"MAL 4:5\" class=\"v\">5</span>Behold I will send you Elias the prophet, before the coming of the great and dreadful day of the Lord. <span data-number=\"6\" data-sid=\"MAL 4:6\" class=\"v\">6</span>And he shall turn the heart of the fathers to the children, and the heart of the children to their fathers: lest I come, and strike the earth with anathema.</p>",
+    "next": {
+      "id": "1MA.intro",
+      "number": "intro",
+      "bookId": "1MA"
+    },
+    "previous": {
+      "id": "MAL.3",
+      "number": "3",
+      "bookId": "MAL"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzEBABwHbqxlyoOgvR5EOLbUL2_-MxpRQ4EkJsnS1Rc6bxu4HHerLnGcIIKavWj1e6sza3aDoE4dRMRkEXT46_bP83YA-_KWnMe79aWlXGuRuSSX80o7bwU93O2oOzQC9nuCcwrJC3_OrHoLyAiCp6TSoDXA1220S9pljm8udkSMr20Mtndp6vO2hJC5J1Ve8IljhJ4tkR3JitXzeLd_Zrm2lUsLLWkmWuZzr-vMT3UT8fO2yo28KAw"
+  }
+}

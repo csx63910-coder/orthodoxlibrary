@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Мэтью",
+    "slug": "matthew"
+  },
+  {
+    "name": "Отметка",
+    "slug": "mark"
+  },
+  {
+    "name": "Люк",
+    "slug": "luke"
+  },
+  {
+    "name": "Джон",
+    "slug": "john"
+  },
+  {
+    "name": "Действия",
+    "slug": "acts"
+  },
+  {
+    "name": "римляне",
+    "slug": "romans"
+  },
+  {
+    "name": "Я Коринфянам",
+    "slug": "i-corinthians"
+  },
+  {
+    "name": "II Коринфянам",
+    "slug": "ii-corinthians"
+  },
+  {
+    "name": "Галатам",
+    "slug": "galatians"
+  },
+  {
+    "name": "Ефесянам",
+    "slug": "ephesians"
+  },
+  {
+    "name": "Филиппийцы",
+    "slug": "philippians"
+  },
+  {
+    "name": "Колоссянам",
+    "slug": "colossians"
+  },
+  {
+    "name": "Я Фессалоникийцам",
+    "slug": "i-thessalonians"
+  },
+  {
+    "name": "II Фессалоникийцам",
+    "slug": "ii-thessalonians"
+  },
+  {
+    "name": "Я Тимоти",
+    "slug": "i-timothy"
+  },
+  {
+    "name": "II Тимофей",
+    "slug": "ii-timothy"
+  },
+  {
+    "name": "Тит",
+    "slug": "titus"
+  },
+  {
+    "name": "Филимон",
+    "slug": "philemon"
+  },
+  {
+    "name": "евреи",
+    "slug": "hebrews"
+  },
+  {
+    "name": "Джеймс",
+    "slug": "james"
+  },
+  {
+    "name": "я Питер",
+    "slug": "i-peter"
+  },
+  {
+    "name": "II Петр",
+    "slug": "ii-peter"
+  },
+  {
+    "name": "Я Джон",
+    "slug": "i-john"
+  },
+  {
+    "name": "II Иоанн",
+    "slug": "ii-john"
+  },
+  {
+    "name": "III Джон",
+    "slug": "iii-john"
+  },
+  {
+    "name": "Джуд",
+    "slug": "jude"
+  },
+  {
+    "name": "Откровение Иоанна",
+    "slug": "revelation"
+  }
+]

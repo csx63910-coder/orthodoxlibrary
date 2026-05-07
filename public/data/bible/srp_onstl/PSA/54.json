@@ -1,0 +1,181 @@
+{
+  "translation": {
+    "id": "srp_onstl",
+    "name": "Biblica® Novi srpski prevod, slobodna prava",
+    "website": "https://ebible.org/Scriptures/details.php?id=srponstl",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srponstl",
+    "shortName": "ONSTL",
+    "englishName": "Serbian ONST Latin",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "a8a96f250d352b1203b94cae20463b53a387d4852f335065e74400234976e767",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_onstl/books.json",
+    "completeTranslationApiLink": "/api/srp_onstl/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31102,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "srp_onstl",
+    "name": "Psalam",
+    "commonName": "Psalam",
+    "title": "Psalmi",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "c6f7504dab6884191b78dc06d3be4895eca6e432bb5bba347779cdd7d9f9c58d",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_onstl/PSA/1.json",
+    "lastChapterNumber": 150,
+    "lastChapterApiLink": "/api/srp_onstl/PSA/150.json",
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 54,
+    "content": [
+      {
+        "type": "hebrew_subtitle",
+        "content": [
+          "Horovođi, uz žičane instrumente. Davidova poučna pesma, kada su Zifejci došli Saulu i rekli: „Ne krije li se David kod nas?“"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Bože, imenom me svojim spasi",
+            "poem": 1
+          },
+          {
+            "text": "i snagom me svojom ti odbrani.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Bože, čuj molitvu moju;",
+            "poem": 1
+          },
+          {
+            "text": "reči usta mojih poslušaj.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Jer, protiv mene ustaju tuđinci;",
+            "poem": 1
+          },
+          {
+            "text": "moju dušu traže bezdušnici;",
+            "poem": 2
+          },
+          {
+            "lineBreak": true
+          },
+          {
+            "text": "oni Boga nemaju pred sobom. Sela",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Gle, Bog mi je pomoćnik;",
+            "poem": 1
+          },
+          {
+            "text": "Gospod je među onima što mi dušu podupiru.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Vratilo se zlo mrzitelju mome;",
+            "poem": 1
+          },
+          {
+            "text": "ti ih satri u vernosti svojoj.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Rado ću ti žrtvovati;",
+            "poem": 1
+          },
+          {
+            "text": "hvaliću ime tvoje, Gospode,",
+            "poem": 2
+          },
+          {
+            "lineBreak": true
+          },
+          {
+            "text": "jer je dobro.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Jer ono me je izbavilo iz svake nevolje",
+            "poem": 1
+          },
+          {
+            "text": "i oko mi pobednički gleda protivnike moje.",
+            "poem": 2
+          }
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_onstl/PSA/54.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_onstl/PSA/55.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_onstl/PSA/53.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 7
+}

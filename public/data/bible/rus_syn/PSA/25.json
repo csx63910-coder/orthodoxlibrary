@@ -1,0 +1,210 @@
+{
+  "translation": {
+    "id": "rus_syn",
+    "name": "Синодальный перевод",
+    "website": "https://ebible.org/Scriptures/details.php?id=russyn",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=russyn",
+    "shortName": "SYN",
+    "englishName": "Russian Synodal Bible",
+    "language": "rus",
+    "textDirection": "ltr",
+    "sha256": "0ae481d3257ba895a57748179fc194012ffbfd500c141f9c3ef042a4db4771c6",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/rus_syn/books.json",
+    "completeTranslationApiLink": "/api/rus_syn/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31169,
+    "languageName": "русский",
+    "languageEnglishName": "Russian"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "rus_syn",
+    "name": "Псалтырь",
+    "commonName": "Псалтырь",
+    "title": "Псалтырь",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "e62d3dc6e880ec6e368dddb5c78ada932240d86d48b244417ae5c8951145dcf8",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/rus_syn/PSA/1.json",
+    "lastChapterNumber": 150,
+    "lastChapterApiLink": "/api/rus_syn/PSA/150.json",
+    "totalNumberOfVerses": 2526
+  },
+  "chapter": {
+    "number": 25,
+    "content": [
+      {
+        "type": "hebrew_subtitle",
+        "content": [
+          "Псалом Давида."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Рассуди меня, Господи, ибо я ходил в непорочности моей, и, уповая на Господа, не поколеблюсь.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Искуси меня, Господи, и испытай меня; расплавь внутренности мои и сердце мое,",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "ибо милость Твоя пред моими очами, и я ходил в истине Твоей,",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "не сидел я с людьми лживыми, и с коварными не пойду;",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "возненавидел я сборище злонамеренных, и с нечестивыми не сяду;",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "буду омывать в невинности руки мои и обходить жертвенник Твой, Господи,",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "чтобы возвещать гласом хвалы и поведать все чудеса Твои.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Господи! возлюбил я обитель дома Твоего и место жилища славы Твоей.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Не погуби души моей с грешниками и жизни моей с кровожадными,",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "у которых в руках злодейство, и которых правая рука полна мздоимства.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "А я хожу в моей непорочности; избавь меня, и помилуй меня.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "Моя нога стоит на прямом пути; в собраниях благословлю Господа.",
+            "poem": 1
+          }
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/rus_syn/PSA/25.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/rus_syn/PSA/26.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/rus_syn/PSA/24.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 12
+}

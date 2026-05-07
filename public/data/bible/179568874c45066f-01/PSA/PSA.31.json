@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.31",
+    "bibleId": "179568874c45066f-01",
+    "number": "31",
+    "bookId": "PSA",
+    "reference": "Psalms 31",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 11,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 31:1\" class=\"v\">1</span>To David himself, understanding. Blessed are they whose iniquities are forgiven, and whose sins are covered.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 31:2\" class=\"v\">2</span>Blessed is the man to whom the Lord hath not imputed sin, and in whose spirit there is no guile.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 31:3\" class=\"v\">3</span>Because I was silent my bones grew old; whilst I cried out all the day long.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 31:4\" class=\"v\">4</span>For day and night thy hand was heavy upon me: I am turned in my anguish, whilst the thorn is fastened.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 31:5\" class=\"v\">5</span>I have acknowledged my sin to thee, and my injustice I have not concealed. I said I will confess against myself my injustice to the Lord: and thou hast forgiven the wickedness of my sin.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 31:6\" class=\"v\">6</span>For this shall every one that is holy pray to thee in a seasonable time. And yet in a flood of many waters, they shall not come nigh unto him.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 31:7\" class=\"v\">7</span>Thou art my refuge from the trouble which hath encompassed me: my joy, deliver me from them that surround me.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 31:8\" class=\"v\">8</span>I will give thee understanding, and I will instruct thee in this way, in which thou shalt go: I will fix my eyes upon thee.</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 31:9\" class=\"v\">9</span>Do not become like the horse and the mule, who have no understanding. With bit and bridle bind fast their jaws, who come not near unto thee.</p><p class=\"q1\"><span data-number=\"10\" data-sid=\"PSA 31:10\" class=\"v\">10</span>Many are the scourges of the sinner, but mercy shall encompass him that hopeth in the Lord.</p><p class=\"q1\"><span data-number=\"11\" data-sid=\"PSA 31:11\" class=\"v\">11</span>Be glad in the Lord, and rejoice, ye just, and glory, all ye right of heart.</p>",
+    "next": {
+      "id": "PSA.32",
+      "number": "32",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.30",
+      "number": "30",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzUBIBwHbqxlyoOgvR4EdEzy46-24Sxpo6hIlq6-0HnbwOW4W3EJ8gVxNLuN21udaaMdBf-3nCSTRcHVf1f-ed4OoF9Wg_N51zbXmErJYR6iSWkljdV67u66N-wob8H8iDNGIHnjz5pVdwERwLlJMgeuDn_3XZooTRrZ2GJpNqiU0xhs79r0520JInMnRV-wiWEEny6hLbBWsHoe7886u0VY1qmPcjnLCxnyqriZhjSVdr6YptVyPvfJMA"
+  }
+}

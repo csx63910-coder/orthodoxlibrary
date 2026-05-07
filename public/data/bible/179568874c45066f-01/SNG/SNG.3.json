@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "SNG.3",
+    "bibleId": "179568874c45066f-01",
+    "number": "3",
+    "bookId": "SNG",
+    "reference": "Song of Solomon 3",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 11,
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"SNG 3:1\" class=\"v\">1</span>In my bed by night I sought him whom my soul loveth: I sought him, and found him not. <span data-number=\"2\" data-sid=\"SNG 3:2\" class=\"v\">2</span>I will rise, and will go about the city: in the streets and the broad ways I will seek him whom my soul loveth: I sought him, and I found him not. <span data-number=\"3\" data-sid=\"SNG 3:3\" class=\"v\">3</span>The watchmen who keep the city, found me: Have you seen him, whom my soul loveth? <span data-number=\"4\" data-sid=\"SNG 3:4\" class=\"v\">4</span>When I had a little passed by them, I found him whom my soul loveth: I held him: and I will not let him go, till I bring him into my mother’s house, and into the chamber of her that bore me. <span data-number=\"5\" data-sid=\"SNG 3:5\" class=\"v\">5</span>I adjure you, O daughters of Jerusalem, by the roes and the harts of the fields, that you stir not up, nor awake my beloved, till she please. <span data-number=\"6\" data-sid=\"SNG 3:6\" class=\"v\">6</span>Who is she that goeth up by the desert, as a pillar of smoke of aromatical spices, of myrrh, and frankincense, and of all the powders of the perfumer? <span data-number=\"7\" data-sid=\"SNG 3:7\" class=\"v\">7</span>Behold threescore valiant ones of the most valiant of Israel, surrounded the bed of Solomon? <span data-number=\"8\" data-sid=\"SNG 3:8\" class=\"v\">8</span>All holding swords, and most expert in war: every man’s sword upon his thigh, because of fears in the night. <span data-number=\"9\" data-sid=\"SNG 3:9\" class=\"v\">9</span>King Solomon hath made him a litter of the wood of Libanus: <span data-number=\"10\" data-sid=\"SNG 3:10\" class=\"v\">10</span>The pillars thereof he made of silver, the seat of gold, the going up of purple: the midst he covered with charity for the daughters of Jerusalem. <span data-number=\"11\" data-sid=\"SNG 3:11\" class=\"v\">11</span>Go forth, ye daughters of Sion, and see king Solomon in the diadem, wherewith his mother crowned him in the day of his espousals, and in the day of the joy of his heart.</p>",
+    "next": {
+      "id": "SNG.4",
+      "number": "4",
+      "bookId": "SNG"
+    },
+    "previous": {
+      "id": "SNG.2",
+      "number": "2",
+      "bookId": "SNG"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzIBABwHuTnyJpoibd4lCGxO5U8_sTBNdac2BQStw9LVN5zW3XY6KP8_fQf51oIwDTSjBB9FQcH_LSfJpAxw9d-lf563A9Avq8n5vGuba0yl5DAP0aS0ksZqQTd3PXTKE_MjnDECyRv-rFn1CxCFcO6SrA9aA3zdd2miNGlkY4u1-aJMdGNie5emP29LEDJ3UuUFnxiO0LMlsgmsFayex_urrpYl2hBdkctVzDKYVZa1Ola5mi2W01DrLPkZBw"
+  }
+}

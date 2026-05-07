@@ -1,0 +1,347 @@
+{
+  "translation": {
+    "id": "rus_syn",
+    "name": "Синодальный перевод",
+    "website": "https://ebible.org/Scriptures/details.php?id=russyn",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=russyn",
+    "shortName": "SYN",
+    "englishName": "Russian Synodal Bible",
+    "language": "rus",
+    "textDirection": "ltr",
+    "sha256": "0ae481d3257ba895a57748179fc194012ffbfd500c141f9c3ef042a4db4771c6",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/rus_syn/books.json",
+    "completeTranslationApiLink": "/api/rus_syn/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31169,
+    "languageName": "русский",
+    "languageEnglishName": "Russian"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "rus_syn",
+    "name": "Псалтырь",
+    "commonName": "Псалтырь",
+    "title": "Псалтырь",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "e62d3dc6e880ec6e368dddb5c78ada932240d86d48b244417ae5c8951145dcf8",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/rus_syn/PSA/1.json",
+    "lastChapterNumber": 150,
+    "lastChapterApiLink": "/api/rus_syn/PSA/150.json",
+    "totalNumberOfVerses": 2526
+  },
+  "chapter": {
+    "number": 33,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Псалом Давида, когда он притворился безумным пред Авимелехом и был изгнан от него и удалился.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Благословлю Господа во всякое время; хвала Ему непрестанно в устах моих.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Господом будет хвалиться душа моя; услышат кроткие и возвеселятся.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Величайте Господа со мною, и превознесем имя Его вместе.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Я взыскал Господа, и Он услышал меня, и от всех опасностей моих избавил меня.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Кто обращал взор к Нему, те просвещались, и лица их не постыдятся.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Сей нищий воззвал, - и Господь услышал и спас его от всех бед его.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Ангел Господень ополчается вокруг боящихся Его и избавляет их.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Вкусите, и увидите, как благ Господь! Блажен человек, который уповает на Него!",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "Бойтесь Господа, святые Его, ибо нет скудости у боящихся Его.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "Скимны бедствуют и терпят голод, а ищущие Господа не терпят нужды ни в каком благе.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "Придите, дети, послушайте меня: страху Господню научу вас.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "Хочет ли человек жить и любит ли долгоденствие, чтобы видеть благо?",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "Удерживай язык свой от зла и уста свои от коварных слов.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "Уклоняйся от зла и делай добро; ищи мира и следуй за ним.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "Очи Господни обращены на праведников, и уши Его - к воплю их.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "Но лице Господне против делающих зло, чтобы истребить с земли память о них.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "Взывают праведные, и Господь слышит, и от всех скорбей их избавляет их.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "Близок Господь к сокрушенным сердцем и смиренных духом спасет.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "Много скорбей у праведного, и от всех их избавит его Господь.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "Он хранит все кости его; ни одна из них не сокрушится.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          {
+            "text": "Убьет грешника зло, и ненавидящие праведного погибнут.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          {
+            "text": "Избавит Господь душу рабов Своих, и никто из уповающих на Него не погибнет.",
+            "poem": 1
+          }
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/rus_syn/PSA/33.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/rus_syn/PSA/34.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/rus_syn/PSA/32.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 23
+}

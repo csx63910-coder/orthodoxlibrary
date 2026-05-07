@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.19",
+    "bibleId": "179568874c45066f-01",
+    "number": "19",
+    "bookId": "PSA",
+    "reference": "Psalms 19",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 9,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 19:1\" class=\"v\">1</span>Unto the end. A psalm for David.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 19:2\" class=\"v\">2</span>May the Lord hear thee in the day of tribulation: may the name of the God of Jacob protect thee.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 19:3\" class=\"v\">3</span>May he send thee help from the sanctuary: and defend thee out of Sion.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 19:4\" class=\"v\">4</span>May he be mindful of all thy sacrifices: and may thy whole burnt offering be made fat.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 19:5\" class=\"v\">5</span>May he give thee according to thy own heart; and confirm all thy counsels.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 19:6\" class=\"v\">6</span>We will rejoice in thy salvation; and in the name of our God we shall be exalted.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 19:7\" class=\"v\">7</span>The Lord fulfill all thy petitions: now have I known that the Lord hath saved his anointed. He will hear him from his holy heaven: the salvation of his right hand is in powers.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 19:8\" class=\"v\">8</span>Some trust in chariots, and some in horses: but we will call upon the name of the Lord our God.</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 19:9\" class=\"v\">9</span>They are bound, and have fallen; but we are risen, and are set upright. O Lord, save the king: and hear us in the day that we shall call upon thee.</p>",
+    "next": {
+      "id": "PSA.20",
+      "number": "20",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.18",
+      "number": "18",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBIBwHbqxlyoOgvZ6FY0v98uRl3og0TZDEJFm6-kLnbQOX427FJcgXRKjZ7bV7qzNrzILANqVJxMntLVy6_eN5OwD-xR6cx7vnXGMqJYd5iJTSyhJ7PU933xt2HFfAfA8hMpC84o81q-4CiAA4N0nmgKsDf_feUrSURhxbLI2Ky0JjwPauTXvelkBk7qToCzYxjODTJbQjqsHqeby_6jsFJU2R7aKkpQ1Bp3aa68LOwiyn2bwWChUM"
+  }
+}

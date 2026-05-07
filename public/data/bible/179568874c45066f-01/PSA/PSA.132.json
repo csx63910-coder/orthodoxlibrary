@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.132",
+    "bibleId": "179568874c45066f-01",
+    "number": "132",
+    "bookId": "PSA",
+    "reference": "Psalms 132",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 3,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 132:1\" class=\"v\">1</span>Behold how good and how pleasant it is for brethren to dwell in unity.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 132:2\" class=\"v\">2</span>Like the precious ointment on the head, that ran down upon the beard, the beard of Aaron, Which ran down to the skirt of his garment:</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 132:3\" class=\"v\">3</span>As the dew of Hermon, which descendeth upon mount Sion. For there the Lord hath commandeth blessing, and life for evermore.</p>",
+    "next": {
+      "id": "PSA.133",
+      "number": "133",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.131",
+      "number": "131",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzcB4BwHbqxlyoOgvR4E_P0kP37V9nGWtFlEJ0tXX-isu-10wwPwv18OeVsLwjTKM0qskrygrpaMkVQBPtz-9s_zdgD9shqZz7u2ucZUSg7zEE1KK2msVvJ41_1Rp6x3YLXFGSNQu_Dnwqy3gEjApW2ZB6oR_u27NFGaNLaxxdpMVDaVCdjedanP2xI8xl5TbSFMDWPyfElsjxesnsf7ACXkeZ3NbjLMFkmGRfJy5o0ty1Wcz3OamWwZ"
+  }
+}

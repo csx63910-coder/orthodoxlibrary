@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.85",
+    "bibleId": "de4e12af7f28f599-01",
+    "number": "85",
+    "bookId": "PSA",
+    "reference": "Psalms 85",
+    "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+    "verseCount": 13,
+    "content": "<p class=\"d\">To the chief Musician, A Psalm for the sons of Korah.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 85:1\" class=\"v\">1</span><span class=\"nd\">LORD</span>, thou hast been favourable unto thy land: thou hast brought back the captivity of Jacob.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 85:2\" class=\"v\">2</span>Thou hast forgiven the iniquity of thy people, thou hast covered all their sin. Selah.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 85:3\" class=\"v\">3</span>Thou hast taken away all thy wrath: thou hast turned <span class=\"add\">thyself</span> from the fierceness of thine anger.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 85:4\" class=\"v\">4</span>Turn us, O God of our salvation, and cause thine anger toward us to cease.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 85:5\" class=\"v\">5</span>Wilt thou be angry with us for ever? wilt thou draw out thine anger to all generations?</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 85:6\" class=\"v\">6</span>Wilt thou not revive us again: that thy people may rejoice in thee?</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 85:7\" class=\"v\">7</span>Shew us thy mercy, O <span class=\"nd\">LORD</span>, and grant us thy salvation.</p><p class=\"b\"></p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 85:8\" class=\"v\">8</span>I will hear what God the <span class=\"nd\">LORD</span> will speak: for he will speak peace unto his people, and to his saints: but let them not turn again to folly.</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 85:9\" class=\"v\">9</span>Surely his salvation <span class=\"add\">is</span> nigh them that fear him; that glory may dwell in our land.</p><p class=\"q1\"><span data-number=\"10\" data-sid=\"PSA 85:10\" class=\"v\">10</span>Mercy and truth are met together; righteousness and peace have kissed <span class=\"add\">each other</span>.</p><p class=\"q1\"><span data-number=\"11\" data-sid=\"PSA 85:11\" class=\"v\">11</span>Truth shall spring out of the earth; and righteousness shall look down from heaven.</p><p class=\"q1\"><span data-number=\"12\" data-sid=\"PSA 85:12\" class=\"v\">12</span>Yea, the <span class=\"nd\">LORD</span> shall give <span class=\"add\">that which is</span> good; and our land shall yield her increase.</p><p class=\"q1\"><span data-number=\"13\" data-sid=\"PSA 85:13\" class=\"v\">13</span>Righteousness shall go before him; and shall set <span class=\"add\">us</span> in the way of his steps.</p>",
+    "next": {
+      "id": "PSA.86",
+      "number": "86",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.84",
+      "number": "84",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzUBoIzTFfOihHUPAjom-fFX23CWtFFUtA5LV9-nt0WBci1qC8K2djheD3qjC3bA3w__t5wkk1lw9d-Vf563A9Avq6F5vOvFMiytm67yypVVrFUaq7U83XVv2FElErMznDECuTv-rNh1FyCScG6QbA9UA_zbe2miNGlkY_OhxaKqLWNie9dlPG9L4LF2TrQFmxiOwNMlsAWsF6yex_uTPpRoTCzVSutslcGvVnK2mDlZnJuXNK9lUXEO"
+  }
+}

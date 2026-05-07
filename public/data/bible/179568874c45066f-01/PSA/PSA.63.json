@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.63",
+    "bibleId": "179568874c45066f-01",
+    "number": "63",
+    "bookId": "PSA",
+    "reference": "Psalms 63",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 11,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 63:1\" class=\"v\">1</span>Unto the end, a psalm for David.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 63:2\" class=\"v\">2</span>Hear, O God, my prayer, when I make supplication to thee: deliver my soul from the fear of the enemy.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 63:3\" class=\"v\">3</span>Thou hast protected me from the assembly of the malignant; from the multitude of the workers of iniquity.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 63:4\" class=\"v\">4</span>For they have whetted their tongues like a sword; they have bent their bow a bitter thing,</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 63:5\" class=\"v\">5</span>To shoot in secret the undefiled.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 63:6\" class=\"v\">6</span>They will shoot at him on a sudden, and will not fear: they are resolute in wickedness. They have talked of hiding snares; they have said: Who shall see them?</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 63:7\" class=\"v\">7</span>They have searched after iniquities: they have failed in their search. Man shall come to a deep heart:</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 63:8\" class=\"v\">8</span>And God shall be exalted. The arrows of children are their wounds:</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 63:9\" class=\"v\">9</span>And their tongues against them are made weak. All that saw them were troubled;</p><p class=\"q1\"><span data-number=\"10\" data-sid=\"PSA 63:10\" class=\"v\">10</span>And every man was afraid. And they declared the works of God: and understood his doings.</p><p class=\"q1\"><span data-number=\"11\" data-sid=\"PSA 63:11\" class=\"v\">11</span>The just shall rejoice in the Lord, and shall hope in him: and all the upright in heart shall be praised.</p>",
+    "next": {
+      "id": "PSA.64",
+      "number": "64",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.62",
+      "number": "62",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzUBgBwHbqxlyoOgvR4E_P0kP37V9nGWtFlEJ0tXX-i8beBy3K24BPmCOJq9aNze6kwbsyCwTWkScXJ-C5eWf563A-iX1dQ83rXNNaZScpiHaFJaSWO1mKe77o86lTwYnnHGCPRu_Nmx6y0gAjh3SOZg1eHj3ksTpUljG1sszVVlbZiA7V2Y_rwt4WPtnogLNjWMyNMlsQXWClbP4_1Nnyu3rMGlIOchVxnmqyhntSS5WKyMy6VhEV1h"
+  }
+}

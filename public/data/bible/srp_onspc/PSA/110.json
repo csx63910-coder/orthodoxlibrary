@@ -1,0 +1,183 @@
+{
+  "translation": {
+    "id": "srp_onspc",
+    "name": "Biblica® Нови српски превод, слободна права",
+    "website": "https://ebible.org/Scriptures/details.php?id=srponspc",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srponspc",
+    "shortName": "ONSPC",
+    "englishName": "Serbian ONSP Cyrillic",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "f7cf39982822a6be7cfe4a623571c1d865bcad7b51dca5ad6efcdd5f4cf784f8",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_onspc/books.json",
+    "completeTranslationApiLink": "/api/srp_onspc/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31102,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "srp_onspc",
+    "name": "Псалм",
+    "commonName": "Псалм",
+    "title": "Псалми",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "26caf786163c3156cd828b9195dd87c0a9678ee51bdea32fbef70df99683a272",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_onspc/PSA/1.json",
+    "lastChapterNumber": 150,
+    "lastChapterApiLink": "/api/srp_onspc/PSA/150.json",
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 110,
+    "content": [
+      {
+        "type": "hebrew_subtitle",
+        "content": [
+          "Псалам Давидов."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Рече Господ Господу моме:",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          },
+          {
+            "text": "„Седи мени с моје десне стране,",
+            "poem": 2
+          },
+          {
+            "text": "док душмане не положим твоје,",
+            "poem": 1
+          },
+          {
+            "text": "за твоје ноге постоље да буду.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Жезло снаге твоје пружа Господ са Сиона:",
+            "poem": 1
+          },
+          {
+            "text": "Сред душмана својих владај!",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Твој ће ти се народ радо дати у дану твог похода;",
+            "poem": 1
+          },
+          {
+            "text": "у сјају славе, у цику зоре младићи су твоји као роса.“",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Господ је дао заклетву",
+            "poem": 1
+          },
+          {
+            "text": "и неће је повући:",
+            "poem": 2
+          },
+          {
+            "text": "„Ти си довека свештеник",
+            "poem": 1
+          },
+          {
+            "text": "по реду Мелхиседековом.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Господ ти је с десне стране",
+            "poem": 1
+          },
+          {
+            "text": "и цареве ломи у дану свог гнева.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Он народима суди, све је пуно лешева;",
+            "poem": 1
+          },
+          {
+            "text": "широм поља он главе разбија.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Он из потока крај пута пије",
+            "poem": 1
+          },
+          {
+            "text": "и због тога диже главу.“",
+            "poem": 2
+          }
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_onspc/PSA/110.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_onspc/PSA/111.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_onspc/PSA/109.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 7
+}

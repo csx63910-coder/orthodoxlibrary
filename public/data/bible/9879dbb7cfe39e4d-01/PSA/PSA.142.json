@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.142",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "142",
+    "bookId": "PSA",
+    "reference": "Psalms 142",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 7,
+    "content": "<p class=\"d\">A contemplation by David, when he was in the cave. A Prayer.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 142:1\" class=\"v\">1</span>I cry with my voice to Yahweh.</p><p data-vid=\"PSA 142:1\" class=\"q2\">With my voice, I ask Yahweh for mercy.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 142:2\" class=\"v\">2</span>I pour out my complaint before him.</p><p data-vid=\"PSA 142:2\" class=\"q2\">I tell him my troubles.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 142:3\" class=\"v\">3</span>When my spirit was overwhelmed within me,</p><p data-vid=\"PSA 142:3\" class=\"q2\">you knew my route.</p><p data-vid=\"PSA 142:3\" class=\"q1\">On the path in which I walk,</p><p data-vid=\"PSA 142:3\" class=\"q2\">they have hidden a snare for me.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 142:4\" class=\"v\">4</span>Look on my right, and see;</p><p data-vid=\"PSA 142:4\" class=\"q2\">for there is no one who is concerned for me.</p><p data-vid=\"PSA 142:4\" class=\"q2\">Refuge has fled from me.</p><p data-vid=\"PSA 142:4\" class=\"q2\">No one cares for my soul.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 142:5\" class=\"v\">5</span>I cried to you, Yahweh.</p><p data-vid=\"PSA 142:5\" class=\"q2\">I said, “You are my refuge,</p><p data-vid=\"PSA 142:5\" class=\"q2\">my portion in the land of the living.”</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 142:6\" class=\"v\">6</span>Listen to my cry,</p><p data-vid=\"PSA 142:6\" class=\"q2\">for I am in desperate need.</p><p data-vid=\"PSA 142:6\" class=\"q1\">Deliver me from my persecutors,</p><p data-vid=\"PSA 142:6\" class=\"q2\">for they are too strong for me.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 142:7\" class=\"v\">7</span>Bring my soul out of prison,</p><p data-vid=\"PSA 142:7\" class=\"q2\">that I may give thanks to your name.</p><p data-vid=\"PSA 142:7\" class=\"q1\">The righteous will surround me,</p><p data-vid=\"PSA 142:7\" class=\"q2\">for you will be good to me.</p>",
+    "next": {
+      "id": "PSA.143",
+      "number": "143",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.141",
+      "number": "141",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzcBYBwHbqxlyoOgvR4EdEzy46-24Sxpo6hIlq6-0Fl32-mg_O-Xw_1bC8I0TDNKrJoHBbYxSiIm8ws3t3-etwPol9XYfN51LbkuZrM8Xy19XYaFNFarebzr3rCjbHCgvcUZI1C88GfKrLuASMC5RDMPXAN-912aKE0a2dhCajEr4-oYbO_a1OdtCSJjG0Vf8IlhRJ8tqe3JgtXzeL_72s7ctLiZDL5OZQjLImd-tpK-cTXPq3lZmmAZ"
+  }
+}

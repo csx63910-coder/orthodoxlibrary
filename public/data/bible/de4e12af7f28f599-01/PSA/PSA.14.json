@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.14",
+    "bibleId": "de4e12af7f28f599-01",
+    "number": "14",
+    "bookId": "PSA",
+    "reference": "Psalms 14",
+    "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+    "verseCount": 7,
+    "content": "<p class=\"d\">To the chief Musician, <span class=\"add\">A Psalm</span> of David.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 14:1\" class=\"v\">1</span>The fool hath said in his heart, <span class=\"add\">There is</span> no God. They are corrupt, they have done abominable works, <span class=\"add\">there is</span> none that doeth good.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 14:2\" class=\"v\">2</span>The <span class=\"nd\">LORD</span> looked down from heaven upon the children of men, to see if there were any that did understand, <span class=\"add\">and</span> seek God.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 14:3\" class=\"v\">3</span>They are all gone aside, they are <span class=\"add\">all</span> together become filthy: <span class=\"add\">there is</span> none that doeth good, no, not one.</p><p class=\"b\"></p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 14:4\" class=\"v\">4</span>Have all the workers of iniquity no knowledge? who eat up my people <span class=\"add\">as</span> they eat bread, and call not upon the <span class=\"nd\">LORD</span>.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 14:5\" class=\"v\">5</span>There were they in great fear: for God <span class=\"add\">is</span> in the generation of the righteous.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 14:6\" class=\"v\">6</span>Ye have shamed the counsel of the poor, because the <span class=\"nd\">LORD</span> <span class=\"add\">is</span> his refuge.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 14:7\" class=\"v\">7</span>Oh that the salvation of Israel <span class=\"add\">were come</span> out of Zion! when the <span class=\"nd\">LORD</span> bringeth back the captivity of his people, Jacob shall rejoice, <span class=\"add\">and</span> Israel shall be glad.</p>",
+    "next": {
+      "id": "PSA.15",
+      "number": "15",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.13",
+      "number": "13",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBgBwHbqxlyoOgvR4EdEzy46-24Sxpo6hIlq6-0Fl32-mg_O_07XD89gVhmsUZJViA5cH_LSfJZFRw9d9t_zxvB9Avq6l5vOvFMiytm67yypVVrFUaq8U83XVv2FE2gOEeZ4xA78qfHavuAiKBc4dkGawGfNx7aaI0aWRj86G5qFIMY7C9C9OetyV8zN0TccEmhhF5uiR2JAtWz-P9SR-icdEtZgs5S9Mkw8pO5WyZs5z5RZ3GkpIpnAE"
+  }
+}

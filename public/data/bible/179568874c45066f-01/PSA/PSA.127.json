@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.127",
+    "bibleId": "179568874c45066f-01",
+    "number": "127",
+    "bookId": "PSA",
+    "reference": "Psalms 127",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 6,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 127:1\" class=\"v\">1</span>Blessed are all they that fear the Lord: that walk in his ways.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 127:2\" class=\"v\">2</span>For thou shalt eat the labours of thy hands: blessed art thou, and it shall be well with thee.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 127:3\" class=\"v\">3</span>Thy wife as a fruitful vine, on the sides of thy house.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 127:4\" class=\"v\">4</span>Behold, thus shall the man be blessed that feareth the Lord.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 127:5\" class=\"v\">5</span>May the Lord bless thee out of Sion: and mayest thou see the good things of Jerusalem all the days of thy life.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 127:6\" class=\"v\">6</span>And mayest thou see thy children’s children, peace upon Israel.</p>",
+    "next": {
+      "id": "PSA.128",
+      "number": "128",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.126",
+      "number": "126",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzcBoBwHbqxlyoOgvR4EdEzy46-24Sxpo6hIlq6-0Fl32-mg_O-Xw_1bC8I0izNKrJoHBXXqJGIyGqDJX7d_nrcD6JfV0Hzetc01plJymIdoUlpJY7WWx7vuDTvKugyGW5wxAr0Lf3bMuguIBJwbNPOANeDnvksTpUkjG1uszTgVQh2D7V2Z-rwtAWTsnqgLPjGM2LMlsz1JsHoe72-6XSyXdbHwU7lclihDmi3ktNpZsQ5lNa-mxlgCAw"
+  }
+}

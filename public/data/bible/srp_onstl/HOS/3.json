@@ -1,0 +1,106 @@
+{
+  "translation": {
+    "id": "srp_onstl",
+    "name": "Biblica® Novi srpski prevod, slobodna prava",
+    "website": "https://ebible.org/Scriptures/details.php?id=srponstl",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srponstl",
+    "shortName": "ONSTL",
+    "englishName": "Serbian ONST Latin",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "a8a96f250d352b1203b94cae20463b53a387d4852f335065e74400234976e767",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_onstl/books.json",
+    "completeTranslationApiLink": "/api/srp_onstl/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31102,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "HOS",
+    "translationId": "srp_onstl",
+    "name": "Knjiga proroka Osije",
+    "commonName": "Knjiga proroka Osije",
+    "title": "Knjiga proroka Osije",
+    "order": 28,
+    "numberOfChapters": 14,
+    "sha256": "c109237200d31d7fbcacf8b05352160d229d21ec7c23d2f542c600299a3d6cdb",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_onstl/HOS/1.json",
+    "lastChapterNumber": 14,
+    "lastChapterApiLink": "/api/srp_onstl/HOS/14.json",
+    "totalNumberOfVerses": 197
+  },
+  "chapter": {
+    "number": 3,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Osija se miri sa ženom"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Gospod mi je rekao: „Idi i voli ponovo ženu koju voli drugi čovek i koja čini preljubu. Baš kao što Gospod voli izrailjski narod, a oni se okreću drugim bogovima i vole idolske kolače od suvog grožđa.“"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "I ja sam je kupio za petnaest srebrnih šekela i za homer",
+          {
+            "noteId": 9
+          },
+          "i po ječma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Kazao sam joj: „Ostaćeš kod mene mnogo dana. Nećeš bludničiti, nećeš spavati sa drugim muškarcem, a i ja ću takav prema tebi biti.“"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Jer će mnogo dana izrailjski narod ostati bez cara, ostaće bez glavara, bez žrtve, bez svetog stuba, bez efoda i kućnih idola."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A posle toga će se vratiti izrailjski narod i tražiće Gospoda, svoga Boga i svog cara Davida. Drhtaće pred Gospodom i dobrotom njegovom u poslednjim danima."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 9,
+        "caller": "+",
+        "text": "3,2 1 homer zahvata oko 220 l.",
+        "reference": {
+          "chapter": 3,
+          "verse": 2
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/srp_onstl/HOS/3.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_onstl/HOS/4.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_onstl/HOS/2.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 5
+}

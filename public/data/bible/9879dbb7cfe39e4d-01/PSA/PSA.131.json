@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.131",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "131",
+    "bookId": "PSA",
+    "reference": "Psalms 131",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 3,
+    "content": "<p class=\"d\">A Song of Ascents. By David.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 131:1\" class=\"v\">1</span>Yahweh, my heart isn’t arrogant, nor my eyes lofty;</p><p data-vid=\"PSA 131:1\" class=\"q2\">nor do I concern myself with great matters,</p><p data-vid=\"PSA 131:1\" class=\"q2\">or things too wonderful for me.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 131:2\" class=\"v\">2</span>Surely I have stilled and quieted my soul,</p><p data-vid=\"PSA 131:2\" class=\"q2\">like a weaned child with his mother,</p><p data-vid=\"PSA 131:2\" class=\"q2\">like a weaned child is my soul within me.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 131:3\" class=\"v\">3</span>Israel, hope in Yahweh,</p><p data-vid=\"PSA 131:3\" class=\"q2\">from this time forward and forever more.</p>",
+    "next": {
+      "id": "PSA.132",
+      "number": "132",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.130",
+      "number": "130",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzcBAIzTFfOihHUPAjom-fFX23CWtFFUtA5LV9-3DVyOuxU9Dr8gjWa31-6tzqwxC4K64SSZmIT6s_3zvB2AfllNzuNd15LrYjbL89XS12VYSGO1oMe77g07ynpLTOjhjBGIXvFn0Kq7AJGEc5dmeRAb4H3vpYnSpJGNLaQWnXK2jIntXZ72vC1BydxSkRh8YjgC0JbgjvCC1fN4P-zf2UWyy1ik9fMkg58GWRYmyTwLeTZbLEKNGQc"
+  }
+}

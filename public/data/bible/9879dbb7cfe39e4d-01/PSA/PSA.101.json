@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.101",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "101",
+    "bookId": "PSA",
+    "reference": "Psalms 101",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 8,
+    "content": "<p class=\"d\">A Psalm by David.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 101:1\" class=\"v\">1</span>I will sing of loving kindness and justice.</p><p data-vid=\"PSA 101:1\" class=\"q2\">To you, Yahweh, I will sing praises.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 101:2\" class=\"v\">2</span>I will be careful to live a blameless life.</p><p data-vid=\"PSA 101:2\" class=\"q2\">When will you come to me?</p><p data-vid=\"PSA 101:2\" class=\"q2\">I will walk within my house with a blameless heart.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 101:3\" class=\"v\">3</span>I will set no vile thing before my eyes.</p><p data-vid=\"PSA 101:3\" class=\"q2\">I hate the deeds of faithless men.</p><p data-vid=\"PSA 101:3\" class=\"q2\">They will not cling to me.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 101:4\" class=\"v\">4</span>A perverse heart will be far from me.</p><p data-vid=\"PSA 101:4\" class=\"q2\">I will have nothing to do with evil.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 101:5\" class=\"v\">5</span>I will silence whoever secretly slanders his neighbor.</p><p data-vid=\"PSA 101:5\" class=\"q2\">I won’t tolerate one who is arrogant and conceited.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 101:6\" class=\"v\">6</span>My eyes will be on the faithful of the land,</p><p data-vid=\"PSA 101:6\" class=\"q2\">that they may dwell with me.</p><p data-vid=\"PSA 101:6\" class=\"q1\">He who walks in a perfect way,</p><p data-vid=\"PSA 101:6\" class=\"q2\">he will serve me.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 101:7\" class=\"v\">7</span>He who practices deceit won’t dwell within my house.</p><p data-vid=\"PSA 101:7\" class=\"q2\">He who speaks falsehood won’t be established before my eyes.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 101:8\" class=\"v\">8</span>Morning by morning, I will destroy all the wicked of the land,</p><p data-vid=\"PSA 101:8\" class=\"q2\">to cut off all the workers of iniquity from Yahweh’s city.</p>",
+    "next": {
+      "id": "PSA.102",
+      "number": "102",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.100",
+      "number": "100",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzcBoBwHbqxlyoOgvR4EdEzy46-24Sxpo6hIlq6-0HnbwOW4W9Hj8AsR1Oz22r3VmTVmQVCnTiImiw2a_HX753k7gH5ZDc3jXdeS62I2y_PV0tdlWEhjtZbHu-4NO8oaC4Z7nDECvSt_dqy6C4gEnBs084A14OfeSxOlSSMbW0jNF2VrGIPtXZn2vC0BZO6eqAs-MYzYsyWzI0Wweh7vb_r2JqxcMEXmaKIMy1rkbJWKDLM8nZW4qrIoDA"
+  }
+}

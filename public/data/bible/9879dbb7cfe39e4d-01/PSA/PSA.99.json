@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.99",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "99",
+    "bookId": "PSA",
+    "reference": "Psalms 99",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 9,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 99:1\" class=\"v\">1</span>Yahweh reigns! Let the peoples tremble.</p><p data-vid=\"PSA 99:1\" class=\"q2\">He sits enthroned among the cherubim.</p><p data-vid=\"PSA 99:1\" class=\"q2\">Let the earth be moved.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 99:2\" class=\"v\">2</span>Yahweh is great in Zion.</p><p data-vid=\"PSA 99:2\" class=\"q2\">He is high above all the peoples.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 99:3\" class=\"v\">3</span>Let them praise your great and awesome name.</p><p data-vid=\"PSA 99:3\" class=\"q2\">He is Holy!</p><p class=\"b\"></p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 99:4\" class=\"v\">4</span>The King’s strength also loves justice.</p><p data-vid=\"PSA 99:4\" class=\"q2\">You establish equity.</p><p data-vid=\"PSA 99:4\" class=\"q2\">You execute justice and righteousness in Jacob.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 99:5\" class=\"v\">5</span>Exalt Yahweh our God.</p><p data-vid=\"PSA 99:5\" class=\"q2\">Worship at his footstool.</p><p data-vid=\"PSA 99:5\" class=\"q2\">He is Holy!</p><p class=\"b\"></p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 99:6\" class=\"v\">6</span>Moses and Aaron were among his priests,</p><p data-vid=\"PSA 99:6\" class=\"q2\">Samuel was among those who call on his name.</p><p data-vid=\"PSA 99:6\" class=\"q2\">They called on Yahweh, and he answered them.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 99:7\" class=\"v\">7</span>He spoke to them in the pillar of cloud.</p><p data-vid=\"PSA 99:7\" class=\"q2\">They kept his testimonies,</p><p data-vid=\"PSA 99:7\" class=\"q2\">the statute that he gave them.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 99:8\" class=\"v\">8</span>You answered them, Yahweh our God.</p><p data-vid=\"PSA 99:8\" class=\"q2\">You are a God who forgave them,</p><p data-vid=\"PSA 99:8\" class=\"q2\">although you took vengeance for their doings.</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 99:9\" class=\"v\">9</span>Exalt Yahweh, our God.</p><p data-vid=\"PSA 99:9\" class=\"q2\">Worship at his holy hill,</p><p data-vid=\"PSA 99:9\" class=\"q2\">for Yahweh, our God, is holy!</p>",
+    "next": {
+      "id": "PSA.100",
+      "number": "100",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.98",
+      "number": "98",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBgIzTFfOihHUPAjom-fFX23CWtFFUtA5LV9-3DVyOuxWXIF8QR69ur91bnVljFgT_t5wkk1Vw9d9t_zxvB6BfVlPzeNe15LqYzfJ8tfR1GRbSWC3m6a57w46qlRju4YwR6F3wZ8equwARhHOHZD5YdfBx76WJ0qSRjS2k5rNyLoyJ7V2Y9rwtwcfcPREXbGI4Ik-XxI6ogtXzeH_S73RlbJ27KFezlZdhZaucWutljMXN3LxQy3zKAQ"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "HEB.1",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "1",
+    "bookId": "HEB",
+    "reference": "Hebrews 1",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 14,
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"HEB 1:1\" class=\"v\">1</span>God, having in the past spoken to the fathers through the prophets at many times and in various ways, <span data-number=\"2\" data-sid=\"HEB 1:2\" class=\"v\">2</span>has at the end of these days spoken to us by his Son, whom he appointed heir of all things, through whom also he made the worlds. <span data-number=\"3\" data-sid=\"HEB 1:3\" class=\"v\">3</span>His Son is the radiance of his glory, the very image of his substance, and upholding all things by the word of his power, who, when he had by himself purified us of our sins, sat down on the right hand of the Majesty on high, <span data-number=\"4\" data-sid=\"HEB 1:4\" class=\"v\">4</span>having become as much better than the angels as the more excellent name he has inherited is better than theirs. <span data-number=\"5\" data-sid=\"HEB 1:5\" class=\"v\">5</span>For to which of the angels did he say at any time,</p><p data-vid=\"HEB 1:5\" class=\"q1\">“You are my Son.</p><p data-vid=\"HEB 1:5\" class=\"q2\">Today I have become your father?”</p><p data-vid=\"HEB 1:5\" class=\"m\">and again,</p><p data-vid=\"HEB 1:5\" class=\"q1\">“I will be to him a Father,</p><p data-vid=\"HEB 1:5\" class=\"q2\">and he will be to me a Son?”</p><p class=\"p\"><span data-number=\"6\" data-sid=\"HEB 1:6\" class=\"v\">6</span>When he again brings in the firstborn into the world he says, “Let all the angels of God worship him.” <span data-number=\"7\" data-sid=\"HEB 1:7\" class=\"v\">7</span>Of the angels he says,</p><p data-vid=\"HEB 1:7\" class=\"q1\">“He makes his angels winds,</p><p data-vid=\"HEB 1:7\" class=\"q2\">and his servants a flame of fire.”</p><p class=\"p\"><span data-number=\"8\" data-sid=\"HEB 1:8\" class=\"v\">8</span>But of the Son he says,</p><p data-vid=\"HEB 1:8\" class=\"q1\">“Your throne, O God, is forever and ever.</p><p data-vid=\"HEB 1:8\" class=\"q2\">The scepter of uprightness is the scepter of your Kingdom.</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"HEB 1:9\" class=\"v\">9</span>You have loved righteousness and hated iniquity;</p><p data-vid=\"HEB 1:9\" class=\"q2\">therefore God, your God, has anointed you with the oil of gladness above your fellows.”</p><p class=\"p\"><span data-number=\"10\" data-sid=\"HEB 1:10\" class=\"v\">10</span>And,</p><p data-vid=\"HEB 1:10\" class=\"q1\">“You, Lord, in the beginning, laid the foundation of the earth.</p><p data-vid=\"HEB 1:10\" class=\"q2\">The heavens are the works of your hands.</p><p class=\"q1\"><span data-number=\"11\" data-sid=\"HEB 1:11\" class=\"v\">11</span>They will perish, but you continue.</p><p data-vid=\"HEB 1:11\" class=\"q2\">They all will grow old like a garment does.</p><p class=\"q1\"><span data-number=\"12\" data-sid=\"HEB 1:12\" class=\"v\">12</span>You will roll them up like a mantle,</p><p data-vid=\"HEB 1:12\" class=\"q2\">and they will be changed;</p><p data-vid=\"HEB 1:12\" class=\"q2\">but you are the same.</p><p data-vid=\"HEB 1:12\" class=\"q2\">Your years won’t fail.”</p><p class=\"p\"><span data-number=\"13\" data-sid=\"HEB 1:13\" class=\"v\">13</span>But which of the angels has he told at any time,</p><p data-vid=\"HEB 1:13\" class=\"q1\">“Sit at my right hand,</p><p data-vid=\"HEB 1:13\" class=\"q2\">until I make your enemies the footstool of your feet?”</p><p class=\"p\"><span data-number=\"14\" data-sid=\"HEB 1:14\" class=\"v\">14</span>Aren’t they all serving spirits, sent out to do service for the sake of those who will inherit salvation?</p>",
+    "next": {
+      "id": "HEB.2",
+      "number": "2",
+      "bookId": "HEB"
+    },
+    "previous": {
+      "id": "HEB.intro",
+      "number": "intro",
+      "bookId": "HEB"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzIBgBwHdiz4CxaLyQeWDJpb6pdffBJJ0EmQJuLN0tdVNHTeNnA57lZd4jhCNJrdxu2tzsvGLAjq1EnExAxN_po-2OYW4Lvk1DwuPPC9II1jL8kzHWQmpUJyMQ8Lf-_FJGB2hBKCQO6GBytWnxSIAnDukKwBqQF823sqLBXuK21odSgCFkjxA1SLLH2bM9Axd06lBf8bnrCzDNcE0hDkW7e86MMFaSJ8G9PcxSk1Io9olHqKRn5t0jyJAutLBA"
+  }
+}

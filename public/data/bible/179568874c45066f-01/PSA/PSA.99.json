@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.99",
+    "bibleId": "179568874c45066f-01",
+    "number": "99",
+    "bookId": "PSA",
+    "reference": "Psalms 99",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 5,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 99:1\" class=\"v\">1</span>A psalm of praise.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 99:2\" class=\"v\">2</span>Sing joyfully to God, all the earth: serve ye the Lord with gladness. Come in before his presence with exceeding great joy.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 99:3\" class=\"v\">3</span>Know ye that the Lord he is God: he made us, and not we ourselves. We are his people and the sheep of his pasture.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 99:4\" class=\"v\">4</span>Go ye into his gates with praise, into his courts with hymns: and give glory to him. Praise ye his name:</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 99:5\" class=\"v\">5</span>For the Lord is sweet, his mercy endureth for ever, and his truth to generation and generation.</p>",
+    "next": {
+      "id": "PSA.100",
+      "number": "100",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.98",
+      "number": "98",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBIBwHbqxlyoOgvR4EdEzy46-24Sxpo6hIlq6-0HnbwOW4W3EJ8gVxNLu9dm91Zq1Wo-D_lpNksii4-u-Wf563A-iX1eB83rXNNaZScpiHaFJaSWO1nru77g07qlYw3-KMEUhe-LNm1l1ABHBuksyBq8PffZcmSpNGNrZYWsgqWTcG27s29XlbgsjYSdEXbGIYwadLaHuiYPU83l91mW2d5eSDNCZnGVJ0crryxSHNUqhl5vK0VAY"
+  }
+}

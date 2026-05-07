@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.111",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "111",
+    "bookId": "PSA",
+    "reference": "Psalms 111",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 10,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 111:1\" class=\"v\">1</span>Praise Yah!</p><p data-vid=\"PSA 111:1\" class=\"q2\">I will give thanks to Yahweh with my whole heart,</p><p data-vid=\"PSA 111:1\" class=\"q2\">in the council of the upright, and in the congregation.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 111:2\" class=\"v\">2</span>Yahweh’s works are great,</p><p data-vid=\"PSA 111:2\" class=\"q2\">pondered by all those who delight in them.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 111:3\" class=\"v\">3</span>His work is honor and majesty.</p><p data-vid=\"PSA 111:3\" class=\"q2\">His righteousness endures forever.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 111:4\" class=\"v\">4</span>He has caused his wonderful works to be remembered.</p><p data-vid=\"PSA 111:4\" class=\"q2\">Yahweh is gracious and merciful.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 111:5\" class=\"v\">5</span>He has given food to those who fear him.</p><p data-vid=\"PSA 111:5\" class=\"q2\">He always remembers his covenant.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 111:6\" class=\"v\">6</span>He has shown his people the power of his works,</p><p data-vid=\"PSA 111:6\" class=\"q2\">in giving them the heritage of the nations.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 111:7\" class=\"v\">7</span>The works of his hands are truth and justice.</p><p data-vid=\"PSA 111:7\" class=\"q2\">All his precepts are sure.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 111:8\" class=\"v\">8</span>They are established forever and ever.</p><p data-vid=\"PSA 111:8\" class=\"q2\">They are done in truth and uprightness.</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 111:9\" class=\"v\">9</span>He has sent redemption to his people.</p><p data-vid=\"PSA 111:9\" class=\"q2\">He has ordained his covenant forever.</p><p data-vid=\"PSA 111:9\" class=\"q2\">His name is holy and awesome!</p><p class=\"q1\"><span data-number=\"10\" data-sid=\"PSA 111:10\" class=\"v\">10</span>The fear of Yahweh is the beginning of wisdom.</p><p data-vid=\"PSA 111:10\" class=\"q2\">All those who do his work have a good understanding.</p><p data-vid=\"PSA 111:10\" class=\"q1\">His praise endures forever!</p>",
+    "next": {
+      "id": "PSA.112",
+      "number": "112",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.110",
+      "number": "110",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzgBoIzTFfOihHUPAjom-fFX23CWtFFUtA5LV991t51ueAD-90uQtrYWhGmgGSXWP0-C_1tOkklZ4eq_c_88bwegX1ZD83nXteS6mM3yfLX0dRkW0litZXjXvWFHWWuJ4RXOGIHeA392nLoLEI1wabDsD1gr-LlFmlg0jWxsIUVe2WLHxPauzHzelgBk756qC3liOGYvLZl1YI1g9TzeH_XuVrH4tJhJk5dZhlWYyRqclyu7LZbFTZfGTDk"
+  }
+}

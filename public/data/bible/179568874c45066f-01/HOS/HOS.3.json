@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "HOS.3",
+    "bibleId": "179568874c45066f-01",
+    "number": "3",
+    "bookId": "HOS",
+    "reference": "Hosea 3",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 5,
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"HOS 3:1\" class=\"v\">1</span>And the Lord said to me: Go yet again, and love a woman beloved of her friend, and an adulteress: as the Lord loveth the children of Israel, and they look to strange gods, and love the husks of the grapes. <span data-number=\"2\" data-sid=\"HOS 3:2\" class=\"v\">2</span>And I bought her to me for fifteen pieces of silver, and for a core of barley, and for half a core of barley. <span data-number=\"3\" data-sid=\"HOS 3:3\" class=\"v\">3</span>And I said to her: Thou shalt wait for me many days: thou shalt not play the harlot, and thou shalt be no man’s, and I also will wait for thee. <span data-number=\"4\" data-sid=\"HOS 3:4\" class=\"v\">4</span>For the children of Israel shall sit many days without king, and without prince, and without sacrifice, and without altar, and without ephod, and without theraphim. <span data-number=\"5\" data-sid=\"HOS 3:5\" class=\"v\">5</span>And after this the children of Israel shall return, and shall seek the Lord their God, and David their king: and they shall fear the Lord, and his goodness in the last days.</p>",
+    "next": {
+      "id": "HOS.4",
+      "number": "4",
+      "bookId": "HOS"
+    },
+    "previous": {
+      "id": "HOS.2",
+      "number": "2",
+      "bookId": "HOS"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzEBABwHdiz4CxaLyQeWIMKxpX558hMNCTINkpg0S1_X09BZd9vpoPz_9AXS1oIwaS26Z5RgYRIEtc1BRJwUBKvhr-2f5-0A9uUsOZ9360pLudYS5zFJzistzgp6uNvBRiaA8yNeRCF54c81q-ECMoHgLakcaI3wdTstSUvm-Ca-h2IkuDHY3qWpz9sSQuaeVHkhTBxP6NkSWU9SrJ7Hu70Q3VSiW870tLmq47TFqZlFPQuL5oPMllUCAQ"
+  }
+}

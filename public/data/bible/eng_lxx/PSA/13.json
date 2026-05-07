@@ -1,0 +1,148 @@
+{
+  "translation": {
+    "id": "eng_lxx",
+    "name": "LXX2012: Septuagint in American English 2012",
+    "website": "https://ebible.org/Scriptures/details.php?id=eng-lxx2012",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=eng-lxx2012",
+    "shortName": "LXXSA",
+    "englishName": "LXX2012 U. S. English",
+    "language": "eng",
+    "textDirection": "ltr",
+    "sha256": "0d3bb79b82b36a3b295a66dbf9a82a0c0c701df5d3e235690aeffb9a83a53da7",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/eng_lxx/books.json",
+    "completeTranslationApiLink": "/api/eng_lxx/complete.json",
+    "numberOfBooks": 39,
+    "totalNumberOfChapters": 930,
+    "totalNumberOfVerses": 22876,
+    "languageName": "English",
+    "languageEnglishName": "English",
+    "numberOfApocryphalBooks": 15,
+    "totalNumberOfApocryphalChapters": 175,
+    "totalNumberOfApocryphalVerses": 5449
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "eng_lxx",
+    "name": "Psalms",
+    "commonName": "Psalms",
+    "title": "PSALMS",
+    "order": 19,
+    "numberOfChapters": 151,
+    "sha256": "88d52d4e891d834cd127df3a715c46244bfed23831d48446fb922d11da92c823",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/eng_lxx/PSA/1.json",
+    "lastChapterNumber": 151,
+    "lastChapterApiLink": "/api/eng_lxx/PSA/151.json",
+    "totalNumberOfVerses": 2467
+  },
+  "chapter": {
+    "number": 13,
+    "content": [
+      {
+        "type": "hebrew_subtitle",
+        "content": [
+          "(14) For the end, Psalm of David."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "The fool has said in his heart, There is no God. They have corrupted themselves, and become abominable in their devices; there is none that does goodness, there is not even so much as one.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "The Lord looked down from heaven upon the sons of men, to see if there were any that understood, or sought after god.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "They are all gone out of the way, they are together become good for nothing, there is none that does good, no not one. Their throat is an open sepulchre; with their tongues they have used deceit; the poison of asps is under their lips: whose mouth is full of cursing and bitterness; their feet are swift to shed blood: destruction and misery are in their ways; and the way of peace they have not known: there is no fear of God before their eyes.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Will not all the workers of iniquity know, who eat up my people as they would eat bread? they have not called upon the Lord.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "There were they alarmed with fear, where there was no fear; for God is in the righteous generation.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "You⌃ have shamed the counsel of the poor, because the Lord is his hope.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Who will bring the salvation of Israel out of Sion? when the Lord brings back the captivity of his people, let Jacob exult, and Israel be glad.",
+            "poem": 1
+          }
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/eng_lxx/PSA/13.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/eng_lxx/PSA/14.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/eng_lxx/PSA/12.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 7
+}

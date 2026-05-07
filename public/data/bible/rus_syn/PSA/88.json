@@ -1,0 +1,737 @@
+{
+  "translation": {
+    "id": "rus_syn",
+    "name": "Синодальный перевод",
+    "website": "https://ebible.org/Scriptures/details.php?id=russyn",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=russyn",
+    "shortName": "SYN",
+    "englishName": "Russian Synodal Bible",
+    "language": "rus",
+    "textDirection": "ltr",
+    "sha256": "0ae481d3257ba895a57748179fc194012ffbfd500c141f9c3ef042a4db4771c6",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/rus_syn/books.json",
+    "completeTranslationApiLink": "/api/rus_syn/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31169,
+    "languageName": "русский",
+    "languageEnglishName": "Russian"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "rus_syn",
+    "name": "Псалтырь",
+    "commonName": "Псалтырь",
+    "title": "Псалтырь",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "e62d3dc6e880ec6e368dddb5c78ada932240d86d48b244417ae5c8951145dcf8",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/rus_syn/PSA/1.json",
+    "lastChapterNumber": 150,
+    "lastChapterApiLink": "/api/rus_syn/PSA/150.json",
+    "totalNumberOfVerses": 2526
+  },
+  "chapter": {
+    "number": 88,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Учение Ефама Езрахита.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Милости Твои, Господи, буду петь вечно, в род и род возвещать истину Твою устами моими.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Ибо говорю: навек основана милость, на небесах утвердил Ты истину Твою, когда сказал:",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "“Я поставил завет с избранным Моим, клялся Давиду, рабу Моему:",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "навек утвержу семя твое, в род и род устрою престол твой”.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "И небеса прославят чудные дела Твои, Господи, и истину Твою в собрании святых.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Ибо кто на небесах сравнится с Господом? кто между сынами Божиими уподобится Господу?",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Страшен Бог в великом сонме святых, страшен Он для всех окружающих Его.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Господи, Боже сил! кто силен, как Ты, Господи? И истина Твоя окрест Тебя.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "Ты владычествуешь над яростью моря: когда воздымаются волны его, Ты укрощаешь их.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "Ты низложил Раава, как пораженного; крепкою мышцею Твоею рассеял врагов Твоих.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "Твои небеса и Твоя земля; вселенную и что наполняет ее, Ты основал.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "Север и юг Ты сотворил; Фавор и Ермон о имени Твоем радуются.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "Крепка мышца Твоя, сильна рука Твоя, высока десница Твоя!",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "Правосудие и правота - основание престола Твоего; милость и истина предходят пред лицем Твоим.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "Блажен народ, знающий трубный зов! Они ходят во свете лица Твоего, Господи,",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "о имени Твоем радуются весь день и правдою Твоею возносятся,",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "ибо Ты украшение силы их, и благоволением Твоим возвышается рог наш.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "От Господа - щит наш, и от Святаго Израилева - царь наш.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "Некогда говорил Ты в видении святому Твоему, и сказал: “Я оказал помощь мужественному, вознес избранного из народа.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "Я обрел Давида, раба Моего, святым елеем Моим помазал его.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          {
+            "text": "Рука Моя пребудет с ним, и мышца Моя укрепит его.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          {
+            "text": "Враг не превозможет его, и сын беззакония не притеснит его.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          {
+            "text": "Сокрушу пред ним врагов его и поражу ненавидящих его.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          {
+            "text": "И истина Моя и милость Моя с ним, и Моим именем возвысится рог его.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          {
+            "text": "И положу на море руку его, и на реки - десницу его.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          {
+            "text": "Он будет звать Меня: Ты отец мой, Бог мой и твердыня спасения моего.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          {
+            "text": "И Я сделаю его первенцем, превыше царей земли,",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          {
+            "text": "вовек сохраню ему милость Мою, и завет Мой с ним будет верен.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          {
+            "text": "И продолжу вовек семя его, и престол его - как дни неба.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          {
+            "text": "Если сыновья его оставят закон Мой и не будут ходить по заповедям Моим;",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          {
+            "text": "если нарушат уставы Мои и повелений Моих не сохранят:",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          {
+            "text": "посещу жезлом беззаконие их, и ударами - неправду их;",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          {
+            "text": "милости же Моей не отниму от него, и не изменю истины Моей.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          {
+            "text": "Не нарушу завета Моего, и не переменю того, что вышло из уст Моих.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          {
+            "text": "Однажды Я поклялся святостью Моею: солгу ли Давиду?",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          {
+            "text": "Семя его пребудет вечно, и престол его, как солнце, предо Мною,",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          {
+            "text": "вовек будет тверд, как луна, и верный свидетель на небесах”.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          {
+            "text": "Но ныне Ты отринул и презрел, прогневался на помазанника Твоего;",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          {
+            "text": "пренебрег завет с рабом Твоим, поверг на землю венец его;",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          {
+            "text": "разрушил все ограды его, превратил в развалины крепости его.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          {
+            "text": "Расхищают его все проходящие путем; он сделался посмешищем у соседей своих.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          {
+            "text": "Ты возвысил десницу противников его, обрадовал всех врагов его;",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          {
+            "text": "Ты обратил назад острие меча его и не укрепил его на брани;",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          {
+            "text": "отнял у него блеск и престол его поверг на землю;",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          {
+            "text": "сократил дни юности его и покрыл его стыдом.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          {
+            "text": "Доколе, Господи, будешь скрываться непрестанно, будет пылать ярость Твоя, как огонь?",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          {
+            "text": "Вспомни, какой мой век: на какую суету сотворил Ты всех сынов человеческих?",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          {
+            "text": "Кто из людей жил - и не видел смерти, избавил душу свою от руки преисподней?",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          {
+            "text": "Где прежние милости Твои, Господи? Ты клялся Давиду истиною Твоею.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 51,
+        "content": [
+          {
+            "text": "Вспомни, Господи, поругание рабов Твоих, которое я ношу в недре моем от всех сильных народов;",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 52,
+        "content": [
+          {
+            "text": "как поносят враги Твои, Господи, как бесславят следы помазанника Твоего.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 53,
+        "content": [
+          {
+            "text": "Благословен Господь вовек! Аминь, аминь.",
+            "poem": 1
+          }
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/rus_syn/PSA/88.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/rus_syn/PSA/89.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/rus_syn/PSA/87.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 53
+}

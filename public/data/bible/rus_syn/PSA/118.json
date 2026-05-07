@@ -1,0 +1,2342 @@
+{
+  "translation": {
+    "id": "rus_syn",
+    "name": "Синодальный перевод",
+    "website": "https://ebible.org/Scriptures/details.php?id=russyn",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=russyn",
+    "shortName": "SYN",
+    "englishName": "Russian Synodal Bible",
+    "language": "rus",
+    "textDirection": "ltr",
+    "sha256": "0ae481d3257ba895a57748179fc194012ffbfd500c141f9c3ef042a4db4771c6",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/rus_syn/books.json",
+    "completeTranslationApiLink": "/api/rus_syn/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31169,
+    "languageName": "русский",
+    "languageEnglishName": "Russian"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "rus_syn",
+    "name": "Псалтырь",
+    "commonName": "Псалтырь",
+    "title": "Псалтырь",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "e62d3dc6e880ec6e368dddb5c78ada932240d86d48b244417ae5c8951145dcf8",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/rus_syn/PSA/1.json",
+    "lastChapterNumber": 150,
+    "lastChapterApiLink": "/api/rus_syn/PSA/150.json",
+    "totalNumberOfVerses": 2526
+  },
+  "chapter": {
+    "number": 118,
+    "content": [
+      {
+        "type": "hebrew_subtitle",
+        "content": [
+          "Аллилуия."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Блаженны непорочные в пути, ходящие в законе Господнем.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Блаженны хранящие откровения Его, всем сердцем ищущие Его.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Они не делают беззакония, ходят путями Его.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Ты заповедал повеления Твои хранить твердо.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "О, если бы направлялись пути мои к соблюдению уставов Твоих!",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Тогда я не постыдился бы, взирая на все заповеди Твои:",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "я славил бы Тебя в правоте сердца, поучаясь судам правды Твоей.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Буду хранить уставы Твои; не оставляй меня совсем.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Как юноше содержать в чистоте путь свой? - Хранением себя по слову Твоему.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "Всем сердцем моим ищу Тебя; не дай мне уклониться от заповедей Твоих.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "В сердце моем сокрыл я слово Твое, чтобы не грешить пред Тобою.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "Благословен Ты, Господи! научи меня уставам Твоим.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "Устами моими возвещал я все суды уст Твоих.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "На пути откровений Твоих я радуюсь, как во всяком богатстве.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "О заповедях Твоих размышляю, и взираю на пути Твои.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "Уставами Твоими утешаюсь, не забываю слова Твоего.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "Яви милость рабу Твоему, и буду жить и хранить слово Твое.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "Открой очи мои, и увижу чудеса закона Твоего.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "Странник я на земле; не скрывай от меня заповедей Твоих.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "Истомилась душа моя желанием судов Твоих во всякое время.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "Ты укротил гордых, проклятых, уклоняющихся от заповедей Твоих.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          {
+            "text": "Сними с меня поношение и посрамление, ибо я храню откровения Твои.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          {
+            "text": "Князья сидят и сговариваются против меня, а раб Твой размышляет об уставах Твоих.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          {
+            "text": "Откровения Твои - утешение мое, и уставы Твои - советники мои.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          {
+            "text": "Душа моя повержена в прах; оживи меня по слову Твоему.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          {
+            "text": "Объявил я пути мои, и Ты услышал меня; научи меня уставам Твоим.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          {
+            "text": "Дай мне уразуметь путь повелений Твоих, и буду размышлять о чудесах Твоих.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          {
+            "text": "Душа моя истаевает от скорби: укрепи меня по слову Твоему.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          {
+            "text": "Удали от меня путь лжи, и закон Твой даруй мне.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          {
+            "text": "Я избрал путь истины, поставил пред собою суды Твои.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          {
+            "text": "Я прилепился к откровениям Твоим, Господи; не постыди меня.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          {
+            "text": "Потеку путем заповедей Твоих, когда Ты расширишь сердце мое.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          {
+            "text": "Укажи мне, Господи, путь уставов Твоих, и я буду держаться его до конца.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          {
+            "text": "Вразуми меня, и буду соблюдать закон Твой и хранить его всем сердцем.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          {
+            "text": "Поставь меня на стезю заповедей Твоих, ибо я возжелал ее.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          {
+            "text": "Приклони сердце мое к откровениям Твоим, а не к корысти.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          {
+            "text": "Отврати очи мои, чтобы не видеть суеты; животвори меня на пути Твоем.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          {
+            "text": "Утверди слово Твое рабу Твоему, ради благоговения пред Тобою.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          {
+            "text": "Отврати поношение мое, которого я страшусь, ибо суды Твои благи.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          {
+            "text": "Вот, я возжелал повелений Твоих; животвори меня правдою Твоею.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          {
+            "text": "Да придут ко мне милости Твои, Господи, спасение Твое по слову Твоему,",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          {
+            "text": "и я дам ответ поносящему меня, ибо уповаю на слово Твое.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          {
+            "text": "Не отнимай совсем от уст моих слова истины, ибо я уповаю на суды Твои",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          {
+            "text": "и буду хранить закон Твой всегда, во веки и веки;",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          {
+            "text": "буду ходить свободно, ибо я взыскал повелений Твоих;",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          {
+            "text": "буду говорить об откровениях Твоих пред царями и не постыжусь;",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          {
+            "text": "буду утешаться заповедями Твоими, которые возлюбил;",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          {
+            "text": "руки мои буду простирать к заповедям Твоим, которые возлюбил, и размышлять об уставах Твоих.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          {
+            "text": "Вспомни слово Твое к рабу Твоему, на которое Ты повелел мне уповать:",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          {
+            "text": "это - утешение в бедствии моем, что слово Твое оживляет меня.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 51,
+        "content": [
+          {
+            "text": "Гордые крайне ругались надо мною, но я не уклонился от закона Твоего.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 52,
+        "content": [
+          {
+            "text": "Вспоминал суды Твои, Господи, от века, и утешался.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 53,
+        "content": [
+          {
+            "text": "Ужас овладевает мною при виде нечестивых, оставляющих закон Твой.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 54,
+        "content": [
+          {
+            "text": "Уставы Твои были песнями моими на месте странствований моих.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 55,
+        "content": [
+          {
+            "text": "Ночью вспоминал я имя Твое, Господи, и хранил закон Твой.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 56,
+        "content": [
+          {
+            "text": "Он стал моим, ибо повеления Твои храню.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 57,
+        "content": [
+          {
+            "text": "Удел мой, Господи, сказал я, соблюдать слова Твои.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 58,
+        "content": [
+          {
+            "text": "Молился я Тебе всем сердцем: помилуй меня по слову Твоему.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 59,
+        "content": [
+          {
+            "text": "Размышлял о путях моих и обращал стопы мои к откровениям Твоим.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 60,
+        "content": [
+          {
+            "text": "Спешил и не медлил соблюдать заповеди Твои.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 61,
+        "content": [
+          {
+            "text": "Сети нечестивых окружили меня, но я не забывал закона Твоего.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 62,
+        "content": [
+          {
+            "text": "В полночь вставал славословить Тебя за праведные суды Твои.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 63,
+        "content": [
+          {
+            "text": "Общник я всем боящимся Тебя и хранящим повеления Твои.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 64,
+        "content": [
+          {
+            "text": "Милости Твоей, Господи, полна земля; научи меня уставам Твоим.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 65,
+        "content": [
+          {
+            "text": "Благо сотворил Ты рабу Твоему, Господи, по слову Твоему.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 66,
+        "content": [
+          {
+            "text": "Доброму разумению и ведению научи меня, ибо заповедям Твоим я верую.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 67,
+        "content": [
+          {
+            "text": "Прежде страдания моего я заблуждался; а ныне слово Твое храню.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 68,
+        "content": [
+          {
+            "text": "Благ и благодетелен Ты, Господи; научи меня уставам Твоим.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 69,
+        "content": [
+          {
+            "text": "Гордые сплетают на меня ложь; я же всем сердцем буду хранить повеления Твои.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 70,
+        "content": [
+          {
+            "text": "Ожирело сердце их, как тук; я же законом Твоим утешаюсь.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 71,
+        "content": [
+          {
+            "text": "Благо мне, что я пострадал, дабы научиться уставам Твоим.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 72,
+        "content": [
+          {
+            "text": "Закон уст Твоих для меня лучше тысяч золота и серебра.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 73,
+        "content": [
+          {
+            "text": "Руки Твои сотворили меня и устроили меня; вразуми меня, и научусь заповедям Твоим.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 74,
+        "content": [
+          {
+            "text": "Боящиеся Тебя увидят меня - и возрадуются, что я уповаю на слово Твое.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 75,
+        "content": [
+          {
+            "text": "Знаю, Господи, что суды Твои праведны и по справедливости Ты наказал меня.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 76,
+        "content": [
+          {
+            "text": "Да будет же милость Твоя утешением моим, по слову Твоему к рабу Твоему.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 77,
+        "content": [
+          {
+            "text": "Да придет ко мне милосердие Твое, и я буду жить; ибо закон Твой - утешение мое.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 78,
+        "content": [
+          {
+            "text": "Да будут постыжены гордые, ибо безвинно угнетают меня; я размышляю о повелениях Твоих.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 79,
+        "content": [
+          {
+            "text": "Да обратятся ко мне боящиеся Тебя и знающие откровения Твои.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 80,
+        "content": [
+          {
+            "text": "Да будет сердце мое непорочно в уставах Твоих, чтобы я не посрамился.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 81,
+        "content": [
+          {
+            "text": "Истаевает душа моя о спасении Твоем; уповаю на слово Твое.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 82,
+        "content": [
+          {
+            "text": "Истаевают очи мои о слове Твоем; я говорю: когда Ты утешишь меня?",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 83,
+        "content": [
+          {
+            "text": "Я стал, как мех в дыму, но уставов Твоих не забыл.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 84,
+        "content": [
+          {
+            "text": "Сколько дней раба Твоего? Когда произведешь суд над гонителями моими?",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 85,
+        "content": [
+          {
+            "text": "Яму вырыли мне гордые, вопреки закону Твоему.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 86,
+        "content": [
+          {
+            "text": "Все заповеди Твои - истина; несправедливо преследуют меня: помоги мне;",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 87,
+        "content": [
+          {
+            "text": "едва не погубили меня на земле, но я не оставил повелений Твоих.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 88,
+        "content": [
+          {
+            "text": "По милости Твоей оживляй меня, и буду хранить откровения уст Твоих.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 89,
+        "content": [
+          {
+            "text": "На веки, Господи, слово Твое утверждено на небесах;",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 90,
+        "content": [
+          {
+            "text": "истина Твоя в род и род. Ты поставил землю, и она стоит.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 91,
+        "content": [
+          {
+            "text": "По определениям Твоим все стоит доныне, ибо все служит Тебе.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 92,
+        "content": [
+          {
+            "text": "Если бы не закон Твой был утешением моим, погиб бы я в бедствии моем.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 93,
+        "content": [
+          {
+            "text": "Вовек не забуду повелений Твоих, ибо ими Ты оживляешь меня.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 94,
+        "content": [
+          {
+            "text": "Твой я, спаси меня; ибо я взыскал повелений Твоих.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 95,
+        "content": [
+          {
+            "text": "Нечестивые подстерегают меня, чтобы погубить; а я углубляюсь в откровения Твои.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 96,
+        "content": [
+          {
+            "text": "Я видел предел всякого совершенства, но Твоя заповедь безмерно обширна.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 97,
+        "content": [
+          {
+            "text": "Как люблю я закон Твой! весь день размышляю о нем.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 98,
+        "content": [
+          {
+            "text": "Заповедью Твоею Ты соделал меня мудрее врагов моих, ибо она всегда со мною.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 99,
+        "content": [
+          {
+            "text": "Я стал разумнее всех учителей моих, ибо размышляю об откровениях Твоих.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 100,
+        "content": [
+          {
+            "text": "Я сведущ более старцев, ибо повеления Твои храню.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 101,
+        "content": [
+          {
+            "text": "От всякого злого пути удерживаю ноги мои, чтобы хранить слово Твое;",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 102,
+        "content": [
+          {
+            "text": "от судов Твоих не уклоняюсь, ибо Ты научаешь меня.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 103,
+        "content": [
+          {
+            "text": "Как сладки гортани моей слова Твои! лучше меда устам моим.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 104,
+        "content": [
+          {
+            "text": "Повелениями Твоими я вразумлен; потому ненавижу всякий путь лжи.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 105,
+        "content": [
+          {
+            "text": "Слово Твое - светильник ноге моей и свет стезе моей.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 106,
+        "content": [
+          {
+            "text": "Я клялся хранить праведные суды Твои, и исполню.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 107,
+        "content": [
+          {
+            "text": "Сильно угнетен я, Господи; оживи меня по слову Твоему.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 108,
+        "content": [
+          {
+            "text": "Благоволи же, Господи, принять добровольную жертву уст моих, и судам Твоим научи меня.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 109,
+        "content": [
+          {
+            "text": "Душа моя непрестанно в руке моей, но закона Твоего не забываю.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 110,
+        "content": [
+          {
+            "text": "Нечестивые поставили для меня сеть, но я не уклонился от повелений Твоих.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 111,
+        "content": [
+          {
+            "text": "Откровения Твои я принял, как наследие на веки, ибо они веселие сердца моего.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 112,
+        "content": [
+          {
+            "text": "Я приклонил сердце мое к исполнению уставов Твоих навек, до конца.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 113,
+        "content": [
+          {
+            "text": "Вымыслы человеческие ненавижу, а закон Твой люблю.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 114,
+        "content": [
+          {
+            "text": "Ты покров мой и щит мой; на слово Твое уповаю.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 115,
+        "content": [
+          {
+            "text": "Удалитесь от меня, беззаконные, и буду хранить заповеди Бога моего.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 116,
+        "content": [
+          {
+            "text": "Укрепи меня по слову Твоему, и буду жить; не посрами меня в надежде моей;",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 117,
+        "content": [
+          {
+            "text": "поддержи меня, и спасусь; и в уставы Твои буду вникать непрестанно.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 118,
+        "content": [
+          {
+            "text": "Всех, отступающих от уставов Твоих, Ты низлагаешь, ибо ухищрения их - ложь.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 119,
+        "content": [
+          {
+            "text": "Как изгарь, отметаешь Ты всех нечестивых земли; потому я возлюбил откровения Твои.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 120,
+        "content": [
+          {
+            "text": "Трепещет от страха Твоего плоть моя, и судов Твоих я боюсь.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 121,
+        "content": [
+          {
+            "text": "Я совершал суд и правду; не предай меня гонителям моим.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 122,
+        "content": [
+          {
+            "text": "Заступи раба Твоего ко благу его, чтобы не угнетали меня гордые.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 123,
+        "content": [
+          {
+            "text": "Истаевают очи мои, ожидая спасения Твоего и слова правды Твоей.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 124,
+        "content": [
+          {
+            "text": "Сотвори с рабом Твоим по милости Твоей, и уставам Твоим научи меня.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 125,
+        "content": [
+          {
+            "text": "Я раб Твой: вразуми меня, и познаю откровения Твои.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 126,
+        "content": [
+          {
+            "text": "Время Господу действовать: закон Твой разорили.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 127,
+        "content": [
+          {
+            "text": "А я люблю заповеди Твои более золота, и золота чистого.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 128,
+        "content": [
+          {
+            "text": "Все повеления Твои - все признаю справедливыми; всякий путь лжи ненавижу.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 129,
+        "content": [
+          {
+            "text": "Дивны откровения Твои; потому хранит их душа моя.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 130,
+        "content": [
+          {
+            "text": "Откровение слов Твоих просвещает, вразумляет простых.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 131,
+        "content": [
+          {
+            "text": "Открываю уста мои и вздыхаю, ибо заповедей Твоих жажду.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 132,
+        "content": [
+          {
+            "text": "Призри на меня и помилуй меня, как поступаешь с любящими имя Твое.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 133,
+        "content": [
+          {
+            "text": "Утверди стопы мои в слове Твоем и не дай овладеть мною никакому беззаконию;",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 134,
+        "content": [
+          {
+            "text": "избавь меня от угнетения человеческого, и буду хранить повеления Твои;",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 135,
+        "content": [
+          {
+            "text": "осияй раба Твоего светом лица Твоего и научи меня уставам Твоим.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 136,
+        "content": [
+          {
+            "text": "Из глаз моих текут потоки вод оттого, что не хранят закона Твоего.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 137,
+        "content": [
+          {
+            "text": "Праведен Ты, Господи, и справедливы суды Твои.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 138,
+        "content": [
+          {
+            "text": "Откровения Твои, которые Ты заповедал, - правда и совершенная истина.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 139,
+        "content": [
+          {
+            "text": "Ревность моя снедает меня, потому что мои враги забыли слова Твои.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 140,
+        "content": [
+          {
+            "text": "Слово Твое весьма чисто, и раб Твой возлюбил его.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 141,
+        "content": [
+          {
+            "text": "Мал я и презрен, но повелений Твоих не забываю.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 142,
+        "content": [
+          {
+            "text": "Правда Твоя - правда вечная, и закон Твой - истина.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 143,
+        "content": [
+          {
+            "text": "Скорбь и горесть постигли меня; заповеди Твои - утешение мое.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 144,
+        "content": [
+          {
+            "text": "Правда откровений Твоих вечна: вразуми меня, и буду жить.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 145,
+        "content": [
+          {
+            "text": "Взываю всем сердцем моим: услышь меня, Господи, - и сохраню уставы Твои.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 146,
+        "content": [
+          {
+            "text": "Призываю Тебя: спаси меня, и буду хранить откровения Твои.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 147,
+        "content": [
+          {
+            "text": "Предваряю рассвет и взываю; на слово Твое уповаю.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 148,
+        "content": [
+          {
+            "text": "Очи мои предваряют утреннюю стражу, чтобы мне углубляться в слово Твое.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 149,
+        "content": [
+          {
+            "text": "Услышь голос мой по милости Твоей, Господи; по суду Твоему оживи меня.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 150,
+        "content": [
+          {
+            "text": "Приблизились замышляющие лукавство; далеки они от закона Твоего.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 151,
+        "content": [
+          {
+            "text": "Близок Ты, Господи, и все заповеди Твои - истина.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 152,
+        "content": [
+          {
+            "text": "Издавна узнал я об откровениях Твоих, что Ты утвердил их на веки.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 153,
+        "content": [
+          {
+            "text": "Воззри на бедствие мое и избавь меня, ибо я не забываю закона Твоего.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 154,
+        "content": [
+          {
+            "text": "Вступись в дело мое и защити меня; по слову Твоему оживи меня.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 155,
+        "content": [
+          {
+            "text": "Далеко от нечестивых спасение, ибо они уставов Твоих не ищут.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 156,
+        "content": [
+          {
+            "text": "Много щедрот Твоих, Господи; по суду Твоему оживи меня.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 157,
+        "content": [
+          {
+            "text": "Много у меня гонителей и врагов, но от откровений Твоих я не удаляюсь.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 158,
+        "content": [
+          {
+            "text": "Вижу отступников, и сокрушаюсь, ибо они не хранят слова Твоего.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 159,
+        "content": [
+          {
+            "text": "Зри, как я люблю повеления Твои; по милости Твоей, Господи, оживи меня.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 160,
+        "content": [
+          {
+            "text": "Основание слова Твоего истинно, и вечен всякий суд правды Твоей.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 161,
+        "content": [
+          {
+            "text": "Князья гонят меня безвинно, но сердце мое боится слова Твоего.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 162,
+        "content": [
+          {
+            "text": "Радуюсь я слову Твоему, как получивший великую прибыль.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 163,
+        "content": [
+          {
+            "text": "Ненавижу ложь и гнушаюсь ею; закон же Твой люблю.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 164,
+        "content": [
+          {
+            "text": "Семикратно в день прославляю Тебя за суды правды Твоей.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 165,
+        "content": [
+          {
+            "text": "Велик мир у любящих закон Твой, и нет им преткновения.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 166,
+        "content": [
+          {
+            "text": "Уповаю на спасение Твое, Господи, и заповеди Твои исполняю.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 167,
+        "content": [
+          {
+            "text": "Душа моя хранит откровения Твои, и я люблю их крепко.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 168,
+        "content": [
+          {
+            "text": "Храню повеления Твои и откровения Твои, ибо все пути мои пред Тобою.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 169,
+        "content": [
+          {
+            "text": "Да приблизится вопль мой пред лице Твое, Господи; по слову Твоему вразуми меня.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 170,
+        "content": [
+          {
+            "text": "Да придет моление мое пред лице Твое; по слову Твоему избавь меня.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 171,
+        "content": [
+          {
+            "text": "Уста мои произнесут хвалу, когда Ты научишь меня уставам Твоим.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 172,
+        "content": [
+          {
+            "text": "Язык мой возгласит слово Твое, ибо все заповеди Твои праведны.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 173,
+        "content": [
+          {
+            "text": "Да будет рука Твоя в помощь мне, ибо я повеления Твои избрал.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 174,
+        "content": [
+          {
+            "text": "Жажду спасения Твоего, Господи, и закон Твой - утешение мое.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 175,
+        "content": [
+          {
+            "text": "Да живет душа моя и славит Тебя, и суды Твои да помогут мне.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 176,
+        "content": [
+          {
+            "text": "Я заблудился, как овца потерянная: взыщи раба Твоего, ибо я заповедей Твоих не забыл.",
+            "poem": 1
+          }
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/rus_syn/PSA/118.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/rus_syn/PSA/119.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/rus_syn/PSA/117.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 176
+}

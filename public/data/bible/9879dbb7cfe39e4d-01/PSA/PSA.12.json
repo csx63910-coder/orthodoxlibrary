@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.12",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "12",
+    "bookId": "PSA",
+    "reference": "Psalms 12",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 8,
+    "content": "<p class=\"d\">For the Chief Musician; upon an eight-stringed lyre. A Psalm of David.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 12:1\" class=\"v\">1</span>Help, Yahweh; for the godly man ceases.</p><p data-vid=\"PSA 12:1\" class=\"q2\">For the faithful fail from among the children of men.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 12:2\" class=\"v\">2</span>Everyone lies to his neighbor.</p><p data-vid=\"PSA 12:2\" class=\"q2\">They speak with flattering lips, and with a double heart.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 12:3\" class=\"v\">3</span>May Yahweh cut off all flattering lips,</p><p data-vid=\"PSA 12:3\" class=\"q2\">and the tongue that boasts,</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 12:4\" class=\"v\">4</span>who have said, “With our tongue we will prevail.</p><p data-vid=\"PSA 12:4\" class=\"q2\">Our lips are our own.</p><p data-vid=\"PSA 12:4\" class=\"q2\">Who is lord over us?”</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 12:5\" class=\"v\">5</span>“Because of the oppression of the weak and because of the groaning of the needy,</p><p data-vid=\"PSA 12:5\" class=\"q2\">I will now arise,” says Yahweh;</p><p data-vid=\"PSA 12:5\" class=\"q1\">“I will set him in safety from those who malign him.”</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 12:6\" class=\"v\">6</span>Yahweh’s words are flawless words,</p><p data-vid=\"PSA 12:6\" class=\"q2\">as silver refined in a clay furnace, purified seven times.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 12:7\" class=\"v\">7</span>You will keep them, Yahweh.</p><p data-vid=\"PSA 12:7\" class=\"q2\">You will preserve them from this generation forever.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 12:8\" class=\"v\">8</span>The wicked walk on every side,</p><p data-vid=\"PSA 12:8\" class=\"q2\">when what is vile is exalted among the sons of men.</p>",
+    "next": {
+      "id": "PSA.13",
+      "number": "13",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.11",
+      "number": "11",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBIBwHbqxlyoOgvR4EdEzy46-24Sxpo6hIlq6-0HnbwOWbjrEVl-COIBrNbq_dW51X8jvB_85OSadE1Db-2_XP83YA_bIanM-7riXXxWyW56ulr8uwkMZqPaO77g07yjqwP-KMEUje-HPMrruAKMBlSLMOXDP83SRNrCSNbGwhjEFlG8dge9emP29LEFm7UvUFnxjG8NkS2pkiWD2P91e9-tV8OrPRy8UsOBlmocppjak5L6w1Jpj53DgG"
+  }
+}

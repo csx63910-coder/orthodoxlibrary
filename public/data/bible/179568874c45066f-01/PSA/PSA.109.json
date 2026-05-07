@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.109",
+    "bibleId": "179568874c45066f-01",
+    "number": "109",
+    "bookId": "PSA",
+    "reference": "Psalms 109",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 7,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 109:1\" class=\"v\">1</span>The Lord said to my Lord: Sit thou at my right hand: Until I make thy enemies thy footstool.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 109:2\" class=\"v\">2</span>The Lord will send forth the sceptre of thy power out of Sion: rule thou in the midst of thy enemies.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 109:3\" class=\"v\">3</span>With thee is the principality in the day of thy strength: in the brightness of the saints: from the womb before the day star I begot thee.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 109:4\" class=\"v\">4</span>The Lord hath sworn, and he will not repent: Thou art a priest for ever according to the order of Melchisedech.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 109:5\" class=\"v\">5</span>The Lord at thy right hand hath broken kings in the day of his wrath.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 109:6\" class=\"v\">6</span>He shall judge among nations, he shall fill ruins: he shall crush the heads in the land of the many.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 109:7\" class=\"v\">7</span>He shall drink of the torrent in the way: therefore shall he lift up the head.</p>",
+    "next": {
+      "id": "PSA.110",
+      "number": "110",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.108",
+      "number": "108",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzcBABwHbqxlyoOgvZ6Fcyp_OoD3SV1l3UhtCgiSpasvdNbddrrhAfjfL0Ha2lqQlWZxRgl20LagdvVKeiWROnbu-sfzdgDsy1tyHu_WS80sRdI8ZUeutPNWUPdue8PWeFcBG2YE5xREb_hj0albAFEALlOWdSA2A983aZcL5cjnJhcvGgY3Bmzv8oznbQlK9o6qxBAnhjGAYQnuClFYPY_3h_0uF4uZkEu94qrqRKm6rKZBO09ZyKztizkx"
+  }
+}

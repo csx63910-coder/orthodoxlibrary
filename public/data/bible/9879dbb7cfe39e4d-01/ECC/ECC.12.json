@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "ECC.12",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "12",
+    "bookId": "ECC",
+    "reference": "Ecclesiastes 12",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 14,
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"ECC 12:1\" class=\"v\">1</span>Remember also your Creator in the days of your youth,</p><p data-vid=\"ECC 12:1\" class=\"q2\">before the evil days come, and the years draw near,</p><p data-vid=\"ECC 12:1\" class=\"q2\">when you will say, “I have no pleasure in them;”</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"ECC 12:2\" class=\"v\">2</span>Before the sun, the light, the moon, and the stars are darkened,</p><p data-vid=\"ECC 12:2\" class=\"q2\">and the clouds return after the rain;</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"ECC 12:3\" class=\"v\">3</span>in the day when the keepers of the house shall tremble,</p><p data-vid=\"ECC 12:3\" class=\"q2\">and the strong men shall bow themselves,</p><p data-vid=\"ECC 12:3\" class=\"q2\">and the grinders cease because they are few,</p><p data-vid=\"ECC 12:3\" class=\"q2\">and those who look out of the windows are darkened,</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"ECC 12:4\" class=\"v\">4</span>and the doors shall be shut in the street;</p><p data-vid=\"ECC 12:4\" class=\"q2\">when the sound of the grinding is low,</p><p data-vid=\"ECC 12:4\" class=\"q2\">and one shall rise up at the voice of a bird,</p><p data-vid=\"ECC 12:4\" class=\"q2\">and all the daughters of music shall be brought low;</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"ECC 12:5\" class=\"v\">5</span>yes, they shall be afraid of heights,</p><p data-vid=\"ECC 12:5\" class=\"q2\">and terrors will be on the way;</p><p data-vid=\"ECC 12:5\" class=\"q2\">and the almond tree shall blossom,</p><p data-vid=\"ECC 12:5\" class=\"q2\">and the grasshopper shall be a burden,</p><p data-vid=\"ECC 12:5\" class=\"q2\">and desire shall fail;</p><p data-vid=\"ECC 12:5\" class=\"q2\">because man goes to his everlasting home,</p><p data-vid=\"ECC 12:5\" class=\"q2\">and the mourners go about the streets;</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"ECC 12:6\" class=\"v\">6</span>before the silver cord is severed,</p><p data-vid=\"ECC 12:6\" class=\"q2\">or the golden bowl is broken,</p><p data-vid=\"ECC 12:6\" class=\"q2\">or the pitcher is broken at the spring,</p><p data-vid=\"ECC 12:6\" class=\"q2\">or the wheel broken at the cistern,</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"ECC 12:7\" class=\"v\">7</span>and the dust returns to the earth as it was,</p><p data-vid=\"ECC 12:7\" class=\"q2\">and the spirit returns to God who gave it.</p><p class=\"q2\"><span data-number=\"8\" data-sid=\"ECC 12:8\" class=\"v\">8</span>“Vanity of vanities,” says the Preacher.</p><p data-vid=\"ECC 12:8\" class=\"q2\">“All is vanity!”</p><p class=\"p\"><span data-number=\"9\" data-sid=\"ECC 12:9\" class=\"v\">9</span>Further, because the Preacher was wise, he still taught the people knowledge. Yes, he pondered, sought out, and set in order many proverbs. <span data-number=\"10\" data-sid=\"ECC 12:10\" class=\"v\">10</span>The Preacher sought to find out acceptable words, and that which was written blamelessly, words of truth. <span data-number=\"11\" data-sid=\"ECC 12:11\" class=\"v\">11</span>The words of the wise are like goads; and like nails well fastened are words from the masters of assemblies, which are given from one shepherd. <span data-number=\"12\" data-sid=\"ECC 12:12\" class=\"v\">12</span>Furthermore, my son, be admonished: of making many books there is no end; and much study is a weariness of the flesh.</p><p class=\"p\"><span data-number=\"13\" data-sid=\"ECC 12:13\" class=\"v\">13</span>This is the end of the matter. All has been heard. Fear God and keep his commandments; for this is the whole duty of man. <span data-number=\"14\" data-sid=\"ECC 12:14\" class=\"v\">14</span>For God will bring every work into judgment, with every hidden thing, whether it is good, or whether it is evil.</p>",
+    "next": {
+      "id": "SNG.intro",
+      "number": "intro",
+      "bookId": "SNG"
+    },
+    "previous": {
+      "id": "ECC.11",
+      "number": "11",
+      "bookId": "ECC"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzUBQIzTFfOihHXPwk2VP53Af2Dbbl_VKsbYrcPS1fdtA5fjbsUlyBfE0ey2-r3VmTZmQWCb0iTi5PgWLi0vLGMN0FfWuXmcdM91vDgMnShNDC8xY0msy3ma9MftprFCGB9BEQko3uDClt0nBkQgOPdI5gOtDvi695IsSfaXLd90fKU0IvohFJM0fRkTIGTtosgL9jccsacJswWwKZAuzfSqHzdkDj1lyzi0WZpuyjK0KZBBGBfmmKLUCVMc"
+  }
+}

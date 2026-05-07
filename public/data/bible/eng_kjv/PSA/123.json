@@ -1,0 +1,106 @@
+{
+  "translation": {
+    "id": "eng_kjv",
+    "name": "King James (Authorized) Version",
+    "website": "https://ebible.org/Scriptures/details.php?id=eng-kjv2006",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=eng-kjv2006",
+    "shortName": "KJAV",
+    "englishName": "King James Version",
+    "language": "eng",
+    "textDirection": "ltr",
+    "sha256": "a847712eeaae26124d3f9db80a1a9274742981261961b49715f43809774eb43c",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/eng_kjv/books.json",
+    "completeTranslationApiLink": "/api/eng_kjv/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31102,
+    "languageName": "English",
+    "languageEnglishName": "English"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "eng_kjv",
+    "name": "Psalms",
+    "commonName": "Psalms",
+    "title": "The Book of Psalms",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "7bccd076c8889684c0a037e3d255cb4508bb73e03494e49aa49156505c4e4bfd",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/eng_kjv/PSA/1.json",
+    "lastChapterNumber": 150,
+    "lastChapterApiLink": "/api/eng_kjv/PSA/150.json",
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 123,
+    "content": [
+      {
+        "type": "hebrew_subtitle",
+        "content": [
+          "A Song of degrees."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Unto thee lift I up mine eyes, O thou that dwellest in the heavens.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Behold, as the eyes of servants look unto the hand of their masters, and as the eyes of a maiden unto the hand of her mistress; so our eyes wait upon the LORD our God, until that he have mercy upon us.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Have mercy upon us, O LORD, have mercy upon us: for we are exceedingly filled with contempt.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Our soul is exceedingly filled with the scorning of those that are at ease, and with the contempt of the proud.",
+            "poem": 1
+          }
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/eng_kjv/PSA/123.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/eng_kjv/PSA/124.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/eng_kjv/PSA/122.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 4
+}

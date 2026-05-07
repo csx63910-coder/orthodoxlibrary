@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.95",
+    "bibleId": "179568874c45066f-01",
+    "number": "95",
+    "bookId": "PSA",
+    "reference": "Psalms 95",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 13,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 95:1\" class=\"v\">1</span>A canticle for David himself, when the house was built after the captivity. Sing ye to the Lord a new canticle: sing to the Lord, all the earth.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 95:2\" class=\"v\">2</span>Sing ye to the Lord and bless his name: shew forth his salvation from day to day.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 95:3\" class=\"v\">3</span>Declare his glory among the Gentiles: his wonders among all people.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 95:4\" class=\"v\">4</span>For the Lord is great, and exceedingly to be praised: he is to be feared above all gods.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 95:5\" class=\"v\">5</span>For all the gods of the Gentiles are devils: but the Lord made the heavens.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 95:6\" class=\"v\">6</span>Praise and beauty are before him: holiness and majesty in his sanctuary.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 95:7\" class=\"v\">7</span>Bring ye to the Lord, O ye kindreds of the Gentiles, bring ye to the Lord glory and honour:</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 95:8\" class=\"v\">8</span>Bring to the Lord glory unto his name. Bring up sacrifices, and come into his courts:</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 95:9\" class=\"v\">9</span>Adore ye the Lord in his holy court. Let all the earth be moved at his presence.</p><p class=\"q1\"><span data-number=\"10\" data-sid=\"PSA 95:10\" class=\"v\">10</span>Say ye among the Gentiles, the Lord hath reigned. For he hath corrected the world, which shall not be moved: he will judge the people with justice.</p><p class=\"q1\"><span data-number=\"11\" data-sid=\"PSA 95:11\" class=\"v\">11</span>Let the heavens rejoice, and let the earth be glad, let the sea be moved, and the fulness thereof:</p><p class=\"q1\"><span data-number=\"12\" data-sid=\"PSA 95:12\" class=\"v\">12</span>The fields and all things that are in them shall be joyful. Then shall all the trees of the woods rejoice</p><p class=\"q1\"><span data-number=\"13\" data-sid=\"PSA 95:13\" class=\"v\">13</span>Before the face of the Lord, because he cometh: because he cometh to judge the earth. He shall judge the world with justice, and the people with his truth.</p>",
+    "next": {
+      "id": "PSA.96",
+      "number": "96",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.94",
+      "number": "94",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzUBgIzUYk2Z7gQBHZP8-KttOEvaKCpah6Wr79sGLsfdikuQL4ij2YvG7a3OtDELgv9bTpLJqODqvyv_PG8HoF9WU_N41zbXmErJYR6iSWkljdVinu66N-yoGonhGc4Ygd4Nf3bsugsQQTh3SOYFrDr4uPfSRGnSyMYWSwtRlezHxPYuTH_eluBj7Z6ICzYxHJGnS2ILWC9YPY_3N_0Fn-aulCzTNFgZlmEmp9YsZXJxVorRrOJixgE"
+  }
+}

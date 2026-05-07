@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "ISA.4",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "4",
+    "bookId": "ISA",
+    "reference": "Isaiah 4",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 6,
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"ISA 4:1\" class=\"v\">1</span>Seven women shall take hold of one man in that day, saying, “We will eat our own bread, and wear our own clothing. Just let us be called by your name. Take away our reproach.”</p><p class=\"p\"><span data-number=\"2\" data-sid=\"ISA 4:2\" class=\"v\">2</span>In that day, Yahweh’s branch will be beautiful and glorious, and the fruit of the land will be the beauty and glory of the survivors of Israel. <span data-number=\"3\" data-sid=\"ISA 4:3\" class=\"v\">3</span>It will happen that he who is left in Zion and he who remains in Jerusalem shall be called holy, even everyone who is written among the living in Jerusalem, <span data-number=\"4\" data-sid=\"ISA 4:4\" class=\"v\">4</span>when the Lord shall have washed away the filth of the daughters of Zion, and shall have purged the blood of Jerusalem from within it, by the spirit of justice and by the spirit of burning. <span data-number=\"5\" data-sid=\"ISA 4:5\" class=\"v\">5</span>Yahweh will create over the whole habitation of Mount Zion and over her assemblies, a cloud and smoke by day, and the shining of a flaming fire by night, for over all the glory will be a canopy. <span data-number=\"6\" data-sid=\"ISA 4:6\" class=\"v\">6</span>There will be a pavilion for a shade in the daytime from the heat, and for a refuge and for a shelter from storm and from rain.</p>",
+    "next": {
+      "id": "ISA.5",
+      "number": "5",
+      "bookId": "ISA"
+    },
+    "previous": {
+      "id": "ISA.3",
+      "number": "3",
+      "bookId": "ISA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzEBYIzTFfOihHUPnqdtpv7yiX-ORiSztCUxaR2Wrr5vG7gcd6sucRwhGs1e9Nq91Zk1ZkFQp06IyQxN_rr987wdgH15i83j3dZG6mI2k_lqGesyLbTzVs3D3fZDZxIx3CM4p9C74M-OVb8AmYjgFqn8QDXAv73XLmtXRj63SdrQmCB1TGzvutTnbQk85u6ptuATwxF3tuR1RFGsnsf7iz5FfJE8T9r7EnVKUfQsxKqnkufivYmr2YID"
+  }
+}

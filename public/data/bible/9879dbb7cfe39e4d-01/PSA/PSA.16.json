@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.16",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "16",
+    "bookId": "PSA",
+    "reference": "Psalms 16",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 11,
+    "content": "<p class=\"d\">A Poem by David.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 16:1\" class=\"v\">1</span>Preserve me, God, for I take refuge in you.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 16:2\" class=\"v\">2</span>My soul, you have said to Yahweh, “You are my Lord.</p><p data-vid=\"PSA 16:2\" class=\"q2\">Apart from you I have no good thing.”</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 16:3\" class=\"v\">3</span>As for the saints who are in the earth,</p><p data-vid=\"PSA 16:3\" class=\"q2\">they are the excellent ones in whom is all my delight.</p><p class=\"b\"></p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 16:4\" class=\"v\">4</span>Their sorrows shall be multiplied who give gifts to another god.</p><p data-vid=\"PSA 16:4\" class=\"q2\">Their drink offerings of blood I will not offer,</p><p data-vid=\"PSA 16:4\" class=\"q2\">nor take their names on my lips.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 16:5\" class=\"v\">5</span>Yahweh assigned my portion and my cup.</p><p data-vid=\"PSA 16:5\" class=\"q2\">You made my lot secure.</p><p class=\"b\"></p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 16:6\" class=\"v\">6</span>The lines have fallen to me in pleasant places.</p><p data-vid=\"PSA 16:6\" class=\"q2\">Yes, I have a good inheritance.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 16:7\" class=\"v\">7</span>I will bless Yahweh, who has given me counsel.</p><p data-vid=\"PSA 16:7\" class=\"q2\">Yes, my heart instructs me in the night seasons.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 16:8\" class=\"v\">8</span>I have set Yahweh always before me.</p><p data-vid=\"PSA 16:8\" class=\"q2\">Because he is at my right hand, I shall not be moved.</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 16:9\" class=\"v\">9</span>Therefore my heart is glad, and my tongue rejoices.</p><p data-vid=\"PSA 16:9\" class=\"q2\">My body shall also dwell in safety.</p><p class=\"q1\"><span data-number=\"10\" data-sid=\"PSA 16:10\" class=\"v\">10</span>For you will not leave my soul in Sheol,</p><p data-vid=\"PSA 16:10\" class=\"q2\">neither will you allow your holy one to see corruption.</p><p class=\"q1\"><span data-number=\"11\" data-sid=\"PSA 16:11\" class=\"v\">11</span>You will show me the path of life.</p><p data-vid=\"PSA 16:11\" class=\"q2\">In your presence is fullness of joy.</p><p data-vid=\"PSA 16:11\" class=\"q1\">In your right hand there are pleasures forever more.</p>",
+    "next": {
+      "id": "PSA.17",
+      "number": "17",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.15",
+      "number": "15",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzUBIBwHbqxlyoOgvR4E_P0kP37V9nGWtFlEJ0tXX-i8beDyTcfYiktotCKIRifoNm5vdaaOGwS2KQ0i4iQu9oNL3T_P2wH0y2pwHu-6llwXs1mer5a-LsNCGqv1jO66P-qUTWD_jjNGIPngzzG33gKygZBFWn3gWuHvFmliJ2lsYwthTCrnMgHbuzbreVuCyNmVqi-kqWMMny2hdbBWsHoe78-a0XuX7KfKNMszGZydybpyczl3s8Uq1kWajTMD"
+  }
+}

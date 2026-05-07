@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.120",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "120",
+    "bookId": "PSA",
+    "reference": "Psalms 120",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 7,
+    "content": "<p class=\"d\">A Song of Ascents.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 120:1\" class=\"v\">1</span>In my distress, I cried to Yahweh.</p><p data-vid=\"PSA 120:1\" class=\"q2\">He answered me.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 120:2\" class=\"v\">2</span>Deliver my soul, Yahweh, from lying lips,</p><p data-vid=\"PSA 120:2\" class=\"q2\">from a deceitful tongue.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 120:3\" class=\"v\">3</span>What will be given to you, and what will be done more to you,</p><p data-vid=\"PSA 120:3\" class=\"q2\">you deceitful tongue?</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 120:4\" class=\"v\">4</span>Sharp arrows of the mighty,</p><p data-vid=\"PSA 120:4\" class=\"q2\">with coals of juniper.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 120:5\" class=\"v\">5</span>Woe is me, that I live in Meshech,</p><p data-vid=\"PSA 120:5\" class=\"q2\">that I dwell among the tents of Kedar!</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 120:6\" class=\"v\">6</span>My soul has had her dwelling too long</p><p data-vid=\"PSA 120:6\" class=\"q2\">with him who hates peace.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 120:7\" class=\"v\">7</span>I am for peace,</p><p data-vid=\"PSA 120:7\" class=\"q2\">but when I speak, they are for war.</p>",
+    "next": {
+      "id": "PSA.121",
+      "number": "121",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.119",
+      "number": "119",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzcBoBwHbqxlyoOgvR4EdEzy46-24Sxpo6hIlq6-0Flv39NbfAj5UARGMZtZF6KsJSV6qDqwTWkScRDB0X5w6fXP83YA_bIamse7riXXxWyW56ulr8uwkMZqLdW77g07yjoDNieSjNUbyp8zTt0FRAduFvgaA9YGP7dKE5unkY0tJC2rYMMYbO_KzOdtCSB79zl1MU6MEvbCktmVLFg9j_c3fUhptigLl-V0vogyJDeVpc6WsmYX3LLOTR5lBg"
+  }
+}

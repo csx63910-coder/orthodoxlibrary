@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.42",
+    "bibleId": "de4e12af7f28f599-01",
+    "number": "42",
+    "bookId": "PSA",
+    "reference": "Psalms 42",
+    "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+    "verseCount": 11,
+    "content": "<p class=\"d\">To the chief Musician, Maschil, for the sons of Korah.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 42:1\" class=\"v\">1</span>As the hart panteth after the water brooks, so panteth my soul after thee, O God.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 42:2\" class=\"v\">2</span>My soul thirsteth for God, for the living God: when shall I come and appear before God?</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 42:3\" class=\"v\">3</span>My tears have been my meat day and night, while they continually say unto me, Where <span class=\"add\">is</span> thy God?</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 42:4\" class=\"v\">4</span>When I remember these <span class=\"add\">things</span>, I pour out my soul in me: for I had gone with the multitude, I went with them to the house of God, with the voice of joy and praise, with a multitude that kept holyday.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 42:5\" class=\"v\">5</span>Why art thou cast down, O my soul? and <span class=\"add\">why</span> art thou disquieted in me? hope thou in God: for I shall yet praise him <span class=\"add\">for</span> the help of his countenance.</p><p class=\"b\"></p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 42:6\" class=\"v\">6</span>O my God, my soul is cast down within me: therefore will I remember thee from the land of Jordan, and of the Hermonites, from the hill Mizar.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 42:7\" class=\"v\">7</span>Deep calleth unto deep at the noise of thy waterspouts: all thy waves and thy billows are gone over me.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 42:8\" class=\"v\">8</span><span class=\"add\">Yet</span> the <span class=\"nd\">LORD</span> will command his lovingkindness in the daytime, and in the night his song <span class=\"add\">shall be</span> with me, <span class=\"add\">and</span> my prayer unto the God of my life.</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 42:9\" class=\"v\">9</span>I will say unto God my rock, Why hast thou forgotten me? why go I mourning because of the oppression of the enemy?</p><p class=\"q1\"><span data-number=\"10\" data-sid=\"PSA 42:10\" class=\"v\">10</span><span class=\"add\">As</span> with a sword in my bones, mine enemies reproach me; while they say daily unto me, Where <span class=\"add\">is</span> thy God?</p><p class=\"q1\"><span data-number=\"11\" data-sid=\"PSA 42:11\" class=\"v\">11</span>Why art thou cast down, O my soul? and why art thou disquieted within me? hope thou in God: for I shall yet praise him, <span class=\"add\">who is</span> the health of my countenance, and my God.</p>",
+    "next": {
+      "id": "PSA.43",
+      "number": "43",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.41",
+      "number": "41",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzUBIIzTFfOihHUPAjom-fFX23CWtFFUtA5LV9-3DVy-6RhbcQnuCKLR7EXj9lZnZmMGQW1zEBEncdIK_jr-ed4OQL-sBufxrhfLsLRuusorV1axVmms1jO6696wo4Ij9mc4YwSSN_w5ZtddgCxEyJBWfeCawd9N0sRO08jG5kNUlTdmTGzv2vTnbQlE1q5UfcEnjmP4bAntBdYKVs_j_eE_aTFdrubSpbqUoS6NnPo0l3GxsNVG54Ofcg"
+  }
+}

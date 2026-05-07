@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.30",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "30",
+    "bookId": "PSA",
+    "reference": "Psalms 30",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 12,
+    "content": "<p class=\"d\">A Psalm. A Song for the Dedication of the Temple. By David.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 30:1\" class=\"v\">1</span>I will extol you, Yahweh, for you have raised me up,</p><p data-vid=\"PSA 30:1\" class=\"q2\">and have not made my foes to rejoice over me.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 30:2\" class=\"v\">2</span>Yahweh my God, I cried to you,</p><p data-vid=\"PSA 30:2\" class=\"q2\">and you have healed me.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 30:3\" class=\"v\">3</span>Yahweh, you have brought up my soul from Sheol.</p><p data-vid=\"PSA 30:3\" class=\"q2\">You have kept me alive, that I should not go down to the pit.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 30:4\" class=\"v\">4</span>Sing praise to Yahweh, you saints of his.</p><p data-vid=\"PSA 30:4\" class=\"q2\">Give thanks to his holy name.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 30:5\" class=\"v\">5</span>For his anger is but for a moment.</p><p data-vid=\"PSA 30:5\" class=\"q2\">His favor is for a lifetime.</p><p data-vid=\"PSA 30:5\" class=\"q1\">Weeping may stay for the night,</p><p data-vid=\"PSA 30:5\" class=\"q2\">but joy comes in the morning.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 30:6\" class=\"v\">6</span>As for me, I said in my prosperity,</p><p data-vid=\"PSA 30:6\" class=\"q2\">“I shall never be moved.”</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 30:7\" class=\"v\">7</span>You, Yahweh, when you favored me, made my mountain stand strong;</p><p data-vid=\"PSA 30:7\" class=\"q2\">but when you hid your face, I was troubled.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 30:8\" class=\"v\">8</span>I cried to you, Yahweh.</p><p data-vid=\"PSA 30:8\" class=\"q2\">I made supplication to the Lord:</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 30:9\" class=\"v\">9</span>“What profit is there in my destruction, if I go down to the pit?</p><p data-vid=\"PSA 30:9\" class=\"q2\">Shall the dust praise you?</p><p data-vid=\"PSA 30:9\" class=\"q2\">Shall it declare your truth?</p><p class=\"q1\"><span data-number=\"10\" data-sid=\"PSA 30:10\" class=\"v\">10</span>Hear, Yahweh, and have mercy on me.</p><p data-vid=\"PSA 30:10\" class=\"q2\">Yahweh, be my helper.”</p><p class=\"q1\"><span data-number=\"11\" data-sid=\"PSA 30:11\" class=\"v\">11</span>You have turned my mourning into dancing for me.</p><p data-vid=\"PSA 30:11\" class=\"q2\">You have removed my sackcloth, and clothed me with gladness,</p><p class=\"q2\"><span data-number=\"12\" data-sid=\"PSA 30:12\" class=\"v\">12</span>to the end that my heart may sing praise to you, and not be silent.</p><p data-vid=\"PSA 30:12\" class=\"q1\">Yahweh my God, I will give thanks to you forever!</p>",
+    "next": {
+      "id": "PSA.31",
+      "number": "31",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.29",
+      "number": "29",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzUBYBwHbqxlyoOgvR4EdEzy46-24Sxpo6hIlq6-0HnbwOW4W3EJ8gVxOLuN21udaWMWBHXqJJjM0OSv7Z_n7QD6ZTU2j3ddS66L2SzPV0tfl2EhjdVqnu66N-wob8D0jDNGIHjxZ8muu4AM4NwilQNWh597L02UJo1sbCE145VLaQy2d2XG87YEkLWDoi7YxDBCT5fINlgnWD2P90f9z-zSzad5KpObJRlWUyOnZR5lnpXpLPpowz0D"
+  }
+}

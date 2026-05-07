@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.6",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "6",
+    "bookId": "PSA",
+    "reference": "Psalms 6",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 10,
+    "content": "<p class=\"d\">For the Chief Musician; on stringed instruments, upon the eight-stringed lyre. A Psalm by David.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 6:1\" class=\"v\">1</span>Yahweh, don’t rebuke me in your anger,</p><p data-vid=\"PSA 6:1\" class=\"q2\">neither discipline me in your wrath.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 6:2\" class=\"v\">2</span>Have mercy on me, Yahweh, for I am faint.</p><p data-vid=\"PSA 6:2\" class=\"q2\">Yahweh, heal me, for my bones are troubled.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 6:3\" class=\"v\">3</span>My soul is also in great anguish.</p><p data-vid=\"PSA 6:3\" class=\"q2\">But you, Yahweh—how long?</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 6:4\" class=\"v\">4</span>Return, Yahweh. Deliver my soul,</p><p data-vid=\"PSA 6:4\" class=\"q2\">and save me for your loving kindness’ sake.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 6:5\" class=\"v\">5</span>For in death there is no memory of you.</p><p data-vid=\"PSA 6:5\" class=\"q2\">In Sheol, who shall give you thanks?</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 6:6\" class=\"v\">6</span>I am weary with my groaning.</p><p data-vid=\"PSA 6:6\" class=\"q2\">Every night I flood my bed.</p><p data-vid=\"PSA 6:6\" class=\"q2\">I drench my couch with my tears.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 6:7\" class=\"v\">7</span>My eye wastes away because of grief.</p><p data-vid=\"PSA 6:7\" class=\"q2\">It grows old because of all my adversaries.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 6:8\" class=\"v\">8</span>Depart from me, all you workers of iniquity,</p><p data-vid=\"PSA 6:8\" class=\"q2\">for Yahweh has heard the voice of my weeping.</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 6:9\" class=\"v\">9</span>Yahweh has heard my supplication.</p><p data-vid=\"PSA 6:9\" class=\"q2\">Yahweh accepts my prayer.</p><p class=\"q1\"><span data-number=\"10\" data-sid=\"PSA 6:10\" class=\"v\">10</span>May all my enemies be ashamed and dismayed.</p><p data-vid=\"PSA 6:10\" class=\"q2\">They shall turn back, they shall be disgraced suddenly.</p>",
+    "next": {
+      "id": "PSA.7",
+      "number": "7",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.5",
+      "number": "5",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzIBIIzTFfOihHUPAjom-fFX23CWtFFUtA5LV9-3DVy-6RhbbUU_gihodh23tzov43eC_1tOkkkmuPrv3D_P2wHol9XgfN51LbkuZrM8Xy19XYaFNFbrebnr3rCjEjFu4YwRKD7wZ8uuuwBRCZcmzfaAtYCfm6WJlaSRjS30aFU2Mya2d2Xm87YEIGsXg7qQJoZj8uKSWAfWCFbP4_1Rz4tpXla_WspS6kKGRTCyLGdJ-jHP5jbNbI5TDg"
+  }
+}

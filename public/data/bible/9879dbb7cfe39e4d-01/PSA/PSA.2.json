@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.2",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "2",
+    "bookId": "PSA",
+    "reference": "Psalms 2",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 12,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 2:1\" class=\"v\">1</span>Why do the nations rage,</p><p data-vid=\"PSA 2:1\" class=\"q2\">and the peoples plot a vain thing?</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 2:2\" class=\"v\">2</span>The kings of the earth take a stand,</p><p data-vid=\"PSA 2:2\" class=\"q2\">and the rulers take counsel together,</p><p data-vid=\"PSA 2:2\" class=\"q2\">against Yahweh, and against his Anointed, saying,</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 2:3\" class=\"v\">3</span>“Let’s break their bonds apart,</p><p data-vid=\"PSA 2:3\" class=\"q2\">and cast their cords from us.”</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 2:4\" class=\"v\">4</span>He who sits in the heavens will laugh.</p><p data-vid=\"PSA 2:4\" class=\"q2\">The Lord will have them in derision.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 2:5\" class=\"v\">5</span>Then he will speak to them in his anger,</p><p data-vid=\"PSA 2:5\" class=\"q2\">and terrify them in his wrath:</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 2:6\" class=\"v\">6</span>“Yet I have set my King on my holy hill of Zion.”</p><p class=\"q2\"><span data-number=\"7\" data-sid=\"PSA 2:7\" class=\"v\">7</span>I will tell of the decree:</p><p data-vid=\"PSA 2:7\" class=\"q1\">Yahweh said to me, “You are my son.</p><p data-vid=\"PSA 2:7\" class=\"q2\">Today I have become your father.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 2:8\" class=\"v\">8</span>Ask of me, and I will give the nations for your inheritance,</p><p data-vid=\"PSA 2:8\" class=\"q2\">the uttermost parts of the earth for your possession.</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 2:9\" class=\"v\">9</span>You shall break them with a rod of iron.</p><p data-vid=\"PSA 2:9\" class=\"q2\">You shall dash them in pieces like a potter’s vessel.”</p><p class=\"q1\"><span data-number=\"10\" data-sid=\"PSA 2:10\" class=\"v\">10</span>Now therefore be wise, you kings.</p><p data-vid=\"PSA 2:10\" class=\"q2\">Be instructed, you judges of the earth.</p><p class=\"q1\"><span data-number=\"11\" data-sid=\"PSA 2:11\" class=\"v\">11</span>Serve Yahweh with fear,</p><p data-vid=\"PSA 2:11\" class=\"q2\">and rejoice with trembling.</p><p class=\"q1\"><span data-number=\"12\" data-sid=\"PSA 2:12\" class=\"v\">12</span>Give sincere homage to the Son, lest he be angry, and you perish on the way,</p><p data-vid=\"PSA 2:12\" class=\"q2\">for his wrath will soon be kindled.</p><p data-vid=\"PSA 2:12\" class=\"q2\">Blessed are all those who take refuge in him.</p>",
+    "next": {
+      "id": "PSA.3",
+      "number": "3",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.1",
+      "number": "1",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzIBAIzTFfOihHUPAjom-fFX23CWtFFUtA5LV9-3DVy-6xhXbUVfgghqdhu3tzpTxw2C2uYk4iSCaAV_uX-etwPQL6vJebzrWnJdzGZ5vlr6ugwLaawWNLjr3rCjHLG_wxkjkHzizzG37gJEI1ymNPuD1gq-rkkTC0kjG1uIqgrFj4ntXZr1vC1ByNmVSV4oE8MxenmJrAPrBKvn8f6qnzDNOazcXC6nYSFDrk6WXJJMtpjNy6o5pgsO"
+  }
+}

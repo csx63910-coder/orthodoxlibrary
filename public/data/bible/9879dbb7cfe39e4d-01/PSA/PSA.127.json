@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.127",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "127",
+    "bookId": "PSA",
+    "reference": "Psalms 127",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 5,
+    "content": "<p class=\"d\">A Song of Ascents. By Solomon.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 127:1\" class=\"v\">1</span>Unless Yahweh builds the house,</p><p data-vid=\"PSA 127:1\" class=\"q2\">they who build it labor in vain.</p><p data-vid=\"PSA 127:1\" class=\"q1\">Unless Yahweh watches over the city,</p><p data-vid=\"PSA 127:1\" class=\"q2\">the watchman guards it in vain.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 127:2\" class=\"v\">2</span>It is vain for you to rise up early,</p><p data-vid=\"PSA 127:2\" class=\"q2\">to stay up late,</p><p data-vid=\"PSA 127:2\" class=\"q2\">eating the bread of toil,</p><p data-vid=\"PSA 127:2\" class=\"q2\">for he gives sleep to his loved ones.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 127:3\" class=\"v\">3</span>Behold, children are a heritage of Yahweh.</p><p data-vid=\"PSA 127:3\" class=\"q2\">The fruit of the womb is his reward.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 127:4\" class=\"v\">4</span>As arrows in the hand of a mighty man,</p><p data-vid=\"PSA 127:4\" class=\"q2\">so are the children of youth.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 127:5\" class=\"v\">5</span>Happy is the man who has his quiver full of them.</p><p data-vid=\"PSA 127:5\" class=\"q2\">They won’t be disappointed when they speak with their enemies in the gate.</p>",
+    "next": {
+      "id": "PSA.128",
+      "number": "128",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.126",
+      "number": "126",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzcBoIzTFfOihHXPoLmlfvlFZ41I0wRpIkrrsHT1fdvA5bhb0ePwC9Fo9qLX7q3OrDELgjp1EjEZDdDkr9s_1qkB8E1yaB5n7nuun0SRG2ep9lOTUCG5lseZP943JpWLMNyDEoJA7wJ_7FjdE0AkBOcGzfwAawB-7j0VlgrnI21gnMAKpqz-IpSzMnWdUgBk7p6oC_4zHLFnKbMjWIJsbec3fZo0lm6qIhoaZajxM009HcfUj50sSYsmc9IEBw"
+  }
+}

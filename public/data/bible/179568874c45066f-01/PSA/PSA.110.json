@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.110",
+    "bibleId": "179568874c45066f-01",
+    "number": "110",
+    "bookId": "PSA",
+    "reference": "Psalms 110",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 10,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 110:1\" class=\"v\">1</span>I will praise thee, O Lord, with my whole heart; in the council of the just: and in the congregation.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 110:2\" class=\"v\">2</span>Great are the works of the Lord: sought out according to all his wills.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 110:3\" class=\"v\">3</span>His work is praise and magnificence: and his justice continueth for ever and ever.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 110:4\" class=\"v\">4</span>He hath made a remembrance of his wonderful works, being a merciful and gracious Lord:</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 110:5\" class=\"v\">5</span>He hath given food to them that fear him. He will be mindful for ever of his covenant:</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 110:6\" class=\"v\">6</span>He will shew forth to his people the power of his works.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 110:7\" class=\"v\">7</span>That he may give them the inheritance of the Gentiles: the works of his hands are truth and judgment.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 110:8\" class=\"v\">8</span>All his commandments are faithful: confirmed for ever and ever, made in truth and equity.</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 110:9\" class=\"v\">9</span>He hath sent redemption to his people: he hath commanded his covenant for ever. Holy and terrible is his name:</p><p class=\"q1\"><span data-number=\"10\" data-sid=\"PSA 110:10\" class=\"v\">10</span>The fear of the Lord is the beginning of wisdom. A good understanding to all that do it: his praise continueth for ever and ever.</p>",
+    "next": {
+      "id": "PSA.111",
+      "number": "111",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.109",
+      "number": "109",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzgBABwHbqxlyoOgvR4EdEzy46-24Sxpo6hIlq6-0Fl32-mGB-B_vwRpa2tBmLVAM0rwB20L_m85SSYZiKv_zv3zvB1Av6wm5_Guba4xlZLDPEST0koaqwUN77o37ChrDdiw44wRiD74s-jWXUA04DJl2QexFb5vkSYWmkY2tliioFwJY7C9yzOftyWUnB1ViSFPDGMA0xJcB2sEq-fx_rJPF2bTacpz6eZmIcN8tZQ15iSXSz91rrH4WfIM"
+  }
+}

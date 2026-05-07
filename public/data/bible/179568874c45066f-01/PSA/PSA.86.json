@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.86",
+    "bibleId": "179568874c45066f-01",
+    "number": "86",
+    "bookId": "PSA",
+    "reference": "Psalms 86",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 7,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 86:1\" class=\"v\">1</span>For the sons of Core, a psalm of a canticle. The foundations thereof are in the holy mountains:</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 86:2\" class=\"v\">2</span>The Lord loveth the gates of Sion above all the tabernacles of Jacob.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 86:3\" class=\"v\">3</span>Glorious things are said of thee, O city of God.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 86:4\" class=\"v\">4</span>I will be mindful of Rahab and of Babylon knowing me. Behold the foreigners, and Tyre, and the people of the Ethiopians, these were there.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 86:5\" class=\"v\">5</span>Shall not Sion say: This man and that man is born in her? and the Highest himself hath founded her.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 86:6\" class=\"v\">6</span>The Lord shall tell in his writings of peoples and of princes, of them that have been in her.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 86:7\" class=\"v\">7</span>The dwelling in thee is as it were of all rejoicing.</p>",
+    "next": {
+      "id": "PSA.87",
+      "number": "87",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.85",
+      "number": "85",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBYBwHbqxlyoOgvZ6Jyyl_ut2fpP8OiZsKZAd7JUtXX-i8beBy3K24BPmCOJq96LV7qzNrzILg_5aTZDIKrv677R_P2wGwL2-xebxbLz1xStLljhxz085bNU93O5mPTGLAdI_gnILgBX8sWY0LEAFwbpHMAVYHfu69dqQdLzwNlIbOG2ZaArZ3ZerzVgHI3EFRF2xlGKGnFdkRotCex_ubPvvKNebWtLRMuoup14lq0S5LK77QEAth"
+  }
+}

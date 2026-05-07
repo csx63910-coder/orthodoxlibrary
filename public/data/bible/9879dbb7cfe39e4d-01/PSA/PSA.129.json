@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.129",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "129",
+    "bookId": "PSA",
+    "reference": "Psalms 129",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 8,
+    "content": "<p class=\"d\">A Song of Ascents.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 129:1\" class=\"v\">1</span>Many times they have afflicted me from my youth up.</p><p data-vid=\"PSA 129:1\" class=\"q2\">Let Israel now say:</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 129:2\" class=\"v\">2</span>many times they have afflicted me from my youth up,</p><p data-vid=\"PSA 129:2\" class=\"q2\">yet they have not prevailed against me.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 129:3\" class=\"v\">3</span>The plowers plowed on my back.</p><p data-vid=\"PSA 129:3\" class=\"q2\">They made their furrows long.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 129:4\" class=\"v\">4</span>Yahweh is righteous.</p><p data-vid=\"PSA 129:4\" class=\"q2\">He has cut apart the cords of the wicked.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 129:5\" class=\"v\">5</span>Let them be disappointed and turned backward,</p><p data-vid=\"PSA 129:5\" class=\"q2\">all those who hate Zion.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 129:6\" class=\"v\">6</span>Let them be as the grass on the housetops,</p><p data-vid=\"PSA 129:6\" class=\"q2\">which withers before it grows up,</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 129:7\" class=\"v\">7</span>with which the reaper doesn’t fill his hand,</p><p data-vid=\"PSA 129:7\" class=\"q2\">nor he who binds sheaves, his bosom.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 129:8\" class=\"v\">8</span>Neither do those who go by say,</p><p data-vid=\"PSA 129:8\" class=\"q2\">“The blessing of Yahweh be on you.</p><p data-vid=\"PSA 129:8\" class=\"q2\">We bless you in Yahweh’s name.”</p>",
+    "next": {
+      "id": "PSA.130",
+      "number": "130",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.128",
+      "number": "128",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzcBgIzTFfOihHUPAjom-fFX23CWtFFUtA5LV9-3DVyOuxU9Dr8QjWYveu3e6swasyCwTWkScXJ-C5du_zxvB6BfVlPzeNe15LqYzfJ8tfR1GRbSWC3m8a57w46yrhLTPZwxAsEL_ixZdRcgEuHcoZkftAb4uvfSRGnSyMYWUotWOV_GxPYuTX3eliBk7qDICz4xHMFnS2hHFMHqebw_6nMV43Jao5GrlOYyuBRkmS2t9G4Z5_Nis6iLGQc"
+  }
+}

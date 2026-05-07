@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "EST.10",
+    "bibleId": "de4e12af7f28f599-01",
+    "number": "10",
+    "bookId": "EST",
+    "reference": "Esther 10",
+    "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+    "verseCount": 3,
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"EST 10:1\" class=\"v\">1</span>And the king Ahasuerus laid a tribute upon the land, and <span class=\"add\">upon</span> the isles of the sea. <span data-number=\"2\" data-sid=\"EST 10:2\" class=\"v\">2</span>And all the acts of his power and of his might, and the declaration of the greatness of Mordecai, whereunto the king advanced him, <span class=\"add\">are</span> they not written in the book of the chronicles of the kings of Media and Persia? <span data-number=\"3\" data-sid=\"EST 10:3\" class=\"v\">3</span>For Mordecai the Jew <span class=\"add\">was</span> next unto king Ahasuerus, and great among the Jews, and accepted of the multitude of his brethren, seeking the wealth of his people, and speaking peace to all his seed.</p>",
+    "next": {
+      "id": "JOB.intro",
+      "number": "intro",
+      "bookId": "JOB"
+    },
+    "previous": {
+      "id": "EST.9",
+      "number": "9",
+      "bookId": "EST"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBgIzTFfOihHUPBBxb6ss371iGBElMWoelq-_T26JAuRa1BXkLwuvtfKML_qC3w8E2RknEZP7htv3zvB2AfllNzeVdL5Zhad10lVeurGKt0lgt5umuO8ORsoYY7uGMEehd-LNjNViACMK5QzIfrD4DZ1ySJkqTRjY271ssKqc4JrZ3YdrztgQfc_dEXLCJ4Yg8XRI7wgtWz-P9pQ_z4laLhVvIeUlZBheDrCkt5dLkZVoE5xdl5w"
+  }
+}

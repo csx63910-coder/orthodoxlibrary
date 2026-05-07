@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.117",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "117",
+    "bookId": "PSA",
+    "reference": "Psalms 117",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 2,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 117:1\" class=\"v\">1</span>Praise Yahweh, all you nations!</p><p data-vid=\"PSA 117:1\" class=\"q2\">Extol him, all you peoples!</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 117:2\" class=\"v\">2</span>For his loving kindness is great toward us.</p><p data-vid=\"PSA 117:2\" class=\"q2\">Yahweh’s faithfulness endures forever.</p><p data-vid=\"PSA 117:2\" class=\"q1\">Praise Yah!</p>",
+    "next": {
+      "id": "PSA.118",
+      "number": "118",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.116",
+      "number": "116",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzcBCJwHto388lqYICzrdy0is7XX4O8n-fGrtuEsafY7k6WrL3TW3Xa64EEPYK1WEiTB19baCtNAM0qwKErSbYIg6qWPUFCdw7W9ax-B35LT83nwGHws89wXdaVjZUoqJId6PPjr-2BSenBlREIQgG-4Y6tnCZGBmU2XZahN8MNCha3c_aRNxql10vKP2B2I-rVXIGXuscUMYYrpEfpqvIKk1td0-KssFEHbytGQRUtNJiqa5aG5iKL2WSW0EUZh"
+  }
+}

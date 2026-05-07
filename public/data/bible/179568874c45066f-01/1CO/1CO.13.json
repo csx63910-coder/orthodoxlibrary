@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "1CO.13",
+    "bibleId": "179568874c45066f-01",
+    "number": "13",
+    "bookId": "1CO",
+    "reference": "1 Corinthians 13",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 13,
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"1CO 13:1\" class=\"v\">1</span>If I speak with the tongues of men, and of angels, and have not charity, I am become as sounding brass, or a tinkling cymbal. <span data-number=\"2\" data-sid=\"1CO 13:2\" class=\"v\">2</span>And if I should have prophecy and should know all mysteries, and all knowledge, and if I should have all faith, so that I could remove mountains, and have not charity, I am nothing. <span data-number=\"3\" data-sid=\"1CO 13:3\" class=\"v\">3</span>And if I should distribute all my goods to feed the poor, and if I should deliver my body to be burned, and have not charity, it profiteth me nothing. <span data-number=\"4\" data-sid=\"1CO 13:4\" class=\"v\">4</span>Charity is patient, is kind: charity envieth not, dealeth not perversely; is not puffed up; <span data-number=\"5\" data-sid=\"1CO 13:5\" class=\"v\">5</span>Is not ambitious, seeketh not her own, is not provoked to anger, thinketh no evil; <span data-number=\"6\" data-sid=\"1CO 13:6\" class=\"v\">6</span>Rejoiceth not in iniquity, but rejoiceth with the truth; <span data-number=\"7\" data-sid=\"1CO 13:7\" class=\"v\">7</span>Beareth all things, believeth all things, hopeth all things, endureth all things. <span data-number=\"8\" data-sid=\"1CO 13:8\" class=\"v\">8</span>Charity never falleth away: whether prophecies shall be made void, or tongues shall cease, or knowledge shall be destroyed. <span data-number=\"9\" data-sid=\"1CO 13:9\" class=\"v\">9</span>For we know in part, and we prophesy in part. <span data-number=\"10\" data-sid=\"1CO 13:10\" class=\"v\">10</span>But when that which is perfect is come, that which is in part shall be done away. <span data-number=\"11\" data-sid=\"1CO 13:11\" class=\"v\">11</span>When I was a child, I spoke as a child, I understood as a child, I thought as a child. But, when I became a man, I put away the things of a child. <span data-number=\"12\" data-sid=\"1CO 13:12\" class=\"v\">12</span>We see now through a glass in a dark manner; but then face to face. Now I know I part; but then I shall know even as I am known. <span data-number=\"13\" data-sid=\"1CO 13:13\" class=\"v\">13</span>And now there remain faith, hope, and charity, these three: but the greatest of these is charity.</p>",
+    "next": {
+      "id": "1CO.14",
+      "number": "14",
+      "bookId": "1CO"
+    },
+    "previous": {
+      "id": "1CO.12",
+      "number": "12",
+      "bookId": "1CO"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzUBQIzTFfOihHXPYlOVP834ZywbVVXfKiDpnq3D0tX3bQOX414VlyA_iEazJ81ub3VmzW4Q1DYnESc31Qr-2v7xvB0A-sWam8e75ph9SCm67jyFsJLEWk5qD8NcsUVY78EQCShe4Y9TVrMREBnBZUazPNCaAF83SPKSAsc38sUlRdEtELZ3adrzNgEhczeqvOBLwzF7NjF7ALYCq-fx_qq_alc1j1V2Wq2kW01W1r4KkrmugikEv6IJBw"
+  }
+}

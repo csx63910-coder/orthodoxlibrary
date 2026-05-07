@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.98",
+    "bibleId": "179568874c45066f-01",
+    "number": "98",
+    "bookId": "PSA",
+    "reference": "Psalms 98",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 9,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 98:1\" class=\"v\">1</span>A psalm for David himself. The Lord hath reigned, let the people be angry: he that sitteth on the cherubims: let the earth be moved.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 98:2\" class=\"v\">2</span>The Lord is great in Sion, and high above all people.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 98:3\" class=\"v\">3</span>Let them give praise to thy great name: for it is terrible and holy:</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 98:4\" class=\"v\">4</span>And the king’s honour loveth judgment. Thou hast prepared directions: thou hast done judgment and justice in Jacob.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 98:5\" class=\"v\">5</span>Exalt ye the Lord our God, and adore his footstool, for it is holy.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 98:6\" class=\"v\">6</span>Moses and Aaron among his priests: and Samuel among them that call upon his name. They called upon the Lord, and he heard them:</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 98:7\" class=\"v\">7</span>He spoke to them in the pillar of the cloud. They kept his testimonies, and the commandment which he gave them.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 98:8\" class=\"v\">8</span>Thou didst hear them, O Lord our God: thou wast a merciful God to them, and taking vengeance on all their inventions.</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 98:9\" class=\"v\">9</span>Exalt ye the Lord our God, and adore at his holy mountain: for the Lord our God is holy.</p>",
+    "next": {
+      "id": "PSA.99",
+      "number": "99",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.97",
+      "number": "97",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBYIzTFfOihHUPAjom-fFX23CWtFFUtA5LV9-3DVyOuxWXIF8Qh7Pba_dWZ9aYNU5gG6MkYjK_cHP753k7AP2yGpvHu7a5xlRKDvMQTUoraaxW83TXvWFH1UJ093DGCAQv_Bmy6i5ABOFcIpkPWB187r00UZo0srHF0kJWxvgxsb0r0563JQCZWyjqgk0MR-jpEtkRVbB6Hu83fTLVxbpcJrmK0yqDD1aWRVrK6TTP54swnyW75A"
+  }
+}

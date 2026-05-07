@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.47",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "47",
+    "bookId": "PSA",
+    "reference": "Psalms 47",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 9,
+    "content": "<p class=\"d\">For the Chief Musician. A Psalm by the sons of Korah.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 47:1\" class=\"v\">1</span>Oh clap your hands, all you nations.</p><p data-vid=\"PSA 47:1\" class=\"q2\">Shout to God with the voice of triumph!</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 47:2\" class=\"v\">2</span>For Yahweh Most High is awesome.</p><p data-vid=\"PSA 47:2\" class=\"q2\">He is a great King over all the earth.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 47:3\" class=\"v\">3</span>He subdues nations under us,</p><p data-vid=\"PSA 47:3\" class=\"q2\">and peoples under our feet.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 47:4\" class=\"v\">4</span>He chooses our inheritance for us,</p><p data-vid=\"PSA 47:4\" class=\"q2\">the glory of Jacob whom he loved. <span class=\"qs\">Selah.</span></p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 47:5\" class=\"v\">5</span>God has gone up with a shout,</p><p data-vid=\"PSA 47:5\" class=\"q2\">Yahweh with the sound of a trumpet.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 47:6\" class=\"v\">6</span>Sing praises to God! Sing praises!</p><p data-vid=\"PSA 47:6\" class=\"q2\">Sing praises to our King! Sing praises!</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 47:7\" class=\"v\">7</span>For God is the King of all the earth.</p><p data-vid=\"PSA 47:7\" class=\"q2\">Sing praises with understanding.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 47:8\" class=\"v\">8</span>God reigns over the nations.</p><p data-vid=\"PSA 47:8\" class=\"q2\">God sits on his holy throne.</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 47:9\" class=\"v\">9</span>The princes of the peoples are gathered together,</p><p data-vid=\"PSA 47:9\" class=\"q1\">the people of the God of Abraham.</p><p data-vid=\"PSA 47:9\" class=\"q2\">For the shields of the earth belong to God.</p><p data-vid=\"PSA 47:9\" class=\"q2\">He is greatly exalted!</p>",
+    "next": {
+      "id": "PSA.48",
+      "number": "48",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.46",
+      "number": "46",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBYIzTFfOihHUPAjom-fFX23CWtFFUtA5LV9-3DVyOuxWXIF8QR7Pba_dWZ9ZqNQrq1EkwmaHJX5d_nrcD0C-rsfm861pyXcxmeb5a-roMC2msVnN3171hR4VMTLdwxggEL_izZNZdgAzCuUUqH7A6-Lnv0kRp0sjGFlKzVnnnx8T2rkx93pYAZOygqAs2MRyhp0tke1TB6nm8v-ky52TzIldpZ9bLENJMTpcmDnG5CDWZhbPLOQc"
+  }
+}

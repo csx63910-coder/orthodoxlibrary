@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.3",
+    "bibleId": "179568874c45066f-01",
+    "number": "3",
+    "bookId": "PSA",
+    "reference": "Psalms 3",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 9,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 3:1\" class=\"v\">1</span>The psalm of David when he fled from the face of his son Absalom.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 3:2\" class=\"v\">2</span>Why, O Lord, are they multiplied that afflict me? many are they who rise up against me.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 3:3\" class=\"v\">3</span>Many say to my soul: There is no salvation for him in his God.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 3:4\" class=\"v\">4</span>But thou, O Lord art my protector, my glory, and the lifter up of my head.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 3:5\" class=\"v\">5</span>I have cried to the Lord with my voice: and he hath heard me from his holy hill.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 3:6\" class=\"v\">6</span>I have slept and taken my rest: and I have risen up, because the Lord hath protected me.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 3:7\" class=\"v\">7</span>I will not fear thousands of the people, surrounding me: arise, O Lord; save me, O my God.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 3:8\" class=\"v\">8</span>For thou hast struck all them who are my adversaries without cause: thou hast broken the teeth of sinners.</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 3:9\" class=\"v\">9</span>Salvation is of the Lord: and thy blessing is upon thy people.</p>",
+    "next": {
+      "id": "PSA.4",
+      "number": "4",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.2",
+      "number": "2",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzEBgBwHbqxlyoOgvZ5GY0t9-WX3Yo1I0wRJTJKlqy903jZwOe5WXeI4QjSa3Za_tzqzxiwI6tRBREzM6PDX7R_P2wGwL7HUPN6t5BpTKTnMQ2RKK02xYh7utjfsGA_YHeFIBbkb_jix6i6ALIDgCak6kBrAt73XjJppJLHF0iimlDAGbO-y9OdtCTrmnlNpwSeOEXa2xDWjKqyex7t9YTnP05nkrClzr8N8RT1N86RTnXZekGW-LBg"
+  }
+}

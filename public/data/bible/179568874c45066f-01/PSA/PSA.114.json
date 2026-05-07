@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.114",
+    "bibleId": "179568874c45066f-01",
+    "number": "114",
+    "bookId": "PSA",
+    "reference": "Psalms 114",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 9,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 114:1\" class=\"v\">1</span>I have loved, because the Lord will hear the voice of my prayer.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 114:2\" class=\"v\">2</span>Because he hath inclined his ear unto me: and in my days I will call upon him.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 114:3\" class=\"v\">3</span>The sorrows of death have encompassed me: and the perils of hell have found me. I met with trouble and sorrow:</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 114:4\" class=\"v\">4</span>And I called upon the name of the Lord. O Lord, deliver my soul.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 114:5\" class=\"v\">5</span>The Lord is merciful and just, and our God sheweth mercy.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 114:6\" class=\"v\">6</span>The Lord is the keeper of little ones: I was little and he delivered me.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 114:7\" class=\"v\">7</span>Turn, O my soul, into thy rest: for the Lord hath been bountiful to thee.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 114:8\" class=\"v\">8</span>For he hath delivered my soul from death: my eyes from tears, my feet from falling.</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 114:9\" class=\"v\">9</span>I will please the Lord in the land of the living.</p>",
+    "next": {
+      "id": "PSA.115",
+      "number": "115",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.113",
+      "number": "113",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzcBABwHbqxlyoOgvR5EOKfypwP4Sesm51BtCgiSpasvdNbddrrhAfjfL0Fb1NpaEKZZnFGCHTQPalevpFcSqWPnrn-etwPYl7fkPN6tL02WWkuap-xEVtp5K6h7t71hx3ifwIaZ4JxC9M6fRafuAqIClynLNogt8H2zdrlQGfnc5uqJcS6OwfYuz3jellCyd1QlhjgxjAEMS3BXGsXqebw_7MNiPpVliaJDyqLTXETX6Xypa56X5WyxKrFLDA"
+  }
+}

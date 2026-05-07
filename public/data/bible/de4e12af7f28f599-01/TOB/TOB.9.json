@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "TOB.9",
+    "bibleId": "de4e12af7f28f599-01",
+    "number": "9",
+    "bookId": "TOB",
+    "reference": "Tobit 9",
+    "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+    "verseCount": 6,
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"TOB 9:1\" class=\"v\">1</span>Then Tobias called Raphael, and said unto him,</p><p class=\"p\"><span data-number=\"2\" data-sid=\"TOB 9:2\" class=\"v\">2</span>Brother Azarias, take with thee a servant, and two camels, and go to Rages of Media to Gabael, and bring me the money, and bring him to the wedding.</p><p class=\"p\"><span data-number=\"3\" data-sid=\"TOB 9:3\" class=\"v\">3</span>For Raguel hath sworn that I shall not depart.</p><p class=\"p\"><span data-number=\"4\" data-sid=\"TOB 9:4\" class=\"v\">4</span>But my father counteth the days; and if I tarry long, he will be very sorry.</p><p class=\"p\"><span data-number=\"5\" data-sid=\"TOB 9:5\" class=\"v\">5</span>So Raphael went out, and lodged with Gabael, and gave him the handwriting: who brought forth bags which were sealed up, and gave them to him.</p><p class=\"p\"><span data-number=\"6\" data-sid=\"TOB 9:6\" class=\"v\">6</span>And early in the morning they went forth both together, and came to the wedding: and Tobias blessed his wife.</p>",
+    "next": {
+      "id": "TOB.10",
+      "number": "10",
+      "bookId": "TOB"
+    },
+    "previous": {
+      "id": "TOB.8",
+      "number": "8",
+      "bookId": "TOB"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzEBgBwHbqxlyoOgvR4ENDZTv_zmkUbyBElEt2Tp6guddbedDsr_T99Bvn1BmEZ5RgkWYHlQpw4iYjJDh79u_3ndj6DfVlPz-NDLVVhZN1vntSvrWKs0Vot5eOhxr6Mq2O1xxgjkrvxzYtVdQiYInpAqg9SAb3svTZQmjW1svjSbVQ1mAnYPWdrrvoKOuedUWvCpY4SdrXAdSYL16_SwDzhX3dLMk6zFz2TIucp5Lln6efXZxBS7YRk"
+  }
+}

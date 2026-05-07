@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.14",
+    "bibleId": "179568874c45066f-01",
+    "number": "14",
+    "bookId": "PSA",
+    "reference": "Psalms 14",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 5,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 14:1\" class=\"v\">1</span>A psalm of David. Lord, who shall dwell in thy tabernacle? or who shall rest in thy holy hill?</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 14:2\" class=\"v\">2</span>He that walketh without blemish, and worketh justice:</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 14:3\" class=\"v\">3</span>He that speaketh truth in his heart, who hath not used deceit in his tongue: Nor hath done evil to his neighbour: nor taken up a reproach against his neighbours.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 14:4\" class=\"v\">4</span>In his sight the malignant is brought to nothing: but he glorifieth them that fear the Lord. He that sweareth to his neighbour, and deceiveth not;</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 14:5\" class=\"v\">5</span>He that hath not put out his money to usury, nor taken bribes against the innocent: He that doth these things shall not be moved for ever.</p>",
+    "next": {
+      "id": "PSA.15",
+      "number": "15",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.13",
+      "number": "13",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBwBwHbqxlyoOgvZ5GY0t9-eX2Yo1I0wRJTJKlqy903jZwOe5WXIJ8QRzNbq_dW51X8RsF_7ecJJNZwtV_t_3jeTsA9kXLzOfdMteYSslhHqKktNJCK-XpbnvDjmEAjLZwIgpqF_yxYdZdABEA575kDqQ68G3ftUQtacTYYmmSTC5pDNjeZanP2xJ0jF0TacEmhhF3uuS1R1RYPY_3B10XmVHqKuhplqTDIhddIme6Xs5XjrGQC2I"
+  }
+}

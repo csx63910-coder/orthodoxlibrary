@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.10",
+    "bibleId": "179568874c45066f-01",
+    "number": "10",
+    "bookId": "PSA",
+    "reference": "Psalms 10",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 8,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 10:1\" class=\"v\">1</span>Unto the end. A psalm for David.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 10:2\" class=\"v\">2</span>In the Lord I put my trust: how then do you say to my soul: Get thee away from hence to the mountain like a sparrow?</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 10:3\" class=\"v\">3</span>For, lo, the wicked have bent their bow; they have prepared their arrows in the quiver; to shoot in the dark the upright of heart.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 10:4\" class=\"v\">4</span>For they have destroyed the things which thou hast made: but what has the just man done?</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 10:5\" class=\"v\">5</span>The Lord is in his holy temple, the Lord’s throne is in heaven. His eyes look on the poor man: his eyelids examine the sons of men.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 10:6\" class=\"v\">6</span>The Lord trieth the just and the wicked: but he that loveth iniquity hateth his own soul.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 10:7\" class=\"v\">7</span>He shall rain snares upon sinners: fire and brimstone and storms of winds shall be the portion of their cup.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 10:8\" class=\"v\">8</span>For the Lord is just, and hath loved justice: his countenance hath beheld righteousness.</p>",
+    "next": {
+      "id": "PSA.11",
+      "number": "11",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.9",
+      "number": "9",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBYBwHbqxlyoOgvR4E_P0kP37V9nGWtFlEJ0tXX-i8beBy3K24BPmCBDW7vnZvdWad-EFQ21wUcXITtIK_tn-etwPol9XYPN61zTWmUnKYh2hSWkljtZqnu-6POmUN2M44YwSCN_4csuotIAMEj0iVAavDz71KE6VJYxtbLM0EZWkCtndl-vO2BJC5C0VdsKljhJ4ukR0pgtXzeH_Tty8-xOKqdD4tZcg5ytkqWlnKbOadC02dOQY"
+  }
+}

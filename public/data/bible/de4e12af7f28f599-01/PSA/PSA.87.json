@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.87",
+    "bibleId": "de4e12af7f28f599-01",
+    "number": "87",
+    "bookId": "PSA",
+    "reference": "Psalms 87",
+    "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+    "verseCount": 7,
+    "content": "<p class=\"d\">A Psalm <span class=\"add\">or</span> Song for the sons of Korah.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 87:1\" class=\"v\">1</span>His foundation <span class=\"add\">is</span> in the holy mountains.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 87:2\" class=\"v\">2</span>The <span class=\"nd\">LORD</span> loveth the gates of Zion more than all the dwellings of Jacob.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 87:3\" class=\"v\">3</span>Glorious things are spoken of thee, O city of God. Selah.</p><p class=\"b\"></p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 87:4\" class=\"v\">4</span>I will make mention of Rahab and Babylon to them that know me: behold Philistia, and Tyre, with Ethiopia; this <span class=\"add\">man</span> was born there.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 87:5\" class=\"v\">5</span>And of Zion it shall be said, This and that man was born in her: and the highest himself shall establish her.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 87:6\" class=\"v\">6</span>The <span class=\"nd\">LORD</span> shall count, when he writeth up the people, <span class=\"add\">that</span> this <span class=\"add\">man</span> was born there. Selah.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 87:7\" class=\"v\">7</span>As well the singers as the players on instruments <span class=\"add\">shall be there:</span> all my springs <span class=\"add\">are</span> in thee.</p>",
+    "next": {
+      "id": "PSA.88",
+      "number": "88",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.86",
+      "number": "86",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBIBwHbqxlyoOgvR4EdEzy46-24Sxpo6hIlq6-0HnbwOWbjrEVl-AOIRrNbq_dW52Z4wZBbXMScRIXtYK_rn-etwPol9XgPN71YhmW1k1XeeXKKtYqjdV6ZnfdG3ZUyWB_xhkjkLzz55hTdwFRgcuQZhu4BvzdIk2sJI1sbD41RtmaxmB712Y8b0sQ2btS9QWfGMbw2RLalSxYPY_3V_37MvXTMHVyuZgZGYyvsngb5arGRfZuOWtEYQ"
+  }
+}

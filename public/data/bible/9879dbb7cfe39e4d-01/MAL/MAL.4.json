@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "MAL.4",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "4",
+    "bookId": "MAL",
+    "reference": "Malachi 4",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 6,
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"MAL 4:1\" class=\"v\">1</span>“For behold, the day comes, burning like a furnace, when all the proud and all who work wickedness will be stubble. The day that comes will burn them up,” says Yahweh of Armies, “so that it will leave them neither root nor branch. <span data-number=\"2\" data-sid=\"MAL 4:2\" class=\"v\">2</span>But to you who fear my name shall the sun of righteousness arise with healing in its wings. You will go out and leap like calves of the stall. <span data-number=\"3\" data-sid=\"MAL 4:3\" class=\"v\">3</span>You shall tread down the wicked; for they will be ashes under the soles of your feet in the day that I make,” says Yahweh of Armies.</p><p class=\"p\"><span data-number=\"4\" data-sid=\"MAL 4:4\" class=\"v\">4</span>“Remember the law of Moses my servant, which I commanded to him in Horeb for all Israel, even statutes and ordinances.</p><p class=\"p\"><span data-number=\"5\" data-sid=\"MAL 4:5\" class=\"v\">5</span>Behold, I will send you Elijah the prophet before the great and terrible day of Yahweh comes. <span data-number=\"6\" data-sid=\"MAL 4:6\" class=\"v\">6</span>He will turn the hearts of the fathers to the children and the hearts of the children to their fathers, lest I come and strike the earth with a curse.”</p>",
+    "next": {
+      "id": "TOB.intro",
+      "number": "intro",
+      "bookId": "TOB"
+    },
+    "previous": {
+      "id": "MAL.3",
+      "number": "3",
+      "bookId": "MAL"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzEBIBwHbqxlyoOgvR4EdEzy46-2Ydpoo6hIlq6-0HnbwOW4W3WJ4wjRaPai1e-tzqwxC4L_Ww6STMqCG_677Z_n7QD6ZTU4j3ddS66L2SzPV0tfl2EhjdV6Hu562BmoANZ7nDECxQt_rqy6C8gEgoek8oA14OfeSxOlSSMbW6jNJ5ViGoPtXZn6vC0BZO5FVRd84hiRZ0tiR5Jg9Tze7ZP5ylhTl0bWMJvKEKdZzubZyVhsTb1Ni7AqDA"
+  }
+}

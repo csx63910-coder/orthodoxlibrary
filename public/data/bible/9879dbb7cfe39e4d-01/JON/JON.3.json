@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "JON.3",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "3",
+    "bookId": "JON",
+    "reference": "Jonah 3",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 10,
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"JON 3:1\" class=\"v\">1</span>Yahweh’s word came to Jonah the second time, saying, <span data-number=\"2\" data-sid=\"JON 3:2\" class=\"v\">2</span>“Arise, go to Nineveh, that great city, and preach to it the message that I give you.”</p><p class=\"p\"><span data-number=\"3\" data-sid=\"JON 3:3\" class=\"v\">3</span>So Jonah arose, and went to Nineveh, according to Yahweh’s word. Now Nineveh was an exceedingly great city, three days’ journey across. <span data-number=\"4\" data-sid=\"JON 3:4\" class=\"v\">4</span>Jonah began to enter into the city a day’s journey, and he cried out, and said, “In forty days, Nineveh will be overthrown!”</p><p class=\"p\"><span data-number=\"5\" data-sid=\"JON 3:5\" class=\"v\">5</span>The people of Nineveh believed God; and they proclaimed a fast and put on sackcloth, from their greatest even to their least. <span data-number=\"6\" data-sid=\"JON 3:6\" class=\"v\">6</span>The news reached the king of Nineveh, and he arose from his throne, took off his royal robe, covered himself with sackcloth, and sat in ashes. <span data-number=\"7\" data-sid=\"JON 3:7\" class=\"v\">7</span>He made a proclamation and published through Nineveh by the decree of the king and his nobles, saying, “Let neither man nor animal, herd nor flock, taste anything; let them not feed, nor drink water; <span data-number=\"8\" data-sid=\"JON 3:8\" class=\"v\">8</span>but let them be covered with sackcloth, both man and animal, and let them cry mightily to God. Yes, let them turn everyone from his evil way and from the violence that is in his hands. <span data-number=\"9\" data-sid=\"JON 3:9\" class=\"v\">9</span>Who knows whether God will not turn and relent, and turn away from his fierce anger, so that we might not perish?”</p><p class=\"p\"><span data-number=\"10\" data-sid=\"JON 3:10\" class=\"v\">10</span>God saw their works, that they turned from their evil way. God relented of the disaster which he said he would do to them, and he didn’t do it.</p>",
+    "next": {
+      "id": "JON.4",
+      "number": "4",
+      "bookId": "JON"
+    },
+    "previous": {
+      "id": "JON.2",
+      "number": "2",
+      "bookId": "JON"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzIBoBwHbqxlyoOgvZ5Jcyp_Onki4doOSG0KCJKlqy903jZwOe5WXeI4QjSa3cbtrc7LxiwI_m85SSaz4Oq_S_943g6AfGkJzeNd5hTzYjaL89XS5qVbsNJSy8Nd1t2OsIDREUYpgtoNf2xYVQsgCsC5QbIOoAbwa-9ZeVZhpH1xueggdIxjwPauSn_eloBj7poqCz4xjKizJa0JtCKsnsf7gz7MzLtk05J1nM7Z6Rg4rWaW5760UVEttHMeAw"
+  }
+}

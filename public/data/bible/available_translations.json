@@ -1,0 +1,102 @@
+{
+  "translations": [
+    {
+      "id": "BSB",
+      "name": "Berean Standard Bible",
+      "language": "eng",
+      "englishName": "Berean Standard Bible",
+      "scope": "Full"
+    },
+    {
+      "id": "eng_bre",
+      "name": "Brenton English Septuagint",
+      "language": "eng",
+      "englishName": "Brenton English Septuagint",
+      "scope": "OT"
+    },
+    {
+      "id": "eng_kjv",
+      "name": "King James Version",
+      "language": "eng",
+      "englishName": "King James Version",
+      "scope": "Full"
+    },
+    {
+      "id": "eng_lxx",
+      "name": "English Septuagint",
+      "language": "eng",
+      "englishName": "English Septuagint",
+      "scope": "OT"
+    },
+    {
+      "id": "eng_tnt",
+      "name": "Tyndale New Testament",
+      "language": "eng",
+      "englishName": "Tyndale New Testament",
+      "scope": "NT"
+    },
+    {
+      "id": "eng_web",
+      "name": "World English Bible",
+      "language": "eng",
+      "englishName": "World English Bible",
+      "scope": "Full"
+    },
+    {
+      "id": "grc_bre",
+      "name": "Brenton Septuagint",
+      "language": "grc",
+      "englishName": "Brenton Septuagint",
+      "scope": "OT"
+    },
+    {
+      "id": "grc_byz",
+      "name": "Byzantine Greek NT",
+      "language": "grc",
+      "englishName": "Byzantine Greek NT",
+      "scope": "NT"
+    },
+    {
+      "id": "grc_gtr",
+      "name": "Textus Receptus",
+      "language": "grc",
+      "englishName": "Textus Receptus",
+      "scope": "NT"
+    },
+    {
+      "id": "grc_sbl",
+      "name": "SBL Greek NT",
+      "language": "grc",
+      "englishName": "SBL Greek NT",
+      "scope": "NT"
+    },
+    {
+      "id": "rus_syn",
+      "name": "Russian Synodal Bible",
+      "language": "rus",
+      "englishName": "Russian Synodal Bible",
+      "scope": "Full"
+    },
+    {
+      "id": "srp_865",
+      "name": "Sveta Biblija (Danicic-Vuk)",
+      "language": "srp",
+      "englishName": "Sveta Biblija (Danicic-Vuk)",
+      "scope": "Full"
+    },
+    {
+      "id": "srp_onspc",
+      "name": "New Serbian Translation (Cyrillic)",
+      "language": "srp",
+      "englishName": "New Serbian Translation (Cyrillic)",
+      "scope": "Full"
+    },
+    {
+      "id": "srp_onstl",
+      "name": "New Serbian Translation (Latin)",
+      "language": "srp",
+      "englishName": "New Serbian Translation (Latin)",
+      "scope": "Full"
+    }
+  ]
+}

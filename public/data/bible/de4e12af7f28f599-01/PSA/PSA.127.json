@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.127",
+    "bibleId": "de4e12af7f28f599-01",
+    "number": "127",
+    "bookId": "PSA",
+    "reference": "Psalms 127",
+    "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+    "verseCount": 5,
+    "content": "<p class=\"d\">A Song of degrees for Solomon.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 127:1\" class=\"v\">1</span>Except the <span class=\"nd\">LORD</span> build the house, they labour in vain that build it: except the <span class=\"nd\">LORD</span> keep the city, the watchman waketh <span class=\"add\">but</span> in vain.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 127:2\" class=\"v\">2</span><span class=\"add\">It is</span> vain for you to rise up early, to sit up late, to eat the bread of sorrows: <span class=\"add\">for</span> so he giveth his beloved sleep.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 127:3\" class=\"v\">3</span>Lo, children <span class=\"add\">are</span> an heritage of the <span class=\"nd\">LORD</span>: <span class=\"add\">and</span> the fruit of the womb <span class=\"add\">is his</span> reward.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 127:4\" class=\"v\">4</span>As arrows <span class=\"add\">are</span> in the hand of a mighty man; so <span class=\"add\">are</span> children of the youth.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 127:5\" class=\"v\">5</span>Happy <span class=\"add\">is</span> the man that hath his quiver full of them: they shall not be ashamed, but they shall speak with the enemies in the gate.</p>",
+    "next": {
+      "id": "PSA.128",
+      "number": "128",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.126",
+      "number": "126",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzcBoIzTFfOihHUPAjom-fFX23CWtFFUtA5LV991t50ueMAD4PdWEqStrQVlaaAZJVaB5kFtcxARJ8FRq-Gv45_n7QD0y2poHu96sQxL66arvHJlFWuVxmotZUa9YUe1TBwe4YwR6F3x545VdwEyE2EWXJUHrAn83ChNbJZGNjZ_tVXFYMfE9q5Mf96WAGTuPasuhInjlD2_ZPYPomD1PN67C5DctLiwnMroY5bBxZmczVdz24di66wW7_OKAw"
+  }
+}

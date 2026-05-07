@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "TIT.3",
+    "bibleId": "179568874c45066f-01",
+    "number": "3",
+    "bookId": "TIT",
+    "reference": "Titus 3",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 15,
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"TIT 3:1\" class=\"v\">1</span>Admonish them to be subject to princes and powers, to obey at a word, to be ready to every good work. <span data-number=\"2\" data-sid=\"TIT 3:2\" class=\"v\">2</span>To speak evil of no man, not to be litigious, but gentle: shewing all mildness towards all men. <span data-number=\"3\" data-sid=\"TIT 3:3\" class=\"v\">3</span>For we ourselves also were some time unwise, incredulous, erring, slaves to divers desires and pleasures, living in malice and envy, hateful, and hating one another. <span data-number=\"4\" data-sid=\"TIT 3:4\" class=\"v\">4</span>But when the goodness and kindness of God our Saviour appeared: <span data-number=\"5\" data-sid=\"TIT 3:5\" class=\"v\">5</span>Not by the works of justice, which we have done, but according to his mercy, he saved us, by the laver of regeneration, and renovation of the Holy Ghost; <span data-number=\"6\" data-sid=\"TIT 3:6\" class=\"v\">6</span>Whom he hath poured forth upon us abundantly, through Jesus Christ our Saviour: <span data-number=\"7\" data-sid=\"TIT 3:7\" class=\"v\">7</span>That, being justified by his grace, we may be heirs, according to hope of life everlasting. <span data-number=\"8\" data-sid=\"TIT 3:8\" class=\"v\">8</span>It is a faithful saying: and these things I will have thee affirm constantly: that they, who believe in God, may be careful to excel in good works. These things are good and profitable unto men. <span data-number=\"9\" data-sid=\"TIT 3:9\" class=\"v\">9</span>But avoid foolish questions, and genealogies, and contentions, and strivings about the law. For they are unprofitable and vain. <span data-number=\"10\" data-sid=\"TIT 3:10\" class=\"v\">10</span>A man that is a heretic, after the first and second admonition, avoid: <span data-number=\"11\" data-sid=\"TIT 3:11\" class=\"v\">11</span>Knowing that he, that is such an one, is subverted, and sinneth, being condemned by his own judgment. <span data-number=\"12\" data-sid=\"TIT 3:12\" class=\"v\">12</span>When I shall send to thee Artemas or Tychicus, make haste to come unto me to Nicopolis. For there I have determined to winter. <span data-number=\"13\" data-sid=\"TIT 3:13\" class=\"v\">13</span>Send forward Zenas, the lawyer, and Apollo, with care, that nothing be wanting to them. <span data-number=\"14\" data-sid=\"TIT 3:14\" class=\"v\">14</span>And let our men also learn to excel in good works for necessary uses: that they be not unfruitful. <span data-number=\"15\" data-sid=\"TIT 3:15\" class=\"v\">15</span>All that are with me salute thee: salute them that love us in the faith. The grace of God be with you all. Amen.</p>",
+    "next": {
+      "id": "PHM.intro",
+      "number": "intro",
+      "bookId": "PHM"
+    },
+    "previous": {
+      "id": "TIT.2",
+      "number": "2",
+      "bookId": "TIT"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzIBIBwHbqxlyoOgvR4EdC3y4a0GO1-6p6hIlq6-0Fl32-mGB-D_p5a3thaEaaAZJfhTlAS1zUnFSZy0gr_cP8_bAfTLanA-79rmGlMpOcxDNCmtpLFaz-Cu-9CVB-srzhiB4oM_p5yGBWQDIUNafcBa4ecWaWInqdvUTBi8ss6MYHtXZj5vSwDZu9HUhTwxjMlLS2IdbBSsnsf7ox6NLVM_91HWuogylMVczmbRLwu3nE7dzPmyLAw"
+  }
+}

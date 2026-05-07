@@ -1,0 +1,26 @@
+{
+  "entries": [
+    {
+      "folder": "Apostle Paul",
+      "displayName": "Apostle Paul",
+      "category": "apostle",
+      "tradition": "shared",
+      "sampleImages": [
+        "1L.JPG",
+        "1O.JPG",
+        "2L.JPG"
+      ]
+    },
+    {
+      "folder": "Apostle Peter",
+      "displayName": "Apostle Peter",
+      "category": "apostle",
+      "tradition": "shared",
+      "sampleImages": [
+        "1L.JPG",
+        "1O.JPG",
+        "2L.JPG"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.125",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "125",
+    "bookId": "PSA",
+    "reference": "Psalms 125",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 5,
+    "content": "<p class=\"d\">A Song of Ascents.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 125:1\" class=\"v\">1</span>Those who trust in Yahweh are as Mount Zion,</p><p data-vid=\"PSA 125:1\" class=\"q2\">which can’t be moved, but remains forever.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 125:2\" class=\"v\">2</span>As the mountains surround Jerusalem,</p><p data-vid=\"PSA 125:2\" class=\"q2\">so Yahweh surrounds his people from this time forward and forever more.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 125:3\" class=\"v\">3</span>For the scepter of wickedness won’t remain over the allotment of the righteous,</p><p data-vid=\"PSA 125:3\" class=\"q2\">so that the righteous won’t use their hands to do evil.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 125:4\" class=\"v\">4</span>Do good, Yahweh, to those who are good,</p><p data-vid=\"PSA 125:4\" class=\"q2\">to those who are upright in their hearts.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 125:5\" class=\"v\">5</span>But as for those who turn away to their crooked ways,</p><p data-vid=\"PSA 125:5\" class=\"q2\">Yahweh will lead them away with the workers of iniquity.</p><p data-vid=\"PSA 125:5\" class=\"q1\">Peace be on Israel.</p>",
+    "next": {
+      "id": "PSA.126",
+      "number": "126",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.124",
+      "number": "124",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzcBAIzTFfOihHUPAjom-fFX23CWtFFUtA5LV991t51ueAD-90vQFrW2FoRpFmeUYAfNg9rVK-mVSOrYueuf5-0A9Mtqch7vupZcF7NZnq-Wvi7DQhqrBXXvujfsKOsisWGGM0YgesefRafuAkQlXKYs24PYAr5vliYWmkY2tpC8qqItY2J7l2c8b0tQsndUJYY4MRwDGJbgroiC1fN4f9gHl0OpJi2kXyysDGYZ5XRmZnIxL_PFLC-jbSQO"
+  }
+}

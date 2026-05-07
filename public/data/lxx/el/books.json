@@ -1,0 +1,237 @@
+[
+  {
+    "slug": "genesis",
+    "name": "Γένεση",
+    "file": "Gen"
+  },
+  {
+    "slug": "exodus",
+    "name": "Εξοδος πλήθους",
+    "file": "Exod"
+  },
+  {
+    "slug": "leviticus",
+    "name": "Λευιτικόν",
+    "file": "Lev"
+  },
+  {
+    "slug": "numbers",
+    "name": "Αριθμοί",
+    "file": "Num"
+  },
+  {
+    "slug": "deuteronomy",
+    "name": "Δευτερονόμιο",
+    "file": "Deut"
+  },
+  {
+    "slug": "joshua",
+    "name": "Joshua (Jesus of Nave)",
+    "file": "JoshB"
+  },
+  {
+    "slug": "judges",
+    "name": "δικαστές",
+    "file": "JudgB"
+  },
+  {
+    "slug": "ruth",
+    "name": "Ρουθ",
+    "file": "Ruth"
+  },
+  {
+    "slug": "1-kingdoms",
+    "name": "1 Βασίλεια (1 Σαμουήλ)",
+    "file": "1Sam"
+  },
+  {
+    "slug": "2-kingdoms",
+    "name": "2 Βασίλεια (2 Σαμουήλ)",
+    "file": "2Sam"
+  },
+  {
+    "slug": "3-kingdoms",
+    "name": "3 Βασίλεια (1 Βασιλιάς)",
+    "file": "1Kgs"
+  },
+  {
+    "slug": "4-kingdoms",
+    "name": "4 Βασίλεια (2 Βασιλιάδες)",
+    "file": "2Kgs"
+  },
+  {
+    "slug": "1-paralipomenon",
+    "name": "1 Παραλιπόμενον (1 Χρονικά)",
+    "file": "1Chr"
+  },
+  {
+    "slug": "2-paralipomenon",
+    "name": "2 Παραλιπόμενον (2 Χρονικά)",
+    "file": "2Chr"
+  },
+  {
+    "slug": "1-esdras",
+    "name": "1 Esdras (Ελληνικός Έζδρας)",
+    "file": "1Esd"
+  },
+  {
+    "slug": "2-esdras",
+    "name": "2 Έσδρας (Έσδρας και Νεεμίας)",
+    "file": "2Esd"
+  },
+  {
+    "slug": "judith",
+    "name": "Ιουδίθ",
+    "file": "Jdt"
+  },
+  {
+    "slug": "esther",
+    "name": "Esther (με ελληνικές προσθήκες)",
+    "file": "Esth"
+  },
+  {
+    "slug": "1-maccabees",
+    "name": "1 Μακκαβαίοι",
+    "file": "1Macc"
+  },
+  {
+    "slug": "2-maccabees",
+    "name": "2 Μακκαβαίοι",
+    "file": "2Macc"
+  },
+  {
+    "slug": "3-maccabees",
+    "name": "3 Μακκαβαίοι",
+    "file": "3Macc"
+  },
+  {
+    "slug": "psalms",
+    "name": "Ψαλμοί (συμπεριλαμβανομένου του Ψαλμού 151)",
+    "file": "Ps"
+  },
+  {
+    "slug": "job",
+    "name": "Δουλειά",
+    "file": "Job"
+  },
+  {
+    "slug": "proverbs",
+    "name": "Παροιμίες",
+    "file": "Prov"
+  },
+  {
+    "slug": "ecclesiastes",
+    "name": "Εκκλησιαστής",
+    "file": "Eccl"
+  },
+  {
+    "slug": "song-of-solomon",
+    "name": "Το τραγούδι του Σολομώντα",
+    "file": "Song"
+  },
+  {
+    "slug": "wisdom-of-solomon",
+    "name": "Σοφία Σολομώντα",
+    "file": "Wis"
+  },
+  {
+    "slug": "wisdom-of-sirach",
+    "name": "Σοφία Σιράχ (Εκκλησιαστικός)",
+    "file": "Sir"
+  },
+  {
+    "slug": "hosea",
+    "name": "Osea",
+    "file": "Hos"
+  },
+  {
+    "slug": "joel",
+    "name": "Τζόελ",
+    "file": "Joel"
+  },
+  {
+    "slug": "amos",
+    "name": "Amos",
+    "file": "Amos"
+  },
+  {
+    "slug": "obadiah",
+    "name": "Ο Obadiah",
+    "file": "Obad"
+  },
+  {
+    "slug": "jonah",
+    "name": "Γρουσούζης",
+    "file": "Jonah"
+  },
+  {
+    "slug": "micah",
+    "name": "Ο Μίχας",
+    "file": "Mic"
+  },
+  {
+    "slug": "nahum",
+    "name": "Ναούμ",
+    "file": "Nah"
+  },
+  {
+    "slug": "habakkuk",
+    "name": "Αββακούμ",
+    "file": "Hab"
+  },
+  {
+    "slug": "zephaniah",
+    "name": "Σοφονία",
+    "file": "Zeph"
+  },
+  {
+    "slug": "haggai",
+    "name": "Ο Χαγγαίος",
+    "file": "Hag"
+  },
+  {
+    "slug": "zechariah",
+    "name": "Ζαχαρίας",
+    "file": "Zech"
+  },
+  {
+    "slug": "malachi",
+    "name": "Μαλαχίας",
+    "file": "Mal"
+  },
+  {
+    "slug": "isaiah",
+    "name": "Ησάιας",
+    "file": "Isa"
+  },
+  {
+    "slug": "jeremiah",
+    "name": "Ιερεμίας",
+    "file": "Jer"
+  },
+  {
+    "slug": "baruch",
+    "name": "Μπαρούχ",
+    "file": "Bar"
+  },
+  {
+    "slug": "lamentations",
+    "name": "Θρήνοι",
+    "file": "Lam"
+  },
+  {
+    "slug": "letter-of-jeremiah",
+    "name": "Επιστολή του Ιερεμία",
+    "file": "EpJer"
+  },
+  {
+    "slug": "ezekiel",
+    "name": "Ιεζεκιήλ",
+    "file": "Ezek"
+  },
+  {
+    "slug": "daniel",
+    "name": "Daniel (με τη Σουζάνα και τον Μπελ και τον Δράκο)",
+    "file": "DanTh"
+  }
+]

@@ -1,0 +1,106 @@
+{
+  "translation": {
+    "id": "eng_kjv",
+    "name": "King James (Authorized) Version",
+    "website": "https://ebible.org/Scriptures/details.php?id=eng-kjv2006",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=eng-kjv2006",
+    "shortName": "KJAV",
+    "englishName": "King James Version",
+    "language": "eng",
+    "textDirection": "ltr",
+    "sha256": "a847712eeaae26124d3f9db80a1a9274742981261961b49715f43809774eb43c",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/eng_kjv/books.json",
+    "completeTranslationApiLink": "/api/eng_kjv/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31102,
+    "languageName": "English",
+    "languageEnglishName": "English"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "eng_kjv",
+    "name": "Psalms",
+    "commonName": "Psalms",
+    "title": "The Book of Psalms",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "7bccd076c8889684c0a037e3d255cb4508bb73e03494e49aa49156505c4e4bfd",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/eng_kjv/PSA/1.json",
+    "lastChapterNumber": 150,
+    "lastChapterApiLink": "/api/eng_kjv/PSA/150.json",
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 133,
+    "content": [
+      {
+        "type": "hebrew_subtitle",
+        "content": [
+          "A Song of degrees of David."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Behold, how good and how pleasant it is for brethren to dwell together in unity!",
+            "poem": 1
+          },
+          {
+            "noteId": 705
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "It is like the precious ointment upon the head, that ran down upon the beard, even Aaron’s beard: that went down to the skirts of his garments;",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "As the dew of Hermon, and as the dew that descended upon the mountains of Zion: for there the LORD commanded the blessing, even life for evermore.",
+            "poem": 1
+          }
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 705,
+        "caller": "+",
+        "text": "133.1 together…: Heb. even together",
+        "reference": {
+          "chapter": 133,
+          "verse": 1
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/eng_kjv/PSA/133.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/eng_kjv/PSA/134.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/eng_kjv/PSA/132.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 3
+}

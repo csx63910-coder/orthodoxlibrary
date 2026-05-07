@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.133",
+    "bibleId": "de4e12af7f28f599-01",
+    "number": "133",
+    "bookId": "PSA",
+    "reference": "Psalms 133",
+    "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+    "verseCount": 3,
+    "content": "<p class=\"d\">A Song of degrees of David.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 133:1\" class=\"v\">1</span>Behold, how good and how pleasant <span class=\"add\">it is</span> for brethren to dwell together in unity!</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 133:2\" class=\"v\">2</span><span class=\"add\">It is</span> like the precious ointment upon the head, that ran down upon the beard, <span class=\"add\">even</span> Aaron’s beard: that went down to the skirts of his garments;</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 133:3\" class=\"v\">3</span>As the dew of Hermon, <span class=\"add\">and as the dew</span> that descended upon the mountains of Zion: for there the <span class=\"nd\">LORD</span> commanded the blessing, <span class=\"add\">even</span> life for evermore.</p>",
+    "next": {
+      "id": "PSA.134",
+      "number": "134",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.132",
+      "number": "132",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzcBoBwHbqxlyoOgvR4EdEzy46-24Sxpo6hIlq6-0Fl32-mGB-B_vxzS1taCMM3ijBLsoIEE_7ecJJOywtV_d_3zvB1Av6yG5vGuF8uwtG66yitXVrFWaazWMrzr3rCjrPdgeMYZI9C782fHqbuAqMClwbINWAv83CxNLJJGNjYfOqdMzmOwvSsznrclgOzdU3UhTQxj9nzJ7IoXrJ7H-5s-zYJbpuSznE-nSYZcjaw2BxnrbOanfrZarAwD"
+  }
+}

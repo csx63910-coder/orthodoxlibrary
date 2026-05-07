@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.60",
+    "bibleId": "179568874c45066f-01",
+    "number": "60",
+    "bookId": "PSA",
+    "reference": "Psalms 60",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 9,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 60:1\" class=\"v\">1</span>Unto the end, in hymns, for David.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 60:2\" class=\"v\">2</span>Hear, O God, my supplication: be attentive to my prayer,</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 60:3\" class=\"v\">3</span>To thee have I cried from the ends of the earth: when my heart was in anguish, thou hast exalted me on a rock. Thou hast conducted me;</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 60:4\" class=\"v\">4</span>For thou hast been my hope; a tower of strength against the face of the enemy.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 60:5\" class=\"v\">5</span>In thy tabernacle I shall dwell for ever: I shall be protected under the covert of thy wings.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 60:6\" class=\"v\">6</span>For thou, my God, hast heard my prayer: thou hast given an inheritance to them that fear thy name.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 60:7\" class=\"v\">7</span>Thou wilt add days to the days of the king: his years even to generation and generation.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 60:8\" class=\"v\">8</span>He abideth for ever in the sight of God: his mercy and truth who shall search?</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 60:9\" class=\"v\">9</span>So will I sing a psalm to thy name for ever and ever: that I may pay my vows from day to day.</p>",
+    "next": {
+      "id": "PSA.61",
+      "number": "61",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.59",
+      "number": "59",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBoBwHbqxlyoOgvR4EdEzy46-24Sxpo6hIlq6-0HnbwOW4W3EJ8gVxNLu9dm91XsVvFNSpk4jJZoEmf93-ed4OoF9WQ_N51zbXmErJYR6iSWkljdVanu66N-yoZMBsizNGIHfhz4pZdwERwLlBMgeqDv_2XZooTRrZ2GJpLqsUwhhs77rU520JHmPnRFuwiWEEni6B7amC1fN4f9H1YmVjnoYgp27hZVgurJyWamRdutUyzVehzjwD"
+  }
+}

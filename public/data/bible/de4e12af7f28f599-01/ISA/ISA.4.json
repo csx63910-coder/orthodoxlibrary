@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "ISA.4",
+    "bibleId": "de4e12af7f28f599-01",
+    "number": "4",
+    "bookId": "ISA",
+    "reference": "Isaiah 4",
+    "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+    "verseCount": 6,
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"ISA 4:1\" class=\"v\">1</span>And in that day seven women shall take hold of one man, saying, We will eat our own bread, and wear our own apparel: only let us be called by thy name, to take away our reproach.</p><p class=\"p\"><span data-number=\"2\" data-sid=\"ISA 4:2\" class=\"v\">2</span>In that day shall the branch of the <span class=\"nd\">LORD</span> be beautiful and glorious, and the fruit of the earth <span class=\"add\">shall be</span> excellent and comely for them that are escaped of Israel. <span data-number=\"3\" data-sid=\"ISA 4:3\" class=\"v\">3</span>And it shall come to pass, <span class=\"add\">that he that is</span> left in Zion, and <span class=\"add\">he that</span> remaineth in Jerusalem, shall be called holy, <span class=\"add\">even</span> every one that is written among the living in Jerusalem: <span data-number=\"4\" data-sid=\"ISA 4:4\" class=\"v\">4</span>When the Lord shall have washed away the filth of the daughters of Zion, and shall have purged the blood of Jerusalem from the midst thereof by the spirit of judgment, and by the spirit of burning. <span data-number=\"5\" data-sid=\"ISA 4:5\" class=\"v\">5</span>And the <span class=\"nd\">LORD</span> will create upon every dwelling place of mount Zion, and upon her assemblies, a cloud and smoke by day, and the shining of a flaming fire by night: for upon all the glory <span class=\"add\">shall be</span> a defence. <span data-number=\"6\" data-sid=\"ISA 4:6\" class=\"v\">6</span>And there shall be a tabernacle for a shadow in the daytime from the heat, and for a place of refuge, and for a covert from storm and from rain.</p>",
+    "next": {
+      "id": "ISA.5",
+      "number": "5",
+      "bookId": "ISA"
+    },
+    "previous": {
+      "id": "ISA.3",
+      "number": "3",
+      "bookId": "ISA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzEBABwHbqxlyoOgvR4EtM3UL795I5JZ2pKYJEtXX-isu-10wwPw_1PLW1sLwjSLM0qkrYMmQW1zEnESEbSCv65_nrcD6JfV5Dze9WIZltZNV3nlyirWKo3Vgjp33Q-dCmB_xBkjkLzx55hdv4AowGVKsw5aM3zdJE0sJI1sbN6NUaUSx2B7l6Y_b0sIWbvS5IU4MYzRC0tkZ5Jg9TzeH3UI02TTYraQ8-4jyzCvXta5CXJq5zEak2sthgE"
+  }
+}

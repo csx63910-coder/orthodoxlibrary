@@ -1,0 +1,174 @@
+{
+  "translation": {
+    "id": "eng_lxx",
+    "name": "LXX2012: Septuagint in American English 2012",
+    "website": "https://ebible.org/Scriptures/details.php?id=eng-lxx2012",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=eng-lxx2012",
+    "shortName": "LXXSA",
+    "englishName": "LXX2012 U. S. English",
+    "language": "eng",
+    "textDirection": "ltr",
+    "sha256": "0d3bb79b82b36a3b295a66dbf9a82a0c0c701df5d3e235690aeffb9a83a53da7",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/eng_lxx/books.json",
+    "completeTranslationApiLink": "/api/eng_lxx/complete.json",
+    "numberOfBooks": 39,
+    "totalNumberOfChapters": 930,
+    "totalNumberOfVerses": 22876,
+    "languageName": "English",
+    "languageEnglishName": "English",
+    "numberOfApocryphalBooks": 15,
+    "totalNumberOfApocryphalChapters": 175,
+    "totalNumberOfApocryphalVerses": 5449
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "eng_lxx",
+    "name": "Psalms",
+    "commonName": "Psalms",
+    "title": "PSALMS",
+    "order": 19,
+    "numberOfChapters": 151,
+    "sha256": "88d52d4e891d834cd127df3a715c46244bfed23831d48446fb922d11da92c823",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/eng_lxx/PSA/1.json",
+    "lastChapterNumber": 151,
+    "lastChapterApiLink": "/api/eng_lxx/PSA/151.json",
+    "totalNumberOfVerses": 2467
+  },
+  "chapter": {
+    "number": 112,
+    "content": [
+      {
+        "type": "hebrew_subtitle",
+        "content": [
+          "(113) Alleluia."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Praise the Lord, you⌃ servants of his, praise, the name of the Lord.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Let the name of the Lord be blessed, from this present time and for ever.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "From the rising of the sun to his setting, the name of the Lord is to be praised.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "The Lord is high above all the nations; his glory is above the heavens.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Who is as the Lord our God? who dwells in the high places,",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "and yet looks upon the low things in heaven, and on the earth:",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "who lifts up the poor from the earth, and raises up the needy from the dunghill;",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "to set him with princes, even with the princes of his people:",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "who settles the barren woman in a house, as a mother rejoicing over children.",
+            "poem": 1
+          }
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/eng_lxx/PSA/112.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/eng_lxx/PSA/113.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/eng_lxx/PSA/111.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 9
+}

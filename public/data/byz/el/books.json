@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Ματθαίος",
+    "slug": "matthew"
+  },
+  {
+    "name": "Σημάδι",
+    "slug": "mark"
+  },
+  {
+    "name": "Λουκ",
+    "slug": "luke"
+  },
+  {
+    "name": "Γιάννης",
+    "slug": "john"
+  },
+  {
+    "name": "Πράξεις",
+    "slug": "acts"
+  },
+  {
+    "name": "Ρωμαίους",
+    "slug": "romans"
+  },
+  {
+    "name": "Ι Κορίνθιοι",
+    "slug": "i-corinthians"
+  },
+  {
+    "name": "Β' Κορινθίους",
+    "slug": "ii-corinthians"
+  },
+  {
+    "name": "Γαλάτες",
+    "slug": "galatians"
+  },
+  {
+    "name": "Εφεσίους",
+    "slug": "ephesians"
+  },
+  {
+    "name": "Φιλίππους",
+    "slug": "philippians"
+  },
+  {
+    "name": "Κολοσσαείς",
+    "slug": "colossians"
+  },
+  {
+    "name": "Εγώ οι Θεσσαλονικείς",
+    "slug": "i-thessalonians"
+  },
+  {
+    "name": "Β' Θεσσαλονικείς",
+    "slug": "ii-thessalonians"
+  },
+  {
+    "name": "Εγώ ο Τιμόθεος",
+    "slug": "i-timothy"
+  },
+  {
+    "name": "II Τιμόθεος",
+    "slug": "ii-timothy"
+  },
+  {
+    "name": "Τίτος",
+    "slug": "titus"
+  },
+  {
+    "name": "Φιλήμων",
+    "slug": "philemon"
+  },
+  {
+    "name": "Εβραίους",
+    "slug": "hebrews"
+  },
+  {
+    "name": "Τζέιμς",
+    "slug": "james"
+  },
+  {
+    "name": "Εγώ ο Πέτρος",
+    "slug": "i-peter"
+  },
+  {
+    "name": "II Πέτρος",
+    "slug": "ii-peter"
+  },
+  {
+    "name": "Εγώ ο Γιάννης",
+    "slug": "i-john"
+  },
+  {
+    "name": "II Ιωάννης",
+    "slug": "ii-john"
+  },
+  {
+    "name": "III Ιωάννης",
+    "slug": "iii-john"
+  },
+  {
+    "name": "Jude",
+    "slug": "jude"
+  },
+  {
+    "name": "Αποκάλυψη του Ιωάννη",
+    "slug": "revelation"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.142",
+    "bibleId": "de4e12af7f28f599-01",
+    "number": "142",
+    "bookId": "PSA",
+    "reference": "Psalms 142",
+    "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+    "verseCount": 7,
+    "content": "<p class=\"d\">Maschil of David; A Prayer when he was in the cave.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 142:1\" class=\"v\">1</span>I cried unto the <span class=\"nd\">LORD</span> with my voice; with my voice unto the <span class=\"nd\">LORD</span> did I make my supplication.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 142:2\" class=\"v\">2</span>I poured out my complaint before him; I shewed before him my trouble.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 142:3\" class=\"v\">3</span>When my spirit was overwhelmed within me, then thou knewest my path. In the way wherein I walked have they privily laid a snare for me.</p><p class=\"b\"></p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 142:4\" class=\"v\">4</span>I looked on <span class=\"add\">my</span> right hand, and beheld, but <span class=\"add\">there was</span> no man that would know me: refuge failed me; no man cared for my soul.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 142:5\" class=\"v\">5</span>I cried unto thee, O <span class=\"nd\">LORD</span>: I said, Thou <span class=\"add\">art</span> my refuge <span class=\"add\">and</span> my portion in the land of the living.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 142:6\" class=\"v\">6</span>Attend unto my cry; for I am brought very low: deliver me from my persecutors; for they are stronger than I.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 142:7\" class=\"v\">7</span>Bring my soul out of prison, that I may praise thy name: the righteous shall compass me about; for thou shalt deal bountifully with me.</p>",
+    "next": {
+      "id": "PSA.143",
+      "number": "143",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.141",
+      "number": "141",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzcBABwHbqxlyoOgvR4EdEzy46-24Sxpo6hIlq6-0Fl32-mGB-B_vwRpa2tBmGZxRgl2ipKgdvVKeiWSOnbu-Od5O4B-WU3O510vlmFp3XSVV66sYq3SWC2oe9e9YUfZ4MCGEWeMQPTGn0W77gKiAJcpyzqIzfB9kzSxkDSysXnXRVVyGYPtXZ7-vC2hZO2oSgxxYhgDGJbgzmTB6nm8P-zJZueKmVfppinJ4OpK1tY1y0X0weS4rH6WGQ"
+  }
+}

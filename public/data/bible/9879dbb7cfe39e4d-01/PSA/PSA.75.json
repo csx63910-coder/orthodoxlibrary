@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.75",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "75",
+    "bookId": "PSA",
+    "reference": "Psalms 75",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 10,
+    "content": "<p class=\"d\">For the Chief Musician. To the tune of “Do Not Destroy.” A Psalm by Asaph. A song.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 75:1\" class=\"v\">1</span>We give thanks to you, God.</p><p data-vid=\"PSA 75:1\" class=\"q2\">We give thanks, for your Name is near.</p><p data-vid=\"PSA 75:1\" class=\"q2\">Men tell about your wondrous works.</p><p class=\"b\"></p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 75:2\" class=\"v\">2</span>When I choose the appointed time,</p><p data-vid=\"PSA 75:2\" class=\"q2\">I will judge blamelessly.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 75:3\" class=\"v\">3</span>The earth and all its inhabitants quake.</p><p data-vid=\"PSA 75:3\" class=\"q2\">I firmly hold its pillars. <span class=\"qs\">Selah.</span></p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 75:4\" class=\"v\">4</span>I said to the arrogant, “Don’t boast!”</p><p data-vid=\"PSA 75:4\" class=\"q2\">I said to the wicked, “Don’t lift up the horn.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 75:5\" class=\"v\">5</span>Don’t lift up your horn on high.</p><p data-vid=\"PSA 75:5\" class=\"q2\">Don’t speak with a stiff neck.”</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 75:6\" class=\"v\">6</span>For neither from the east, nor from the west,</p><p data-vid=\"PSA 75:6\" class=\"q2\">nor yet from the south, comes exaltation.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 75:7\" class=\"v\">7</span>But God is the judge.</p><p data-vid=\"PSA 75:7\" class=\"q2\">He puts down one, and lifts up another.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 75:8\" class=\"v\">8</span>For in Yahweh’s hand there is a cup,</p><p data-vid=\"PSA 75:8\" class=\"q2\">full of foaming wine mixed with spices.</p><p data-vid=\"PSA 75:8\" class=\"q1\">He pours it out.</p><p data-vid=\"PSA 75:8\" class=\"q2\">Indeed the wicked of the earth drink and drink it to its very dregs.</p><p class=\"b\"></p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 75:9\" class=\"v\">9</span>But I will declare this forever:</p><p data-vid=\"PSA 75:9\" class=\"q2\">I will sing praises to the God of Jacob.</p><p class=\"q1\"><span data-number=\"10\" data-sid=\"PSA 75:10\" class=\"v\">10</span>I will cut off all the horns of the wicked,</p><p data-vid=\"PSA 75:10\" class=\"q2\">but the horns of the righteous shall be lifted up.</p>",
+    "next": {
+      "id": "PSA.76",
+      "number": "76",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.74",
+      "number": "74",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzUBgBwJNo70KQ_aCQI6JvnxV9twlrRRVCRLV1_ovG3gctytuAT5gjiavWjc3upMG7MgqFMnERMzNPlr-ed5O4B-WU3N413XkutiNsvz1dLXZVhIY7WYp7vuDTsqRzA844wR6N34s2PXXUAEcO6QzAWsOnzce2miNGlkYwupuaRcqWOwvQvTn7clfKzdE3HBJoYReboktsAawep5vL_ps8zSalbmM-lWKyPDKlRZ0izKbGMNuYZpMpYB"
+  }
+}

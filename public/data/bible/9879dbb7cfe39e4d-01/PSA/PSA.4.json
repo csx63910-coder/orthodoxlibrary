@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.4",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "4",
+    "bookId": "PSA",
+    "reference": "Psalms 4",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 8,
+    "content": "<p class=\"d\">For the Chief Musician; on stringed instruments. A Psalm by David.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 4:1\" class=\"v\">1</span>Answer me when I call, God of my righteousness.</p><p data-vid=\"PSA 4:1\" class=\"q2\">Give me relief from my distress.</p><p data-vid=\"PSA 4:1\" class=\"q2\">Have mercy on me, and hear my prayer.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 4:2\" class=\"v\">2</span>You sons of men, how long shall my glory be turned into dishonor?</p><p data-vid=\"PSA 4:2\" class=\"q2\">Will you love vanity and seek after falsehood? <span class=\"qs\">Selah.</span></p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 4:3\" class=\"v\">3</span>But know that Yahweh has set apart for himself him who is godly;</p><p data-vid=\"PSA 4:3\" class=\"q2\">Yahweh will hear when I call to him.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 4:4\" class=\"v\">4</span>Stand in awe, and don’t sin.</p><p data-vid=\"PSA 4:4\" class=\"q2\">Search your own heart on your bed, and be still. <span class=\"qs\">Selah.</span></p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 4:5\" class=\"v\">5</span>Offer the sacrifices of righteousness.</p><p data-vid=\"PSA 4:5\" class=\"q2\">Put your trust in Yahweh.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 4:6\" class=\"v\">6</span>Many say, “Who will show us any good?”</p><p data-vid=\"PSA 4:6\" class=\"q2\">Yahweh, let the light of your face shine on us.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 4:7\" class=\"v\">7</span>You have put gladness in my heart,</p><p data-vid=\"PSA 4:7\" class=\"q2\">more than when their grain and their new wine are increased.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 4:8\" class=\"v\">8</span>In peace I will both lay myself down and sleep,</p><p data-vid=\"PSA 4:8\" class=\"q2\">for you alone, Yahweh, make me live in safety.</p>",
+    "next": {
+      "id": "PSA.5",
+      "number": "5",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.3",
+      "number": "3",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzEBAIzUYs0Z7mTR_Z58ePeq7OG3pOgKnXW3nW54AP5_anlra0GYZnFGCXaKkqC2OYk4iSBawV_HL-6XHSAfWpLzeZU5xTybTOJ0Mbd57mastBTUucp6qxIOhP0RRimC5A1fHLOrzYAoILhMadY_gdYMfN3EyhcS2toX53olorIdENZXafr9Mgcha1eavBC7hn1GL8yRnZEIi_v--qjHaFNe2Jx5oicLdk5rHpvQuvhgx7M0tX7uE_4"
+  }
+}

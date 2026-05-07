@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.54",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "54",
+    "bookId": "PSA",
+    "reference": "Psalms 54",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 7,
+    "content": "<p class=\"d\">For the Chief Musician. On stringed instruments. A contemplation by David, when the Ziphites came and said to Saul, “Isn’t David hiding himself among us?”</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 54:1\" class=\"v\">1</span>Save me, God, by your name.</p><p data-vid=\"PSA 54:1\" class=\"q2\">Vindicate me in your might.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 54:2\" class=\"v\">2</span>Hear my prayer, God.</p><p data-vid=\"PSA 54:2\" class=\"q2\">Listen to the words of my mouth.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 54:3\" class=\"v\">3</span>For strangers have risen up against me.</p><p data-vid=\"PSA 54:3\" class=\"q2\">Violent men have sought after my soul.</p><p data-vid=\"PSA 54:3\" class=\"q2\">They haven’t set God before them. <span class=\"qs\">Selah.</span></p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 54:4\" class=\"v\">4</span>Behold, God is my helper.</p><p data-vid=\"PSA 54:4\" class=\"q2\">The Lord is the one who sustains my soul.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 54:5\" class=\"v\">5</span>He will repay the evil to my enemies.</p><p data-vid=\"PSA 54:5\" class=\"q2\">Destroy them in your truth.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 54:6\" class=\"v\">6</span>With a free will offering, I will sacrifice to you.</p><p data-vid=\"PSA 54:6\" class=\"q2\">I will give thanks to your name, Yahweh, for it is good.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 54:7\" class=\"v\">7</span>For he has delivered me out of all trouble.</p><p data-vid=\"PSA 54:7\" class=\"q2\">My eye has seen triumph over my enemies.</p>",
+    "next": {
+      "id": "PSA.55",
+      "number": "55",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.53",
+      "number": "53",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBYBwHbqxlyoOgvZ5Bc0v98ovOGpGmCdJElGTp6gudtw1czuu_ikuQL0Sj2e21e6tzohqz4P-WgySTGa7-u-Mf69QAfJMcm8-Z-57rJ1Hkxlmq_dQkVEiu5m3mj_eNWQOYbqGEIBC84I8ls3sCZAKEtGjlAdYAfu47FZYK5yNtYJxAGmYd9QWUszJ1nVIAMnZQ1QX_OcboWYpsD5cgW9v5TSsvs6lMjKUyNEqN1DENo2yfxFJlUepGjosB"
+  }
+}

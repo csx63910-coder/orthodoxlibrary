@@ -1,0 +1,237 @@
+[
+  {
+    "slug": "genesis",
+    "name": "Бытие",
+    "file": "Gen"
+  },
+  {
+    "slug": "exodus",
+    "name": "Исход",
+    "file": "Exod"
+  },
+  {
+    "slug": "leviticus",
+    "name": "Левит",
+    "file": "Lev"
+  },
+  {
+    "slug": "numbers",
+    "name": "Числа",
+    "file": "Num"
+  },
+  {
+    "slug": "deuteronomy",
+    "name": "Второзаконие",
+    "file": "Deut"
+  },
+  {
+    "slug": "joshua",
+    "name": "Джошуа (Иисус Нефский)",
+    "file": "JoshB"
+  },
+  {
+    "slug": "judges",
+    "name": "Судьи",
+    "file": "JudgB"
+  },
+  {
+    "slug": "ruth",
+    "name": "Рут",
+    "file": "Ruth"
+  },
+  {
+    "slug": "1-kingdoms",
+    "name": "1 королевство (1 Царств)",
+    "file": "1Sam"
+  },
+  {
+    "slug": "2-kingdoms",
+    "name": "2 королевства (2 Царств)",
+    "file": "2Sam"
+  },
+  {
+    "slug": "3-kingdoms",
+    "name": "3 королевства (1 король)",
+    "file": "1Kgs"
+  },
+  {
+    "slug": "4-kingdoms",
+    "name": "4 королевства (2 короля)",
+    "file": "2Kgs"
+  },
+  {
+    "slug": "1-paralipomenon",
+    "name": "1 Паралипомен (1 Паралипоменон)",
+    "file": "1Chr"
+  },
+  {
+    "slug": "2-paralipomenon",
+    "name": "2 Паралипомен (2 Паралипоменон)",
+    "file": "2Chr"
+  },
+  {
+    "slug": "1-esdras",
+    "name": "1 Ездра (греч. Эзра)",
+    "file": "1Esd"
+  },
+  {
+    "slug": "2-esdras",
+    "name": "2 Ездры (Ездра и Неемия)",
+    "file": "2Esd"
+  },
+  {
+    "slug": "judith",
+    "name": "Джудит",
+    "file": "Jdt"
+  },
+  {
+    "slug": "esther",
+    "name": "Эстер (с греческими дополнениями)",
+    "file": "Esth"
+  },
+  {
+    "slug": "1-maccabees",
+    "name": "1 Маккавеи",
+    "file": "1Macc"
+  },
+  {
+    "slug": "2-maccabees",
+    "name": "2 Маккавея",
+    "file": "2Macc"
+  },
+  {
+    "slug": "3-maccabees",
+    "name": "3 Маккавея",
+    "file": "3Macc"
+  },
+  {
+    "slug": "psalms",
+    "name": "Псалмы (включая Псалом 151)",
+    "file": "Ps"
+  },
+  {
+    "slug": "job",
+    "name": "Работа",
+    "file": "Job"
+  },
+  {
+    "slug": "proverbs",
+    "name": "Пословицы",
+    "file": "Prov"
+  },
+  {
+    "slug": "ecclesiastes",
+    "name": "Экклезиаст",
+    "file": "Eccl"
+  },
+  {
+    "slug": "song-of-solomon",
+    "name": "Песня Соломона",
+    "file": "Song"
+  },
+  {
+    "slug": "wisdom-of-solomon",
+    "name": "Мудрость Соломона",
+    "file": "Wis"
+  },
+  {
+    "slug": "wisdom-of-sirach",
+    "name": "Мудрость Сираха (Экклезиастик)",
+    "file": "Sir"
+  },
+  {
+    "slug": "hosea",
+    "name": "Осия",
+    "file": "Hos"
+  },
+  {
+    "slug": "joel",
+    "name": "Джоэл",
+    "file": "Joel"
+  },
+  {
+    "slug": "amos",
+    "name": "Амос",
+    "file": "Amos"
+  },
+  {
+    "slug": "obadiah",
+    "name": "Обадия",
+    "file": "Obad"
+  },
+  {
+    "slug": "jonah",
+    "name": "Иона",
+    "file": "Jonah"
+  },
+  {
+    "slug": "micah",
+    "name": "Мика",
+    "file": "Mic"
+  },
+  {
+    "slug": "nahum",
+    "name": "Наум",
+    "file": "Nah"
+  },
+  {
+    "slug": "habakkuk",
+    "name": "Аввакум",
+    "file": "Hab"
+  },
+  {
+    "slug": "zephaniah",
+    "name": "Софония",
+    "file": "Zeph"
+  },
+  {
+    "slug": "haggai",
+    "name": "Аггей",
+    "file": "Hag"
+  },
+  {
+    "slug": "zechariah",
+    "name": "Захария",
+    "file": "Zech"
+  },
+  {
+    "slug": "malachi",
+    "name": "Малачи",
+    "file": "Mal"
+  },
+  {
+    "slug": "isaiah",
+    "name": "Исайя",
+    "file": "Isa"
+  },
+  {
+    "slug": "jeremiah",
+    "name": "Иеремия",
+    "file": "Jer"
+  },
+  {
+    "slug": "baruch",
+    "name": "Барух",
+    "file": "Bar"
+  },
+  {
+    "slug": "lamentations",
+    "name": "Плач",
+    "file": "Lam"
+  },
+  {
+    "slug": "letter-of-jeremiah",
+    "name": "Письмо Иеремии",
+    "file": "EpJer"
+  },
+  {
+    "slug": "ezekiel",
+    "name": "Иезекииль",
+    "file": "Ezek"
+  },
+  {
+    "slug": "daniel",
+    "name": "Дэниел (с Сюзанной и Белом и Драконом)",
+    "file": "DanTh"
+  }
+]

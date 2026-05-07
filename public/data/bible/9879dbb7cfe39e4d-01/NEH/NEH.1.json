@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "NEH.1",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "1",
+    "bookId": "NEH",
+    "reference": "Nehemiah 1",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 11,
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"NEH 1:1\" class=\"v\">1</span>The words of Nehemiah the son of Hacaliah.</p><p data-vid=\"NEH 1:1\" class=\"p\">Now in the month Chislev, in the twentieth year, as I was in Susa the palace, <span data-number=\"2\" data-sid=\"NEH 1:2\" class=\"v\">2</span>Hanani, one of my brothers, came, he and certain men out of Judah; and I asked them about the Jews who had escaped, who were left of the captivity, and concerning Jerusalem. <span data-number=\"3\" data-sid=\"NEH 1:3\" class=\"v\">3</span>They said to me, “The remnant who are left of the captivity there in the province are in great affliction and reproach. The wall of Jerusalem is also broken down, and its gates are burned with fire.”</p><p class=\"p\"><span data-number=\"4\" data-sid=\"NEH 1:4\" class=\"v\">4</span>When I heard these words, I sat down and wept, and mourned several days; and I fasted and prayed before the God of heaven, <span data-number=\"5\" data-sid=\"NEH 1:5\" class=\"v\">5</span>and said, “I beg you, Yahweh, the God of heaven, the great and awesome God who keeps covenant and loving kindness with those who love him and keep his commandments, <span data-number=\"6\" data-sid=\"NEH 1:6\" class=\"v\">6</span>let your ear now be attentive and your eyes open, that you may listen to the prayer of your servant which I pray before you at this time, day and night, for the children of Israel your servants, while I confess the sins of the children of Israel which we have sinned against you. Yes, I and my father’s house have sinned. <span data-number=\"7\" data-sid=\"NEH 1:7\" class=\"v\">7</span>We have dealt very corruptly against you, and have not kept the commandments, nor the statutes, nor the ordinances, which you commanded your servant Moses.</p><p class=\"p\"><span data-number=\"8\" data-sid=\"NEH 1:8\" class=\"v\">8</span>“Remember, I beg you, the word that you commanded your servant Moses, saying, ‘If you trespass, I will scatter you among the peoples; <span data-number=\"9\" data-sid=\"NEH 1:9\" class=\"v\">9</span>but if you return to me, and keep my commandments and do them, though your outcasts were in the uttermost part of the heavens, yet I will gather them from there, and will bring them to the place that I have chosen, to cause my name to dwell there.’</p><p class=\"p\"><span data-number=\"10\" data-sid=\"NEH 1:10\" class=\"v\">10</span>“Now these are your servants and your people, whom you have redeemed by your great power and by your strong hand. <span data-number=\"11\" data-sid=\"NEH 1:11\" class=\"v\">11</span>Lord, I beg you, let your ear be attentive now to the prayer of your servant, and to the prayer of your servants who delight to fear your name; and please prosper your servant today, and grant him mercy in the sight of this man.”</p><p data-vid=\"NEH 1:11\" class=\"p\">Now I was cup bearer to the king.</p>",
+    "next": {
+      "id": "NEH.2",
+      "number": "2",
+      "bookId": "NEH"
+    },
+    "previous": {
+      "id": "NEH.intro",
+      "number": "intro",
+      "bookId": "NEH"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzIBIJwHto06fYLFYrJ5Lik4p_LRpRRIqG0HdfUrIEiWrr7QiaK3DVy-6RhbdUU_gmg0u43bW50T6FhBUNucRJzUSSv4y_3jeTsA-kUNzuddl5zKYjZL89XSlaVfSEOtZ3DXw0YRsL7CGiOg-MAfp5zaBRAN4DKk2QdYK_BzizShkzhiqD5kVExxDNjelZnP2xKA7N1o6kKeGMbkpSWxDkiB1fN4f9TN-pRj9FFm1rv0s_lMTqfLpUyLsFwFO1_OaTA"
+  }
+}

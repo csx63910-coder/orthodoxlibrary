@@ -1,0 +1,219 @@
+{
+  "translation": {
+    "id": "eng_lxx",
+    "name": "LXX2012: Septuagint in American English 2012",
+    "website": "https://ebible.org/Scriptures/details.php?id=eng-lxx2012",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=eng-lxx2012",
+    "shortName": "LXXSA",
+    "englishName": "LXX2012 U. S. English",
+    "language": "eng",
+    "textDirection": "ltr",
+    "sha256": "0d3bb79b82b36a3b295a66dbf9a82a0c0c701df5d3e235690aeffb9a83a53da7",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/eng_lxx/books.json",
+    "completeTranslationApiLink": "/api/eng_lxx/complete.json",
+    "numberOfBooks": 39,
+    "totalNumberOfChapters": 930,
+    "totalNumberOfVerses": 22876,
+    "languageName": "English",
+    "languageEnglishName": "English",
+    "numberOfApocryphalBooks": 15,
+    "totalNumberOfApocryphalChapters": 175,
+    "totalNumberOfApocryphalVerses": 5449
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "eng_lxx",
+    "name": "Psalms",
+    "commonName": "Psalms",
+    "title": "PSALMS",
+    "order": 19,
+    "numberOfChapters": 151,
+    "sha256": "88d52d4e891d834cd127df3a715c46244bfed23831d48446fb922d11da92c823",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/eng_lxx/PSA/1.json",
+    "lastChapterNumber": 151,
+    "lastChapterApiLink": "/api/eng_lxx/PSA/151.json",
+    "totalNumberOfVerses": 2467
+  },
+  "chapter": {
+    "number": 147,
+    "content": [
+      {
+        "type": "hebrew_subtitle",
+        "content": [
+          "Alleluia, a Psalm of Aggaeus and Zacharias.",
+          {
+            "noteId": 265
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Praise the Lord, O Jerusalem; praise your God, O Sion.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "For he has strengthened the bars of your gates; he has blessed your children within you.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "He makes your borders peaceful, and fills you with the",
+            "poem": 1
+          },
+          {
+            "noteId": 266
+          },
+          {
+            "text": "flour of wheat.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "He sends his oracle to the earth: his word will run swiftly.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "He gives snow like wool: he scatters the mist like ashes.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Casting forth his ice like morsels: who shall stand before his cold?",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "He shall send out his word, and melt them: he shall blow with his wind, and the waters shall flow.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "He sends his word to Jacob, his ordinances and judgments to Israel.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "He has not done so to",
+            "poem": 1
+          },
+          {
+            "noteId": 267
+          },
+          {
+            "text": "any other nation; and he has not shown them his judgments.",
+            "poem": 1
+          }
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 265,
+        "caller": "+",
+        "text": "In the original text, the following verses are numbered 12 to 20.",
+        "reference": {
+          "chapter": 147,
+          "verse": 0
+        }
+      },
+      {
+        "noteId": 266,
+        "caller": "+",
+        "text": "Lit. fat of wheat.",
+        "reference": {
+          "chapter": 147,
+          "verse": 3
+        }
+      },
+      {
+        "noteId": 267,
+        "caller": "+",
+        "text": "Gr. every.",
+        "reference": {
+          "chapter": 147,
+          "verse": 9
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/eng_lxx/PSA/147.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/eng_lxx/PSA/148.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/eng_lxx/PSA/146.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 9
+}

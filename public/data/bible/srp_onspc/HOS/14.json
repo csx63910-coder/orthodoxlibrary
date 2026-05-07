@@ -1,0 +1,286 @@
+{
+  "translation": {
+    "id": "srp_onspc",
+    "name": "Biblica® Нови српски превод, слободна права",
+    "website": "https://ebible.org/Scriptures/details.php?id=srponspc",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srponspc",
+    "shortName": "ONSPC",
+    "englishName": "Serbian ONSP Cyrillic",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "f7cf39982822a6be7cfe4a623571c1d865bcad7b51dca5ad6efcdd5f4cf784f8",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_onspc/books.json",
+    "completeTranslationApiLink": "/api/srp_onspc/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31102,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "HOS",
+    "translationId": "srp_onspc",
+    "name": "Књига пророка Осије",
+    "commonName": "Књига пророка Осије",
+    "title": "Књига пророка Осије",
+    "order": 28,
+    "numberOfChapters": 14,
+    "sha256": "56caf5ccb190f60754adc49576fe8f1a2d3dfbdfcb85e2e73be368f56612fe6f",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_onspc/HOS/1.json",
+    "lastChapterNumber": 14,
+    "lastChapterApiLink": "/api/srp_onspc/HOS/14.json",
+    "totalNumberOfVerses": 197
+  },
+  "chapter": {
+    "number": 14,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Покајање доноси благослов"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Господу се, Богу своме, Израиљу врати,",
+            "poem": 1
+          },
+          {
+            "text": "јер си посрнуо у кривици својој!",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Понесите са собом речи,",
+            "poem": 1
+          },
+          {
+            "text": "Господу се вратите.",
+            "poem": 2
+          },
+          {
+            "text": "Кажите му:",
+            "poem": 1
+          },
+          {
+            "text": "„Кривицу нам сваку ти опрости,",
+            "poem": 2
+          },
+          {
+            "lineBreak": true
+          },
+          {
+            "text": "молитву услиши;",
+            "poem": 2
+          },
+          {
+            "text": "како бисмо ти принели",
+            "poem": 1
+          },
+          {
+            "text": "плод усана својих",
+            "poem": 2
+          },
+          {
+            "lineBreak": true
+          },
+          {
+            "text": "као јунце када жртвујемо!",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Асирија нас спасти неће",
+            "poem": 1
+          },
+          {
+            "text": "и на коњима нећемо јахати.",
+            "poem": 2
+          },
+          {
+            "text": "Нећемо опет говорити, делу руку наших: ’Боже наш!’",
+            "poem": 1
+          },
+          {
+            "text": "Јер сироче смиловање у теби налази.“",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "„Излечићу отпадништво њихово,",
+            "poem": 1
+          },
+          {
+            "text": "добровољно волећу их",
+            "poem": 2
+          },
+          {
+            "lineBreak": true
+          },
+          {
+            "text": "јер се од њих јарост моја одвратила.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Израиљу бићу као зора,",
+            "poem": 1
+          },
+          {
+            "text": "процветаће као љиљан,",
+            "poem": 2
+          },
+          {
+            "text": "пустиће корење као кедар ливански.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Ницаће му младице,",
+            "poem": 1
+          },
+          {
+            "text": "као маслина раскошан ће бити,",
+            "poem": 2
+          },
+          {
+            "text": "мирисаће као кедар ливански.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Вратиће се да живе у сенци његовој.",
+            "poem": 1
+          },
+          {
+            "text": "Проклијаће као жито,",
+            "poem": 2
+          },
+          {
+            "text": "раширити као лоза,",
+            "poem": 1
+          },
+          {
+            "text": "прочуће се као вино са Ливана.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "О, Јефреме, шта ја имам с идолима?",
+            "poem": 1
+          },
+          {
+            "text": "Ја, ја ћу да услишим,",
+            "poem": 2
+          },
+          {
+            "lineBreak": true
+          },
+          {
+            "text": "ја ћу да се старам,",
+            "poem": 2
+          },
+          {
+            "text": "ја сам као зелен чемпрес.",
+            "poem": 1
+          },
+          {
+            "text": "Од мене ћеш ти свој плод да примиш.“",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Ко је мудар нек ово разуме,",
+            "poem": 1
+          },
+          {
+            "text": "ове ствари нек умни разазна:",
+            "poem": 2
+          },
+          {
+            "text": "Господњи су исправни путеви.",
+            "poem": 1
+          },
+          {
+            "text": "Праведници ходају по њима,",
+            "poem": 2
+          },
+          {
+            "lineBreak": true
+          },
+          {
+            "text": "одметници на њима посрћу.",
+            "poem": 2
+          }
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_onspc/HOS/14.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_onspc/JOL/1.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_onspc/HOS/13.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 9
+}

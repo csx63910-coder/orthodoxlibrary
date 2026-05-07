@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.94",
+    "bibleId": "179568874c45066f-01",
+    "number": "94",
+    "bookId": "PSA",
+    "reference": "Psalms 94",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 11,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 94:1\" class=\"v\">1</span>Come let us praise the Lord with joy: let us joyfully sing to God our saviour.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 94:2\" class=\"v\">2</span>Let us come before his presence with thanksgiving; and make a joyful noise to him with psalms.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 94:3\" class=\"v\">3</span>For the Lord is a great God, and a great King above all gods.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 94:4\" class=\"v\">4</span>For in his hand are all the ends of the earth: and the heights of the mountains are his.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 94:5\" class=\"v\">5</span>For the sea is his, and he made it: and his hands formed the dry land.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 94:6\" class=\"v\">6</span>Come let us adore and fall down: and weep before the Lord that made us.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 94:7\" class=\"v\">7</span>For he is the Lord our God: and we are the people of his pasture and the sheep of his hand.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 94:8\" class=\"v\">8</span>Today if you shall hear his voice, harden not your hearts:</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 94:9\" class=\"v\">9</span>As in the provocation, according to the day of temptation in the wilderness: where your fathers tempted me, they proved me, and saw my works.</p><p class=\"q1\"><span data-number=\"10\" data-sid=\"PSA 94:10\" class=\"v\">10</span>Forty years long was I offended with that generation, and I said: These always err in heart.</p><p class=\"q1\"><span data-number=\"11\" data-sid=\"PSA 94:11\" class=\"v\">11</span>And these men have not known my ways: so I swore in my wrath that they shall not enter into my rest.</p>",
+    "next": {
+      "id": "PSA.95",
+      "number": "95",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.93",
+      "number": "93",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzUBgIzTFfOihHUPAjom-fFX23CWtFFUtA5LV9-nt0WBci1qC8K2djheD3qjC3bA3w__t5wkk1HB1X9X_nneDkC_rKbm8a5trjGVksM8RJPSShqrxTzddW_YUTUQwzOcMQK9O_7s2HUXIJJw7pBsD1YDfNx7aaI0aWRji6WFqFz0Y2J7F2Y8b0vwsXZPxAWbGI7I0yWxBawVrJ7H-5s--GWxcZ5Xcl7iVIa69HIaZ0sZpm66Sj6EUDgH"
+  }
+}

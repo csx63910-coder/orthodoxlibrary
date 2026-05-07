@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.52",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "52",
+    "bookId": "PSA",
+    "reference": "Psalms 52",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 9,
+    "content": "<p class=\"d\">For the Chief Musician. A contemplation by David, when Doeg the Edomite came and told Saul, “David has come to Ahimelech’s house.”</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 52:1\" class=\"v\">1</span>Why do you boast of mischief, mighty man?</p><p data-vid=\"PSA 52:1\" class=\"q2\">God’s loving kindness endures continually.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 52:2\" class=\"v\">2</span>Your tongue plots destruction,</p><p data-vid=\"PSA 52:2\" class=\"q2\">like a sharp razor, working deceitfully.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 52:3\" class=\"v\">3</span>You love evil more than good,</p><p data-vid=\"PSA 52:3\" class=\"q2\">lying rather than speaking the truth. <span class=\"qs\">Selah.</span></p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 52:4\" class=\"v\">4</span>You love all devouring words,</p><p data-vid=\"PSA 52:4\" class=\"q2\">you deceitful tongue.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 52:5\" class=\"v\">5</span>God will likewise destroy you forever.</p><p data-vid=\"PSA 52:5\" class=\"q2\">He will take you up, and pluck you out of your tent,</p><p data-vid=\"PSA 52:5\" class=\"q2\">and root you out of the land of the living. <span class=\"qs\">Selah.</span></p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 52:6\" class=\"v\">6</span>The righteous also will see it, and fear,</p><p data-vid=\"PSA 52:6\" class=\"q2\">and laugh at him, saying,</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 52:7\" class=\"v\">7</span>“Behold, this is the man who didn’t make God his strength,</p><p data-vid=\"PSA 52:7\" class=\"q2\">but trusted in the abundance of his riches,</p><p data-vid=\"PSA 52:7\" class=\"q2\">and strengthened himself in his wickedness.”</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 52:8\" class=\"v\">8</span>But as for me, I am like a green olive tree in God’s house.</p><p data-vid=\"PSA 52:8\" class=\"q2\">I trust in God’s loving kindness forever and ever.</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 52:9\" class=\"v\">9</span>I will give you thanks forever, because you have done it.</p><p data-vid=\"PSA 52:9\" class=\"q2\">I will hope in your name, for it is good,</p><p data-vid=\"PSA 52:9\" class=\"q2\">in the presence of your saints.</p>",
+    "next": {
+      "id": "PSA.53",
+      "number": "53",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.51",
+      "number": "51",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBIIzTFfOihHUPAjom-fFX23CWtFFUtA5LV9-3DVyOuxWXIF8QR7Pba_dWZ9ZoR8H_LSfJZFFw9d8t_zxvB6BfVoPzede15LqYzfJ8tfR1GRbSWK3n7q57w46Kjphv4YwRSF7wZ82suwARhHOTZD5wdfB336WJ0qSRjS2kZr2KuYyJ7V2b-rwtgcjYSdEXbGI4gk-X0PaogtXzeH_VIS9nOdg8k9Usqywu51HOwtJJF8J8Gm1xLs44"
+  }
+}

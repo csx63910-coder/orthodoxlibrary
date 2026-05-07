@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.61",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "61",
+    "bookId": "PSA",
+    "reference": "Psalms 61",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 8,
+    "content": "<p class=\"d\">For the Chief Musician. For a stringed instrument. By David.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 61:1\" class=\"v\">1</span>Hear my cry, God.</p><p data-vid=\"PSA 61:1\" class=\"q2\">Listen to my prayer.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 61:2\" class=\"v\">2</span>From the end of the earth, I will call to you when my heart is overwhelmed.</p><p data-vid=\"PSA 61:2\" class=\"q2\">Lead me to the rock that is higher than I.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 61:3\" class=\"v\">3</span>For you have been a refuge for me,</p><p data-vid=\"PSA 61:3\" class=\"q2\">a strong tower from the enemy.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 61:4\" class=\"v\">4</span>I will dwell in your tent forever.</p><p data-vid=\"PSA 61:4\" class=\"q2\">I will take refuge in the shelter of your wings. <span class=\"qs\">Selah.</span></p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 61:5\" class=\"v\">5</span>For you, God, have heard my vows.</p><p data-vid=\"PSA 61:5\" class=\"q2\">You have given me the heritage of those who fear your name.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 61:6\" class=\"v\">6</span>You will prolong the king’s life.</p><p data-vid=\"PSA 61:6\" class=\"q2\">His years will be for generations.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 61:7\" class=\"v\">7</span>He shall be enthroned in God’s presence forever.</p><p data-vid=\"PSA 61:7\" class=\"q2\">Appoint your loving kindness and truth, that they may preserve him.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 61:8\" class=\"v\">8</span>So I will sing praise to your name forever,</p><p data-vid=\"PSA 61:8\" class=\"q2\">that I may fulfill my vows daily.</p>",
+    "next": {
+      "id": "PSA.62",
+      "number": "62",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.60",
+      "number": "60",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBQBwHbqxlyoOgvZ5Bc0v98ovOGpGmCdJElGTp6gudtw1cjrsVlyBfEEez22v3VmfWajUK_m85SSab4Oq_W_6xTg3AN8m5-Zy577l-EkVunKXaT01CheRy7mb-eN-YIwHjLZQQBIoX_LFldk-ACIBzj2QOtDrwdd-psFQ4H2kD4wTSY8qVX0A5S1PXKQUhYxdFXrCfYcSepsz28AiytZ0fdZmkNo49V9LMi1NqkiykkTGFQ2JUmKauVdb3MQ"
+  }
+}

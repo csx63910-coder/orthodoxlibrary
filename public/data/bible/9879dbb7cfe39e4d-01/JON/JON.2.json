@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "JON.2",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "2",
+    "bookId": "JON",
+    "reference": "Jonah 2",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 10,
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"JON 2:1\" class=\"v\">1</span>Then Jonah prayed to Yahweh, his God, out of the fish’s belly. <span data-number=\"2\" data-sid=\"JON 2:2\" class=\"v\">2</span>He said,</p><p data-vid=\"JON 2:2\" class=\"q1\">“I called because of my affliction to Yahweh.</p><p data-vid=\"JON 2:2\" class=\"q2\">He answered me.</p><p data-vid=\"JON 2:2\" class=\"q1\">Out of the belly of Sheol I cried.</p><p data-vid=\"JON 2:2\" class=\"q2\">You heard my voice.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"JON 2:3\" class=\"v\">3</span>For you threw me into the depths,</p><p data-vid=\"JON 2:3\" class=\"q2\">in the heart of the seas.</p><p data-vid=\"JON 2:3\" class=\"q1\">The flood was all around me.</p><p data-vid=\"JON 2:3\" class=\"q2\">All your waves and your billows passed over me.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"JON 2:4\" class=\"v\">4</span>I said, ‘I have been banished from your sight;</p><p data-vid=\"JON 2:4\" class=\"q2\">yet I will look again toward your holy temple.’</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"JON 2:5\" class=\"v\">5</span>The waters surrounded me,</p><p data-vid=\"JON 2:5\" class=\"q2\">even to the soul.</p><p data-vid=\"JON 2:5\" class=\"q1\">The deep was around me.</p><p data-vid=\"JON 2:5\" class=\"q2\">The weeds were wrapped around my head.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"JON 2:6\" class=\"v\">6</span>I went down to the bottoms of the mountains.</p><p data-vid=\"JON 2:6\" class=\"q2\">The earth barred me in forever;</p><p data-vid=\"JON 2:6\" class=\"q2\">yet you have brought my life up from the pit, Yahweh my God.</p><p class=\"b\"></p><p class=\"q1\"><span data-number=\"7\" data-sid=\"JON 2:7\" class=\"v\">7</span>“When my soul fainted within me, I remembered Yahweh.</p><p data-vid=\"JON 2:7\" class=\"q2\">My prayer came in to you, into your holy temple.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"JON 2:8\" class=\"v\">8</span>Those who regard vain idols forsake their own mercy.</p><p class=\"q2\"><span data-number=\"9\" data-sid=\"JON 2:9\" class=\"v\">9</span>But I will sacrifice to you with the voice of thanksgiving.</p><p data-vid=\"JON 2:9\" class=\"q2\">I will pay that which I have vowed.</p><p data-vid=\"JON 2:9\" class=\"q1\">Salvation belongs to Yahweh.”</p><p class=\"p\"><span data-number=\"10\" data-sid=\"JON 2:10\" class=\"v\">10</span>Then Yahweh spoke to the fish, and it vomited out Jonah on the dry land.</p>",
+    "next": {
+      "id": "JON.3",
+      "number": "3",
+      "bookId": "JON"
+    },
+    "previous": {
+      "id": "JON.1",
+      "number": "1",
+      "bookId": "JON"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzIBABwHbqxlyoOgvR4ENKfKn36iRLgSqFYB4JYsXX2h87aBy3G36hLHEaLR7EXj9lZn2pgFwf8tJ8lkUHD136X_vO5H0G-ryXl86Krkajmf58V65atVWEpjtaCHh272usqB-RlnjEDyxj9rdo0lRAHOXZJ10Brwde-lidKksY11qGobVYx5AnYPafrrvoKQtZMqL_jUMELPVsgmWCNYv06PV33Os1suvLEyRr-QYVUt5HzprFzM3crMiqGsfWE"
+  }
+}

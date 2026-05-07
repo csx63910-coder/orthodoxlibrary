@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.137",
+    "bibleId": "179568874c45066f-01",
+    "number": "137",
+    "bookId": "PSA",
+    "reference": "Psalms 137",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 8,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 137:1\" class=\"v\">1</span>I will praise thee, O lord, with my whole heart: for thou hast heard the words of my mouth. I will sing praise to thee in the sight of his angels:</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 137:2\" class=\"v\">2</span>I will worship towards thy holy temple, and I will give glory to thy name. For thy mercy, and for thy truth: for thou hast magnified thy holy name above all.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 137:3\" class=\"v\">3</span>In what day soever I shall call upon thee, hear me: thou shall multiply strength in my soul.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 137:4\" class=\"v\">4</span>May all the kings of the earth give glory to thee: for they have heard all the words of thy mouth.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 137:5\" class=\"v\">5</span>And let them sing in the ways of the Lord: for great is the glory of the Lord.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 137:6\" class=\"v\">6</span>For the Lord is high, and looketh on the low: and the high he knoweth afar off.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 137:7\" class=\"v\">7</span>If I shall walk in the midst of tribulation, thou wilt quicken me: and thou hast stretched forth thy hand against the wrath of my enemies: and thy right hand hath saved me.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 137:8\" class=\"v\">8</span>The Lord will repay for me: thy mercy, O Lord, endureth for ever: O despise not the work of thy hands.</p>",
+    "next": {
+      "id": "PSA.138",
+      "number": "138",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.136",
+      "number": "136",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzcBQIzTFfOihHVPo7Glvvyye7FGpGmCJCatw9LVd91tp4Pyv18O928tCNM0zCjBoigo-L_lJJlsgqv_bvnH83YA2JdYbj7vVnKNqZQc5iEypZWmWDm3d9sbdoz4jDDfgiMVJC_wx5pZdwGIhODco5kfeA3A533XjJppJLHF2liMZx4jbO_i1OdtCYyMnRSBwSeGI_xsiW0PRWH1PN4ffjVbTcN8qSNz1qEm6tkqFQ5zXyWFkIWzOQ4"
+  }
+}

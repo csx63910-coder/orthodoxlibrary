@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.13",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "13",
+    "bookId": "PSA",
+    "reference": "Psalms 13",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 6,
+    "content": "<p class=\"d\">For the Chief Musician. A Psalm by David.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 13:1\" class=\"v\">1</span>How long, Yahweh?</p><p data-vid=\"PSA 13:1\" class=\"q2\">Will you forget me forever?</p><p data-vid=\"PSA 13:1\" class=\"q2\">How long will you hide your face from me?</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 13:2\" class=\"v\">2</span>How long shall I take counsel in my soul,</p><p data-vid=\"PSA 13:2\" class=\"q2\">having sorrow in my heart every day?</p><p data-vid=\"PSA 13:2\" class=\"q2\">How long shall my enemy triumph over me?</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 13:3\" class=\"v\">3</span>Behold, and answer me, Yahweh, my God.</p><p data-vid=\"PSA 13:3\" class=\"q2\">Give light to my eyes, lest I sleep in death;</p><p class=\"q2\"><span data-number=\"4\" data-sid=\"PSA 13:4\" class=\"v\">4</span>lest my enemy say, “I have prevailed against him;”</p><p data-vid=\"PSA 13:4\" class=\"q2\">lest my adversaries rejoice when I fall.</p><p class=\"b\"></p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 13:5\" class=\"v\">5</span>But I trust in your loving kindness.</p><p data-vid=\"PSA 13:5\" class=\"q2\">My heart rejoices in your salvation.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 13:6\" class=\"v\">6</span>I will sing to Yahweh,</p><p data-vid=\"PSA 13:6\" class=\"q2\">because he has been good to me.</p>",
+    "next": {
+      "id": "PSA.14",
+      "number": "14",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.12",
+      "number": "12",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBIIzTFfOihHUPAjom-fFX23CWtFFUtA5LV991t51ueAD-d_p2iFpbC8I0izNKsIPmQW1zEnEScdAK_rr-ed4OQL-sBufxrmvJdTGb5flq6esyLKSxWs_ornvDjrKe2J_hjBFI3vHnmFN3AaISLkOa7YFrAX83SxMrSSMbWwhjVCaXMbG9azOetyUQ2btS9QWfGI7hsyW0K5Jg9TzeX_VhlWLIxk6lc6nKEH2VpdYkl265tM4VW_vEAQ"
+  }
+}

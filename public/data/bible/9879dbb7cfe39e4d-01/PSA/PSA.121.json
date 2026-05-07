@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.121",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "121",
+    "bookId": "PSA",
+    "reference": "Psalms 121",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 8,
+    "content": "<p class=\"d\">A Song of Ascents.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 121:1\" class=\"v\">1</span>I will lift up my eyes to the hills.</p><p data-vid=\"PSA 121:1\" class=\"q2\">Where does my help come from?</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 121:2\" class=\"v\">2</span>My help comes from Yahweh,</p><p data-vid=\"PSA 121:2\" class=\"q2\">who made heaven and earth.</p><p class=\"b\"></p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 121:3\" class=\"v\">3</span>He will not allow your foot to be moved.</p><p data-vid=\"PSA 121:3\" class=\"q2\">He who keeps you will not slumber.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 121:4\" class=\"v\">4</span>Behold, he who keeps Israel</p><p data-vid=\"PSA 121:4\" class=\"q2\">will neither slumber nor sleep.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 121:5\" class=\"v\">5</span>Yahweh is your keeper.</p><p data-vid=\"PSA 121:5\" class=\"q2\">Yahweh is your shade on your right hand.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 121:6\" class=\"v\">6</span>The sun will not harm you by day,</p><p data-vid=\"PSA 121:6\" class=\"q2\">nor the moon by night.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 121:7\" class=\"v\">7</span>Yahweh will keep you from all evil.</p><p data-vid=\"PSA 121:7\" class=\"q2\">He will keep your soul.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 121:8\" class=\"v\">8</span>Yahweh will keep your going out and your coming in,</p><p data-vid=\"PSA 121:8\" class=\"q2\">from this time forward, and forever more.</p>",
+    "next": {
+      "id": "PSA.122",
+      "number": "122",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.120",
+      "number": "120",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzcBoBwHbqxlyoOgvZ5Bc0v98ovOGpGmCdJElGTp6guddbedbni887-SIG1tLchKszijBPs8CWqbk6iT4KoV_HX9Y50agG-SQ_M5c99z_SSK3DhLtZ-ahArJtTRn_njfmFQSsDxDCUGgd8MfZ5zuCZAF4Drgqw6wZuDnJipsU-cjbWAcy2Wu530B5azMWKcUgOzd59SF-DNM2Aspsys8gmxt5ze9uYlIXc-LqYyzmBrfj2iYBKM6S9LECbvyNAY"
+  }
+}

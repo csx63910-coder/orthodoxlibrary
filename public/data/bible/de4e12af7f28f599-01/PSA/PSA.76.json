@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.76",
+    "bibleId": "de4e12af7f28f599-01",
+    "number": "76",
+    "bookId": "PSA",
+    "reference": "Psalms 76",
+    "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+    "verseCount": 12,
+    "content": "<p class=\"d\">To the chief Musician on Neginoth, A Psalm <span class=\"add\">or</span> Song of Asaph.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 76:1\" class=\"v\">1</span>In Judah <span class=\"add\">is</span> God known: his name <span class=\"add\">is</span> great in Israel.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 76:2\" class=\"v\">2</span>In Salem also is his tabernacle, and his dwelling place in Zion.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 76:3\" class=\"v\">3</span>There brake he the arrows of the bow, the shield, and the sword, and the battle. Selah.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 76:4\" class=\"v\">4</span>Thou <span class=\"add\">art</span> more glorious <span class=\"add\">and</span> excellent than the mountains of prey.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 76:5\" class=\"v\">5</span>The stouthearted are spoiled, they have slept their sleep: and none of the men of might have found their hands.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 76:6\" class=\"v\">6</span>At thy rebuke, O God of Jacob, both the chariot and horse are cast into a dead sleep.</p><p class=\"b\"></p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 76:7\" class=\"v\">7</span>Thou, <span class=\"add\">even</span> thou, <span class=\"add\">art</span> to be feared: and who may stand in thy sight when once thou art angry?</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 76:8\" class=\"v\">8</span>Thou didst cause judgment to be heard from heaven; the earth feared, and was still,</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 76:9\" class=\"v\">9</span>When God arose to judgment, to save all the meek of the earth. Selah.</p><p class=\"q1\"><span data-number=\"10\" data-sid=\"PSA 76:10\" class=\"v\">10</span>Surely the wrath of man shall praise thee: the remainder of wrath shalt thou restrain.</p><p class=\"q1\"><span data-number=\"11\" data-sid=\"PSA 76:11\" class=\"v\">11</span>Vow, and pay unto the <span class=\"nd\">LORD</span> your God: let all that be round about him bring presents unto him that ought to be feared.</p><p class=\"q1\"><span data-number=\"12\" data-sid=\"PSA 76:12\" class=\"v\">12</span>He shall cut off the spirit of princes: <span class=\"add\">he is</span> terrible to the kings of the earth.</p>",
+    "next": {
+      "id": "PSA.77",
+      "number": "77",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.75",
+      "number": "75",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzUBwBwH7r494omAs7iogudxbKX-8vRv3ohkSJBE9K6gyFqHpavv09uiQLkWtQXWgjA96I0u2Ol0uR3qhpNkMktQf-0_r_sR2Le3zDw-7FVceZmty1rqOrWmnbdS7h7WaGBKJkZHiHMKtRP_bFgNg3DCuS8ZD1K_gTjJ2iXt8tinHmJPyUiQCbF7yFKv-wp0zF0TacGmhiPudMVrAy-K9ev0-OhuHuOiScw6-Jh0lIXXM1-fdAnrtWRXqktzDg"
+  }
+}

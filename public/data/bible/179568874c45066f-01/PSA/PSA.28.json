@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.28",
+    "bibleId": "179568874c45066f-01",
+    "number": "28",
+    "bookId": "PSA",
+    "reference": "Psalms 28",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 11,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 28:1\" class=\"v\">1</span>A psalm for David, at the finishing of the tabernacle. Bring to the Lord, O ye children of God: bring to the Lord the offspring of rams.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 28:2\" class=\"v\">2</span>Bring to the Lord glory and honour: bring to the Lord glory to his name: adore ye the Lord in his holy court.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 28:3\" class=\"v\">3</span>The voice of the Lord is upon the waters; the God of majesty hath thundered, The Lord is upon many waters.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 28:4\" class=\"v\">4</span>The voice of the Lord is in power; the voice of the Lord in magnificence.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 28:5\" class=\"v\">5</span>The voice of the Lord breaketh the cedars: yea, the Lord shall break the cedars of Libanus.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 28:6\" class=\"v\">6</span>And shall reduce them to pieces, as a calf of Libanus, and as the beloved son of unicorns.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 28:7\" class=\"v\">7</span>The voice of the Lord divideth the flame of fire:</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 28:8\" class=\"v\">8</span>The voice of the Lord shaketh the desert: and the Lord shall shake the desert of Cades.</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 28:9\" class=\"v\">9</span>The voice of the Lord prepareth the stags: and he will discover the thick woods: and in his temple all shall speak his glory.</p><p class=\"q1\"><span data-number=\"10\" data-sid=\"PSA 28:10\" class=\"v\">10</span>The Lord maketh the flood to dwell: and the Lord shall sit king for ever. <span data-number=\"11\" data-sid=\"PSA 28:11\" class=\"v\">11</span>The Lord will give strength to his people: the Lord will bless his people with peace.</p>",
+    "next": {
+      "id": "PSA.29",
+      "number": "29",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.27",
+      "number": "27",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzUBgBwHbqxlyoOgvR4EdEzy46-24Sxpo6hIlq6-0HnbwOW4W3EJ8gVxNLutfm91po1ZEPzfcpJMRgVX_13553k7gH5ZTc3jXdtcYyolh3mIJqWVNFaLebrr3rCjXAHDI84Ygd6NPzt23QVEAOcOyRysOnzce2miNGlkY4ulWaeKN2OwvQvTn7clfKzdE3HBJoYReboktsBawep5vL_pJ83ioi5SlqnOFjKE2VTWHJPMYVrMZRWqWUYG"
+  }
+}

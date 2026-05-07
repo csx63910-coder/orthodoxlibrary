@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.124",
+    "bibleId": "de4e12af7f28f599-01",
+    "number": "124",
+    "bookId": "PSA",
+    "reference": "Psalms 124",
+    "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+    "verseCount": 8,
+    "content": "<p class=\"d\">A Song of degrees of David.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 124:1\" class=\"v\">1</span>If <span class=\"add\">it had not been</span> the <span class=\"nd\">LORD</span> who was on our side, now may Israel say;</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 124:2\" class=\"v\">2</span>If <span class=\"add\">it had not been</span> the <span class=\"nd\">LORD</span> who was on our side, when men rose up against us:</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 124:3\" class=\"v\">3</span>Then they had swallowed us up quick, when their wrath was kindled against us:</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 124:4\" class=\"v\">4</span>Then the waters had overwhelmed us, the stream had gone over our soul:</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 124:5\" class=\"v\">5</span>Then the proud waters had gone over our soul.</p><p class=\"b\"></p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 124:6\" class=\"v\">6</span>Blessed <span class=\"add\">be</span> the <span class=\"nd\">LORD</span>, who hath not given us <span class=\"add\">as</span> a prey to their teeth.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 124:7\" class=\"v\">7</span>Our soul is escaped as a bird out of the snare of the fowlers: the snare is broken, and we are escaped.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 124:8\" class=\"v\">8</span>Our help <span class=\"add\">is</span> in the name of the <span class=\"nd\">LORD</span>, who made heaven and earth.</p>",
+    "next": {
+      "id": "PSA.125",
+      "number": "125",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.123",
+      "number": "123",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzcBoBwHbqxlyoOgvR4EdEzy46-24Sxpo6hIlq6-0Fl32-mCBzwAfm8lQdraWlCWZnFGCRZoIEFtcxJxEhzVCv46_nneDqBfVkPzeNeLZVhaN13llSurWKs0VmspPeoNO6oFsDzijBHoXflzxq67gMjAzYDLMmBN8HOjNLFYGtnY_NVmVUMeg-1dmf68LQFk7T6rLoSJYcqeXzI7UwSr5_H-pk9h7k2cT4NMq2xlcC7JUtxKRpsWaVmXMZvA"
+  }
+}

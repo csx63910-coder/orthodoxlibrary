@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.119",
+    "bibleId": "179568874c45066f-01",
+    "number": "119",
+    "bookId": "PSA",
+    "reference": "Psalms 119",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 7,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 119:1\" class=\"v\">1</span>In my trouble I cried to the Lord: and he heard me.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 119:2\" class=\"v\">2</span>O Lord, deliver my soul from wicked lips, and a deceitful tongue.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 119:3\" class=\"v\">3</span>What shall be given to thee, or what shall be added to thee, to a deceitful tongue.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 119:4\" class=\"v\">4</span>The sharp arrows of the mighty, with coals that lay waste.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 119:5\" class=\"v\">5</span>Woe is me, that my sojourning is prolonged! I have dwelt with the inhabitants of cedar:</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 119:6\" class=\"v\">6</span>My soul hath been long a sojourner.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 119:7\" class=\"v\">7</span>With them that hate peace I was peaceable: when I spoke to them they fought against me without cause.</p>",
+    "next": {
+      "id": "PSA.120",
+      "number": "120",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.118",
+      "number": "118",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzcBoBwHbqxlyoOgvR4E_P0kP37V9nGWtFlEJ0tXX-ist-3prT6E9jHGBNVsJrzY1IeqJSUSqgLKTYQUopOQ1TL8efzzvB1Av6yG5vGuba4xlZLDPEST0koaq7W83nV_1ClrKzisccYI9Bb-3LHrLWA2UHaDX33AWuHnFmli0zS2scUSlasJ2N6Vmc_bEkDW3nPqQp4mZthLS2bZQh6yeh7vMRaLVEP_zqV1SyeDmVdZl2EmXSwml_k8BR8Z"
+  }
+}

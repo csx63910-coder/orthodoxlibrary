@@ -1,0 +1,170 @@
+{
+  "translation": {
+    "id": "grc_byz",
+    "name": "Η Καινή Διαθήκη",
+    "website": "https://ebible.org/Scriptures/details.php?id=grcbyz",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=grcbyz",
+    "shortName": "BYZ",
+    "englishName": "Byzantine Greek  NT",
+    "language": "grc",
+    "textDirection": "ltr",
+    "sha256": "acfd94401d1806e308bf8d15cc3c193d5ccaa1f0c3d276d9d6af5a2c8a0a25d4",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/grc_byz/books.json",
+    "completeTranslationApiLink": "/api/grc_byz/complete.json",
+    "numberOfBooks": 27,
+    "totalNumberOfChapters": 260,
+    "totalNumberOfVerses": 7958,
+    "languageName": "Ancient Greek",
+    "languageEnglishName": "Ancient Greek"
+  },
+  "book": {
+    "id": "MAT",
+    "translationId": "grc_byz",
+    "name": "ΚΑΤΑ ΜΑΤΘΑΙΟΝ",
+    "commonName": "ΚΑΤΑ ΜΑΤΘΑΙΟΝ",
+    "title": "ΤΟ ΚΑΤΑ ΜΑΤΘΑΙΟΝ ΑΓΙΟΝ ΕΥΑΓΓΕΛΙΟΝ",
+    "order": 40,
+    "numberOfChapters": 28,
+    "sha256": "05544b18b8a6d85b2bf99bd5554af5c5ead399e4d77533c27bcd4e081c2cc601",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/grc_byz/MAT/1.json",
+    "lastChapterNumber": 28,
+    "lastChapterApiLink": "/api/grc_byz/MAT/28.json",
+    "totalNumberOfVerses": 1071
+  },
+  "chapter": {
+    "number": 3,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ἐν δὲ ταῖς ἡμέραις ἐκείναις παραγίνεται Ἰωάννης ὁ βαπτιστὴς κηρύσσων ἐν τῇ ἐρήμῳ τῆς Ἰουδαίας"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "καὶ λέγων· μετανοεῖτε· ἤγγικε γὰρ ἡ βασιλεία τῶν οὐρανῶν."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "οὗτος γάρ ἐστιν ὁ ῥηθεὶς ὑπὸ Ἡσαΐου τοῦ προφήτου λέγοντος· φωνὴ βοῶντος ἐν τῇ ἐρήμῳ, ἑτοιμάσατε τὴν ὁδὸν Κυρίου, εὐθείας ποιεῖτε τὰς τρίβους αὐτοῦ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Αὐτὸς δὲ ὁ Ἰωάννης εἶχε τὸ ἔνδυμα αὐτοῦ ἀπὸ τριχῶν καμήλου καὶ ζώνην δερματίνην περὶ τὴν ὀσφὺν αὐτοῦ, ἡ δὲ τροφὴ αὐτοῦ ἦν ἀκρίδες καὶ μέλι ἄγριον."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Τότε ἐξεπορεύετο πρὸς αὐτὸν Ἱεροσόλυμα καὶ πᾶσα ἡ Ἰουδαία καὶ πᾶσα ἡ περίχωρος τοῦ Ἰορδάνου,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "καὶ ἐβαπτίζοντο ἐν τῷ Ἰορδάνῃ ὑπ᾽ αὐτοῦ ἐξομολογούμενοι τὰς ἁμαρτίας αὐτῶν."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "ἰδὼν δὲ πολλοὺς τῶν Φαρισαίων καὶ Σαδδουκαίων ἐρχομένους ἐπὶ τὸ βάπτισμα αὐτοῦ εἶπεν αὐτοῖς· γεννήματα ἐχιδνῶν, τίς ὑπέδειξεν ὑμῖν φυγεῖν ἀπὸ τῆς μελλούσης ὀργῆς;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "ποιήσατε οὖν καρπὸν ἄξιον τῆς μετανοίας,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "καὶ μὴ δόξητε λέγειν ἐν ἑαυτοῖς, πατέρα ἔχομεν τὸν Ἀβραάμ. λέγω γὰρ ὑμῖν ὅτι δύναται ὁ Θεὸς ἐκ τῶν λίθων τούτων ἐγεῖραι τέκνα τῷ Ἀβραάμ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "ἤδη δὲ καὶ ἡ ἀξίνη πρὸς τὴν ῥίζαν τῶν δένδρων κεῖται· πᾶν οὖν δένδρον μὴ ποιοῦν καρπὸν καλὸν ἐκκόπτεται καὶ εἰς πῦρ βάλλεται."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "ἐγὼ μὲν βαπτίζω ὑμᾶς ἐν ὕδατι εἰς μετάνοιαν· ὁ δὲ ὀπίσω μου ἐρχόμενος ἰσχυρότερός μού ἐστιν, οὗ οὐκ εἰμὶ ἱκανὸς τὰ ὑποδήματα βαστάσαι· αὐτὸς ὑμᾶς βαπτίσει ἐν Πνεύματι Ἁγίῳ καὶ πυρί."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "οὗ τὸ πτύον ἐν τῇ χειρὶ αὐτοῦ καὶ διακαθαριεῖ τὴν ἅλωνα αὐτοῦ, καὶ συνάξει τὸν σῖτον αὐτοῦ εἰς τὴν ἀποθήκην, τὸ δὲ ἄχυρον κατακαύσει πυρὶ ἀσβέστῳ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Τότε παραγίνεται ὁ Ἰησοῦς ἀπὸ τῆς Γαλιλαίας ἐπὶ τὸν Ἰορδάνην πρὸς τὸν Ἰωάννην τοῦ βαπτισθῆναι ὑπ᾽ αὐτοῦ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "ὁ δὲ Ἰωάννης διεκώλυεν αὐτὸν λέγων· ἐγὼ χρείαν ἔχω ὑπὸ σοῦ βαπτισθῆναι, καὶ σὺ ἔρχῃ πρός με;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "ἀποκριθεὶς δὲ ὁ Ἰησοῦς εἶπε πρὸς αὐτόν· ἄφες ἄρτι· οὕτω γὰρ πρέπον ἐστὶν ἡμῖν πληρῶσαι πᾶσαν δικαιοσύνην. τότε ἀφίησιν αὐτόν·"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "καὶ βαπτισθεὶς ὁ Ἰησοῦς ἀνέβη εὐθὺς ἀπὸ τοῦ ὕδατος· καὶ ἰδοὺ ἀνεῴχθησαν αὐτῷ οἱ οὐρανοί, καὶ εἶδε τὸ Πνεῦμα τοῦ Θεοῦ καταβαῖνον ὡσεὶ περιστερὰν καὶ ἐρχόμενον ἐπ᾽ αὐτόν·"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "καὶ ἰδοὺ φωνὴ ἐκ τῶν οὐρανῶν λέγουσα· οὗτός ἐστιν ὁ υἱός μου ὁ ἀγαπητός, ἐν ᾧ εὐδόκησα."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/grc_byz/MAT/3.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/grc_byz/MAT/4.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/grc_byz/MAT/2.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 17
+}

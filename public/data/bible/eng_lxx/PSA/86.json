@@ -1,0 +1,165 @@
+{
+  "translation": {
+    "id": "eng_lxx",
+    "name": "LXX2012: Septuagint in American English 2012",
+    "website": "https://ebible.org/Scriptures/details.php?id=eng-lxx2012",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=eng-lxx2012",
+    "shortName": "LXXSA",
+    "englishName": "LXX2012 U. S. English",
+    "language": "eng",
+    "textDirection": "ltr",
+    "sha256": "0d3bb79b82b36a3b295a66dbf9a82a0c0c701df5d3e235690aeffb9a83a53da7",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/eng_lxx/books.json",
+    "completeTranslationApiLink": "/api/eng_lxx/complete.json",
+    "numberOfBooks": 39,
+    "totalNumberOfChapters": 930,
+    "totalNumberOfVerses": 22876,
+    "languageName": "English",
+    "languageEnglishName": "English",
+    "numberOfApocryphalBooks": 15,
+    "totalNumberOfApocryphalChapters": 175,
+    "totalNumberOfApocryphalVerses": 5449
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "eng_lxx",
+    "name": "Psalms",
+    "commonName": "Psalms",
+    "title": "PSALMS",
+    "order": 19,
+    "numberOfChapters": 151,
+    "sha256": "88d52d4e891d834cd127df3a715c46244bfed23831d48446fb922d11da92c823",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/eng_lxx/PSA/1.json",
+    "lastChapterNumber": 151,
+    "lastChapterApiLink": "/api/eng_lxx/PSA/151.json",
+    "totalNumberOfVerses": 2467
+  },
+  "chapter": {
+    "number": 86,
+    "content": [
+      {
+        "type": "hebrew_subtitle",
+        "content": [
+          "(87) A Psalm of a Song for the sons of Core."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "His foundations are in the holy mountains.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "The Lord loves the gates of Sion, more than all the tabernacles of Jacob.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Glorious things have been spoken of you, O city of God. Pause.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "I will make mention of Raab and Babylon to them that know me: behold also the Philistines, and Tyre, and the people of the Ethiopians: these were born there.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "A man shall say, Sion is my mother; and such a man was born in her; and the Highest himself has founded her.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "The Lord shall recount it in the writing of the people, and of these princes that",
+            "poem": 1
+          },
+          {
+            "noteId": 156
+          },
+          {
+            "text": "were born in her.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "The dwelling of all within you is as the dwelling of those that rejoice.",
+            "poem": 1
+          }
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 156,
+        "caller": "+",
+        "text": "Gr. have been in her.",
+        "reference": {
+          "chapter": 86,
+          "verse": 6
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/eng_lxx/PSA/86.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/eng_lxx/PSA/87.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/eng_lxx/PSA/85.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 7
+}

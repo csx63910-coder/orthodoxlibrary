@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.66",
+    "bibleId": "179568874c45066f-01",
+    "number": "66",
+    "bookId": "PSA",
+    "reference": "Psalms 66",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 8,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 66:1\" class=\"v\">1</span>Unto the end, in, hymns, a psalm of a canticle for David.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 66:2\" class=\"v\">2</span>May God have mercy on us, and bless us: may he cause the light of his countenance to shine upon us, and may he have mercy on us.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 66:3\" class=\"v\">3</span>That we may know thy way upon earth: thy salvation in all nations.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 66:4\" class=\"v\">4</span>Let people confess to thee, O God: let all people give praise to thee.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 66:5\" class=\"v\">5</span>Let the nations be glad and rejoice: for thou judgest the people with justice, and directest the nations upon earth.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 66:6\" class=\"v\">6</span>Let the people, O God, confess to thee: let all the people give praise to thee:</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 66:7\" class=\"v\">7</span>The earth hath yielded her fruit. May God, our God bless us,</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 66:8\" class=\"v\">8</span>May God bless us: and all the ends of the earth fear him.</p>",
+    "next": {
+      "id": "PSA.67",
+      "number": "67",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.65",
+      "number": "65",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBYIzTFfOihHUPAjom-fFX23CWtFFUtA5LV9-3DVyOuxWXIF8QR7Pbqt1bnVljFgS2MUoiJvMLN7d_nrcD0C-rsXm8a5trTKXkMA_RpLSSxmo1T3fdG3ZUSkR3C2eMQPCCP0NW3QWIIJxLJPMBq4PPvZcmSpNGNrZYmjcqxDImtndl6vO2BCBzC0VdsInhCD1dIjuiCFbP4_2mL79I2ZWFldPpciZDmXlZVylIH4u1LnhjVisO"
+  }
+}

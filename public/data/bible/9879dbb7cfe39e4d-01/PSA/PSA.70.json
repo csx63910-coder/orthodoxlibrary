@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.70",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "70",
+    "bookId": "PSA",
+    "reference": "Psalms 70",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 5,
+    "content": "<p class=\"d\">For the Chief Musician. By David. A reminder.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 70:1\" class=\"v\">1</span>Hurry, God, to deliver me.</p><p data-vid=\"PSA 70:1\" class=\"q2\">Come quickly to help me, Yahweh.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 70:2\" class=\"v\">2</span>Let them be disappointed and confounded who seek my soul.</p><p data-vid=\"PSA 70:2\" class=\"q2\">Let those who desire my ruin be turned back in disgrace.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 70:3\" class=\"v\">3</span>Let them be turned because of their shame</p><p data-vid=\"PSA 70:3\" class=\"q2\">who say, “Aha! Aha!”</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 70:4\" class=\"v\">4</span>Let all those who seek you rejoice and be glad in you.</p><p data-vid=\"PSA 70:4\" class=\"q2\">Let those who love your salvation continually say,</p><p data-vid=\"PSA 70:4\" class=\"q2\">“Let God be exalted!”</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 70:5\" class=\"v\">5</span>But I am poor and needy.</p><p data-vid=\"PSA 70:5\" class=\"q2\">Come to me quickly, God.</p><p data-vid=\"PSA 70:5\" class=\"q1\">You are my help and my deliverer.</p><p data-vid=\"PSA 70:5\" class=\"q2\">Yahweh, don’t delay.</p>",
+    "next": {
+      "id": "PSA.71",
+      "number": "71",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.69",
+      "number": "69",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBYBwHbqxlyoOgvR4EdEzy46-24Sxpo6hIlq6-0HnbwOWbjrEVlyBfiEaz2_L3VmfWmAl1smQmyRD-dNc_z9sB9MtqbIp3XUuui9ksz1dLX5dhIY3Var7uujfsqGxA94ozRiD44M-QU3cB0YBLiWYfsAZc7r80UZo0srGF1JxX1box2N6Vmc_bEkD2Fqq64BPDGD1bIpuJgtXzeK8h-LSYu0KS81XJMqxmWU5Lncn58-jZ1OmslMA"
+  }
+}

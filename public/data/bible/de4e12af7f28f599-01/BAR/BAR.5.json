@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "BAR.5",
+    "bibleId": "de4e12af7f28f599-01",
+    "number": "5",
+    "bookId": "BAR",
+    "reference": "Baruch 5",
+    "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+    "verseCount": 9,
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"BAR 5:1\" class=\"v\">1</span>Put off, O Jerusalem, the garment of mourning and affliction, and put on the comeliness of the glory that cometh from God for ever.</p><p class=\"p\"><span data-number=\"2\" data-sid=\"BAR 5:2\" class=\"v\">2</span>Cast about thee a double garment of the righteousness which cometh from God; and set a diadem on thine head of the glory of the Everlasting.</p><p class=\"p\"><span data-number=\"3\" data-sid=\"BAR 5:3\" class=\"v\">3</span>For God will shew thy brightness unto every country under heaven.</p><p class=\"p\"><span data-number=\"4\" data-sid=\"BAR 5:4\" class=\"v\">4</span>For thy name shall be called of God for ever The peace of righteousness, and The glory of God’s worship.</p><p class=\"p\"><span data-number=\"5\" data-sid=\"BAR 5:5\" class=\"v\">5</span>Arise, O Jerusalem, and stand on high, and look about toward the east, and behold thy children gathered from the west unto the east by the word of the Holy One, rejoicing in the remembrance of God.</p><p class=\"p\"><span data-number=\"6\" data-sid=\"BAR 5:6\" class=\"v\">6</span>For they departed from thee on foot, and were led away of their enemies: but God bringeth them unto thee exalted with glory, as children of the kingdom.</p><p class=\"p\"><span data-number=\"7\" data-sid=\"BAR 5:7\" class=\"v\">7</span>For God hath appointed that every high hill, and banks of long continuance, should be cast down, and valleys filled up, to make even the ground, that Israel may go safely in the glory of God,</p><p class=\"p\"><span data-number=\"8\" data-sid=\"BAR 5:8\" class=\"v\">8</span>Moreover even the woods and every sweetsmelling tree shall overshadow Israel by the commandment of God.</p><p class=\"p\"><span data-number=\"9\" data-sid=\"BAR 5:9\" class=\"v\">9</span>For God shall lead Israel with joy in the light of his glory with the mercy and righteousness that cometh from him.</p>",
+    "next": {
+      "id": "BAR.6",
+      "number": "6",
+      "bookId": "BAR"
+    },
+    "previous": {
+      "id": "BAR.4",
+      "number": "4",
+      "bookId": "BAR"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzEBgIzTFfOihHUPglpb6pvPvP03KkOCJCatw9LV920Dl-Nu1SWOI0RQs9vq91Zn1pgFQZ06iIjJDB3-uv3zvB2AfllNzeNdL5Zhad10lVeurGKt0lgt5uGu-26oIrHbwxkjkLviz4nVYAEyEcETUvlBaoBvey9NlCaNbGy-NlNUCWlMbO-ytOdtCTrmnlNpwSeOI-xsieuIKlg9j3f7p_ilLWW-kHO3SDLUqZfFmihTskvrFrlVllMO"
+  }
+}

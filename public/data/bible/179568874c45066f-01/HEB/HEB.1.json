@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "HEB.1",
+    "bibleId": "179568874c45066f-01",
+    "number": "1",
+    "bookId": "HEB",
+    "reference": "Hebrews 1",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 14,
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"HEB 1:1\" class=\"v\">1</span>God, who, at sundry times and in divers manners, spoke in times past to the fathers by the prophets, last of all, <span data-number=\"2\" data-sid=\"HEB 1:2\" class=\"v\">2</span>In these days hath spoken to us by his Son, whom he hath appointed heir of all things, by whom also he made the world. <span data-number=\"3\" data-sid=\"HEB 1:3\" class=\"v\">3</span>Who being the brightness of his glory, and the figure of his substance, and upholding all things by the word of his power, making purgation of sins, sitteth on the right hand of the majesty on high. <span data-number=\"4\" data-sid=\"HEB 1:4\" class=\"v\">4</span>Being made so much better than the angels, as he hath inherited a more excellent name than they. <span data-number=\"5\" data-sid=\"HEB 1:5\" class=\"v\">5</span>For to which of the angels hath he said at any time, Thou art my Son, today have I begotten thee? And again, I will be to him a Father, and he shall be to me a Son? <span data-number=\"6\" data-sid=\"HEB 1:6\" class=\"v\">6</span>And again, when he bringeth in the first begotten into the world, he saith: And let all the angels of God adore him. <span data-number=\"7\" data-sid=\"HEB 1:7\" class=\"v\">7</span>And to the angels indeed he saith: He that maketh his angels spirits, and his ministers a flame of fire. <span data-number=\"8\" data-sid=\"HEB 1:8\" class=\"v\">8</span>But to the Son: Thy throne, O God, is for ever and ever: a sceptre of justice is the sceptre of thy kingdom. <span data-number=\"9\" data-sid=\"HEB 1:9\" class=\"v\">9</span>Thou hast loved justice, and hated iniquity: therefore God, thy God, hath anointed thee with the oil of gladness above thy fellows. <span data-number=\"10\" data-sid=\"HEB 1:10\" class=\"v\">10</span>And: Thou in the beginning, O Lord, didst found the earth: and the works of thy hands are the heavens. <span data-number=\"11\" data-sid=\"HEB 1:11\" class=\"v\">11</span>They shall perish, but thou shalt continue: and they shall all grow old as a garment. <span data-number=\"12\" data-sid=\"HEB 1:12\" class=\"v\">12</span>And as a vesture shalt thou change them, and they shall be changed: but thou art the selfsame, and thy years shall not fail. <span data-number=\"13\" data-sid=\"HEB 1:13\" class=\"v\">13</span>But to which of the angels said he at any time: Sit on my right hand, until I make thy enemies thy footstool? <span data-number=\"14\" data-sid=\"HEB 1:14\" class=\"v\">14</span>Are they not all ministering spirits, sent to minister for them, who shall receive the inheritance of salvation?</p>",
+    "next": {
+      "id": "HEB.2",
+      "number": "2",
+      "bookId": "HEB"
+    },
+    "previous": {
+      "id": "HEB.intro",
+      "number": "intro",
+      "bookId": "HEB"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzIBQBwHuTnyJpoibd4lkGhsqS_fm0YShApJTFqHpatvFK277XRQ_n_6DtLWgjBrgWaUYKcWJMH_LSfJZBNc_XfbP8_bAZiXM9x83o0rLeVaS5zHZHNeKeuMnMHdDAfaEdMjvLWC4BV_lqxGCxCZcO6RLA9WE_i4nbJJ2UzxzeYek86ujIntXZj2vC3Bx9xBFRd8YjgCz5bABnBRWD2P91e_rXJ18xKU93mhYglZ1WkqHIpfxZkL82VYTTk"
+  }
+}

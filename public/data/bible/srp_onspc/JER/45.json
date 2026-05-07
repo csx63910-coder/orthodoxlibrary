@@ -1,0 +1,92 @@
+{
+  "translation": {
+    "id": "srp_onspc",
+    "name": "Biblica® Нови српски превод, слободна права",
+    "website": "https://ebible.org/Scriptures/details.php?id=srponspc",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srponspc",
+    "shortName": "ONSPC",
+    "englishName": "Serbian ONSP Cyrillic",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "f7cf39982822a6be7cfe4a623571c1d865bcad7b51dca5ad6efcdd5f4cf784f8",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_onspc/books.json",
+    "completeTranslationApiLink": "/api/srp_onspc/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31102,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "JER",
+    "translationId": "srp_onspc",
+    "name": "Књига пророка Јеремије",
+    "commonName": "Књига пророка Јеремије",
+    "title": "Књига пророка Јеремије",
+    "order": 24,
+    "numberOfChapters": 52,
+    "sha256": "b33f8d3e722cccfab7e8d8c2e353b57c81d901db98dd37cafca596c2cc88e2e2",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_onspc/JER/1.json",
+    "lastChapterNumber": 52,
+    "lastChapterApiLink": "/api/srp_onspc/JER/52.json",
+    "totalNumberOfVerses": 1364
+  },
+  "chapter": {
+    "number": 45,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Порука Варуху"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ово је порука коју је пророк Јеремија објавио Варуху, Ниријином сину, који је записивао ове речи на свитак по Јеремијином казивању. А то је било четврте године Јосијиног сина Јоакима, Јудиног цара:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "„Овако каже Господ, Бог Израиља, теби, Варуше:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Рекао си: ’Тешко мени! Господ ми је тугу на бол надодао. Клонуо сам од јецања, а мир нашао нисам!’"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Овако му реци: ’Ово каже Господ: ево, шта сам сазидао, то ћу да срушим; шта сам посадио, то ћу да почупам по свој овој земљи."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "А ти тражиш за себе велике ствари! Не тражи их. Јер ја доносим пропаст на сво човечанство – говори Господ – и твој ћу ти живот дати као плен по свим местима у која одеш.’“"
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_onspc/JER/45.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_onspc/JER/46.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_onspc/JER/44.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 5
+}

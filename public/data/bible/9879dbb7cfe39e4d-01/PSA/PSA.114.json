@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.114",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "114",
+    "bookId": "PSA",
+    "reference": "Psalms 114",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 8,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 114:1\" class=\"v\">1</span>When Israel went out of Egypt,</p><p data-vid=\"PSA 114:1\" class=\"q2\">the house of Jacob from a people of foreign language,</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 114:2\" class=\"v\">2</span>Judah became his sanctuary,</p><p data-vid=\"PSA 114:2\" class=\"q2\">Israel his dominion.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 114:3\" class=\"v\">3</span>The sea saw it, and fled.</p><p data-vid=\"PSA 114:3\" class=\"q2\">The Jordan was driven back.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 114:4\" class=\"v\">4</span>The mountains skipped like rams,</p><p data-vid=\"PSA 114:4\" class=\"q2\">the little hills like lambs.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 114:5\" class=\"v\">5</span>What was it, you sea, that you fled?</p><p data-vid=\"PSA 114:5\" class=\"q2\">You Jordan, that you turned back?</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 114:6\" class=\"v\">6</span>You mountains, that you skipped like rams?</p><p data-vid=\"PSA 114:6\" class=\"q2\">You little hills, like lambs?</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 114:7\" class=\"v\">7</span>Tremble, you earth, at the presence of the Lord,</p><p data-vid=\"PSA 114:7\" class=\"q2\">at the presence of the God of Jacob,</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 114:8\" class=\"v\">8</span>who turned the rock into a pool of water,</p><p data-vid=\"PSA 114:8\" class=\"q2\">the flint into a spring of waters.</p>",
+    "next": {
+      "id": "PSA.115",
+      "number": "115",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.113",
+      "number": "113",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzcBoBwHbqxlyoOgvR4EdEzy46-24Sxpo6hIlq6-0Fl32-mGB-B_vxzS1taCMM3ijBLsoIEE_7ecJJOywtV_d_3zvB1Av6yG5vGua8l1MZvl-Wrp6zIspLFay_Cue8OOsjaA4RlnjEDvzp8dp-4CogKXBss2YC3wc7M0sWga2dhCioLKuYzB9q7MeN6WALJ3T9WFNDGM2fMlsytFsHoe72_6tJhHb-bWybyczWVYTLOcxnmRy6mLi1yMCaEy"
+  }
+}

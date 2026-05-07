@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "JOB.25",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "25",
+    "bookId": "JOB",
+    "reference": "Job 25",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 6,
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"JOB 25:1\" class=\"v\">1</span>Then Bildad the Shuhite answered,</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"JOB 25:2\" class=\"v\">2</span>“Dominion and fear are with him.</p><p data-vid=\"JOB 25:2\" class=\"q2\">He makes peace in his high places.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"JOB 25:3\" class=\"v\">3</span>Can his armies be counted?</p><p data-vid=\"JOB 25:3\" class=\"q2\">On whom does his light not arise?</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"JOB 25:4\" class=\"v\">4</span>How then can man be just with God?</p><p data-vid=\"JOB 25:4\" class=\"q2\">Or how can he who is born of a woman be clean?</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"JOB 25:5\" class=\"v\">5</span>Behold, even the moon has no brightness,</p><p data-vid=\"JOB 25:5\" class=\"q2\">and the stars are not pure in his sight;</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"JOB 25:6\" class=\"v\">6</span>How much less man, who is a worm,</p><p data-vid=\"JOB 25:6\" class=\"q2\">and the son of man, who is a worm!”</p>",
+    "next": {
+      "id": "JOB.26",
+      "number": "26",
+      "bookId": "JOB"
+    },
+    "previous": {
+      "id": "JOB.24",
+      "number": "24",
+      "bookId": "JOB"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBCBwHuTnyJpoibd4lCGibqV9-80iDvLQlMWkdlq6-8fS2gcs3HWMrLsEdQjSa3V67tzozxw2C2uYk4qS4CUVNH9f1z_N2APplNZ7Hu64l18Vsluerpa_LsJDGaqnZXQ-dcpFYMsMZI3h7x59dp34BohIuQ832IBvgg4s0sZI0srGF1FcVchgT27ug8bwtwWTvrEoGnxiOAdoS7ookWD2P99v-fXA52kWWYearDN7PZSnTJNMs21qnMfVYcQ"
+  }
+}

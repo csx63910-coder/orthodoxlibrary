@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "ECC.1",
+    "bibleId": "179568874c45066f-01",
+    "number": "1",
+    "bookId": "ECC",
+    "reference": "Ecclesiastes 1",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 18,
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"ECC 1:1\" class=\"v\">1</span>The words of Ecclesiastes, the son of David, king of Jerusalem. <span data-number=\"2\" data-sid=\"ECC 1:2\" class=\"v\">2</span>Vanity of vanities, said Ecclesiastes vanity of vanities, and all is vanity. <span data-number=\"3\" data-sid=\"ECC 1:3\" class=\"v\">3</span>What hath a man more of all his labour, that he taketh under the sun? <span data-number=\"4\" data-sid=\"ECC 1:4\" class=\"v\">4</span>One generation passeth away, and another generation cometh: but the earth standeth for ever. <span data-number=\"5\" data-sid=\"ECC 1:5\" class=\"v\">5</span>The sun riseth, and goeth down, and returneth to his place: and there rising again, <span data-number=\"6\" data-sid=\"ECC 1:6\" class=\"v\">6</span>Maketh his round by the south, and turneth again to the north: the spirit goeth forward surveying all places round about, and returneth to his circuits. <span data-number=\"7\" data-sid=\"ECC 1:7\" class=\"v\">7</span>All the rivers run into the sea, yet the sea doth not overflow: unto the place from whence the rivers come, they return, to flow again. <span data-number=\"8\" data-sid=\"ECC 1:8\" class=\"v\">8</span>All things are hard: man cannot explain them by word. The eye is not filled with seeing, neither is the ear filled with hearing. <span data-number=\"9\" data-sid=\"ECC 1:9\" class=\"v\">9</span>What is it that hath been? the same thing that shall be. What is it that hath been done? the same that shall be done. <span data-number=\"10\" data-sid=\"ECC 1:10\" class=\"v\">10</span>Nothing under the sun is new, neither is any man able to say: Behold this is new: for it hath already gone before in the ages that were before us. <span data-number=\"11\" data-sid=\"ECC 1:11\" class=\"v\">11</span>There is no remembrance of former things: nor indeed of those things which hereafter are to come, shall there be any remembrance with them that shall be in the latter end. <span data-number=\"12\" data-sid=\"ECC 1:12\" class=\"v\">12</span>I Ecclesiastes was king over Israel in Jerusalem, <span data-number=\"13\" data-sid=\"ECC 1:13\" class=\"v\">13</span>And I proposed in my mind to seek and search out wisely concerning all things that are done under the sun. This painful occupation hath God given to the children of men, to be exercised therein. <span data-number=\"14\" data-sid=\"ECC 1:14\" class=\"v\">14</span>I have seen all things that are done under the sun, and behold all is vanity, and vexation of spirit. <span data-number=\"15\" data-sid=\"ECC 1:15\" class=\"v\">15</span>The perverse are hard to be corrected, and the number of fools is infinite. <span data-number=\"16\" data-sid=\"ECC 1:16\" class=\"v\">16</span>I have spoken in my heart, saying: Behold I am become great, and have gone beyond all in wisdom, that were before me in Jerusalem: and my mind hath contemplated many things wisely, and I have learned. <span data-number=\"17\" data-sid=\"ECC 1:17\" class=\"v\">17</span>And I have given my heart to know prudence, and learning, and errors, and folly: and I have perceived that in these also there was labour, and vexation of spirit, <span data-number=\"18\" data-sid=\"ECC 1:18\" class=\"v\">18</span>Because In much wisdom there is much indignation: and he that addeth knowledge, addeth also labour.</p>",
+    "next": {
+      "id": "ECC.2",
+      "number": "2",
+      "bookId": "ECC"
+    },
+    "previous": {
+      "id": "ECC.intro",
+      "number": "intro",
+      "bookId": "ECC"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzIBgIzTFfOihHVPwbGlvnzzincSpBuurcPS1fdtA5fjbtUljiNEo9lt3N7qvGzMgsA2pUnEyfktXJr-8bwdAPwlOTWPdy59tC4Eb6qxwrkVFZKLebjz0WDAJMLsCEoIArkb_LFiNWuAKAjOHZL1gdQAfNt7KiwVbi5tsjFpyaTxC4TtXZb-vHWgY-6cSgu-NBxhZx3XBGQgWD2P9xd9rKJpyoQVXQXZqTGl0mjjilZX2Kx6a6smMg4"
+  }
+}

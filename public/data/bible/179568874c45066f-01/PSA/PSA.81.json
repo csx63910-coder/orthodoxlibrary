@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.81",
+    "bibleId": "179568874c45066f-01",
+    "number": "81",
+    "bookId": "PSA",
+    "reference": "Psalms 81",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 8,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 81:1\" class=\"v\">1</span>A psalm for Asaph. God hath stood in the congregation of gods: and being in the midst of them he judgeth gods.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 81:2\" class=\"v\">2</span>How long will you judge unjustly: and accept the persons of the wicked?</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 81:3\" class=\"v\">3</span>Judge for the needy and fatherless: do justice to the humble and the poor.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 81:4\" class=\"v\">4</span>Rescue the poor; and deliver the needy out of the hand of the sinner.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 81:5\" class=\"v\">5</span>They have not known nor understood: they walk on in darkness: all the foundations of the earth shall be moved.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 81:6\" class=\"v\">6</span>I have said: You are gods and all of you the sons of the most High.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 81:7\" class=\"v\">7</span>But you like men shall die: and shall fall like one of the princes.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 81:8\" class=\"v\">8</span>Arise, O God, judge thou the earth: for thou shalt inherit among all the nations.</p>",
+    "next": {
+      "id": "PSA.82",
+      "number": "82",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.80",
+      "number": "80",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBYIzTFfOihHUPAjom-fFX23CWtFFUtA5LV9-3DVyOuxWXIF8Qh7Pba_dWZ9aYNU5gG6MkYjK_cHP753k7AP2yGpvHu7a5xlRKDvMQTUoraaxW83TXvWFHFUt093DGCAQv_Bmy6i5ABOFcIpkPWB187r00UZo0srHF0nxVrvgxsb0r0563JQCZWyjqgk0MR-jpEtkRRbB6Hu83fZqbqXdxWeVsOk0y1LqQUzu3crkyYTWzC5P9lAM"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.8",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "8",
+    "bookId": "PSA",
+    "reference": "Psalms 8",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 9,
+    "content": "<p class=\"d\">For the Chief Musician; on an instrument of Gath. A Psalm by David.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 8:1\" class=\"v\">1</span>Yahweh, our Lord, how majestic is your name in all the earth!</p><p data-vid=\"PSA 8:1\" class=\"q2\">You have set your glory above the heavens!</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 8:2\" class=\"v\">2</span>From the lips of babes and infants you have established strength,</p><p data-vid=\"PSA 8:2\" class=\"q2\">because of your adversaries, that you might silence the enemy and the avenger.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 8:3\" class=\"v\">3</span>When I consider your heavens, the work of your fingers,</p><p data-vid=\"PSA 8:3\" class=\"q2\">the moon and the stars, which you have ordained,</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 8:4\" class=\"v\">4</span>what is man, that you think of him?</p><p data-vid=\"PSA 8:4\" class=\"q2\">What is the son of man, that you care for him?</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 8:5\" class=\"v\">5</span>For you have made him a little lower than the angels,</p><p data-vid=\"PSA 8:5\" class=\"q2\">and crowned him with glory and honor.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 8:6\" class=\"v\">6</span>You make him ruler over the works of your hands.</p><p data-vid=\"PSA 8:6\" class=\"q2\">You have put all things under his feet:</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 8:7\" class=\"v\">7</span>All sheep and cattle,</p><p data-vid=\"PSA 8:7\" class=\"q2\">yes, and the animals of the field,</p><p class=\"q2\"><span data-number=\"8\" data-sid=\"PSA 8:8\" class=\"v\">8</span>the birds of the sky, the fish of the sea,</p><p data-vid=\"PSA 8:8\" class=\"q2\">and whatever passes through the paths of the seas.</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 8:9\" class=\"v\">9</span>Yahweh, our Lord,</p><p data-vid=\"PSA 8:9\" class=\"q2\">how majestic is your name in all the earth!</p>",
+    "next": {
+      "id": "PSA.9",
+      "number": "9",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.7",
+      "number": "7",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzEBIBwHbqxlyoOgvR4E_P0kP37V9nGWtFlEJ0tXX-isu-10wwPw_1PLW1sLwjSLM0qwU5QEtc1JxUmctIK_jn-etwPol9XgfN51LbkuZrM8Xy19XYaFNFbr6dx1f9SpAtZHnDECxRt_Ttn1FpAFhAxp1QFrhp-bpImdpLGNLbjRqezMBGzvyvTnbQkgazeauhCnhjF5YUnsTBWsnsf7mx7r0tYa51WmGFcyZGfkbBn8Mp-5lSvWmOXMMw"
+  }
+}

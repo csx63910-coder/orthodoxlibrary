@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.75",
+    "bibleId": "179568874c45066f-01",
+    "number": "75",
+    "bookId": "PSA",
+    "reference": "Psalms 75",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 13,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 75:1\" class=\"v\">1</span>Unto the end, in praises, a psalm for Asaph: a canticle to the Assyrians.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 75:2\" class=\"v\">2</span>In Judea God is known: his name is great in Israel.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 75:3\" class=\"v\">3</span>And his place is in peace: and his abode in Sion:</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 75:4\" class=\"v\">4</span>There hath he broken the powers of bows, the shield, the sword, and the battie.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 75:5\" class=\"v\">5</span>Thou enlightenest wonderfully from the everlasting hills.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 75:6\" class=\"v\">6</span>All the foolish of heart were troubled. They have slept their sleep; and all the men of riches have found nothing in their hands.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 75:7\" class=\"v\">7</span>At thy rebuke, O God of Jacob, they have all slumbered that mounted on horseback.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 75:8\" class=\"v\">8</span>Thou art terrible, and who shall resist thee? from that time thy wrath.</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 75:9\" class=\"v\">9</span>Thou hast caused judgment to be heard from heaven: the earth trembled and was still,</p><p class=\"q1\"><span data-number=\"10\" data-sid=\"PSA 75:10\" class=\"v\">10</span>When God arose in judgment, to save all the meek of the earth.</p><p class=\"q1\"><span data-number=\"11\" data-sid=\"PSA 75:11\" class=\"v\">11</span>For the thought of man shall give praise to thee: and the remainders of the thought shall keep holiday to thee.</p><p class=\"q1\"><span data-number=\"12\" data-sid=\"PSA 75:12\" class=\"v\">12</span>Vow ye, and pay to the Lord your God: all you that are round about him bring presents. To him that is terrible,</p><p class=\"q1\"><span data-number=\"13\" data-sid=\"PSA 75:13\" class=\"v\">13</span>Even to him who taketh away the spirit of princes: to the terrible with the kings of the earth.</p>",
+    "next": {
+      "id": "PSA.76",
+      "number": "76",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.74",
+      "number": "74",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzUBYBwHbqxlyoOgvZ5Bc0v98ovOGpGmCdJElGTp6gudtw1cjrsVl-BwCtFodhu3tzonMH6jwOakiW9iBjW5mv6xTg3AN8mx-Zy5dH3reJ5rYmOF42RUSK7maeaP9425FrA9QglBIHjDH4es7glQBRA8Il0HWAP4ue9UWCqcj7SB9QJtmeeaL6CclenrlAKQuQtFXbCfYYSepsgmkJogW9v5UZdRat0wjTIaJnFITRZH1M_S3KRSGZGFfpS5Yw"
+  }
+}

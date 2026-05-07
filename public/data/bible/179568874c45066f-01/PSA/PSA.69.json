@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.69",
+    "bibleId": "179568874c45066f-01",
+    "number": "69",
+    "bookId": "PSA",
+    "reference": "Psalms 69",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 6,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 69:1\" class=\"v\">1</span>Unto the end, a psalm for David, to bring to remembrance that the Lord saved him.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 69:2\" class=\"v\">2</span>O God, come to my assistance; O Lord, make haste to help me.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 69:3\" class=\"v\">3</span>Let them be confounded and ashamed that seek my soul:</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 69:4\" class=\"v\">4</span>Let them be turned backward, and blush for shame that desire evils to me: Let them be presently turned away blushing for shame that say to me: Tis well, tis well.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 69:5\" class=\"v\">5</span>Let all that seek thee rejoice and be glad in thee; and let such as love thy salvation say always: The Lord be magnified.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 69:6\" class=\"v\">6</span>But I am needy and poor; O God, help me. Thou art my helper and my deliverer: O Lord, make no delay.</p>",
+    "next": {
+      "id": "PSA.70",
+      "number": "70",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.68",
+      "number": "68",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBQBwHbqxlyoOgvZ5GY0t9-WX3Yo1I0wRJTJKlqy903jZwOe5WXIJ8QRzNbq_dW51X8RsF_7ecJJNNcPXfbf943g6AfYnl5vNuJdeYSslhHiJTWmmKlfN0t71hx6QKGG_hSAXFC_7YMusugAiAc49kDrQ68HXfNaNmGklssTQvpkgZA7Z3aerztgQhYxdFXrCJYcSeLpntkRRWz-P9UbeefjFdcqnrosx1YF7paea8sE7ZSY5crHzC"
+  }
+}

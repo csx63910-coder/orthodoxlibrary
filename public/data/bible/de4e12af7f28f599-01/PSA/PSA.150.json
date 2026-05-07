@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.150",
+    "bibleId": "de4e12af7f28f599-01",
+    "number": "150",
+    "bookId": "PSA",
+    "reference": "Psalms 150",
+    "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+    "verseCount": 6,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 150:1\" class=\"v\">1</span>Praise ye the <span class=\"nd\">LORD</span>. Praise God in his sanctuary: praise him in the firmament of his power.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 150:2\" class=\"v\">2</span>Praise him for his mighty acts: praise him according to his excellent greatness.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 150:3\" class=\"v\">3</span>Praise him with the sound of the trumpet: praise him with the psaltery and harp.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 150:4\" class=\"v\">4</span>Praise him with the timbrel and dance: praise him with stringed instruments and organs.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 150:5\" class=\"v\">5</span>Praise him upon the loud cymbals: praise him upon the high sounding cymbals.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 150:6\" class=\"v\">6</span>Let every thing that hath breath praise the <span class=\"nd\">LORD</span>. Praise ye the <span class=\"nd\">LORD</span>.</p>",
+    "next": {
+      "id": "PRO.intro",
+      "number": "intro",
+      "bookId": "PRO"
+    },
+    "previous": {
+      "id": "PSA.149",
+      "number": "149",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzcBoIzTFfOihHUPAjom-fFX23CWtFFUtA5LV991t51ueAD-90uQtrYWhGkWZ5RYHbQtqG1OIk6Co1rBX9c_z9sB6JfV0Dze9WIZltZNV3nlyirWKo3VWrp33Rt2lI2GWB7hjBHo3fDnjF13AaIQLgOW9QFrBj83SROLpJGNzbuuqhjTmNjelenP2xKArN2n6kKcGI7ZC0tmZyTB6nm8v-nDZJujq0bm2Wwqw2wV5CzOijSzxmFl3awu3YoD"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.11",
+    "bibleId": "de4e12af7f28f599-01",
+    "number": "11",
+    "bookId": "PSA",
+    "reference": "Psalms 11",
+    "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+    "verseCount": 7,
+    "content": "<p class=\"d\">To the chief Musician, <span class=\"add\">A Psalm</span> of David.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 11:1\" class=\"v\">1</span>In the <span class=\"nd\">LORD</span> put I my trust: how say ye to my soul, Flee <span class=\"add\">as</span> a bird to your mountain?</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 11:2\" class=\"v\">2</span>For, lo, the wicked bend <span class=\"add\">their</span> bow, they make ready their arrow upon the string, that they may privily shoot at the upright in heart.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 11:3\" class=\"v\">3</span>If the foundations be destroyed, what can the righteous do?</p><p class=\"b\"></p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 11:4\" class=\"v\">4</span>The <span class=\"nd\">LORD</span> <span class=\"add\">is</span> in his holy temple, the <span class=\"nd\">LORD’s</span> throne <span class=\"add\">is</span> in heaven: his eyes behold, his eyelids try, the children of men.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 11:5\" class=\"v\">5</span>The <span class=\"nd\">LORD</span> trieth the righteous: but the wicked and him that loveth violence his soul hateth.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 11:6\" class=\"v\">6</span>Upon the wicked he shall rain snares, fire and brimstone, and an horrible tempest: <span class=\"add\">this shall be</span> the portion of their cup.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 11:7\" class=\"v\">7</span>For the righteous <span class=\"nd\">LORD</span> loveth righteousness; his countenance doth behold the upright.</p>",
+    "next": {
+      "id": "PSA.12",
+      "number": "12",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.10",
+      "number": "10",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBYBwHbqxlyoOgvR4EdEzy46-24Sxpo6hIlq6-0HnbwOW4W3EJ8gVxNLu9dm91XsVvFPzfcpBkMsPVf7f987wdQL-sxubzrhfLsLRuusorV1axVmmsVvN0171hR1kLplucMQLBC3-WzLoLyADBLVI5YHX4ue_SRGnSyMbmQ3NBmerGYHtXpj5vSwAZOyjqgk0cI_R0iWxPFqyex_ubbotZxhJdkSbMvQxhVuRs7pytU8rZzxemTCsD"
+  }
+}

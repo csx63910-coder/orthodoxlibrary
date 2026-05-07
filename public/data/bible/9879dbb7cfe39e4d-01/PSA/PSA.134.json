@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.134",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "134",
+    "bookId": "PSA",
+    "reference": "Psalms 134",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 3,
+    "content": "<p class=\"d\">A Song of Ascents.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 134:1\" class=\"v\">1</span>Look! Praise Yahweh, all you servants of Yahweh,</p><p data-vid=\"PSA 134:1\" class=\"q2\">who stand by night in Yahweh’s house!</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 134:2\" class=\"v\">2</span>Lift up your hands in the sanctuary.</p><p data-vid=\"PSA 134:2\" class=\"q2\">Praise Yahweh!</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 134:3\" class=\"v\">3</span>May Yahweh bless you from Zion,</p><p data-vid=\"PSA 134:3\" class=\"q2\">even he who made heaven and earth.</p>",
+    "next": {
+      "id": "PSA.135",
+      "number": "135",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.133",
+      "number": "133",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzcBYBwHbqxlyoOgvR4EdEzy46-24Sxpo6hIlq6-0Fl32-mg_O-Xw_1bC8I0Ks4owQJqBbYpTSJOzi9c2u2f5-0A-mU1Np93XUuui9ksz1dLX5dhIY3Vah7vujfsKOsDaG9xxggUL_yZsuouIBJwLtHMA9eAt_suTZQmjWxsIbXoVUx1DLZ3berztgSRuY2iL_jEMKLPltSOeMHqebxfdb9cVZPcrMjkll4Gm-ZyFqdBrv6iPi1KMFPP"
+  }
+}

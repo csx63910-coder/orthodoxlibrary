@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.122",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "122",
+    "bookId": "PSA",
+    "reference": "Psalms 122",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 9,
+    "content": "<p class=\"d\">A Song of Ascents. By David.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 122:1\" class=\"v\">1</span>I was glad when they said to me,</p><p data-vid=\"PSA 122:1\" class=\"q2\">“Let’s go to Yahweh’s house!”</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 122:2\" class=\"v\">2</span>Our feet are standing within your gates, Jerusalem!</p><p class=\"q2\"><span data-number=\"3\" data-sid=\"PSA 122:3\" class=\"v\">3</span>Jerusalem is built as a city that is compact together,</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 122:4\" class=\"v\">4</span>where the tribes go up, even Yah’s tribes,</p><p data-vid=\"PSA 122:4\" class=\"q2\">according to an ordinance for Israel,</p><p data-vid=\"PSA 122:4\" class=\"q2\">to give thanks to Yahweh’s name.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 122:5\" class=\"v\">5</span>For there are set thrones for judgment,</p><p data-vid=\"PSA 122:5\" class=\"q2\">the thrones of David’s house.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 122:6\" class=\"v\">6</span>Pray for the peace of Jerusalem.</p><p data-vid=\"PSA 122:6\" class=\"q2\">Those who love you will prosper.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 122:7\" class=\"v\">7</span>Peace be within your walls,</p><p data-vid=\"PSA 122:7\" class=\"q2\">and prosperity within your palaces.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 122:8\" class=\"v\">8</span>For my brothers’ and companions’ sakes,</p><p data-vid=\"PSA 122:8\" class=\"q2\">I will now say, “Peace be within you.”</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 122:9\" class=\"v\">9</span>For the sake of the house of Yahweh our God,</p><p data-vid=\"PSA 122:9\" class=\"q2\">I will seek your good.</p>",
+    "next": {
+      "id": "PSA.123",
+      "number": "123",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.121",
+      "number": "121",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzcB4BwHbqxlyoOgvR4EdEzy46-24Sxpo6hIlq6-0Flv29NLfIgPITNmExThs5mNqEq6lpRIqDZQmyIIUiZD5jr85fjneTuAflmNzONd15LrYjbL89XS12VYSGO1kte77g07yjoHjo44YwRqN_7csOsuoDIIvWy7DFQT_FuRJk6eRja2kFzZQ8mOidu7Lv15W4LH2mtGWwgTxxR5fkmsUK2unsd7_jGzq1J8WsiaqpFhvprKGuNCzkNZjmk2K6tFYQ"
+  }
+}

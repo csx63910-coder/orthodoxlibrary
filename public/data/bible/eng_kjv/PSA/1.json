@@ -1,0 +1,151 @@
+{
+  "translation": {
+    "id": "eng_kjv",
+    "name": "King James (Authorized) Version",
+    "website": "https://ebible.org/Scriptures/details.php?id=eng-kjv2006",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=eng-kjv2006",
+    "shortName": "KJAV",
+    "englishName": "King James Version",
+    "language": "eng",
+    "textDirection": "ltr",
+    "sha256": "a847712eeaae26124d3f9db80a1a9274742981261961b49715f43809774eb43c",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/eng_kjv/books.json",
+    "completeTranslationApiLink": "/api/eng_kjv/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31102,
+    "languageName": "English",
+    "languageEnglishName": "English"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "eng_kjv",
+    "name": "Psalms",
+    "commonName": "Psalms",
+    "title": "The Book of Psalms",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "7bccd076c8889684c0a037e3d255cb4508bb73e03494e49aa49156505c4e4bfd",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/eng_kjv/PSA/1.json",
+    "lastChapterNumber": 150,
+    "lastChapterApiLink": "/api/eng_kjv/PSA/150.json",
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful.",
+            "poem": 1
+          },
+          {
+            "noteId": 0
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "But his delight is in the law of the LORD; and in his law doth he meditate day and night.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "And he shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season; his leaf also shall not wither; and whatsoever he doeth shall prosper.",
+            "poem": 1
+          },
+          {
+            "noteId": 1
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "The ungodly are not so: but are like the chaff which the wind driveth away.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Therefore the ungodly shall not stand in the judgment, nor sinners in the congregation of the righteous.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "For the LORD knoweth the way of the righteous: but the way of the ungodly shall perish.",
+            "poem": 1
+          }
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 0,
+        "caller": "+",
+        "text": "1.1 ungodly: or, wicked",
+        "reference": {
+          "chapter": 1,
+          "verse": 1
+        }
+      },
+      {
+        "noteId": 1,
+        "caller": "+",
+        "text": "1.3 wither: Heb. fade",
+        "reference": {
+          "chapter": 1,
+          "verse": 3
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/eng_kjv/PSA/1.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/eng_kjv/PSA/2.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/eng_kjv/JOB/42.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 6
+}

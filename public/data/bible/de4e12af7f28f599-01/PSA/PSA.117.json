@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.117",
+    "bibleId": "de4e12af7f28f599-01",
+    "number": "117",
+    "bookId": "PSA",
+    "reference": "Psalms 117",
+    "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+    "verseCount": 2,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 117:1\" class=\"v\">1</span>O praise the <span class=\"nd\">LORD</span>, all ye nations: praise him, all ye people.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 117:2\" class=\"v\">2</span>For his merciful kindness is great toward us: and the truth of the <span class=\"nd\">LORD</span> <span class=\"add\">endureth</span> for ever. Praise ye the <span class=\"nd\">LORD</span>.</p>",
+    "next": {
+      "id": "PSA.118",
+      "number": "118",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.116",
+      "number": "116",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzcBoCyOdxJUI3BHRnLdh8FSLSKztdegbaZ--c0bkczSGq5JBkWTLF19obPuttMND8D_fjmkra0FYRpoRonVQfPg_5aDJJOy4ob_7nrvtQD_JIfm8eZa00pVdr5TobMxUiG5luHNLzImpQfLMxKCQO-Ou7HLQVYQMmDVBtYCPzdTYZu4n7RJh9IwL_QfjLcy471aALL2nqoLaY4xe94y-wcRdO9650C7aNpOBmq7sqW10dCgqtLOdR0qp2zVmYAB"
+  }
+}

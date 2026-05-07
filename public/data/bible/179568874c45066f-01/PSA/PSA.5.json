@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.5",
+    "bibleId": "179568874c45066f-01",
+    "number": "5",
+    "bookId": "PSA",
+    "reference": "Psalms 5",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 13,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 5:1\" class=\"v\">1</span>Unto the end, for her that obtaineth the inheritance. A psalm of David.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 5:2\" class=\"v\">2</span>Give ear, O Lord, to my words, understand my cry.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 5:3\" class=\"v\">3</span>Hearken to the voice of my prayer, O my King and my God.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 5:4\" class=\"v\">4</span>For to thee will I pray: O Lord, in the morning thou shalt hear my voice.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 5:5\" class=\"v\">5</span>In the morning I will stand before thee, and will see: because thou art not a God that willest iniquity.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 5:6\" class=\"v\">6</span>Neither shall the wicked dwell near thee: nor shall the unjust abide before thy eyes.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 5:7\" class=\"v\">7</span>Thou hatest all the workers of iniquity: Thou wilt destroy all that speak a lie. The bloody and the deceitful man the Lord will abhor.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 5:8\" class=\"v\">8</span>But as for me in the multitude of thy mercy, I will come into thy house; I will worship towards thy holy temple, in thy fear.</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 5:9\" class=\"v\">9</span>Conduct me, O Lord, in thy justice: because of my enemies, direct my way in thy sight.</p><p class=\"q1\"><span data-number=\"10\" data-sid=\"PSA 5:10\" class=\"v\">10</span>For there is no truth in their mouth; their heart is vain.</p><p class=\"q1\"><span data-number=\"11\" data-sid=\"PSA 5:11\" class=\"v\">11</span>Their throat is an open sepulchre: they dealt deceitfully with their tongues: judge them, O God. Let them fall from their devices: according to the multitude of their wickedness cast them out: for they have provoked thee, O Lord.</p><p class=\"q1\"><span data-number=\"12\" data-sid=\"PSA 5:12\" class=\"v\">12</span>But let all them be glad that hope in thee: they shall rejoice for ever, and thou shalt dwell in them. And all they that love thy name shall glory in thee:</p><p class=\"q1\"><span data-number=\"13\" data-sid=\"PSA 5:13\" class=\"v\">13</span>For thou wilt bless the just. O Lord, thou hast crowned us, as with a shield of thy good will.</p>",
+    "next": {
+      "id": "PSA.6",
+      "number": "6",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.4",
+      "number": "4",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzIBQBwHbqxlyoOgvR4EdEzy46-24Sxpo6hIlq6-0Fl32-mg_P_0HeRbC8I00IwSfBQFBf-3nCSTTXD136V_nrcD6JfV3Hzetc01plJymIdoUlpJY7Wcm7vuDTsqgukRZ4xA8MafJavuAqIA5x7JOlgN-Ljv0kRp0sjGFkszTiVnxmB7F6Y_b0v4mDuo4oJPDCPwbAlsgvWC1fN4f9OVT7Posl1IO_czGRYhylnhOJU1-4ULeVXjKjE"
+  }
+}

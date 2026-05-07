@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "BAR.5",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "5",
+    "bookId": "BAR",
+    "reference": "Baruch 5",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 9,
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"BAR 5:1\" class=\"v\">1</span>Take off the garment of your mourning and affliction, O Jerusalem, and put on forever the beauty of the glory from God. <span data-number=\"2\" data-sid=\"BAR 5:2\" class=\"v\">2</span>Put on the robe of the righteousness from God. Set on your head a diadem of the glory of the Everlasting. <span data-number=\"3\" data-sid=\"BAR 5:3\" class=\"v\">3</span>For God will show your splendor everywhere under heaven. <span data-number=\"4\" data-sid=\"BAR 5:4\" class=\"v\">4</span>For your name will be called by God forever “Righteous Peace, Godly Glory”.</p><p class=\"p\"><span data-number=\"5\" data-sid=\"BAR 5:5\" class=\"v\">5</span>Arise, O Jerusalem, and stand upon the height. Look around you toward the east and see your children gathered from the going down of the sun to its rising at the word of the Holy One, rejoicing that God has remembered them. <span data-number=\"6\" data-sid=\"BAR 5:6\" class=\"v\">6</span>For they went from you on foot, being led away by their enemies, but God brings them in to you carried on high with glory, on a royal throne. <span data-number=\"7\" data-sid=\"BAR 5:7\" class=\"v\">7</span>For God has appointed that every high mountain and the everlasting hills should be made low, and the valleys filled up to make the ground level, that Israel may go safely in the glory of God. <span data-number=\"8\" data-sid=\"BAR 5:8\" class=\"v\">8</span>Moreover the woods and every sweet smelling tree have shaded Israel by the commandment of God. <span data-number=\"9\" data-sid=\"BAR 5:9\" class=\"v\">9</span>For God will lead Israel with joy in the light of his glory with the mercy and righteousness that come from him.</p>",
+    "next": {
+      "id": "BAR.6",
+      "number": "6",
+      "bookId": "BAR"
+    },
+    "previous": {
+      "id": "BAR.4",
+      "number": "4",
+      "bookId": "BAR"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzEBABwHbqxlyoOgvR4EtbbUN595-29UhgRJTJKlqy903jZwOe5WXeI4QjSa3VZ0e6sza8yC4P-Wk2RSBrj677Z_nrcD6JfV5DzedS25LmazPF8tfV2GhTRWC3q4674bqgjmW5wxAskLf9asBguIBJy7JPOgNeDr3ksTpUkjG1s0zQdlshuD7V2a-rwtIWTupMoLPjGM0LMlsiNVsHoe78_-yK4uY05y5XKQodiVLGVVpJmHqp-6VOY2MA"
+  }
+}

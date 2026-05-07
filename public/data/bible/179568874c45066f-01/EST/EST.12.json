@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "EST.12",
+    "bibleId": "179568874c45066f-01",
+    "number": "12",
+    "bookId": "EST",
+    "reference": "Esther 12",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 6,
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"EST 12:1\" class=\"v\">1</span>And he abode at that time in the king’s court with Bagatha and Thara the king’s eunuchs, who were porters of the palace. <span data-number=\"2\" data-sid=\"EST 12:2\" class=\"v\">2</span>And when he understood their designs, and had diligently searched into their projects, he learned that they went about to lay violent hands on king Artaxerxes, and he told the king thereof. <span data-number=\"3\" data-sid=\"EST 12:3\" class=\"v\">3</span>Then the king had them both examined, and after they had confessed, commanded them to be put to death. <span data-number=\"4\" data-sid=\"EST 12:4\" class=\"v\">4</span>But the king made a record of what was done: and Mardochai also committed the memory of the thing to writing. <span data-number=\"5\" data-sid=\"EST 12:5\" class=\"v\">5</span>And the king commanded him, to abide in the court of the palace, and gave him presents for the information. <span data-number=\"6\" data-sid=\"EST 12:6\" class=\"v\">6</span>But Aman the son of Amadathi the Bugite was in great honour with the king, and sought to hurt Mardochai and his people, because of the two eunuchs of the king who were put to death.</p>",
+    "next": {
+      "id": "EST.13",
+      "number": "13",
+      "bookId": "EST"
+    },
+    "previous": {
+      "id": "EST.11",
+      "number": "11",
+      "bookId": "EST"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBIBwHbqxlyoOgvR4IOLbUl2_esQwJkpgkS1df6Lxt4HLcrbgE-YI4mt1eu7c6s0Y7Cv5vOUkmi4Kr_27553k7gH5ZDc7nXdtcYyolh3mIJqWVNFbrubvrznCkrAPzLc4YgeSFP2tmgwVEAOcmyRy4Ovzdd2miNGlkY4u5-axqMWOwvWtTn7cliIydFH3BJoYRfLqEticJVs_j_VXnFOty6vJM5jxbyJBMcTNNUyNrnc5sXuZVmVUG"
+  }
+}

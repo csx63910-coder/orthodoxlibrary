@@ -1,0 +1,188 @@
+{
+  "translation": {
+    "id": "srp_onspc",
+    "name": "Biblica® Нови српски превод, слободна права",
+    "website": "https://ebible.org/Scriptures/details.php?id=srponspc",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srponspc",
+    "shortName": "ONSPC",
+    "englishName": "Serbian ONSP Cyrillic",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "f7cf39982822a6be7cfe4a623571c1d865bcad7b51dca5ad6efcdd5f4cf784f8",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_onspc/books.json",
+    "completeTranslationApiLink": "/api/srp_onspc/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31102,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "srp_onspc",
+    "name": "Псалм",
+    "commonName": "Псалм",
+    "title": "Псалми",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "26caf786163c3156cd828b9195dd87c0a9678ee51bdea32fbef70df99683a272",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_onspc/PSA/1.json",
+    "lastChapterNumber": 150,
+    "lastChapterApiLink": "/api/srp_onspc/PSA/150.json",
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 82,
+    "content": [
+      {
+        "type": "hebrew_subtitle",
+        "content": [
+          "Псалам Асафов."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Бог је стао у Божијем збору,",
+            "poem": 1
+          },
+          {
+            "text": "па сад суди међу боговима:",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "„Докле ћете судити нечасно",
+            "poem": 1
+          },
+          {
+            "text": "и држати страну злотворима? Села",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Заступајте право убогога и сиротога,",
+            "poem": 1
+          },
+          {
+            "text": "оправдајте сиромаха и невољника.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Спасавајте слабог и тлаченог,",
+            "poem": 1
+          },
+          {
+            "text": "избавите их из руке зликоваца.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Али нису знали, нису разумели;",
+            "poem": 1
+          },
+          {
+            "text": "у тами су посртали",
+            "poem": 2
+          },
+          {
+            "lineBreak": true
+          },
+          {
+            "text": "и темеље земљи задрмали.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Ја рекох: ’Богови сте,",
+            "poem": 1
+          },
+          {
+            "text": "сви сте деца Свевишњега!’",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Ипак ћете помрети ко људи,",
+            "poem": 1
+          },
+          {
+            "text": "пропашћете ко и главар сваки.“",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Устани, Боже, и суди земљи,",
+            "poem": 1
+          },
+          {
+            "text": "јер сви су народи наследство твоје!",
+            "poem": 2
+          }
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_onspc/PSA/82.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_onspc/PSA/83.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_onspc/PSA/81.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 8
+}

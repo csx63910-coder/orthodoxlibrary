@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.142",
+    "bibleId": "179568874c45066f-01",
+    "number": "142",
+    "bookId": "PSA",
+    "reference": "Psalms 142",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 12,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 142:1\" class=\"v\">1</span>Hear, O Lord, my prayer: give ear to my supplication in thy truth: hear me in thy justice.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 142:2\" class=\"v\">2</span>And enter not into judgment with thy servant: for in thy sight no man living shall be justified.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 142:3\" class=\"v\">3</span>For the enemy hath persecuted my soul: he hath brought down my life to the earth. He hath made me to dwell in darkness as those that have been dead of old:</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 142:4\" class=\"v\">4</span>And my spirit is in anguish within me: my heart within me is troubled.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 142:5\" class=\"v\">5</span>I remembered the days of old, I meditated on all thy works: I meditated upon the works of thy hands.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 142:6\" class=\"v\">6</span>I stretched forth my hands to thee: my soul is as earth without water unto thee.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 142:7\" class=\"v\">7</span>Hear me speedily, O Lord: my spirit hath fainted away. Turn not away thy face from me, lest I be like unto them that go down into the pit.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 142:8\" class=\"v\">8</span>Cause me to hear thy mercy in the morning; for in thee have I hoped. Make the way known to me, wherein I should walk: for I have lifted up my soul to thee.</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 142:9\" class=\"v\">9</span>Deliver me from my enemies, O Lord, to thee have I fled:</p><p class=\"q1\"><span data-number=\"10\" data-sid=\"PSA 142:10\" class=\"v\">10</span>Teach me to do thy will, for thou art my God. Thy good spirit shall lead me into the right land:</p><p class=\"q1\"><span data-number=\"11\" data-sid=\"PSA 142:11\" class=\"v\">11</span>For thy name’s sake, O Lord, thou wilt quicken me in thy justice. Thou wilt bring my soul out of trouble:</p><p class=\"q1\"><span data-number=\"12\" data-sid=\"PSA 142:12\" class=\"v\">12</span>And in thy mercy thou wilt destroy my enemies. And thou wilt cut off all them that afflict my soul: for I am thy servant.</p>",
+    "next": {
+      "id": "PSA.143",
+      "number": "143",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.141",
+      "number": "141",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzgBYIzTFfOihHUPAjom-fFX23CWtFFUtA5LV9-nt0WBcq0kCKgFx-vpfqMLdtBvh4M6hmocNX2hKf88bwegX1Zjc3nXNteYSslhHqJJaSWN1Woe77o37CgbHDE-whkjULzhz5ZddwEyCOcWrXzg-g2ccUmaKE0a2dhibdaoUuKY2N616c_bEoisXRR9wSeGI_psSW0B6wSr5_H-1pOfupDnSydX1TkZbCpymstcmuByTAvrZ3HFAQ"
+  }
+}

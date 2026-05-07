@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "1TH.1",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "1",
+    "bookId": "1TH",
+    "reference": "1 Thessalonians 1",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 10,
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"1TH 1:1\" class=\"v\">1</span>Paul, Silvanus, and Timothy, to the assembly of the Thessalonians in God the Father and the Lord Jesus Christ: Grace to you and peace from God our Father and the Lord Jesus Christ.</p><p class=\"p\"><span data-number=\"2\" data-sid=\"1TH 1:2\" class=\"v\">2</span>We always give thanks to God for all of you, mentioning you in our prayers, <span data-number=\"3\" data-sid=\"1TH 1:3\" class=\"v\">3</span>remembering without ceasing your work of faith and labor of love and perseverance of hope in our Lord Jesus Christ, before our God and Father. <span data-number=\"4\" data-sid=\"1TH 1:4\" class=\"v\">4</span>We know, brothers loved by God, that you are chosen, <span data-number=\"5\" data-sid=\"1TH 1:5\" class=\"v\">5</span>and that our Good News came to you not in word only, but also in power, and in the Holy Spirit and with much assurance. You know what kind of men we showed ourselves to be among you for your sake. <span data-number=\"6\" data-sid=\"1TH 1:6\" class=\"v\">6</span>You became imitators of us and of the Lord, having received the word in much affliction, with joy of the Holy Spirit, <span data-number=\"7\" data-sid=\"1TH 1:7\" class=\"v\">7</span>so that you became an example to all who believe in Macedonia and in Achaia. <span data-number=\"8\" data-sid=\"1TH 1:8\" class=\"v\">8</span>For from you the word of the Lord has been declared, not only in Macedonia and Achaia, but also in every place your faith toward God has gone out, so that we need not to say anything. <span data-number=\"9\" data-sid=\"1TH 1:9\" class=\"v\">9</span>For they themselves report concerning us what kind of a reception we had from you, and how you turned to God from idols to serve a living and true God, <span data-number=\"10\" data-sid=\"1TH 1:10\" class=\"v\">10</span>and to wait for his Son from heaven, whom he raised from the dead: Jesus, who delivers us from the wrath to come.</p>",
+    "next": {
+      "id": "1TH.2",
+      "number": "2",
+      "bookId": "1TH"
+    },
+    "previous": {
+      "id": "1TH.intro",
+      "number": "intro",
+      "bookId": "1TH"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzIBAIzTFfOihHUPAv7ckx-_aqDNR_sUFa3D0tX3bQOXbzrGVl3RjyAazV40bm91po4bBLXNScRJBNEK_nL_PG8HoF9Wk_N417XkupjN8ny19HUZFtJYLWhw13bolCX2dzhjBJIP_Dnm1i9ANMJlSrM_aK3g6xZpYqFpsLFFFyVVrBmJ7V2a-bwtQcjZlSYv5InhGL20RNaBNYLV83h_1V-KJbhY5nJuZ1GG6BayJlNkLtPlorPO8mw14w"
+  }
+}

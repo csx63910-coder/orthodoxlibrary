@@ -1,0 +1,83 @@
+{
+  "translation": {
+    "id": "eng_lxx",
+    "name": "LXX2012: Septuagint in American English 2012",
+    "website": "https://ebible.org/Scriptures/details.php?id=eng-lxx2012",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=eng-lxx2012",
+    "shortName": "LXXSA",
+    "englishName": "LXX2012 U. S. English",
+    "language": "eng",
+    "textDirection": "ltr",
+    "sha256": "0d3bb79b82b36a3b295a66dbf9a82a0c0c701df5d3e235690aeffb9a83a53da7",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/eng_lxx/books.json",
+    "completeTranslationApiLink": "/api/eng_lxx/complete.json",
+    "numberOfBooks": 39,
+    "totalNumberOfChapters": 930,
+    "totalNumberOfVerses": 22876,
+    "languageName": "English",
+    "languageEnglishName": "English",
+    "numberOfApocryphalBooks": 15,
+    "totalNumberOfApocryphalChapters": 175,
+    "totalNumberOfApocryphalVerses": 5449
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "eng_lxx",
+    "name": "Psalms",
+    "commonName": "Psalms",
+    "title": "PSALMS",
+    "order": 19,
+    "numberOfChapters": 151,
+    "sha256": "88d52d4e891d834cd127df3a715c46244bfed23831d48446fb922d11da92c823",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/eng_lxx/PSA/1.json",
+    "lastChapterNumber": 151,
+    "lastChapterApiLink": "/api/eng_lxx/PSA/151.json",
+    "totalNumberOfVerses": 2467
+  },
+  "chapter": {
+    "number": 116,
+    "content": [
+      {
+        "type": "hebrew_subtitle",
+        "content": [
+          "(117) Alleluia."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Praise the Lord, all you⌃ nations: praise him, all you⌃ peoples.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "For his mercy has been abundant toward us: and the truth of the Lord endures for ever.",
+            "poem": 1
+          }
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/eng_lxx/PSA/116.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/eng_lxx/PSA/117.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/eng_lxx/PSA/115.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 2
+}

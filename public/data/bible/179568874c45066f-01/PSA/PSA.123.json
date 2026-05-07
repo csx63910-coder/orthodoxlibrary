@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.123",
+    "bibleId": "179568874c45066f-01",
+    "number": "123",
+    "bookId": "PSA",
+    "reference": "Psalms 123",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 8,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 123:1\" class=\"v\">1</span>If it had not been that the Lord was with us, let Israel now say:</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 123:2\" class=\"v\">2</span>If it had not been that the Lord was with us, When men rose up against us,</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 123:3\" class=\"v\">3</span>Perhaps they had swallowed us up alive. When their fury was enkindled against us,</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 123:4\" class=\"v\">4</span>Perhaps the waters had swallowed us up.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 123:5\" class=\"v\">5</span>Our soul hath passed through a torrent: perhaps our soul had passed through a water insupportable.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 123:6\" class=\"v\">6</span>Blessed be the Lord, who hath not given us to be a prey to their teeth.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 123:7\" class=\"v\">7</span>Our soul hath been delivered as a sparrow out of the snare of the followers. The snare is broken, and we are delivered.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 123:8\" class=\"v\">8</span>Our help is in the name of the Lord, who made heaven and earth.</p>",
+    "next": {
+      "id": "PSA.124",
+      "number": "124",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.122",
+      "number": "122",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzcBgBwHbqxlyoOgvZ49f0zy4xc_2oazpI2iIlm6-kLnbQOX405RjKDRD6Lhq-u4vdWZdeIHQW2KIEqZnNOGv2z_eN4OgL6sUvN4V5trTKXkMA_RpLRiY1XM4117w45Y5wGnPZwxBMENf1yy6i6AroCUHWHaQGsBvu6VTWSTRja2WJsxYm4M2N6lGc_bEoTMPajyQp4ExvClJbRksZStnse7_0Y_z3lephxDmHPINvN0ERzbsFzFaVrp81XF"
+  }
+}

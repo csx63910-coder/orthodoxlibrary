@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.64",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "64",
+    "bookId": "PSA",
+    "reference": "Psalms 64",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 10,
+    "content": "<p class=\"d\">For the Chief Musician. A Psalm by David.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 64:1\" class=\"v\">1</span>Hear my voice, God, in my complaint.</p><p data-vid=\"PSA 64:1\" class=\"q2\">Preserve my life from fear of the enemy.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 64:2\" class=\"v\">2</span>Hide me from the conspiracy of the wicked,</p><p data-vid=\"PSA 64:2\" class=\"q2\">from the noisy crowd of the ones doing evil;</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 64:3\" class=\"v\">3</span>who sharpen their tongue like a sword,</p><p data-vid=\"PSA 64:3\" class=\"q2\">and aim their arrows, deadly words,</p><p class=\"q2\"><span data-number=\"4\" data-sid=\"PSA 64:4\" class=\"v\">4</span>to shoot innocent men from ambushes.</p><p data-vid=\"PSA 64:4\" class=\"q2\">They shoot at him suddenly and fearlessly.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 64:5\" class=\"v\">5</span>They encourage themselves in evil plans.</p><p data-vid=\"PSA 64:5\" class=\"q2\">They talk about laying snares secretly.</p><p data-vid=\"PSA 64:5\" class=\"q2\">They say, “Who will see them?”</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 64:6\" class=\"v\">6</span>They plot injustice, saying, “We have made a perfect plan!”</p><p data-vid=\"PSA 64:6\" class=\"q2\">Surely man’s mind and heart are cunning.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 64:7\" class=\"v\">7</span>But God will shoot at them.</p><p data-vid=\"PSA 64:7\" class=\"q2\">They will be suddenly struck down with an arrow.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 64:8\" class=\"v\">8</span>Their own tongues shall ruin them.</p><p data-vid=\"PSA 64:8\" class=\"q2\">All who see them will shake their heads.</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 64:9\" class=\"v\">9</span>All mankind shall be afraid.</p><p data-vid=\"PSA 64:9\" class=\"q2\">They shall declare the work of God,</p><p data-vid=\"PSA 64:9\" class=\"q2\">and shall wisely ponder what he has done.</p><p class=\"q1\"><span data-number=\"10\" data-sid=\"PSA 64:10\" class=\"v\">10</span>The righteous shall be glad in Yahweh,</p><p data-vid=\"PSA 64:10\" class=\"q2\">and shall take refuge in him.</p><p data-vid=\"PSA 64:10\" class=\"q2\">All the upright in heart shall praise him!</p>",
+    "next": {
+      "id": "PSA.65",
+      "number": "65",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.63",
+      "number": "63",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzUBoBwHbqxlyoOgvR4EdEzy46-24Sxpo6hIlq6-0HnbwOW4W3EJ8gVxNLutfm91po1ZEPzfcpJMMsPVf1f-ed4OoF9WQ_N417XkupjN8ny19HUZFtJYreXprnvDjkoBzI44YwRyN_6s2HUXEAGcGyRzoOrwb--lidKkkY0tpGarKjmPwfauS3_eluCxdk60BZsYRuDpEtgCawSr5_H-pK9VsMtpzEXmPJ3J4NJC1rryMpQyr6mWmKaJAQ"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.11",
+    "bibleId": "179568874c45066f-01",
+    "number": "11",
+    "bookId": "PSA",
+    "reference": "Psalms 11",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 9,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 11:1\" class=\"v\">1</span>Unto the end; for the octave, a psalm for David.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 11:2\" class=\"v\">2</span>Save me, O Lord, for there is now no saint: truths are decayed from among the children of men.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 11:3\" class=\"v\">3</span>They have spoken vain things every one to his neighbour: with deceitful lips, and with a double heart have they spoken.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 11:4\" class=\"v\">4</span>May the Lord destroy all deceitful lips, and the tongue that speaketh proud things.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 11:5\" class=\"v\">5</span>Who have said: We will magnify our tongue; our lips are our own; who is Lord over us?</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 11:6\" class=\"v\">6</span>By reason of the misery of the needy, and the groans of the poor, now will I arise, saith the Lord. I win set him in safety; I will deal confidently in his regard.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 11:7\" class=\"v\">7</span>The words of the Lord are pure words: as silver tried by the fire, purged from the earth refined seven times.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 11:8\" class=\"v\">8</span>Thou, O Lord, wilt preserve us: and keep us from this generation for ever.</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 11:9\" class=\"v\">9</span>The wicked walk round about: according to thy highness, thou best multiplied the children of men.</p>",
+    "next": {
+      "id": "PSA.12",
+      "number": "12",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.10",
+      "number": "10",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBgBwHbqxlyoOgvR4EdEzy46-24Sxpo6hIlq6-0HnbwOW4W3EJ8gVx9Or22r3VmTVmQVCnTiImZmjy1-2f5-0A-mU1NY93bXONqZQc5iGalFbSWC3m6a57w46yFgz3OGMEehf-7Fh1FxABnDskc7Dq8HHvpYnSpJGNLZZmogrWj8H2Lkx73pbwMXdPxAWbGEbk6ZLYkSpYPY_3J_26tCrzaKNcrtJMhvmyyLKYOpnnU-vStOrMZQY"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.53",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "53",
+    "bookId": "PSA",
+    "reference": "Psalms 53",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 6,
+    "content": "<p class=\"d\">For the Chief Musician. To the tune of “Mahalath.” A contemplation by David.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 53:1\" class=\"v\">1</span>The fool has said in his heart, “There is no God.”</p><p data-vid=\"PSA 53:1\" class=\"q2\">They are corrupt, and have done abominable iniquity.</p><p data-vid=\"PSA 53:1\" class=\"q2\">There is no one who does good.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 53:2\" class=\"v\">2</span>God looks down from heaven on the children of men,</p><p data-vid=\"PSA 53:2\" class=\"q2\">to see if there are any who understood,</p><p data-vid=\"PSA 53:2\" class=\"q2\">who seek after God.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 53:3\" class=\"v\">3</span>Every one of them has gone back.</p><p data-vid=\"PSA 53:3\" class=\"q2\">They have become filthy together.</p><p data-vid=\"PSA 53:3\" class=\"q2\">There is no one who does good, no, not one.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 53:4\" class=\"v\">4</span>Have the workers of iniquity no knowledge,</p><p data-vid=\"PSA 53:4\" class=\"q2\">who eat up my people as they eat bread,</p><p data-vid=\"PSA 53:4\" class=\"q2\">and don’t call on God?</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 53:5\" class=\"v\">5</span>There they were in great fear, where no fear was,</p><p data-vid=\"PSA 53:5\" class=\"q2\">for God has scattered the bones of him who encamps against you.</p><p data-vid=\"PSA 53:5\" class=\"q1\">You have put them to shame,</p><p data-vid=\"PSA 53:5\" class=\"q2\">because God has rejected them.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 53:6\" class=\"v\">6</span>Oh that the salvation of Israel would come out of Zion!</p><p data-vid=\"PSA 53:6\" class=\"q2\">When God brings back his people from captivity,</p><p data-vid=\"PSA 53:6\" class=\"q2\">then Jacob shall rejoice,</p><p data-vid=\"PSA 53:6\" class=\"q2\">and Israel shall be glad.</p>",
+    "next": {
+      "id": "PSA.54",
+      "number": "54",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.52",
+      "number": "52",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBgIzTFfOihHUPAjom-fFX23CWtFFUtA5LV9-3DVyOuxWX4BZBGs1ur91bnVlj1gnq1EnExAxN_rr987wdgH5ZTc3jXdeS62I2y_PV0tdlWEhjtZinu-4NOyp6YriHM0agd8WfHavuAkQSzh2S5cFqgI97L02UJo1sbCE161UNaUxs78K0520JPubuibhgE8MRebokdkQSrJ7H-5Pc1Fz_bu5kTjHI4JdJztJ0Kt1qWudpYRfFzjg"
+  }
+}

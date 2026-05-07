@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "ROM.13",
+    "bibleId": "de4e12af7f28f599-01",
+    "number": "13",
+    "bookId": "ROM",
+    "reference": "Romans 13",
+    "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+    "verseCount": 14,
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"ROM 13:1\" class=\"v\">1</span>Let every soul be subject unto the higher powers. For there is no power but of God: the powers that be are ordained of God. <span data-number=\"2\" data-sid=\"ROM 13:2\" class=\"v\">2</span>Whosoever therefore resisteth the power, resisteth the ordinance of God: and they that resist shall receive to themselves damnation. <span data-number=\"3\" data-sid=\"ROM 13:3\" class=\"v\">3</span>For rulers are not a terror to good works, but to the evil. Wilt thou then not be afraid of the power? do that which is good, and thou shalt have praise of the same: <span data-number=\"4\" data-sid=\"ROM 13:4\" class=\"v\">4</span>For he is the minister of God to thee for good. But if thou do that which is evil, be afraid; for he beareth not the sword in vain: for he is the minister of God, a revenger to <span class=\"add\">execute</span> wrath upon him that doeth evil. <span data-number=\"5\" data-sid=\"ROM 13:5\" class=\"v\">5</span>Wherefore <span class=\"add\">ye</span> must needs be subject, not only for wrath, but also for conscience sake. <span data-number=\"6\" data-sid=\"ROM 13:6\" class=\"v\">6</span>For for this cause pay ye tribute also: for they are God’s ministers, attending continually upon this very thing. <span data-number=\"7\" data-sid=\"ROM 13:7\" class=\"v\">7</span>Render therefore to all their dues: tribute to whom tribute <span class=\"add\">is due</span>; custom to whom custom; fear to whom fear; honour to whom honour. <span data-number=\"8\" data-sid=\"ROM 13:8\" class=\"v\">8</span>Owe no man any thing, but to love one another: for he that loveth another hath fulfilled the law. <span data-number=\"9\" data-sid=\"ROM 13:9\" class=\"v\">9</span>For this, Thou shalt not commit adultery, Thou shalt not kill, Thou shalt not steal, Thou shalt not bear false witness, Thou shalt not covet; and if <span class=\"add\">there be</span> any other commandment, it is briefly comprehended in this saying, namely, Thou shalt love thy neighbour as thyself. <span data-number=\"10\" data-sid=\"ROM 13:10\" class=\"v\">10</span>Love worketh no ill to his neighbour: therefore love <span class=\"add\">is</span> the fulfilling of the law. <span data-number=\"11\" data-sid=\"ROM 13:11\" class=\"v\">11</span>And that, knowing the time, that now <span class=\"add\">it is</span> high time to awake out of sleep: for now <span class=\"add\">is</span> our salvation nearer than when we believed. <span data-number=\"12\" data-sid=\"ROM 13:12\" class=\"v\">12</span>The night is far spent, the day is at hand: let us therefore cast off the works of darkness, and let us put on the armour of light. <span data-number=\"13\" data-sid=\"ROM 13:13\" class=\"v\">13</span>Let us walk honestly, as in the day; not in rioting and drunkenness, not in chambering and wantonness, not in strife and envying. <span data-number=\"14\" data-sid=\"ROM 13:14\" class=\"v\">14</span>But put ye on the Lord Jesus Christ, and make not provision for the flesh, to <span class=\"add\">fulfil</span> the lusts <span class=\"add\">thereof.</span></p>",
+    "next": {
+      "id": "ROM.14",
+      "number": "14",
+      "bookId": "ROM"
+    },
+    "previous": {
+      "id": "ROM.12",
+      "number": "12",
+      "bookId": "ROM"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzUBYJwHtmOXCgaDm8IzcAmC2lbqm888NCpD4pOYJEtXX-hU09PbBi7H3YpLkC-Io9mLxu2tzrQxC4I61SJiMkOTv5Z_nrcD6JfV2Dze9WIZltZNV3nlyirWKo3Vap7uuk9ZD6ZnnDECwRt_luy6BWSA4BapHLA6_Nx7aaI0abCxBdN8VsaEEWzvyvTnbQkgawdFXbCJY4SeLpEtsEGweh7vj_qMYeYW3mS5youVDK5UOZsVJ1dlucrOhsVi6hg"
+  }
+}

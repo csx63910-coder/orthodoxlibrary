@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.24",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "24",
+    "bookId": "PSA",
+    "reference": "Psalms 24",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 10,
+    "content": "<p class=\"d\">A Psalm by David.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 24:1\" class=\"v\">1</span>The earth is Yahweh’s, with its fullness;</p><p data-vid=\"PSA 24:1\" class=\"q2\">the world, and those who dwell in it.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 24:2\" class=\"v\">2</span>For he has founded it on the seas,</p><p data-vid=\"PSA 24:2\" class=\"q2\">and established it on the floods.</p><p class=\"b\"></p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 24:3\" class=\"v\">3</span>Who may ascend to Yahweh’s hill?</p><p data-vid=\"PSA 24:3\" class=\"q2\">Who may stand in his holy place?</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 24:4\" class=\"v\">4</span>He who has clean hands and a pure heart;</p><p data-vid=\"PSA 24:4\" class=\"q2\">who has not lifted up his soul to falsehood,</p><p data-vid=\"PSA 24:4\" class=\"q2\">and has not sworn deceitfully.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 24:5\" class=\"v\">5</span>He shall receive a blessing from Yahweh,</p><p data-vid=\"PSA 24:5\" class=\"q2\">righteousness from the God of his salvation.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 24:6\" class=\"v\">6</span>This is the generation of those who seek Him,</p><p data-vid=\"PSA 24:6\" class=\"q2\">who seek your face—even Jacob. <span class=\"qs\">Selah.</span></p><p class=\"b\"></p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 24:7\" class=\"v\">7</span>Lift up your heads, you gates!</p><p data-vid=\"PSA 24:7\" class=\"q2\">Be lifted up, you everlasting doors,</p><p data-vid=\"PSA 24:7\" class=\"q2\">and the King of glory will come in.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 24:8\" class=\"v\">8</span>Who is the King of glory?</p><p data-vid=\"PSA 24:8\" class=\"q2\">Yahweh strong and mighty,</p><p data-vid=\"PSA 24:8\" class=\"q2\">Yahweh mighty in battle.</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 24:9\" class=\"v\">9</span>Lift up your heads, you gates;</p><p data-vid=\"PSA 24:9\" class=\"q2\">yes, lift them up, you everlasting doors,</p><p data-vid=\"PSA 24:9\" class=\"q2\">and the King of glory will come in.</p><p class=\"q1\"><span data-number=\"10\" data-sid=\"PSA 24:10\" class=\"v\">10</span>Who is this King of glory?</p><p data-vid=\"PSA 24:10\" class=\"q2\">Yahweh of Armies is the King of glory! <span class=\"qs\">Selah.</span></p>",
+    "next": {
+      "id": "PSA.25",
+      "number": "25",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.23",
+      "number": "23",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzUB4IzTFfOihHUPQlxT-dOFpPTgJudQbQoIWoelq-_bBi7fdIytuAT5QjSa3cbtrc6zRvyCuloyRlJE-HD72z_P2wH4l3pkPu--qatmMZtV89UyNsu0sKJeydPd94YdFxKxOSKIGMRu-HNg1V2AKIRLW7M-QA3wa9-tZCtlpLlNpRVxMeiY2N5V6c_bEnDMPabKgk8Mx9jZEtcEKobV83gfIOhS68V1ZptmsbRpJtlOV3OtvKqneTprpI4rDg"
+  }
+}

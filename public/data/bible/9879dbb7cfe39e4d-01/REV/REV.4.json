@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "REV.4",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "4",
+    "bookId": "REV",
+    "reference": "Revelation 4",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 11,
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"REV 4:1\" class=\"v\">1</span>After these things I looked and saw a door opened in heaven; and the first voice that I heard, like a trumpet speaking with me, was one saying, “Come up here, and I will show you the things which must happen after this.”</p><p class=\"p\"><span data-number=\"2\" data-sid=\"REV 4:2\" class=\"v\">2</span>Immediately I was in the Spirit. Behold, there was a throne set in heaven, and one sitting on the throne <span data-number=\"3\" data-sid=\"REV 4:3\" class=\"v\">3</span>that looked like a jasper stone and a sardius. There was a rainbow around the throne, like an emerald to look at. <span data-number=\"4\" data-sid=\"REV 4:4\" class=\"v\">4</span>Around the throne were twenty-four thrones. On the thrones were twenty-four elders sitting, dressed in white garments, with crowns of gold on their heads. <span data-number=\"5\" data-sid=\"REV 4:5\" class=\"v\">5</span>Out of the throne proceed lightnings, sounds, and thunders. There were seven lamps of fire burning before his throne, which are the seven Spirits of God. <span data-number=\"6\" data-sid=\"REV 4:6\" class=\"v\">6</span>Before the throne was something like a sea of glass, similar to crystal. In the middle of the throne, and around the throne were four living creatures full of eyes before and behind. <span data-number=\"7\" data-sid=\"REV 4:7\" class=\"v\">7</span>The first creature was like a lion, the second creature like a calf, the third creature had a face like a man, and the fourth was like a flying eagle. <span data-number=\"8\" data-sid=\"REV 4:8\" class=\"v\">8</span>The four living creatures, each one of them having six wings, are full of eyes around and within. They have no rest day and night, saying, “Holy, holy, holy is the Lord God, the Almighty, who was and who is and who is to come!”</p><p class=\"p\"><span data-number=\"9\" data-sid=\"REV 4:9\" class=\"v\">9</span>When the living creatures give glory, honor, and thanks to him who sits on the throne, to him who lives forever and ever, <span data-number=\"10\" data-sid=\"REV 4:10\" class=\"v\">10</span>the twenty-four elders fall down before him who sits on the throne and worship him who lives forever and ever, and throw their crowns before the throne, saying, <span data-number=\"11\" data-sid=\"REV 4:11\" class=\"v\">11</span>“Worthy are you, our Lord and God, the Holy One, to receive the glory, the honor, and the power, for you created all things, and because of your desire they existed and were created!”</p>",
+    "next": {
+      "id": "REV.5",
+      "number": "5",
+      "bookId": "REV"
+    },
+    "previous": {
+      "id": "REV.3",
+      "number": "3",
+      "bookId": "REV"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzIBYByHsWOnIgm2whsuGTmn8q9DLFxtb2pTwTG1DktX3yqyWnfb6aD8__Qd5FsLwjTQjBJ8FAUFdeqEmMzQ5K_pH8_bAcBfkmPzeecx-NhK8XV0HbtpVEiu5ubOZ5lBGB5BCUGgd4M_dqymBsiCENwiVR9QDcC_fafCUuEW0iark9ZMRbFE2N516c9bBzzm7qm24CvDEXfWeU1ASoLxPN6fdKWrqrFXQ0v2hRqXGy1-9LSZnpWQLZc6cA"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.128",
+    "bibleId": "179568874c45066f-01",
+    "number": "128",
+    "bookId": "PSA",
+    "reference": "Psalms 128",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 8,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 128:1\" class=\"v\">1</span>Often have they fought against me from my youth, let Israel now say.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 128:2\" class=\"v\">2</span>Often have they fought against me from my youth: but they could not prevail over me.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 128:3\" class=\"v\">3</span>The wicked have wrought upon my back: they have lengthened their iniquity.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 128:4\" class=\"v\">4</span>The Lord who is just will cut the necks of sinners:</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 128:5\" class=\"v\">5</span>Let them all be confounded and turned back that hate Sion.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 128:6\" class=\"v\">6</span>Let them be as grass on the tops of houses: which withered before it be plucked up:</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 128:7\" class=\"v\">7</span>Wherewith the mower filleth not his hand: nor he that gathereth sheaves his bosom.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 128:8\" class=\"v\">8</span>And they that have passed by have not said: The blessing of the Lord be upon you: we have blessed you in the name of the Lord.</p>",
+    "next": {
+      "id": "PSA.129",
+      "number": "129",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.127",
+      "number": "127",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzcBAB0HbqxlyoOgvR4E_P0kP37V9nGWtFlEJ0tXX-ist-3pIT60_O-KoAhmMxtRFaqWlEig2kBtiiBImVxd0oa_LP88bwfQL6uJ-bxrm2tMpeQwD9GktJLGaiG3d90fdcq6Ak72OGMEYlf-XDDrLaASCFk1nQepEb7tTZooTRrb2GJtxm8hN8Fv77K0520JHWOPqbTgpo4xeHYJbKBYWT2P9zwSy2w1X82TnAc7l2G-WVn90stSV7Po5stVnVUG"
+  }
+}

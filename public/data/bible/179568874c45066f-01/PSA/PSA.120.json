@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.120",
+    "bibleId": "179568874c45066f-01",
+    "number": "120",
+    "bookId": "PSA",
+    "reference": "Psalms 120",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 8,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 120:1\" class=\"v\">1</span>I have lifted up my eyes to the mountains, from whence help shall come to me.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 120:2\" class=\"v\">2</span>My help is from the Lord, who made heaven and earth.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 120:3\" class=\"v\">3</span>May he not suffer thy foot to be moved: neither let him slumber that keepeth thee.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 120:4\" class=\"v\">4</span>Behold he shall neither slumber nor sleep, that keepeth Israel.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 120:5\" class=\"v\">5</span>The Lord is thy keeper, the Lord is thy protection upon thy right hand.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 120:6\" class=\"v\">6</span>The sun shall not burn thee by day: nor the moon by night.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 120:7\" class=\"v\">7</span>The Lord keepeth thee from all evil: may the Lord keep thy soul.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 120:8\" class=\"v\">8</span>May the Lord keep thy going in and thy going out; from henceforth now and for ever.</p>",
+    "next": {
+      "id": "PSA.121",
+      "number": "121",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.119",
+      "number": "119",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzcBABwHbqxlyoOgvZ49f0zy4xc_2oazpI2iIlm6-kJnvX1Pb_Uh1EMR2BSzmXVNlbWkRA_VBv53dko6JIlp479d_3jeDoC-rJLzeFeba0yl5DAP0aS0YmNVUPWuvWFHrDOADQlJxooO-Y9Fp-4CiAZwc8pXH4itwPctbGLjaWRji0WR6usYsL3LM563JSjZu9RJjHFilAAYluCuKITV83h_2F8udTn1NbBfLCyHZZlzmRvPLvhpmuZqpyVj"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.141",
+    "bibleId": "179568874c45066f-01",
+    "number": "141",
+    "bookId": "PSA",
+    "reference": "Psalms 141",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 8,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 141:1\" class=\"v\">1</span>Of understanding for David. A prayer when he was in the cave. [1 Kings 24]</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 141:2\" class=\"v\">2</span>I cried to the Lord with my voice: with my voice I made supplication to the Lord.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 141:3\" class=\"v\">3</span>In his sight I pour out my prayer, and before him I declare my trouble:</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 141:4\" class=\"v\">4</span>When my spirit failed me, then thou newest my paths.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 141:5\" class=\"v\">5</span>I looked on my right hand, and beheld, and there was no one that would know me. Flight hath failed me: and there is no one that hath regard to my soul.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 141:6\" class=\"v\">6</span>I cried to thee, O Lord: I said: Thou art my hope, my portion in the land of the living.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 141:7\" class=\"v\">7</span>Attend to my supplication: for I am brought very low. Deliver me from my persecutors; for they are stronger than I.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 141:8\" class=\"v\">8</span>Bring my soul out of prison, that I may praise thy name: the just wait for me, until thou reward me.</p>",
+    "next": {
+      "id": "PSA.142",
+      "number": "142",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.140",
+      "number": "140",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzcBoBwHbqxlyoOgvR4EdEzy46-24Sxpo6hIlq6-0Fl32-mg_O-Xw_1bC7LSLM4owQIsCOrUScRkNECTv27_PG8H0C-roXm8a5trTKXkMA_RpLSSxmotj3fdG3aUDRYM9zhjBHoX_uxYdRcQCTg3aOYBa8DPvZcmSpNGNrZYmzUqOjMG27sy7XlbAsjcPVEXfGIYsWdLZkeKYPU83t_0mcrMz71ZyIUNcxnSai7LrM7ldL6MC1fUmXUM"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.129",
+    "bibleId": "179568874c45066f-01",
+    "number": "129",
+    "bookId": "PSA",
+    "reference": "Psalms 129",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 8,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 129:1\" class=\"v\">1</span>Out of the depths I have cried to thee, O Lord:</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 129:2\" class=\"v\">2</span>Lord, hear my voice. Let thy ears be attentive to the voice of my supplication.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 129:3\" class=\"v\">3</span>If thou, O Lord, wilt mark iniquities: Lord, who shall stand it.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 129:4\" class=\"v\">4</span>For with thee there is merciful forgiveness: and by reason of thy law, I have waited for thee, O Lord. My soul hath relied on his word:</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 129:5\" class=\"v\">5</span>My soul hath hoped in the Lord.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 129:6\" class=\"v\">6</span>From the morning watch even until night, let Israel hope in the Lord.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 129:7\" class=\"v\">7</span>Because with the Lord there is mercy: and with him plentiful redemption.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 129:8\" class=\"v\">8</span>And he shall redeem Israel from all his iniquities.</p>",
+    "next": {
+      "id": "PSA.130",
+      "number": "130",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.128",
+      "number": "128",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzcBYBwHbqxlyoOgvZ6KYyofPWi3tQN3eYfqV0CQLF19obPuttNB-d8vh_u3LwjTLM4owQIskMA2RknEZH7h5vaP5-0A-Bd7bB7vnnMVLSWneRJSXVlir-bx7nvDjuNQAe09ApGB4hV_TFl1F0AkwLlEswy4BvC795bEko5YmtRG0YmUMWB716Y9b0sgMrdR9AWfGEb02ZLaEcVg9Tzer_o0D5pXC17YvCxLm1RWdhpJ7byWmBcLIomCAQ"
+  }
+}

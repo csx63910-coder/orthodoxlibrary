@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.138",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "138",
+    "bookId": "PSA",
+    "reference": "Psalms 138",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 8,
+    "content": "<p class=\"d\">By David.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 138:1\" class=\"v\">1</span>I will give you thanks with my whole heart.</p><p data-vid=\"PSA 138:1\" class=\"q2\">Before the gods, I will sing praises to you.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 138:2\" class=\"v\">2</span>I will bow down toward your holy temple,</p><p data-vid=\"PSA 138:2\" class=\"q2\">and give thanks to your Name for your loving kindness and for your truth;</p><p data-vid=\"PSA 138:2\" class=\"q2\">for you have exalted your Name and your Word above all.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 138:3\" class=\"v\">3</span>In the day that I called, you answered me.</p><p data-vid=\"PSA 138:3\" class=\"q2\">You encouraged me with strength in my soul.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 138:4\" class=\"v\">4</span>All the kings of the earth will give you thanks, Yahweh,</p><p data-vid=\"PSA 138:4\" class=\"q2\">for they have heard the words of your mouth.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 138:5\" class=\"v\">5</span>Yes, they will sing of the ways of Yahweh,</p><p data-vid=\"PSA 138:5\" class=\"q2\">for Yahweh’s glory is great!</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 138:6\" class=\"v\">6</span>For though Yahweh is high, yet he looks after the lowly;</p><p data-vid=\"PSA 138:6\" class=\"q2\">but he knows the proud from afar.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 138:7\" class=\"v\">7</span>Though I walk in the middle of trouble, you will revive me.</p><p data-vid=\"PSA 138:7\" class=\"q2\">You will stretch out your hand against the wrath of my enemies.</p><p data-vid=\"PSA 138:7\" class=\"q2\">Your right hand will save me.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 138:8\" class=\"v\">8</span>Yahweh will fulfill that which concerns me.</p><p data-vid=\"PSA 138:8\" class=\"q2\">Your loving kindness, Yahweh, endures forever.</p><p data-vid=\"PSA 138:8\" class=\"q2\">Don’t forsake the works of your own hands.</p>",
+    "next": {
+      "id": "PSA.139",
+      "number": "139",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.137",
+      "number": "137",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzcBABwHbqxlyoOgvZ5Bc0v98ovOGpGmCdJElGTp6guddbedDsr_fjk8bmtBmLUszijBmgcFdcNJMjEJ9Wf7xzo1AN8kJ-dz5r7n-kkUuXGWaj81CRWSC3qc-eN9Y1J7gAk9lBAEohf8MWh1T4BIAOcuzTwQG4H3fafCUuF8pA2ME1jLhNJfQDnLU9cpBSVzS0Vi8J9hBKCl4I7wCLK1nQ8LTlLvdRhHVHmxoSaMFPVNllEjwjiONjJpKjA"
+  }
+}

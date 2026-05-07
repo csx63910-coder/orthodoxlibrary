@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.82",
+    "bibleId": "de4e12af7f28f599-01",
+    "number": "82",
+    "bookId": "PSA",
+    "reference": "Psalms 82",
+    "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+    "verseCount": 8,
+    "content": "<p class=\"d\">A Psalm of Asaph.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 82:1\" class=\"v\">1</span>God standeth in the congregation of the mighty; he judgeth among the gods.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 82:2\" class=\"v\">2</span>How long will ye judge unjustly, and accept the persons of the wicked? Selah.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 82:3\" class=\"v\">3</span>Defend the poor and fatherless: do justice to the afflicted and needy.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 82:4\" class=\"v\">4</span>Deliver the poor and needy: rid <span class=\"add\">them</span> out of the hand of the wicked.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 82:5\" class=\"v\">5</span>They know not, neither will they understand; they walk on in darkness: all the foundations of the earth are out of course.</p><p class=\"b\"></p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 82:6\" class=\"v\">6</span>I have said, Ye <span class=\"add\">are</span> gods; and all of you <span class=\"add\">are</span> children of the most High.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 82:7\" class=\"v\">7</span>But ye shall die like men, and fall like one of the princes.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 82:8\" class=\"v\">8</span>Arise, O God, judge the earth: for thou shalt inherit all nations.</p>",
+    "next": {
+      "id": "PSA.83",
+      "number": "83",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.81",
+      "number": "81",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBYBwHbqxlyoOgvR4EdEzy46-24Sxpo6hIlq6-0HnbwOW4W3EJ8gVxOLu9dm91Zo1Z4wS2MUoiJvMLN7d_nrcD6JfV2Dze9WIZltZNV3nlyirWKo3Vap7uujfsqOJAd48zRiB48WfIqruACOBcIpkDVofPvZcmSpNGNjYfWswqVz8G27sy7XlbAsjcQlEXbGIYoadLZEeKYPU83m_6NDNmWZaLIpdp6mQIZipLqEHOoskpzFZ5PrcM"
+  }
+}

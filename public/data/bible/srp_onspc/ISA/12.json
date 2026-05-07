@@ -1,0 +1,167 @@
+{
+  "translation": {
+    "id": "srp_onspc",
+    "name": "Biblica® Нови српски превод, слободна права",
+    "website": "https://ebible.org/Scriptures/details.php?id=srponspc",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srponspc",
+    "shortName": "ONSPC",
+    "englishName": "Serbian ONSP Cyrillic",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "f7cf39982822a6be7cfe4a623571c1d865bcad7b51dca5ad6efcdd5f4cf784f8",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_onspc/books.json",
+    "completeTranslationApiLink": "/api/srp_onspc/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31102,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "ISA",
+    "translationId": "srp_onspc",
+    "name": "Књига пророка Исаије",
+    "commonName": "Књига пророка Исаије",
+    "title": "Књига пророка Исаије",
+    "order": 23,
+    "numberOfChapters": 66,
+    "sha256": "65da7472046c4c4242da6b0395082ca741c36130fd8710e93ef455190b89026a",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_onspc/ISA/1.json",
+    "lastChapterNumber": 66,
+    "lastChapterApiLink": "/api/srp_onspc/ISA/66.json",
+    "totalNumberOfVerses": 1292
+  },
+  "chapter": {
+    "number": 12,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Песма захвалности"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "У онај дан ти ћеш говорити:",
+          {
+            "text": "„Хвалим те, Господе,",
+            "poem": 1
+          },
+          {
+            "text": "ти си се на мене разгневио,",
+            "poem": 2
+          },
+          {
+            "text": "али и гнев свој одвратио;",
+            "poem": 1
+          },
+          {
+            "text": "још си ме утешио.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Ево, Бог је спасење моје,",
+            "poem": 1
+          },
+          {
+            "text": "уздам се и нећу се бојати,",
+            "poem": 2
+          },
+          {
+            "text": "јер је Господ снага моја и песма Господња,",
+            "poem": 1
+          },
+          {
+            "text": "он ми је био на спасење.“",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "И радосно ћете црпсти воду",
+            "poem": 1
+          },
+          {
+            "text": "из спасоносних извора.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ви ћете говорити у дан онај:",
+          {
+            "text": "„Захваљујте Господу!",
+            "poem": 1
+          },
+          {
+            "text": "Призивајте име његово!",
+            "poem": 2
+          },
+          {
+            "text": "Обзнањујте народима дела његова!",
+            "poem": 1
+          },
+          {
+            "text": "Помињите како је узвишено дело његово!",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Певајте Господу зато што је сазвао дивоту.",
+            "poem": 1
+          },
+          {
+            "text": "Нека то буде по свој земљи знано.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Кличите и узвисујте, становници Сиона,",
+            "poem": 1
+          },
+          {
+            "text": "јер је велик међу вама Израиљев Светитељ.“",
+            "poem": 2
+          }
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_onspc/ISA/12.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_onspc/ISA/13.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_onspc/ISA/11.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 6
+}

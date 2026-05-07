@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.124",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "124",
+    "bookId": "PSA",
+    "reference": "Psalms 124",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 8,
+    "content": "<p class=\"d\">A Song of Ascents. By David.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 124:1\" class=\"v\">1</span>If it had not been Yahweh who was on our side,</p><p data-vid=\"PSA 124:1\" class=\"q2\">let Israel now say,</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 124:2\" class=\"v\">2</span>if it had not been Yahweh who was on our side,</p><p data-vid=\"PSA 124:2\" class=\"q2\">when men rose up against us,</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 124:3\" class=\"v\">3</span>then they would have swallowed us up alive,</p><p data-vid=\"PSA 124:3\" class=\"q2\">when their wrath was kindled against us,</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 124:4\" class=\"v\">4</span>then the waters would have overwhelmed us,</p><p data-vid=\"PSA 124:4\" class=\"q2\">the stream would have gone over our soul.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 124:5\" class=\"v\">5</span>Then the proud waters would have gone over our soul.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 124:6\" class=\"v\">6</span>Blessed be Yahweh,</p><p data-vid=\"PSA 124:6\" class=\"q2\">who has not given us as a prey to their teeth.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 124:7\" class=\"v\">7</span>Our soul has escaped like a bird out of the fowler’s snare.</p><p data-vid=\"PSA 124:7\" class=\"q2\">The snare is broken, and we have escaped.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 124:8\" class=\"v\">8</span>Our help is in Yahweh’s name,</p><p data-vid=\"PSA 124:8\" class=\"q2\">who made heaven and earth.</p>",
+    "next": {
+      "id": "PSA.125",
+      "number": "125",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.123",
+      "number": "123",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzcBAIzTFfOihHXPoLmlfvlFZ41I0wRpIkrrsHT1XXfb6YYH4H-_BGlra0GYZnFGCXaI24La1SvplUjq2LnjH-vUAPgmOTmfM_c910-iyI2zVPupSaiQXFB35o_3jUllEDaMoIQgEL3BH4t29wQQBcFlyrI-EJsB3zdRYQt1PtIGxvF8Jo39IpSzPH2dUqBk7ahKDPFnOAYwpODO4BFkazs_7KaVK90sU9TLdERN483SMNIeTdNEZVamKo4zHA"
+  }
+}

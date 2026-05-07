@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "ECC.12",
+    "bibleId": "179568874c45066f-01",
+    "number": "12",
+    "bookId": "ECC",
+    "reference": "Ecclesiastes 12",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 14,
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"ECC 12:1\" class=\"v\">1</span>Remember thy Creator in the days of thy youth, before the time of affliction come, and the years draw nigh of which thou shalt say: They please me not: <span data-number=\"2\" data-sid=\"ECC 12:2\" class=\"v\">2</span>Before the sun, and the light, and the moon, and the stars be darkened, and the clouds return after the rain: <span data-number=\"3\" data-sid=\"ECC 12:3\" class=\"v\">3</span>When the keepers of the house shall tremble, and the strong men shall stagger, and the grinders shall be idle in a small number, and they that look through the holes shall be darkened: <span data-number=\"4\" data-sid=\"ECC 12:4\" class=\"v\">4</span>And they shall shut the doors in the street, when the grinder’s voice shall be low, and they shall rise up at the voice of the bird, and all the daughters of music shall grow deaf. <span data-number=\"5\" data-sid=\"ECC 12:5\" class=\"v\">5</span>And they shall fear high things, and they shall be afraid in the way, the almond tree shall flourish, the locust shall be made fat, and the caper tree shall be destroyed: because man shall go into the house of his eternity, and the mourners shall go round about in the street. <span data-number=\"6\" data-sid=\"ECC 12:6\" class=\"v\">6</span>Before the silver cord be broken, and the golden fillet shrink back, and the pitcher be crushed at the fountain, and the wheel be broken upon the cistern, <span data-number=\"7\" data-sid=\"ECC 12:7\" class=\"v\">7</span>And the dust return into its earth, from whence it was, and the spirit return to God, who gave it. <span data-number=\"8\" data-sid=\"ECC 12:8\" class=\"v\">8</span>Vanity of vanities, said Ecclesiastes, and all things are vanity. <span data-number=\"9\" data-sid=\"ECC 12:9\" class=\"v\">9</span>And whereas Ecclesiastes was very wise, he taught the people, and declared the things that he had done: and seeking out, he set forth many parables. <span data-number=\"10\" data-sid=\"ECC 12:10\" class=\"v\">10</span>He sought profitable words, and wrote words most right, and full of truth. <span data-number=\"11\" data-sid=\"ECC 12:11\" class=\"v\">11</span>The words of the wise are as goads, and as nails deeply fastened in, which by the counsel of masters are given from one shepherd. <span data-number=\"12\" data-sid=\"ECC 12:12\" class=\"v\">12</span>More than these, my son, require not. Of making many books there is no end: and much study is an affliction of the flesh. <span data-number=\"13\" data-sid=\"ECC 12:13\" class=\"v\">13</span>Let us all hear together the conclusion of the discourse. Fear God, and keep his commandments: for this is all man: <span data-number=\"14\" data-sid=\"ECC 12:14\" class=\"v\">14</span>And all things that are done, God will bring into judgment for every error, whether it be good or evil.</p>",
+    "next": {
+      "id": "SNG.intro",
+      "number": "intro",
+      "bookId": "SNG"
+    },
+    "previous": {
+      "id": "ECC.11",
+      "number": "11",
+      "bookId": "ECC"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzUBoBwHbqxlyoOgvZ6Jayp_OoWkZfv_Az-1KSBIlq6-0Hl6WxQo16K2IG9BeD3ojS7YQW-Hg22MkojJZHrh1v7xvB0A82IDzeXdcCoh5pz83Acb40pZNlqe7qZrGs0CmJ0h1hLkLvyxYjdcABEA5wbJHFB9BsRKVDYoG0ccaijVRc3OjwHbuy7jeVsCj7Vzoi3YxDACT5fANmBPWD2P95c-zO08unnyahZzVH61mqkyXQXFIsw5J8nFMQ"
+  }
+}

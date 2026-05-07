@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.149",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "149",
+    "bookId": "PSA",
+    "reference": "Psalms 149",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 9,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 149:1\" class=\"v\">1</span>Praise Yahweh!</p><p data-vid=\"PSA 149:1\" class=\"q2\">Sing to Yahweh a new song,</p><p data-vid=\"PSA 149:1\" class=\"q2\">his praise in the assembly of the saints.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 149:2\" class=\"v\">2</span>Let Israel rejoice in him who made them.</p><p data-vid=\"PSA 149:2\" class=\"q2\">Let the children of Zion be joyful in their King.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 149:3\" class=\"v\">3</span>Let them praise his name in the dance!</p><p data-vid=\"PSA 149:3\" class=\"q2\">Let them sing praises to him with tambourine and harp!</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 149:4\" class=\"v\">4</span>For Yahweh takes pleasure in his people.</p><p data-vid=\"PSA 149:4\" class=\"q2\">He crowns the humble with salvation.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 149:5\" class=\"v\">5</span>Let the saints rejoice in honor.</p><p data-vid=\"PSA 149:5\" class=\"q2\">Let them sing for joy on their beds.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 149:6\" class=\"v\">6</span>May the high praises of God be in their mouths,</p><p data-vid=\"PSA 149:6\" class=\"q2\">and a two-edged sword in their hand,</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 149:7\" class=\"v\">7</span>to execute vengeance on the nations,</p><p data-vid=\"PSA 149:7\" class=\"q2\">and punishments on the peoples;</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 149:8\" class=\"v\">8</span>to bind their kings with chains,</p><p data-vid=\"PSA 149:8\" class=\"q2\">and their nobles with fetters of iron;</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 149:9\" class=\"v\">9</span>to execute on them the written judgment.</p><p data-vid=\"PSA 149:9\" class=\"q2\">All his saints have this honor.</p><p data-vid=\"PSA 149:9\" class=\"q1\">Praise Yah!</p>",
+    "next": {
+      "id": "PSA.150",
+      "number": "150",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.148",
+      "number": "148",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzcBYBwHbqxlyoOgvR4EdEzy46-24Sxpo6hIlq6-0Fl32-mg_O-Xw_3bF4RpFmeUYAEWSGAboyRiMr9wc_vneTuAflmNzeNd15LrYjbL89XS12VYSGO1mse77g07yoYK2nucMQLFK3-mrLoLiATOJZpl4Brwu_fSRGnSyMYWcjNGlRzGYHvXpj1vSxCZ2yj6gk8MI_psSe1IFayex_tVn-x8OV35aOTKVS-DmzpZpzMrS3SrVVoslyZnBg"
+  }
+}

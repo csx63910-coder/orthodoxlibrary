@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.23",
+    "bibleId": "de4e12af7f28f599-01",
+    "number": "23",
+    "bookId": "PSA",
+    "reference": "Psalms 23",
+    "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+    "verseCount": 6,
+    "content": "<p class=\"d\">A Psalm of David.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 23:1\" class=\"v\">1</span>The <span class=\"nd\">LORD</span> <span class=\"add\">is</span> my shepherd; I shall not want.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 23:2\" class=\"v\">2</span>He maketh me to lie down in green pastures: he leadeth me beside the still waters.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 23:3\" class=\"v\">3</span>He restoreth my soul: he leadeth me in the paths of righteousness for his name’s sake.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 23:4\" class=\"v\">4</span>Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou <span class=\"add\">art</span> with me; thy rod and thy staff they comfort me.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 23:5\" class=\"v\">5</span>Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 23:6\" class=\"v\">6</span>Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the <span class=\"nd\">LORD</span> for ever.</p>",
+    "next": {
+      "id": "PSA.24",
+      "number": "24",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.22",
+      "number": "22",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBCIzTFfOihHUPAjom-fFX23CWtFFUtA5LV9-3DVy-6RhbcQnuCKLR7DaCdm91Zo7bCWqbk4iTroJS08d1_fO8HYB-WY3n8a4Xy7C0brrKK1dWsVZprJYa3XVv2FHOEyMjnDGCtzf82Tp1FyAK4dLUrA-yGXxwkiZWmkY2Nh8io0LwY2J7F9SftyWY7J1VyeATwzFAW8JdkQSr5_F-2xRny2SCsyNfbjqTwaeFnJXpVLqcXLDLOndmyQE"
+  }
+}

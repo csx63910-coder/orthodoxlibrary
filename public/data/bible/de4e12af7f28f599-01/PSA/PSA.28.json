@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.28",
+    "bibleId": "de4e12af7f28f599-01",
+    "number": "28",
+    "bookId": "PSA",
+    "reference": "Psalms 28",
+    "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+    "verseCount": 9,
+    "content": "<p class=\"d\"><span class=\"add\">A Psalm</span> of David.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 28:1\" class=\"v\">1</span>Unto thee will I cry, O <span class=\"nd\">LORD</span> my rock; be not silent to me: lest, <span class=\"add\">if</span> thou be silent to me, I become like them that go down into the pit.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 28:2\" class=\"v\">2</span>Hear the voice of my supplications, when I cry unto thee, when I lift up my hands toward thy holy oracle.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 28:3\" class=\"v\">3</span>Draw me not away with the wicked, and with the workers of iniquity, which speak peace to their neighbours, but mischief <span class=\"add\">is</span> in their hearts.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 28:4\" class=\"v\">4</span>Give them according to their deeds, and according to the wickedness of their endeavours: give them after the work of their hands; render to them their desert.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 28:5\" class=\"v\">5</span>Because they regard not the works of the <span class=\"nd\">LORD</span>, nor the operation of his hands, he shall destroy them, and not build them up.</p><p class=\"b\"></p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 28:6\" class=\"v\">6</span>Blessed <span class=\"add\">be</span> the <span class=\"nd\">LORD</span>, because he hath heard the voice of my supplications.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 28:7\" class=\"v\">7</span>The <span class=\"nd\">LORD</span> <span class=\"add\">is</span> my strength and my shield; my heart trusted in him, and I am helped: therefore my heart greatly rejoiceth; and with my song will I praise him.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 28:8\" class=\"v\">8</span>The <span class=\"nd\">LORD</span> <span class=\"add\">is</span> their strength, and he <span class=\"add\">is</span> the saving strength of his anointed.</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 28:9\" class=\"v\">9</span>Save thy people, and bless thine inheritance: feed them also, and lift them up for ever.</p>",
+    "next": {
+      "id": "PSA.29",
+      "number": "29",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.27",
+      "number": "27",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBCIzTFfOihHXPoLmlfvlFZ41I0wRpIkrrsHT1fdvA5ZuOsRWX4I4gGr26vXZvdWaOGwS1zUnESXETipo-rusf69QA-CY5nseZJ6lJpQozN1NeZn2fCsmlRjN_vG9MeQhLZlBCELy9wR-7TvcEEAXBZahZH8hmwAcnKmylzkfaQJtIMc_zvwjlLGisUwpM9s6qZPCf4RigpXBX8AmytZ1v-02z0CaZtDRyI5-azDg0ijNLnTT1Ez_s3aoYBw"
+  }
+}

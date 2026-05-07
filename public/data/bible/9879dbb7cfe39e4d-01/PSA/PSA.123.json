@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.123",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "123",
+    "bookId": "PSA",
+    "reference": "Psalms 123",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 4,
+    "content": "<p class=\"d\">A Song of Ascents.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 123:1\" class=\"v\">1</span>I lift up my eyes to you,</p><p data-vid=\"PSA 123:1\" class=\"q2\">you who sit in the heavens.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 123:2\" class=\"v\">2</span>Behold, as the eyes of servants look to the hand of their master,</p><p data-vid=\"PSA 123:2\" class=\"q2\">as the eyes of a maid to the hand of her mistress,</p><p data-vid=\"PSA 123:2\" class=\"q2\">so our eyes look to Yahweh, our God,</p><p data-vid=\"PSA 123:2\" class=\"q2\">until he has mercy on us.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 123:3\" class=\"v\">3</span>Have mercy on us, Yahweh, have mercy on us,</p><p data-vid=\"PSA 123:3\" class=\"q2\">for we have endured much contempt.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 123:4\" class=\"v\">4</span>Our soul is exceedingly filled with the scoffing of those who are at ease,</p><p data-vid=\"PSA 123:4\" class=\"q2\">with the contempt of the proud.</p>",
+    "next": {
+      "id": "PSA.124",
+      "number": "124",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.122",
+      "number": "122",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzcBABwHbqxlyoOgvR4EdEzy46-24Sxpo6hIlq6-0Fl32-mGB-B_vwRpa2tBmGZxRonV50lQu3olvRJJHTt3_fO8HUC_rCbn865ryXUxm-X5aunrMiyksVpQ9657w46yzoMNI84YgeiNP4t23QVEAS5TlnUQm-H7JmlioWlkYwvJKypnNwbbuzz9eVtCydpRlRjixDAGMCzBnQmC1fN4f9hrsXU2n-Yg0yJMZTCLKKehpNbZu1VczWcl1MA"
+  }
+}

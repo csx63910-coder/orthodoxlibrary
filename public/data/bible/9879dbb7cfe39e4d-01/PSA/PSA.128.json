@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.128",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "128",
+    "bookId": "PSA",
+    "reference": "Psalms 128",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 6,
+    "content": "<p class=\"d\">A Song of Ascents.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 128:1\" class=\"v\">1</span>Blessed is everyone who fears Yahweh,</p><p data-vid=\"PSA 128:1\" class=\"q2\">who walks in his ways.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 128:2\" class=\"v\">2</span>For you will eat the labor of your hands.</p><p data-vid=\"PSA 128:2\" class=\"q2\">You will be happy, and it will be well with you.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 128:3\" class=\"v\">3</span>Your wife will be as a fruitful vine in the innermost parts of your house,</p><p data-vid=\"PSA 128:3\" class=\"q2\">your children like olive shoots around your table.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 128:4\" class=\"v\">4</span>Behold, this is how the man who fears Yahweh is blessed.</p><p class=\"q2\"><span data-number=\"5\" data-sid=\"PSA 128:5\" class=\"v\">5</span>May Yahweh bless you out of Zion,</p><p data-vid=\"PSA 128:5\" class=\"q2\">and may you see the good of Jerusalem all the days of your life.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 128:6\" class=\"v\">6</span>Yes, may you see your children’s children.</p><p data-vid=\"PSA 128:6\" class=\"q2\">Peace be upon Israel.</p>",
+    "next": {
+      "id": "PSA.129",
+      "number": "129",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.127",
+      "number": "127",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzcBYBwHbqxlyoOgvZ5Bc0v98ovOGpGmCdJElGTp6guddbedDsr_fjl8O7a1IEyzOKMEC7A8sI1REjGZX7i5_WOdGoBvkmPzOHPfc_0kitw4S7WfmoQKydU8zvzxvjGpPEB7DyUEgeIVf0xZ3RMgMsC5RLMMuCbgd--psFQ4H2kD4wRWMEe6X0A5a9PWKQUicxtFX_CfYUSfpdSOcAiytZ2v-hAlmRWRtTSL3ZiaNLU0VCqiWgjtpmmYRREY"
+  }
+}

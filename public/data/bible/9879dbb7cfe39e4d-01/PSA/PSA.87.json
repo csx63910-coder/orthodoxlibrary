@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.87",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "87",
+    "bookId": "PSA",
+    "reference": "Psalms 87",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 7,
+    "content": "<p class=\"d\">A Psalm by the sons of Korah; a Song.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 87:1\" class=\"v\">1</span>His foundation is in the holy mountains.</p><p class=\"q2\"><span data-number=\"2\" data-sid=\"PSA 87:2\" class=\"v\">2</span>Yahweh loves the gates of Zion more than all the dwellings of Jacob.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 87:3\" class=\"v\">3</span>Glorious things are spoken about you, city of God. <span class=\"qs\">Selah.</span></p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 87:4\" class=\"v\">4</span>I will record Rahab and Babylon among those who acknowledge me.</p><p data-vid=\"PSA 87:4\" class=\"q2\">Behold, Philistia, Tyre, and also Ethiopia:</p><p data-vid=\"PSA 87:4\" class=\"q2\">“This one was born there.”</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 87:5\" class=\"v\">5</span>Yes, of Zion it will be said, “This one and that one was born in her;”</p><p data-vid=\"PSA 87:5\" class=\"q2\">the Most High himself will establish her.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 87:6\" class=\"v\">6</span>Yahweh will count, when he writes up the peoples,</p><p data-vid=\"PSA 87:6\" class=\"q2\">“This one was born there.” <span class=\"qs\">Selah.</span></p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 87:7\" class=\"v\">7</span>Those who sing as well as those who dance say,</p><p data-vid=\"PSA 87:7\" class=\"q2\">“All my springs are in you.”</p>",
+    "next": {
+      "id": "PSA.88",
+      "number": "88",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.86",
+      "number": "86",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBoIzTFfOihHUPAjom-fFX23CWtFFUtA5LV9-3DVyOuxWXIF8QR69ur91bnVljFgR16iRiMpmgyV-3f563A9Avq6F5vOtacl3MZnm-Wvq6DAtprNbydNe9YUeVTMz2cMYI5C74s2LVXYAIwrlBMh-oOvi399JEadLIxhZS806ZEMbE9q5Le96WwGPunGgLNjEcgadLYEdkwep5vL_od2Xc1BTnZTXZyrBITs7CfCoX0zCvi2mp1i05"
+  }
+}

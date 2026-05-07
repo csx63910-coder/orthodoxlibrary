@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.53",
+    "bibleId": "179568874c45066f-01",
+    "number": "53",
+    "bookId": "PSA",
+    "reference": "Psalms 53",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 9,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 53:1\" class=\"v\">1</span>Unto the end, In verses, understanding for David.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 53:2\" class=\"v\">2</span>When the men of Ziph had come and said to Saul: Is not David hidden with us?</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 53:3\" class=\"v\">3</span>Save me, O God, by thy name, and judge me in thy strength.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 53:4\" class=\"v\">4</span>O God, hear my prayer: give ear to the words of my mouth.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 53:5\" class=\"v\">5</span>For strangers have risen up against me; and the mighty have sought after my soul: and they have not set God before their eyes.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 53:6\" class=\"v\">6</span>For behold God is my helper: and the Lord is the protector of my soul.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 53:7\" class=\"v\">7</span>Turn back the evils upon my enemies; and cut them off in thy truth.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 53:8\" class=\"v\">8</span>I will freely sacrifice to thee, and will give praise, O God, to thy name: because it is good:</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 53:9\" class=\"v\">9</span>For thou hast delivered me out of all trouble: and my eye hath looked down upon my enemies.</p>",
+    "next": {
+      "id": "PSA.54",
+      "number": "54",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.52",
+      "number": "52",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBYIzTFfOihHXPorWlPvnMG5GmCdI_7OLWOixdfd82cDnuVlyCfEEczm6v3VudWWPWOIFtjJKIyfzCze0fz9sBoF9WY_N41zbXmErJYRmiSYmlsVrN012PpgMVPUJ3D84YAcEL_hiyGq4AEQjOJZL5AKsDPvdemihNmtnYYmkuqGjNHGF7V6Y9bwSAzC0UdcEWhiP0lJAdoQrw83i_6VMKzlEIS9kxGRm497K3RLL0PTEHyl1hHA"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "translation": {
+    "id": "srp_onspc",
+    "name": "Biblica® Нови српски превод, слободна права",
+    "website": "https://ebible.org/Scriptures/details.php?id=srponspc",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srponspc",
+    "shortName": "ONSPC",
+    "englishName": "Serbian ONSP Cyrillic",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "f7cf39982822a6be7cfe4a623571c1d865bcad7b51dca5ad6efcdd5f4cf784f8",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_onspc/books.json",
+    "completeTranslationApiLink": "/api/srp_onspc/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31102,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "srp_onspc",
+    "name": "Псалм",
+    "commonName": "Псалм",
+    "title": "Псалми",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "26caf786163c3156cd828b9195dd87c0a9678ee51bdea32fbef70df99683a272",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_onspc/PSA/1.json",
+    "lastChapterNumber": 150,
+    "lastChapterApiLink": "/api/srp_onspc/PSA/150.json",
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 100,
+    "content": [
+      {
+        "type": "hebrew_subtitle",
+        "content": [
+          "Псалам захвалности."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Кличи Господу, земљо сва!",
+            "poem": 1
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Радо Господу служите,",
+            "poem": 2
+          },
+          {
+            "lineBreak": true
+          },
+          {
+            "text": "приђите му певајући!",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Знајте: Господ је Бог, он нас је саздао",
+            "poem": 1
+          },
+          {
+            "text": "и њему припадамо;",
+            "poem": 2
+          },
+          {
+            "text": "ми смо његов народ",
+            "poem": 1
+          },
+          {
+            "text": "и стадо његове испаше.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Са хвалама улазите на врата његова",
+            "poem": 1
+          },
+          {
+            "text": "и с песмама у његова дворишта;",
+            "poem": 2
+          },
+          {
+            "text": "хвалите га,",
+            "poem": 1
+          },
+          {
+            "text": "име му славите.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Јер је добар Господ,",
+            "poem": 1
+          },
+          {
+            "text": "јер је милост његова довека",
+            "poem": 2
+          },
+          {
+            "lineBreak": true
+          },
+          {
+            "text": "и веран је нараштају сваком!",
+            "poem": 2
+          }
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_onspc/PSA/100.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_onspc/PSA/101.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_onspc/PSA/99.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 5
+}

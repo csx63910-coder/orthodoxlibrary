@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.101",
+    "bibleId": "de4e12af7f28f599-01",
+    "number": "101",
+    "bookId": "PSA",
+    "reference": "Psalms 101",
+    "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+    "verseCount": 8,
+    "content": "<p class=\"d\">A Psalm of David.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 101:1\" class=\"v\">1</span>I will sing of mercy and judgment: unto thee, O <span class=\"nd\">LORD</span>, will I sing.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 101:2\" class=\"v\">2</span>I will behave myself wisely in a perfect way. O when wilt thou come unto me? I will walk within my house with a perfect heart.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 101:3\" class=\"v\">3</span>I will set no wicked thing before mine eyes: I hate the work of them that turn aside; <span class=\"add\">it</span> shall not cleave to me.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 101:4\" class=\"v\">4</span>A froward heart shall depart from me: I will not know a wicked <span class=\"add\">person</span>.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 101:5\" class=\"v\">5</span>Whoso privily slandereth his neighbour, him will I cut off: him that hath an high look and a proud heart will not I suffer.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 101:6\" class=\"v\">6</span>Mine eyes <span class=\"add\">shall be</span> upon the faithful of the land, that they may dwell with me: he that walketh in a perfect way, he shall serve me.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 101:7\" class=\"v\">7</span>He that worketh deceit shall not dwell within my house: he that telleth lies shall not tarry in my sight.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 101:8\" class=\"v\">8</span>I will early destroy all the wicked of the land; that I may cut off all wicked doers from the city of the <span class=\"nd\">LORD</span>.</p>",
+    "next": {
+      "id": "PSA.102",
+      "number": "102",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.100",
+      "number": "100",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzcBABwHbqxlyoOgvZ6Fcyp_OsSusm6kNlX4jClZuvpCZ91tpxsegP_9EqStrQVhGhVnlGAHbQtqV6-kVxKpY-eufzxvB0C-tCTn8S5HcqRNV2M1qfqcudJSUPcuJ_NGaKUBG0YYpRhEb_hj0akdgSgAlynLOhCbge-buPKFhIX2xboqiJDiErC9y9OfNwIle0dVYogrwxjAQOCuSAz1ebw_7Ct3RJRs5YlGy50xI8-9MTzoMfVTcDVnjwE"
+  }
+}

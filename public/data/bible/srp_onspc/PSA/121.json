@@ -1,0 +1,185 @@
+{
+  "translation": {
+    "id": "srp_onspc",
+    "name": "Biblica® Нови српски превод, слободна права",
+    "website": "https://ebible.org/Scriptures/details.php?id=srponspc",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srponspc",
+    "shortName": "ONSPC",
+    "englishName": "Serbian ONSP Cyrillic",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "f7cf39982822a6be7cfe4a623571c1d865bcad7b51dca5ad6efcdd5f4cf784f8",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_onspc/books.json",
+    "completeTranslationApiLink": "/api/srp_onspc/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31102,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "srp_onspc",
+    "name": "Псалм",
+    "commonName": "Псалм",
+    "title": "Псалми",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "26caf786163c3156cd828b9195dd87c0a9678ee51bdea32fbef70df99683a272",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_onspc/PSA/1.json",
+    "lastChapterNumber": 150,
+    "lastChapterApiLink": "/api/srp_onspc/PSA/150.json",
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 121,
+    "content": [
+      {
+        "type": "hebrew_subtitle",
+        "content": [
+          "Песма поклоничка."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Своје очи ка горама дижем.",
+            "poem": 1
+          },
+          {
+            "text": "Одакле ће мени помоћ доћи?",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Доћи ће ми помоћ од Господа,",
+            "poem": 1
+          },
+          {
+            "text": "Саздатеља небеса и земље!",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Нози твојој да посрне не да,",
+            "poem": 1
+          },
+          {
+            "text": "твој заштитник задремати неће.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Гле, не дрема и не спава",
+            "poem": 1
+          },
+          {
+            "text": "заштитник Израиља!",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Господ је заштитник твој!",
+            "poem": 1
+          },
+          {
+            "text": "Господ ти је сенка с твоје десне стране.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Неће ти шкодити ни сунце по дану",
+            "poem": 1
+          },
+          {
+            "text": "ни месец по ноћи.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Од свакога зла Господ ће те заштитити,",
+            "poem": 1
+          },
+          {
+            "text": "заштитиће душу твоју.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Господ ће те заштитити када будеш одлазио",
+            "poem": 1
+          },
+          {
+            "text": "и кад будеш долазио,",
+            "poem": 2
+          },
+          {
+            "lineBreak": true
+          },
+          {
+            "text": "од сада па довека!",
+            "poem": 2
+          }
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_onspc/PSA/121.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_onspc/PSA/122.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_onspc/PSA/120.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 8
+}

@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.42",
+    "bibleId": "179568874c45066f-01",
+    "number": "42",
+    "bookId": "PSA",
+    "reference": "Psalms 42",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 6,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 42:1\" class=\"v\">1</span>A psalm for David. Judge me, O God, and distinguish my cause from the nation that is not holy: deliver me from the unjust and deceitful man.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 42:2\" class=\"v\">2</span>For thou art God my strength: why hast thou cast me off? and why do I go sorrowful whilst the enemy afflicteth me?</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 42:3\" class=\"v\">3</span>Send forth thy light and thy truth: they have conducted me, and brought me unto thy holy hill, and into thy tabernacles.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 42:4\" class=\"v\">4</span>And I will go in to the altar of God: to God who giveth joy to my youth.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 42:5\" class=\"v\">5</span>To thee, O God my God, I will give praise upon the harp: why art thou sad, O my soul? and why dost thou disquiet me?</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 42:6\" class=\"v\">6</span>Hope in God, for I will still give praise to him: the salvation of my countenance, and my God.</p>",
+    "next": {
+      "id": "PSA.43",
+      "number": "43",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.41",
+      "number": "41",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBgBwHbqxlyoOgvR4EdEzy46-24Sxpo6hIlq6-0HnbwOW4W3EJ8gVx9Or22r3VmTVmQWCb0iTi5PwWLt3-ed4OoF9WU_N41zbXmErJYR6iSWkljdVinu66N-yo4MBwjzNGoHfhz45VdwERwLlDMgerDh_3XpooTRrZ2GJptqpY8xhs78K0520JH3P3RFywiWFEni6JHUmC1fN4f9LvajUvPi5mMk7LVAY_TXI291X6aVpOy6pU8zwz"
+  }
+}

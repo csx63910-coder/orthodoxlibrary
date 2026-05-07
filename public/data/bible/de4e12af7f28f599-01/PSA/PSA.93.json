@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.93",
+    "bibleId": "de4e12af7f28f599-01",
+    "number": "93",
+    "bookId": "PSA",
+    "reference": "Psalms 93",
+    "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+    "verseCount": 5,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 93:1\" class=\"v\">1</span>The <span class=\"nd\">LORD</span> reigneth, he is clothed with majesty; the <span class=\"nd\">LORD</span> is clothed with strength, <span class=\"add\">wherewith</span> he hath girded himself: the world also is stablished, that it cannot be moved.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 93:2\" class=\"v\">2</span>Thy throne <span class=\"add\">is</span> established of old: thou <span class=\"add\">art</span> from everlasting.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 93:3\" class=\"v\">3</span>The floods have lifted up, O <span class=\"nd\">LORD</span>, the floods have lifted up their voice; the floods lift up their waves.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 93:4\" class=\"v\">4</span>The <span class=\"nd\">LORD</span> on high <span class=\"add\">is</span> mightier than the noise of many waters, <span class=\"add\">yea, than</span> the mighty waves of the sea.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 93:5\" class=\"v\">5</span>Thy testimonies are very sure: holiness becometh thine house, O <span class=\"nd\">LORD</span>, for ever.</p>",
+    "next": {
+      "id": "PSA.94",
+      "number": "94",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.92",
+      "number": "92",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBIBwHbqxlyoOgvZ6Jayp_uhD4FN5NzqHaFBAkS1df6Ky77XTDA_C_07dza2tBmGZxRgl2ipLgf2enpFMiahv_7fjH83YA4osjOJ_3uFg2S5bpKq-krKxWTxz1jO6xN-yEqoD9EULkIHnDH8fsugsgCsBlSLMOuGbg7yZPVkkasbUakoRkPAZs79r0520JRNauVH3BJ4YxfLaEdoY5rJ7H-6se2YTKQhfeElXf0HTly2LeXLgoiZS60qlh"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.126",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "126",
+    "bookId": "PSA",
+    "reference": "Psalms 126",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 6,
+    "content": "<p class=\"d\">A Song of Ascents.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 126:1\" class=\"v\">1</span>When Yahweh brought back those who returned to Zion,</p><p data-vid=\"PSA 126:1\" class=\"q2\">we were like those who dream.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 126:2\" class=\"v\">2</span>Then our mouth was filled with laughter,</p><p data-vid=\"PSA 126:2\" class=\"q2\">and our tongue with singing.</p><p data-vid=\"PSA 126:2\" class=\"q1\">Then they said among the nations,</p><p data-vid=\"PSA 126:2\" class=\"q2\">“Yahweh has done great things for them.”</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 126:3\" class=\"v\">3</span>Yahweh has done great things for us,</p><p data-vid=\"PSA 126:3\" class=\"q2\">and we are glad.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 126:4\" class=\"v\">4</span>Restore our fortunes again, Yahweh,</p><p data-vid=\"PSA 126:4\" class=\"q2\">like the streams in the Negev.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 126:5\" class=\"v\">5</span>Those who sow in tears will reap in joy.</p><p class=\"q2\"><span data-number=\"6\" data-sid=\"PSA 126:6\" class=\"v\">6</span>He who goes out weeping, carrying seed for sowing,</p><p data-vid=\"PSA 126:6\" class=\"q2\">will certainly come again with joy, carrying his sheaves.</p>",
+    "next": {
+      "id": "PSA.127",
+      "number": "127",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.125",
+      "number": "125",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzcBABwHbqxlyoOgvR4EdEzy46-24Sxpo6hIlq6-0Fl32-mGB-B_vwRpa2tBmGZxRgl2iNuC2tUr6ZVE6ti545_n7QD6ZTU5n3ddS66L2SzPV0tfl2EhjdWCunfdG3aUdQlsGHHGCERv_Fm06y4gCnCZsqyD2AzfN0kTC00jG1tIXlWlmDHY3uXpz9sSStaOqsQQJ4YxgGEJ7kwSrJ7H-8PuU7cs0zyt0i_9QgZju5epnQVpl3E1X61qTjkw"
+  }
+}

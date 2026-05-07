@@ -1,0 +1,162 @@
+{
+  "translation": {
+    "id": "srp_onspc",
+    "name": "Biblica® Нови српски превод, слободна права",
+    "website": "https://ebible.org/Scriptures/details.php?id=srponspc",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srponspc",
+    "shortName": "ONSPC",
+    "englishName": "Serbian ONSP Cyrillic",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "f7cf39982822a6be7cfe4a623571c1d865bcad7b51dca5ad6efcdd5f4cf784f8",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_onspc/books.json",
+    "completeTranslationApiLink": "/api/srp_onspc/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31102,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "srp_onspc",
+    "name": "Псалм",
+    "commonName": "Псалм",
+    "title": "Псалми",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "26caf786163c3156cd828b9195dd87c0a9678ee51bdea32fbef70df99683a272",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_onspc/PSA/1.json",
+    "lastChapterNumber": 150,
+    "lastChapterApiLink": "/api/srp_onspc/PSA/150.json",
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 125,
+    "content": [
+      {
+        "type": "hebrew_subtitle",
+        "content": [
+          "Песма поклоничка."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Они што се у Господа уздају,",
+            "poem": 1
+          },
+          {
+            "text": "јесу као гора Сион – постојана,",
+            "poem": 2
+          },
+          {
+            "lineBreak": true
+          },
+          {
+            "text": "довека се помакнути не да!",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Попут гора што Јерусалим окружују,",
+            "poem": 1
+          },
+          {
+            "text": "тако је и Господ око свог народа,",
+            "poem": 2
+          },
+          {
+            "lineBreak": true
+          },
+          {
+            "text": "све од сада па за вечност целу.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Уистину, неће жезло злочинаца владати",
+            "poem": 1
+          },
+          {
+            "text": "над земљом што припада праведнима;",
+            "poem": 2
+          },
+          {
+            "text": "да праведни руке своје не би",
+            "poem": 1
+          },
+          {
+            "text": "неправди пружали.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "О, Господе, добро чини добрима",
+            "poem": 1
+          },
+          {
+            "text": "и онима честитога срца!",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "А оне што на своје криве стазе скрећу,",
+            "poem": 1
+          },
+          {
+            "text": "Господ ће одагнати са злотворима.",
+            "poem": 2
+          },
+          {
+            "lineBreak": true
+          },
+          {
+            "text": "Мир Израиљу!",
+            "poem": 1
+          }
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_onspc/PSA/125.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_onspc/PSA/126.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_onspc/PSA/124.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 5
+}

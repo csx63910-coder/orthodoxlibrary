@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "2TH.1",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "1",
+    "bookId": "2TH",
+    "reference": "2 Thessalonians 1",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 12,
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"2TH 1:1\" class=\"v\">1</span>Paul, Silvanus, and Timothy, to the assembly of the Thessalonians in God our Father and the Lord Jesus Christ: <span data-number=\"2\" data-sid=\"2TH 1:2\" class=\"v\">2</span>Grace to you and peace from God our Father and the Lord Jesus Christ.</p><p class=\"p\"><span data-number=\"3\" data-sid=\"2TH 1:3\" class=\"v\">3</span>We are bound to always give thanks to God for you, brothers, even as it is appropriate, because your faith grows exceedingly, and the love of each and every one of you toward one another abounds, <span data-number=\"4\" data-sid=\"2TH 1:4\" class=\"v\">4</span>so that we ourselves boast about you in the assemblies of God for your perseverance and faith in all your persecutions and in the afflictions which you endure. <span data-number=\"5\" data-sid=\"2TH 1:5\" class=\"v\">5</span>This is an obvious sign of the righteous judgment of God, to the end that you may be counted worthy of God’s Kingdom, for which you also suffer. <span data-number=\"6\" data-sid=\"2TH 1:6\" class=\"v\">6</span>For it is a righteous thing with God to repay affliction to those who afflict you, <span data-number=\"7\" data-sid=\"2TH 1:7\" class=\"v\">7</span>and to give relief to you who are afflicted with us when the Lord Jesus is revealed from heaven with his mighty angels in flaming fire, <span data-number=\"8\" data-sid=\"2TH 1:8\" class=\"v\">8</span>punishing those who don’t know God, and to those who don’t obey the Good News of our Lord Jesus, <span data-number=\"9\" data-sid=\"2TH 1:9\" class=\"v\">9</span>who will pay the penalty: eternal destruction from the face of the Lord and from the glory of his might, <span data-number=\"10\" data-sid=\"2TH 1:10\" class=\"v\">10</span>when he comes in that day to be glorified in his saints and to be admired among all those who have believed, because our testimony to you was believed.</p><p class=\"p\"><span data-number=\"11\" data-sid=\"2TH 1:11\" class=\"v\">11</span>To this end we also pray always for you that our God may count you worthy of your calling, and fulfill every desire of goodness and work of faith with power, <span data-number=\"12\" data-sid=\"2TH 1:12\" class=\"v\">12</span>that the name of our Lord Jesus may be glorified in you, and you in him, according to the grace of our God and the Lord Jesus Christ.</p>",
+    "next": {
+      "id": "2TH.2",
+      "number": "2",
+      "bookId": "2TH"
+    },
+    "previous": {
+      "id": "2TH.intro",
+      "number": "intro",
+      "bookId": "2TH"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzIBABwHbqxlyoOgvR4E_LknP37VQJuP9ikqkqWrL3TW3Xa64QH4_6nlra0FYRpoRgn-ELcFtc1JxElE0Ar-cv88bwfQL6vJ-bzrWnJdzGZ5vlr6ugwLaawWNLhrN3TKgv0VZ4xA8sGfY079AqIBlynNPmit8HWLNLHQNNjYoouqyraOYHuXZj5vSwjZu9LkhTwxjNFLS2QdrBOsnsf7q-5hMfWzvEyyFjeTwZnupaQ8lWlezDzkhS21Mg"
+  }
+}

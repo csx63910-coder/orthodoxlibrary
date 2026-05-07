@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "REV.15",
+    "bibleId": "de4e12af7f28f599-01",
+    "number": "15",
+    "bookId": "REV",
+    "reference": "Revelation 15",
+    "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+    "verseCount": 8,
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"REV 15:1\" class=\"v\">1</span>And I saw another sign in heaven, great and marvellous, seven angels having the seven last plagues; for in them is filled up the wrath of God. <span data-number=\"2\" data-sid=\"REV 15:2\" class=\"v\">2</span>And I saw as it were a sea of glass mingled with fire: and them that had gotten the victory over the beast, and over his image, and over his mark, <span class=\"add\">and</span> over the number of his name, stand on the sea of glass, having the harps of God. <span data-number=\"3\" data-sid=\"REV 15:3\" class=\"v\">3</span>And they sing the song of Moses the servant of God, and the song of the Lamb, saying, Great and marvellous <span class=\"add\">are</span> thy works, Lord God Almighty; just and true <span class=\"add\">are</span> thy ways, thou King of saints. <span data-number=\"4\" data-sid=\"REV 15:4\" class=\"v\">4</span>Who shall not fear thee, O Lord, and glorify thy name? for <span class=\"add\">thou</span> only <span class=\"add\">art</span> holy: for all nations shall come and worship before thee; for thy judgments are made manifest. <span data-number=\"5\" data-sid=\"REV 15:5\" class=\"v\">5</span>And after that I looked, and, behold, the temple of the tabernacle of the testimony in heaven was opened: <span data-number=\"6\" data-sid=\"REV 15:6\" class=\"v\">6</span>And the seven angels came out of the temple, having the seven plagues, clothed in pure and white linen, and having their breasts girded with golden girdles. <span data-number=\"7\" data-sid=\"REV 15:7\" class=\"v\">7</span>And one of the four beasts gave unto the seven angels seven golden vials full of the wrath of God, who liveth for ever and ever. <span data-number=\"8\" data-sid=\"REV 15:8\" class=\"v\">8</span>And the temple was filled with smoke from the glory of God, and from his power; and no man was able to enter into the temple, till the seven plagues of the seven angels were fulfilled.</p>",
+    "next": {
+      "id": "REV.16",
+      "number": "16",
+      "bookId": "REV"
+    },
+    "previous": {
+      "id": "REV.14",
+      "number": "14",
+      "bookId": "REV"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBIJwHtmOXCgaDm8IzcAmC2lbqm888NCpD4pOYJEtXX-hUkdXbBi7fdIytuAR3BNFodnvt3uq8kt8JapuTiJPoohX8df3zvB1Av6wG5_OuF8uwtG66yitXVrFWaazWM7rrXmUj2B9xxggkb_w5ZtctIApwGdKsA9cMfzdJEytNg40t2CiqWNMItndt-vO2BJG1K1Vf8IlhDJ8toZ0pgtXzeH_V6yyG4ufTuVytplMZ6iLLmQ-ln-vUzFclpGgzAw"
+  }
+}

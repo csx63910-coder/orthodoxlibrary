@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.47",
+    "bibleId": "de4e12af7f28f599-01",
+    "number": "47",
+    "bookId": "PSA",
+    "reference": "Psalms 47",
+    "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+    "verseCount": 9,
+    "content": "<p class=\"d\">To the chief Musician, A Psalm for the sons of Korah.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 47:1\" class=\"v\">1</span>O clap your hands, all ye people; shout unto God with the voice of triumph.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 47:2\" class=\"v\">2</span>For the <span class=\"nd\">LORD</span> most high <span class=\"add\">is</span> terrible; <span class=\"add\">he is</span> a great King over all the earth.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 47:3\" class=\"v\">3</span>He shall subdue the people under us, and the nations under our feet.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 47:4\" class=\"v\">4</span>He shall choose our inheritance for us, the excellency of Jacob whom he loved. Selah.</p><p class=\"b\"></p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 47:5\" class=\"v\">5</span>God is gone up with a shout, the <span class=\"nd\">LORD</span> with the sound of a trumpet.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 47:6\" class=\"v\">6</span>Sing praises to God, sing praises: sing praises unto our King, sing praises.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 47:7\" class=\"v\">7</span>For God <span class=\"add\">is</span> the King of all the earth: sing ye praises with understanding.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 47:8\" class=\"v\">8</span>God reigneth over the heathen: God sitteth upon the throne of his holiness.</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 47:9\" class=\"v\">9</span>The princes of the people are gathered together, <span class=\"add\">even</span> the people of the God of Abraham: for the shields of the earth <span class=\"add\">belong</span> unto God: he is greatly exalted.</p>",
+    "next": {
+      "id": "PSA.48",
+      "number": "48",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.46",
+      "number": "46",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBgBwHbqxlyoOgvZ5Vy6V8603ZIXFRgeJqZon5P1m6-kJn3W2ng_K_07fD8dsXhGkWZ5RgAZYHdeokYmKGJn_d_uN1PwL6bTU1jw9NHNi6dc_dlR5rlcZqMU8PPZmPVMiA4R7OGAG9K_6xYzUmIBLg3CFZBlYD-Lj30kRp0sLG5kMLVqUcloDdQ5j2ujP4mLsn4oKtDCPylIkdUQX66_R40oferTd5GGQNRDJ0zrISeWk8cTFMQy3H"
+  }
+}

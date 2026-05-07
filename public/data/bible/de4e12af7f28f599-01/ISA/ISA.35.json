@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "ISA.35",
+    "bibleId": "de4e12af7f28f599-01",
+    "number": "35",
+    "bookId": "ISA",
+    "reference": "Isaiah 35",
+    "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+    "verseCount": 10,
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"ISA 35:1\" class=\"v\">1</span>The wilderness and the solitary place shall be glad for them; and the desert shall rejoice, and blossom as the rose. <span data-number=\"2\" data-sid=\"ISA 35:2\" class=\"v\">2</span>It shall blossom abundantly, and rejoice even with joy and singing: the glory of Lebanon shall be given unto it, the excellency of Carmel and Sharon, they shall see the glory of the <span class=\"nd\">LORD</span>, <span class=\"add\">and</span> the excellency of our God.</p><p class=\"p\"><span data-number=\"3\" data-sid=\"ISA 35:3\" class=\"v\">3</span>¶ Strengthen ye the weak hands, and confirm the feeble knees. <span data-number=\"4\" data-sid=\"ISA 35:4\" class=\"v\">4</span>Say to them <span class=\"add\">that are</span> of a fearful heart, Be strong, fear not: behold, your God will come <span class=\"add\">with</span> vengeance, <span class=\"add\">even</span> God <span class=\"add\">with</span> a recompence; he will come and save you.</p><p class=\"p\"><span data-number=\"5\" data-sid=\"ISA 35:5\" class=\"v\">5</span>Then the eyes of the blind shall be opened, and the ears of the deaf shall be unstopped. <span data-number=\"6\" data-sid=\"ISA 35:6\" class=\"v\">6</span>Then shall the lame <span class=\"add\">man</span> leap as an hart, and the tongue of the dumb sing: for in the wilderness shall waters break out, and streams in the desert. <span data-number=\"7\" data-sid=\"ISA 35:7\" class=\"v\">7</span>And the parched ground shall become a pool, and the thirsty land springs of water: in the habitation of dragons, where each lay, <span class=\"add\">shall be</span> grass with reeds and rushes. <span data-number=\"8\" data-sid=\"ISA 35:8\" class=\"v\">8</span>And an highway shall be there, and a way, and it shall be called The way of holiness; the unclean shall not pass over it; but it <span class=\"add\">shall be</span> for those: the wayfaring men, though fools, shall not err <span class=\"add\">therein</span>. <span data-number=\"9\" data-sid=\"ISA 35:9\" class=\"v\">9</span>No lion shall be there, nor <span class=\"add\">any</span> ravenous beast shall go up thereon, it shall not be found there; but the redeemed shall walk <span class=\"add\">there:</span> <span data-number=\"10\" data-sid=\"ISA 35:10\" class=\"v\">10</span>And the ransomed of the <span class=\"nd\">LORD</span> shall return, and come to Zion with songs and everlasting joy upon their heads: they shall obtain joy and gladness, and sorrow and sighing shall flee away.</p>",
+    "next": {
+      "id": "ISA.36",
+      "number": "36",
+      "bookId": "ISA"
+    },
+    "previous": {
+      "id": "ISA.34",
+      "number": "34",
+      "bookId": "ISA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzUBgBwHbqxlyoOgvR4EtM3UL795I5JZ2pKYJEtXX-i8beBy3K24BPmCOJq9aNze6kwbs0ZQp04iJmZo8tfyz_N2AP2ymprHu14sw9K66SqvXFnFWqWxWszTXfdDp3wEwzPOGIHejT87dv0CIoBzh2QOVh0-7r00UZo0srH51ExRqfox2N6F6c_bEj7W7om4YBPDiDxdEltgjWD1PN7f9BeMc4tYspxXt5TBOydrmjm5KGY2r2E5W1oG"
+  }
+}

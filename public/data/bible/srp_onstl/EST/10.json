@@ -1,0 +1,78 @@
+{
+  "translation": {
+    "id": "srp_onstl",
+    "name": "Biblica® Novi srpski prevod, slobodna prava",
+    "website": "https://ebible.org/Scriptures/details.php?id=srponstl",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srponstl",
+    "shortName": "ONSTL",
+    "englishName": "Serbian ONST Latin",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "a8a96f250d352b1203b94cae20463b53a387d4852f335065e74400234976e767",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_onstl/books.json",
+    "completeTranslationApiLink": "/api/srp_onstl/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31102,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "EST",
+    "translationId": "srp_onstl",
+    "name": "Knjiga o Jestiri",
+    "commonName": "Knjiga o Jestiri",
+    "title": "Knjiga o Jestiri",
+    "order": 17,
+    "numberOfChapters": 10,
+    "sha256": "2e390b886a67005166495a9e7ed7f55df8e4cb55a7d58d608702aae3d33ecd89",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_onstl/EST/1.json",
+    "lastChapterNumber": 10,
+    "lastChapterApiLink": "/api/srp_onstl/EST/10.json",
+    "totalNumberOfVerses": 167
+  },
+  "chapter": {
+    "number": 10,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Mardohejeva veličina"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Car Artakserks je postavio nadzornike prinudnog rada nad zemljom i nad morskim ostrvima."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Naime, sva dostignuća njegove moći i njegove sile i objava o Mardohejevoj veličini – koga je car uzveličao – zar nisu zapisana u Knjizi dnevnika o vremenu careva Midije i Persije?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Jer je Mardohej Jevrejin bio drugi do cara Artakserksa, velik među Jevrejima i prihvaćen od mnoštva svoje braće, jer je tražio dobrobit za svoj narod i objavljivao mir za sve svoje potomke."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_onstl/EST/10.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_onstl/JOB/1.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_onstl/EST/9.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 3
+}

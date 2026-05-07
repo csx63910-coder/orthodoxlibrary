@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "JOB.25",
+    "bibleId": "179568874c45066f-01",
+    "number": "25",
+    "bookId": "JOB",
+    "reference": "Job 25",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 6,
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"JOB 25:1\" class=\"v\">1</span>Then Baldad the Suhite answered, and I said: <span data-number=\"2\" data-sid=\"JOB 25:2\" class=\"v\">2</span>Power and terror are with him, who maketh peace in his high places. <span data-number=\"3\" data-sid=\"JOB 25:3\" class=\"v\">3</span>Is there any numbering of his soldiers? and upon whom shall not his light arise? <span data-number=\"4\" data-sid=\"JOB 25:4\" class=\"v\">4</span>Can man be justified compared with God, or he that is born of a woman appear clean? <span data-number=\"5\" data-sid=\"JOB 25:5\" class=\"v\">5</span>Behold even the moon doth not shine, and the stars are not pure in his sight. <span data-number=\"6\" data-sid=\"JOB 25:6\" class=\"v\">6</span>How much less man that is rottenness and the son of man who is a worm?</p>",
+    "next": {
+      "id": "JOB.26",
+      "number": "26",
+      "bookId": "JOB"
+    },
+    "previous": {
+      "id": "JOB.24",
+      "number": "24",
+      "bookId": "JOB"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBYBwHdiz4CxaLyQeWIKBtpn75zSMN8tKWxKRZ-rqehs7bBi7H3YpLkC-Io9nttXurM2u1GgX_txwkmcxw9d8t_zxvB9Avq7H5vGuba0yl5DAP0aS0ksZqNXd3PaxTLoLpFmeMQPDCnyWzfgEZILhFKgOsDj_3XZooTRrZ2GJu0apq4xhs78rU520JIGMHRV2wieMJPV0i25MEq-fx_qbLVU4mL81KLtx0KcPKr2SZz-0wDdbbxSJllwoB"
+  }
+}

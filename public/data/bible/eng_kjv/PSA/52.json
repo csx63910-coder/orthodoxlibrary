@@ -1,0 +1,220 @@
+{
+  "translation": {
+    "id": "eng_kjv",
+    "name": "King James (Authorized) Version",
+    "website": "https://ebible.org/Scriptures/details.php?id=eng-kjv2006",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=eng-kjv2006",
+    "shortName": "KJAV",
+    "englishName": "King James Version",
+    "language": "eng",
+    "textDirection": "ltr",
+    "sha256": "a847712eeaae26124d3f9db80a1a9274742981261961b49715f43809774eb43c",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/eng_kjv/books.json",
+    "completeTranslationApiLink": "/api/eng_kjv/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31102,
+    "languageName": "English",
+    "languageEnglishName": "English"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "eng_kjv",
+    "name": "Psalms",
+    "commonName": "Psalms",
+    "title": "The Book of Psalms",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "7bccd076c8889684c0a037e3d255cb4508bb73e03494e49aa49156505c4e4bfd",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/eng_kjv/PSA/1.json",
+    "lastChapterNumber": 150,
+    "lastChapterApiLink": "/api/eng_kjv/PSA/150.json",
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 52,
+    "content": [
+      {
+        "type": "hebrew_subtitle",
+        "content": [
+          "To the chief Musician, Maschil, A Psalm of David, when Doeg the Edomite came and told Saul, and said unto him, David is come to the house of Ahimelech."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Why boastest thou thyself in mischief, O mighty man? the goodness of God endureth continually.",
+            "poem": 1
+          },
+          {
+            "noteId": 304
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Thy tongue deviseth mischiefs; like a sharp razor, working deceitfully.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Thou lovest evil more than good; and lying rather than to speak righteousness. Selah.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Thou lovest all devouring words, O thou deceitful tongue.",
+            "poem": 1
+          },
+          {
+            "noteId": 305
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "God shall likewise destroy thee for ever, he shall take thee away, and pluck thee out of thy dwelling place, and root thee out of the land of the living. Selah.",
+            "poem": 1
+          },
+          {
+            "noteId": 306
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "The righteous also shall see, and fear, and shall laugh at him:",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Lo, this is the man that made not God his strength; but trusted in the abundance of his riches, and strengthened himself in his wickedness.",
+            "poem": 1
+          },
+          {
+            "noteId": 307
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "But I am like a green olive tree in the house of God: I trust in the mercy of God for ever and ever.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "I will praise thee for ever, because thou hast done it: and I will wait on thy name; for it is good before thy saints.",
+            "poem": 1
+          }
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 304,
+        "caller": "+",
+        "text": "52.1 Maschil: or, of instruction",
+        "reference": {
+          "chapter": 52,
+          "verse": 1
+        }
+      },
+      {
+        "noteId": 305,
+        "caller": "+",
+        "text": "52.4 O thou…: or, and the deceitful tongue",
+        "reference": {
+          "chapter": 52,
+          "verse": 4
+        }
+      },
+      {
+        "noteId": 306,
+        "caller": "+",
+        "text": "52.5 destroy…: Heb. beat thee down",
+        "reference": {
+          "chapter": 52,
+          "verse": 5
+        }
+      },
+      {
+        "noteId": 307,
+        "caller": "+",
+        "text": "52.7 wickedness: or, substance",
+        "reference": {
+          "chapter": 52,
+          "verse": 7
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/eng_kjv/PSA/52.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/eng_kjv/PSA/53.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/eng_kjv/PSA/51.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 9
+}

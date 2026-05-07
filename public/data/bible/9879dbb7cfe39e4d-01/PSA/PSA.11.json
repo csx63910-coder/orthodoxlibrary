@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.11",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "11",
+    "bookId": "PSA",
+    "reference": "Psalms 11",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 7,
+    "content": "<p class=\"d\">For the Chief Musician. By David.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 11:1\" class=\"v\">1</span>In Yahweh, I take refuge.</p><p data-vid=\"PSA 11:1\" class=\"q2\">How can you say to my soul, “Flee as a bird to your mountain”?</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 11:2\" class=\"v\">2</span>For, behold, the wicked bend their bows.</p><p data-vid=\"PSA 11:2\" class=\"q2\">They set their arrows on the strings,</p><p data-vid=\"PSA 11:2\" class=\"q2\">that they may shoot in darkness at the upright in heart.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 11:3\" class=\"v\">3</span>If the foundations are destroyed,</p><p data-vid=\"PSA 11:3\" class=\"q2\">what can the righteous do?</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 11:4\" class=\"v\">4</span>Yahweh is in his holy temple.</p><p data-vid=\"PSA 11:4\" class=\"q2\">Yahweh is on his throne in heaven.</p><p data-vid=\"PSA 11:4\" class=\"q1\">His eyes observe.</p><p data-vid=\"PSA 11:4\" class=\"q2\">His eyes examine the children of men.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 11:5\" class=\"v\">5</span>Yahweh examines the righteous,</p><p data-vid=\"PSA 11:5\" class=\"q2\">but his soul hates the wicked and him who loves violence.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 11:6\" class=\"v\">6</span>On the wicked he will rain blazing coals;</p><p data-vid=\"PSA 11:6\" class=\"q2\">fire, sulfur, and scorching wind shall be the portion of their cup.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 11:7\" class=\"v\">7</span>For Yahweh is righteous.</p><p data-vid=\"PSA 11:7\" class=\"q2\">He loves righteousness.</p><p data-vid=\"PSA 11:7\" class=\"q2\">The upright shall see his face.</p>",
+    "next": {
+      "id": "PSA.12",
+      "number": "12",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.10",
+      "number": "10",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBCBwHbqxlyoOgvR4E_P0kP37V9nGWtFlEJ0tXX-i8beDyTcfYiktwRxBBzW6z21udmeMGQW1zEnHSVVBq-riuf563A-iX1Xge77qWXBezWZ6vlr4uw0Iaq6VGd90fdcpaMDLjjBG8vfNn69RbQBTg0tSsg2yGD07SxErS2MYWwhiUD3YCtndB43lbwmTvrEoGnxrGAG0JdyULVs_j_frfpV3NTMhyZutcBhuMnNlkZHQ-2Bhcr0XP"
+  }
+}

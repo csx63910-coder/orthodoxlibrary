@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.13",
+    "bibleId": "de4e12af7f28f599-01",
+    "number": "13",
+    "bookId": "PSA",
+    "reference": "Psalms 13",
+    "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+    "verseCount": 6,
+    "content": "<p class=\"d\">To the chief Musician, A Psalm of David.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 13:1\" class=\"v\">1</span>How long wilt thou forget me, O <span class=\"nd\">LORD</span>? for ever? how long wilt thou hide thy face from me?</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 13:2\" class=\"v\">2</span>How long shall I take counsel in my soul, <span class=\"add\">having</span> sorrow in my heart daily? how long shall mine enemy be exalted over me?</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 13:3\" class=\"v\">3</span>Consider <span class=\"add\">and</span> hear me, O <span class=\"nd\">LORD</span> my God: lighten mine eyes, lest I sleep the <span class=\"add\">sleep of</span> death;</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 13:4\" class=\"v\">4</span>Lest mine enemy say, I have prevailed against him; <span class=\"add\">and</span> those that trouble me rejoice when I am moved.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 13:5\" class=\"v\">5</span>But I have trusted in thy mercy; my heart shall rejoice in thy salvation.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 13:6\" class=\"v\">6</span>I will sing unto the <span class=\"nd\">LORD</span>, because he hath dealt bountifully with me.</p>",
+    "next": {
+      "id": "PSA.14",
+      "number": "14",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.12",
+      "number": "12",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBYBwHbqxlyoOgvR4EdEzy46-24Sxpo6hIlq6-0HnbwOW4W3EJ8gVxNLvNbm91TlBjRUGdOgkmMzT56_bP83YA_bIam8-7XizD0rrpKq9cWcVapbFazdNd94YdZT2YbnHGCAQv_Fky6y4gAzi3SOWA1eHnvksTpUkjG5sPzUVlgh2D7V2Z-rwtAWTsoKgLNjGM0NMlsj1JsHoe769e5dnM2JmV0-rjOphllLO0CrKuFma-zCUnnxg"
+  }
+}

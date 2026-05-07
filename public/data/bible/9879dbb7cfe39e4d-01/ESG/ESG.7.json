@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "ESG.7",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "7",
+    "bookId": "ESG",
+    "reference": "Esther (Greek) 7",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 10,
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"ESG 7:1\" class=\"v\">1</span>So the king and Haman went in to drink with the queen. <span data-number=\"2\" data-sid=\"ESG 7:2\" class=\"v\">2</span>The king said to Esther at the banquet on the second day, “What is it, queen Esther? What is your request? What is your petition? It shall be done for you, up to half of my kingdom.”</p><p class=\"p\"><span data-number=\"3\" data-sid=\"ESG 7:3\" class=\"v\">3</span>She answered and said, “If I have found favor in the sight of the king, let my life be granted as my petition, and my people as my request. <span data-number=\"4\" data-sid=\"ESG 7:4\" class=\"v\">4</span>For both I and my people are sold for destruction, pillage, and genocide. If both we and our children were sold for male and female slaves, I would not have bothered you, for this isn’t worthy of the king’s palace.”</p><p class=\"p\"><span data-number=\"5\" data-sid=\"ESG 7:5\" class=\"v\">5</span>The king said, “Who has dared to do this thing?”</p><p class=\"p\"><span data-number=\"6\" data-sid=\"ESG 7:6\" class=\"v\">6</span>Esther said, “The enemy is Haman, this wicked man!”</p><p data-vid=\"ESG 7:6\" class=\"p\">Then Haman was terrified in the presence of the king and the queen. <span data-number=\"7\" data-sid=\"ESG 7:7\" class=\"v\">7</span>The king rose up from the banquet to go into the garden. Haman began to beg the queen for mercy, for he saw that he was in serious trouble. <span data-number=\"8\" data-sid=\"ESG 7:8\" class=\"v\">8</span>The king returned from the garden; and Haman had fallen upon the couch, begging the queen for mercy. The king said, “Will you even assault my wife in my house?”</p><p data-vid=\"ESG 7:8\" class=\"p\">And when Haman heard it, he changed countenance. <span data-number=\"9\" data-sid=\"ESG 7:9\" class=\"v\">9</span>And Bugathan, one of the chamberlains, said to the king, “Behold, Haman has also prepared a gallows for Mordecai, who spoke concerning the king, and a fifty cubit high gallows has been set up on Haman’s property.”</p><p data-vid=\"ESG 7:9\" class=\"p\">The king said, “Let him be hanged on it!” <span data-number=\"10\" data-sid=\"ESG 7:10\" class=\"v\">10</span>So Haman was hanged on the gallows that had been prepared for Mordecai. Then the king’s wrath was abated.</p>",
+    "next": {
+      "id": "ESG.8",
+      "number": "8",
+      "bookId": "ESG"
+    },
+    "previous": {
+      "id": "ESG.6",
+      "number": "6",
+      "bookId": "ESG"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzIBABwHbqxlyoOgvR4IOLbUl2_esQwJkpgkS1df6Lxt4HLcrbrEcYQIanYbt7c608YsCGxTmkScnN7Cpemf5-0A-mU1OY93XUuui9ksz1dLX5dhIY3Vgh7uujPsqQzmZ5wxAsk7f9bsBguIApy7JOugNeDr3ksTpUkjG1uoLQblahmD7V2a8bwtIWTtpMoLPjGM0LMlsgnWCFbP4_1V34tVXZpZmsu5KSsZUqqyzNNSJhvSIk6nheYqAw"
+  }
+}

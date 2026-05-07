@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.123",
+    "bibleId": "de4e12af7f28f599-01",
+    "number": "123",
+    "bookId": "PSA",
+    "reference": "Psalms 123",
+    "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+    "verseCount": 4,
+    "content": "<p class=\"d\">A Song of degrees.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 123:1\" class=\"v\">1</span>Unto thee lift I up mine eyes, O thou that dwellest in the heavens.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 123:2\" class=\"v\">2</span>Behold, as the eyes of servants <span class=\"add\">look</span> unto the hand of their masters, <span class=\"add\">and</span> as the eyes of a maiden unto the hand of her mistress; so our eyes <span class=\"add\">wait</span> upon the <span class=\"nd\">LORD</span> our God, until that he have mercy upon us.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 123:3\" class=\"v\">3</span>Have mercy upon us, O <span class=\"nd\">LORD</span>, have mercy upon us: for we are exceedingly filled with contempt.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 123:4\" class=\"v\">4</span>Our soul is exceedingly filled with the scorning of those that are at ease, <span class=\"add\">and</span> with the contempt of the proud.</p>",
+    "next": {
+      "id": "PSA.124",
+      "number": "124",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.122",
+      "number": "122",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzcBoBwHbqxlyoOgvR4EdEzy46-24Sxpo6hIlq6-0Fl32-mCBzwAfrWSoC1qbS0oS7M4owQLNA9sU3IRcRIc7QeXHv88bwfQL6uhebzrxTIsrZuu8sqVVaxVGqu1lBn1hh3VPNg84owR6F35c8auu4DMIPQCW2XAmuDnRmliszSysfmrzSoWNwbbuzL9eVsCyNp9Rl3wE8cUe27J7EwQrJ7H-5s-pOjqKq6ynK3CXIbldCZnzlU5nRY3z2a-9BYY"
+  }
+}

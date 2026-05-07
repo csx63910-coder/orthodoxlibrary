@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.151",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "151",
+    "bookId": "PSA",
+    "reference": "Psalms 151",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 7,
+    "content": "<p class=\"d\">This Psalm is a genuine one of David, though extra, composed when he fought in single combat with Goliath.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 151:1\" class=\"v\">1</span>I was small among my brothers,</p><p data-vid=\"PSA 151:1\" class=\"q2\">and youngest in my father’s house.</p><p data-vid=\"PSA 151:1\" class=\"q2\">I tended my father’s sheep.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 151:2\" class=\"v\">2</span>My hands formed a musical instrument,</p><p data-vid=\"PSA 151:2\" class=\"q2\">and my fingers tuned a lyre.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 151:3\" class=\"v\">3</span>Who shall tell my Lord?</p><p data-vid=\"PSA 151:3\" class=\"q2\">The Lord himself, he himself hears.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 151:4\" class=\"v\">4</span>He sent forth his angel and took me from my father’s sheep,</p><p data-vid=\"PSA 151:4\" class=\"q2\">and he anointed me with his anointing oil.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 151:5\" class=\"v\">5</span>My brothers were handsome and tall;</p><p data-vid=\"PSA 151:5\" class=\"q2\">but the Lord didn’t take pleasure in them.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 151:6\" class=\"v\">6</span>I went out to meet the Philistine,</p><p data-vid=\"PSA 151:6\" class=\"q2\">and he cursed me by his idols.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 151:7\" class=\"v\">7</span>But I drew his own sword and beheaded him,</p><p data-vid=\"PSA 151:7\" class=\"q2\">and removed reproach from the children of Israel.</p>",
+    "next": {
+      "id": "PRO.intro",
+      "number": "intro",
+      "bookId": "PRO"
+    },
+    "previous": {
+      "id": "PSA.150",
+      "number": "150",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzcBoBwHbqxlyoOgvR4EdEzy46-24Sxpo6hIlq6-0HnbwOW4W9Hj8AvSaHZ77d7qzBqzIPi_5SSZzIKr_27753k7gH5ZDc3jXdeS62I2y_PV0tdlWEhjtZbHu-4NO8pGC4Z7nDECvSt_dqy6C4gEzg2aZcAa8HPvpYnSpJGNLeRmrEomjsH2rkx73pYAMndP1AWfGEbs2ZLZkSxYPY_3N_3Pw3QVokmyODOTYb4qsqRc5HJR5rksZrEYlgE"
+  }
+}

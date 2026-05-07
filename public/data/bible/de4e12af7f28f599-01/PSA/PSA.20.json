@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.20",
+    "bibleId": "de4e12af7f28f599-01",
+    "number": "20",
+    "bookId": "PSA",
+    "reference": "Psalms 20",
+    "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+    "verseCount": 9,
+    "content": "<p class=\"d\">To the chief Musician, A Psalm of David.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 20:1\" class=\"v\">1</span>The <span class=\"nd\">LORD</span> hear thee in the day of trouble; the name of the God of Jacob defend thee;</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 20:2\" class=\"v\">2</span>Send thee help from the sanctuary, and strengthen thee out of Zion;</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 20:3\" class=\"v\">3</span>Remember all thy offerings, and accept thy burnt sacrifice; Selah.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 20:4\" class=\"v\">4</span>Grant thee according to thine own heart, and fulfil all thy counsel.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 20:5\" class=\"v\">5</span>We will rejoice in thy salvation, and in the name of our God we will set up <span class=\"add\">our</span> banners: the <span class=\"nd\">LORD</span> fulfil all thy petitions.</p><p class=\"b\"></p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 20:6\" class=\"v\">6</span>Now know I that the <span class=\"nd\">LORD</span> saveth his anointed; he will hear him from his holy heaven with the saving strength of his right hand.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 20:7\" class=\"v\">7</span>Some <span class=\"add\">trust</span> in chariots, and some in horses: but we will remember the name of the <span class=\"nd\">LORD</span> our God.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 20:8\" class=\"v\">8</span>They are brought down and fallen: but we are risen, and stand upright.</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 20:9\" class=\"v\">9</span>Save, <span class=\"nd\">LORD</span>: let the king hear us when we call.</p>",
+    "next": {
+      "id": "PSA.21",
+      "number": "21",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.19",
+      "number": "19",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBCBwHbqxlyoOgvZ6Fcyp_OsSusm6kNlX4jClZuvpC520Tl-Nu1SVE0AsifuNFt7c6s8YsCGqbk4iD6CoUNX1c2z-etwMgX1riebzLkRxp09VYTao-Z660lHq6y8m8EUYBlkQkKX07pD92rdoRiAJwGVrVgWwGPvieK89VWGhfrCsmCev8ErC9C2rPG4HJ3FmTjGFlFAN0gjsiM9Tn8X79h6Nx7Ezlqcs9d6kzPCdKnFTovY2RbDYY"
+  }
+}

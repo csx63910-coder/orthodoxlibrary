@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "JOS.16",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "16",
+    "bookId": "JOS",
+    "reference": "Joshua 16",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 10,
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"JOS 16:1\" class=\"v\">1</span>The lot came out for the children of Joseph from the Jordan at Jericho, at the waters of Jericho on the east, even the wilderness, going up from Jericho through the hill country to Bethel. <span data-number=\"2\" data-sid=\"JOS 16:2\" class=\"v\">2</span>It went out from Bethel to Luz, and passed along to the border of the Archites to Ataroth; <span data-number=\"3\" data-sid=\"JOS 16:3\" class=\"v\">3</span>and it went down westward to the border of the Japhletites, to the border of Beth Horon the lower, and on to Gezer; and ended at the sea.</p><p class=\"p\"><span data-number=\"4\" data-sid=\"JOS 16:4\" class=\"v\">4</span>The children of Joseph, Manasseh and Ephraim, took their inheritance. <span data-number=\"5\" data-sid=\"JOS 16:5\" class=\"v\">5</span>This was the border of the children of Ephraim according to their families. The border of their inheritance eastward was Ataroth Addar, to Beth Horon the upper. <span data-number=\"6\" data-sid=\"JOS 16:6\" class=\"v\">6</span>The border went out westward at Michmethath on the north. The border turned about eastward to Taanath Shiloh, and passed along it on the east of Janoah. <span data-number=\"7\" data-sid=\"JOS 16:7\" class=\"v\">7</span>It went down from Janoah to Ataroth, to Naarah, reached to Jericho, and went out at the Jordan. <span data-number=\"8\" data-sid=\"JOS 16:8\" class=\"v\">8</span>From Tappuah the border went along westward to the brook of Kanah; and ended at the sea. This is the inheritance of the tribe of the children of Ephraim according to their families; <span data-number=\"9\" data-sid=\"JOS 16:9\" class=\"v\">9</span>together with the cities which were set apart for the children of Ephraim in the middle of the inheritance of the children of Manasseh, all the cities with their villages. <span data-number=\"10\" data-sid=\"JOS 16:10\" class=\"v\">10</span>They didn’t drive out the Canaanites who lived in Gezer; but the Canaanites dwell in the territory of Ephraim to this day, and have become servants to do forced labor.</p>",
+    "next": {
+      "id": "JOS.17",
+      "number": "17",
+      "bookId": "JOS"
+    },
+    "previous": {
+      "id": "JOS.15",
+      "number": "15",
+      "bookId": "JOS"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzUBoBwHdiz4CxaLyQeWIKBtpn75zUODytKWxKRZ-rqehs7bBi7H3YpLkC-Io9lt3N7qvGzMguD_lpNkMguu_rvyz_N2AP2yGprHu64l18Vsluerpa_LsJDGai1Pd91vUDaB2RFnjEDuxp8Vq24BEcC5QTIDqg7_9l6aKE0a2diCby6rYtMYbO-69OdtCR5z50RbsInhCTxdAltgjWD1PN6f9OFmyzSNbiVtDFWG6dTIOp0VmUJpsyoz6_2yEA"
+  }
+}

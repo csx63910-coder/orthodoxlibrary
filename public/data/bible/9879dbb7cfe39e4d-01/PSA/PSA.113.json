@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.113",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "113",
+    "bookId": "PSA",
+    "reference": "Psalms 113",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 9,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 113:1\" class=\"v\">1</span>Praise Yah!</p><p data-vid=\"PSA 113:1\" class=\"q2\">Praise, you servants of Yahweh,</p><p data-vid=\"PSA 113:1\" class=\"q2\">praise Yahweh’s name.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 113:2\" class=\"v\">2</span>Blessed be Yahweh’s name,</p><p data-vid=\"PSA 113:2\" class=\"q2\">from this time forward and forever more.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 113:3\" class=\"v\">3</span>From the rising of the sun to its going down,</p><p data-vid=\"PSA 113:3\" class=\"q2\">Yahweh’s name is to be praised.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 113:4\" class=\"v\">4</span>Yahweh is high above all nations,</p><p data-vid=\"PSA 113:4\" class=\"q2\">his glory above the heavens.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 113:5\" class=\"v\">5</span>Who is like Yahweh, our God,</p><p data-vid=\"PSA 113:5\" class=\"q2\">who has his seat on high,</p><p class=\"q2\"><span data-number=\"6\" data-sid=\"PSA 113:6\" class=\"v\">6</span>who stoops down to see in heaven and in the earth?</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 113:7\" class=\"v\">7</span>He raises up the poor out of the dust,</p><p data-vid=\"PSA 113:7\" class=\"q2\">and lifts up the needy from the ash heap,</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 113:8\" class=\"v\">8</span>that he may set him with princes,</p><p data-vid=\"PSA 113:8\" class=\"q2\">even with the princes of his people.</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 113:9\" class=\"v\">9</span>He settles the barren woman in her home</p><p data-vid=\"PSA 113:9\" class=\"q2\">as a joyful mother of children.</p><p data-vid=\"PSA 113:9\" class=\"q1\">Praise Yah!</p>",
+    "next": {
+      "id": "PSA.114",
+      "number": "114",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.112",
+      "number": "112",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzcBAIzTFfOihHUPAjom-fFX23CWtFFUtA5LV991t51ueAD-90uQtrYWhFnL4owS7KBtQe3qlfRKJHXs3PXP83YA-mU1OY93XUuui9ksz1dLX5dhIY3Vgrp33Rt2lLWe2DDDGSMQveHPolN3AaIQLlOW9UFsBt83SRMLTSMbW0heUDbFMbG9y9OftyUo2TuqEkOcGI4BDEtwV1TB6nm8P-wz1lko0zSXKdgkwyInOTNmKstyXuy8P6xqnnE"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.1",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "1",
+    "bookId": "PSA",
+    "reference": "Psalms 1",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 6,
+    "content": "<p class=\"ms1\">BOOK 1</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 1:1\" class=\"v\">1</span>Blessed is the man who doesn’t walk in the counsel of the wicked,</p><p data-vid=\"PSA 1:1\" class=\"q2\">nor stand on the path of sinners,</p><p data-vid=\"PSA 1:1\" class=\"q2\">nor sit in the seat of scoffers;</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 1:2\" class=\"v\">2</span>but his delight is in Yahweh’s law.</p><p data-vid=\"PSA 1:2\" class=\"q2\">On his law he meditates day and night.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 1:3\" class=\"v\">3</span>He will be like a tree planted by the streams of water,</p><p data-vid=\"PSA 1:3\" class=\"q2\">that produces its fruit in its season,</p><p data-vid=\"PSA 1:3\" class=\"q2\">whose leaf also does not wither.</p><p data-vid=\"PSA 1:3\" class=\"q2\">Whatever he does shall prosper.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 1:4\" class=\"v\">4</span>The wicked are not so,</p><p data-vid=\"PSA 1:4\" class=\"q2\">but are like the chaff which the wind drives away.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 1:5\" class=\"v\">5</span>Therefore the wicked shall not stand in the judgment,</p><p data-vid=\"PSA 1:5\" class=\"q2\">nor sinners in the congregation of the righteous.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 1:6\" class=\"v\">6</span>For Yahweh knows the way of the righteous,</p><p data-vid=\"PSA 1:6\" class=\"q2\">but the way of the wicked shall perish.</p>",
+    "next": {
+      "id": "PSA.2",
+      "number": "2",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.intro",
+      "number": "intro",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzEBIBwHbqxlyoOgvZ5Bc0v98ovOGpGmCdJElGTp6guddbedbnoA_X9qSdTaWhCmWZxRgh00CWqbk4iTOmkFf13_WKcG4Jvk4DzO3PdcP4kiN85S7acmoUJyPZ2ZP943JgHrM5QQBIp3_HHK6Z4AUQEuQ5ptgLUAPzdTYTtxPtIGxvOY56gvoJyVGeuUApC9G01diD_DmLyQErvCIcjWdn7TdxrGsQmzmIYqUtTYNKO-CBUNPU9HxhOVMA"
+  }
+}

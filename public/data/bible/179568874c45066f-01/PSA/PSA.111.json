@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.111",
+    "bibleId": "179568874c45066f-01",
+    "number": "111",
+    "bookId": "PSA",
+    "reference": "Psalms 111",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 10,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 111:1\" class=\"v\">1</span>Blessed is the man that feareth the Lord: he shall delight exceedingly in his commandments.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 111:2\" class=\"v\">2</span>His seed shall be mighty upon earth: the generation of the righteous shall be blessed.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 111:3\" class=\"v\">3</span>Glory and wealth shall be in his house: and his justice remaineth for ever and ever.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 111:4\" class=\"v\">4</span>To the righteous a light is risen up in darkness: he is merciful, and compassionate and just.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 111:5\" class=\"v\">5</span>Acceptable is the man that showeth mercy and lendeth: he shall order his words with judgment:</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 111:6\" class=\"v\">6</span>Because he shall not be moved for ever.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 111:7\" class=\"v\">7</span>The just shall be in everlasting remembrance: he shall not hear the evil hearing. His heart is ready to hope in the Lord:</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 111:8\" class=\"v\">8</span>His heart is strengthened, he shall not be moved until he look over his enemies.</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 111:9\" class=\"v\">9</span>He hath distributed, he hath given to the poor: his justice remaineth for ever and ever: his horn shall be exalted in glory.</p><p class=\"q1\"><span data-number=\"10\" data-sid=\"PSA 111:10\" class=\"v\">10</span>The wicked shall see, and shall be angry, he shall gnash with his teeth and pine away: the desire of the wicked shall perish.</p>",
+    "next": {
+      "id": "PSA.112",
+      "number": "112",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.110",
+      "number": "110",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzgBoIzTFfOihHVPo7Glvvyye7FGpGmCJCatw9LVd91tpxsegP_9ErRFra0FYRpoRgn-oHlQ25xEnARHtYK_3D-etwPAvsRC83i3kmtMpeQwD5EprTTFahnebW_YMSKCsLyDIxX0nvDHGbfuAhAdwWXAcjzA2gA_t2rGomkkscUSBVNqHSNs78qs520JgJzdp-pCnhiO2UtLZh0QKqyex_ujPkyLz0u_mOo5Z04HEerZzDvtwtLHOadLtgoO"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.13",
+    "bibleId": "179568874c45066f-01",
+    "number": "13",
+    "bookId": "PSA",
+    "reference": "Psalms 13",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 7,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 13:1\" class=\"v\">1</span>Unto the end, a psalm for David. The fool hath said in his heart: There is no God, They are corrupt, and are become abominable in their ways: there is none that doth good, no not one.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 13:2\" class=\"v\">2</span>The Lord hath looked down from heaven upon the children of men, to see if there be any that understand and seek God.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 13:3\" class=\"v\">3</span>They are all gone aside, they are become unprofitable together: there is none that doth good, no not one. Their throat is an open sepulchre: with their tongues they acted deceitfully; the poison of asps is under their lips. Their mouth is full of cursing and bitterness; their feet are swift to shed blood. Destruction and unhappiness in their ways: and the way of peace they have not known: there is no fear of God before their eyes.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 13:4\" class=\"v\">4</span>Shall not all they know that work iniquity, who devour my people as they eat bread?</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 13:5\" class=\"v\">5</span>They have not called upon the Lord: there have they trembled for fear, where there was no fear.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 13:6\" class=\"v\">6</span>For the Lord is in the just generation: you have confounded the counsel of the poor man, but the Lord is his hope.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 13:7\" class=\"v\">7</span>Who shall give out of Sion the salvation of Israel? when the Lord shall have turned away the captivity of his people, Jacob shall rejoice and Israel shall be glad.</p>",
+    "next": {
+      "id": "PSA.14",
+      "number": "14",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.12",
+      "number": "12",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBgBwHbqxlyoOgvZ5J0yl_-keS_-0q61pAgRprJEtXX-i8beBy3K24BPmCOJzdXru3OrPGDRqBbYySiEnzC7ftH8_bAbAvttRc3i2nEmLOyc99oBhXmtiKebrbbtgYdoDhHkKkoHfhjx2rdgFEAJw7JHNg9RsQkqgpaIojDjXkStF4pjFgexemPW9L8DF3T8QFmxhG5OmS2BFJYfU83l96p6mfO5mLXgZeaR9c1tM8C1pmvBLynsoFAw"
+  }
+}

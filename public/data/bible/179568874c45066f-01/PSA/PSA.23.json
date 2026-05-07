@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.23",
+    "bibleId": "179568874c45066f-01",
+    "number": "23",
+    "bookId": "PSA",
+    "reference": "Psalms 23",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 10,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 23:1\" class=\"v\">1</span>On the first day of the week, a psalm for David. The earth is the Lord’s and the fulness thereof: the world, and all they that dwell therein.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 23:2\" class=\"v\">2</span>For he hath founded it upon the seas; and hath prepared it upon the rivers.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 23:3\" class=\"v\">3</span>Who shall ascend into the mountain of the Lord: or who shall stand in his holy place?</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 23:4\" class=\"v\">4</span>The innocent in hands, and clean of heart, who hath not taken his soul in vain, nor sworn deceitfully to his neighbour.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 23:5\" class=\"v\">5</span>He shall receive a blessing from the Lord, and mercy from God his Saviour.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 23:6\" class=\"v\">6</span>This is the generation of them that seek him, of them that seek the face of the God of Jacob.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 23:7\" class=\"v\">7</span>Lift up your gates, O ye princes, and be ye lifted up, O eternal gates: and the King of Glory shall enter in.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 23:8\" class=\"v\">8</span>Who is this King of Glory? the Lord who is strong and mighty: the Lord mighty in battle.</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 23:9\" class=\"v\">9</span>Lift up your gates, O ye princes, and be ye lifted up, O eternal gates: and the King of Glory shall enter in.</p><p class=\"q1\"><span data-number=\"10\" data-sid=\"PSA 23:10\" class=\"v\">10</span>Who is this King of Glory? the Lord of hosts, he is the King of Glory.</p>",
+    "next": {
+      "id": "PSA.24",
+      "number": "24",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.22",
+      "number": "22",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzUBIBwHbqxlyoOgvZ5GY0t9-WX3Yo1I0wRJTJKlqy90nt4WFajWorb48h2O1-h-owt2kODwf8tJMlkId_Vf-sfzdgDsSyw4n3crucZUSg7zEJnSSlOsnq-77Q07xnnAfoQjFSSf-OPMrbsAogNchjTHgGsRcHRJM2qmkcQWSxMOxjAGbO_arOdtCUTOnlR9wSeGMXy2hDaBUGH1PN6_VQiLeSlpOdXV16kOC7qCckuVzS3kHFfE"
+  }
+}

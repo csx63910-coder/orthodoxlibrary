@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "TIT.1",
+    "bibleId": "179568874c45066f-01",
+    "number": "1",
+    "bookId": "TIT",
+    "reference": "Titus 1",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 16,
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"TIT 1:1\" class=\"v\">1</span>Paul, a servant of God, and an apostle of Jesus Christ, according to the faith of the elect of God and the acknowledging of the truth, which is according to godliness: <span data-number=\"2\" data-sid=\"TIT 1:2\" class=\"v\">2</span>Unto the hope of life everlasting, which God, who lieth not, hath promised before the times of the world: <span data-number=\"3\" data-sid=\"TIT 1:3\" class=\"v\">3</span>But hath in due times manifested his word in preaching, which is committed to me according to the commandment of God our Saviour: <span data-number=\"4\" data-sid=\"TIT 1:4\" class=\"v\">4</span>To Titus my beloved son, according to the common faith, grace and peace from God the Father, and from Christ Jesus our Saviour. <span data-number=\"5\" data-sid=\"TIT 1:5\" class=\"v\">5</span>For this cause I left thee in Crete, that thou shouldest set in order the things that are wanting, and shouldest ordain priests in every city, as I also appointed thee: <span data-number=\"6\" data-sid=\"TIT 1:6\" class=\"v\">6</span>If any be without crime, the husband of one wife, having faithful children, not accused of riot, or unruly. <span data-number=\"7\" data-sid=\"TIT 1:7\" class=\"v\">7</span>For a bishop must be without crime, as the steward of God: not proud, not subject to anger, not given to wine, no striker, not greedy of filthy lucre: <span data-number=\"8\" data-sid=\"TIT 1:8\" class=\"v\">8</span>But given to hospitality, gentle, sober, just, holy, continent: <span data-number=\"9\" data-sid=\"TIT 1:9\" class=\"v\">9</span>Embracing that faithful word which is according to doctrine, that he may be able to exhort in sound doctrine, and to convince the gainsayers. <span data-number=\"10\" data-sid=\"TIT 1:10\" class=\"v\">10</span>For there are also many disobedient, vain talkers, and seducers: especially they who are of the circumcision: <span data-number=\"11\" data-sid=\"TIT 1:11\" class=\"v\">11</span>Who must be reproved, who subvert whole houses, teaching things which they ought not, for filthy lucre’s sake. <span data-number=\"12\" data-sid=\"TIT 1:12\" class=\"v\">12</span>One of them a prophet of their own, said, The Cretians are always liars, evil beasts, slothful bellies. <span data-number=\"13\" data-sid=\"TIT 1:13\" class=\"v\">13</span>This testimony is true. Wherefore rebuke them sharply, that they may be sound in the faith; <span data-number=\"14\" data-sid=\"TIT 1:14\" class=\"v\">14</span>Not giving heed to Jewish fables and commandments of men, who turn themselves away from the truth. <span data-number=\"15\" data-sid=\"TIT 1:15\" class=\"v\">15</span>All things are clean to the clean: but to them that are defiled, and to unbelievers, nothing is clean: but both their mind and their conscience are defiled. <span data-number=\"16\" data-sid=\"TIT 1:16\" class=\"v\">16</span>They profess that they know God: but in their works they deny him; being abominable, and incredulous, and to every good work reprobate.</p>",
+    "next": {
+      "id": "TIT.2",
+      "number": "2",
+      "bookId": "TIT"
+    },
+    "previous": {
+      "id": "TIT.intro",
+      "number": "intro",
+      "bookId": "TIT"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzIBYBwHbqxlyoOgvZ6GcykfXcgVSLj5qr0CgmTp6gudtw1cjrtVlziOEI1e3cbtrc60MQuC_1tOkskouPrv0j-etwNgX2KxebxbyTWmUnKYh8iUVppi1TzcbR-6EcDwDEcq6N3wx47dsACiAJxbJOuAagD_9l4zaqYuqTG1ICZXjoDtXZfxvC2Bx9o91RZ8YhhxZ0teE0hSWD2P9yf9zsPUudWs6pVj0UHmKz31bq6XDLPZlIUeS8Q"
+  }
+}

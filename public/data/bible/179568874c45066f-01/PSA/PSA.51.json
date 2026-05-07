@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.51",
+    "bibleId": "179568874c45066f-01",
+    "number": "51",
+    "bookId": "PSA",
+    "reference": "Psalms 51",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 11,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 51:1\" class=\"v\">1</span>Unto the end, understanding for David,</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 51:2\" class=\"v\">2</span>When Doeg the Edomite came and told Saul David went to the house of Achimelech. [1 Kings 22]</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 51:3\" class=\"v\">3</span>Why dost thou glory in malice, thou that art mighty in iniquity?</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 51:4\" class=\"v\">4</span>All the day long thy tongue hath devised injustice: as a sharp razor, thou hast wrought deceit.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 51:5\" class=\"v\">5</span>Thou hast loved malice more than goodness: and iniquity rather than to speak righteousness.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 51:6\" class=\"v\">6</span>Thou hast loved all the words of ruin, O deceitful tongue.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 51:7\" class=\"v\">7</span>Therefore will God destroy thee for ever: he will pluck thee out, and remove thee from thy dwelling place: and thy root out of the land of the living.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 51:8\" class=\"v\">8</span>The just shall see and fear, and shall laugh at him, and say:</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 51:9\" class=\"v\">9</span>Behold the man that made not God his helper: But trusted in the abundance of his riches: and prevailed in his vanity.</p><p class=\"q1\"><span data-number=\"10\" data-sid=\"PSA 51:10\" class=\"v\">10</span>But I, as a fruitful olive tree in the house of God, have hoped in the mercy of God for ever, yea for ever and ever.</p><p class=\"q1\"><span data-number=\"11\" data-sid=\"PSA 51:11\" class=\"v\">11</span>I will praise thee for ever, because thou hast done it: and I will wait on thy name, for it is good in the sight of thy saints.</p>",
+    "next": {
+      "id": "PSA.52",
+      "number": "52",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.50",
+      "number": "50",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzUBoIzTFfOihHUPAjom-fFX23CWtFFUtA5LV9-3DVyOuxWXIF8QR7Pb6vdWZ9qYNYI6dRIxmUzQ5K_ln-ftAPTLamge79rmGlMpOcxDNCmtpLFay9Nd94YdFS0xO8IZI5C74c-KXXcBIgjnBsl8oOrg395LE6VJIxtbLM15lYsbE9u7Lv15WwKPtXOiLdjEcASeLoEtYK1g9Tzen_SxzIuQF6sqVzNvZCiLIuvMe2nmZS6rPDVuzgE"
+  }
+}

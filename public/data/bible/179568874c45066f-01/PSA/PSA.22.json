@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.22",
+    "bibleId": "179568874c45066f-01",
+    "number": "22",
+    "bookId": "PSA",
+    "reference": "Psalms 22",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 6,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 22:1\" class=\"v\">1</span>A psalm for David. The Lord ruleth me: and I shall want nothing.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 22:2\" class=\"v\">2</span>He hath set me in a place of pasture. He hath brought me up, on the water of refreshment:</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 22:3\" class=\"v\">3</span>He hath converted my soul. He hath led me on the paths of justice, for his own name’s sake.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 22:4\" class=\"v\">4</span>For though I should walk in the midst of the shadow of death, I will fear no evils, for thou art with me. Thy rod and thy staff, they have comforted me.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 22:5\" class=\"v\">5</span>Thou hast prepared a table before me against them that afflict me. Thou hast anointed my head with oil; and my chalice which inebriateth me, how goodly is it!</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 22:6\" class=\"v\">6</span>And thy mercy will follow me all the days of my life. And that I may dwell in the house of the Lord unto length of days.</p>",
+    "next": {
+      "id": "PSA.23",
+      "number": "23",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.21",
+      "number": "21",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBYBwHbqxlyoOgvZ6FY0v98uRl3og0TZDEJFm6-kLnbQOX427FJTieOJy-6LV7qzNr3KAR2MaoKGIyv3Db_vG8HQD_Yo_N5d1zrjGVksM8REppZYm9mqe77w07TgQw3UOIDARP_LFk1V0A6YDgFqkYYP0GhCRZipbSiGOLpVF1JcoYsL0rU8_bEoDMHRR1wSaOEXq6RHZEMlg9j_ef3hKtpvMck5XFYmpDmWY7nc-zlbSKZG2pc84Y"
+  }
+}

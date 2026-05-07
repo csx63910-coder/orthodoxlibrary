@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.20",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "20",
+    "bookId": "PSA",
+    "reference": "Psalms 20",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 9,
+    "content": "<p class=\"d\">For the Chief Musician. A Psalm by David.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 20:1\" class=\"v\">1</span>May Yahweh answer you in the day of trouble.</p><p data-vid=\"PSA 20:1\" class=\"q2\">May the name of the God of Jacob set you up on high,</p><p class=\"q2\"><span data-number=\"2\" data-sid=\"PSA 20:2\" class=\"v\">2</span>send you help from the sanctuary,</p><p data-vid=\"PSA 20:2\" class=\"q2\">grant you support from Zion,</p><p class=\"q2\"><span data-number=\"3\" data-sid=\"PSA 20:3\" class=\"v\">3</span>remember all your offerings,</p><p data-vid=\"PSA 20:3\" class=\"q2\">and accept your burned sacrifice. <span class=\"qs\">Selah.</span></p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 20:4\" class=\"v\">4</span>May he grant you your heart’s desire,</p><p data-vid=\"PSA 20:4\" class=\"q2\">and fulfill all your counsel.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 20:5\" class=\"v\">5</span>We will triumph in your salvation.</p><p data-vid=\"PSA 20:5\" class=\"q2\">In the name of our God, we will set up our banners.</p><p data-vid=\"PSA 20:5\" class=\"q2\">May Yahweh grant all your requests.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 20:6\" class=\"v\">6</span>Now I know that Yahweh saves his anointed.</p><p data-vid=\"PSA 20:6\" class=\"q2\">He will answer him from his holy heaven,</p><p data-vid=\"PSA 20:6\" class=\"q2\">with the saving strength of his right hand.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 20:7\" class=\"v\">7</span>Some trust in chariots, and some in horses,</p><p data-vid=\"PSA 20:7\" class=\"q2\">but we trust in the name of Yahweh our God.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 20:8\" class=\"v\">8</span>They are bowed down and fallen,</p><p data-vid=\"PSA 20:8\" class=\"q2\">but we rise up, and stand upright.</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 20:9\" class=\"v\">9</span>Save, Yahweh!</p><p data-vid=\"PSA 20:9\" class=\"q2\">Let the King answer us when we call!</p>",
+    "next": {
+      "id": "PSA.21",
+      "number": "21",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.19",
+      "number": "19",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBIBwHbqxlyoOgvR4EdEzy46-24Sxpo6hIlq6-0HnbxOWbjrEtVxBBJ4KI35jt3urMPN0g6HfFn5IOScT-eLPHP8_bAfTLanA-77qWXBezWZ6vlr4uw0Iaq_W07ro37ChnwP5EkvGSQ_5zzK67gGjA3SKtPnCt8HeLNLGzNLKxBTMWFWMeg-1dm_G8LUFk7UrVF-PEKIEvLKGdqYLV83h_1TWkVOZTu5J-ufQylOGlxrCU1q_mvhaXptkx"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "ECC.6",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "6",
+    "bookId": "ECC",
+    "reference": "Ecclesiastes 6",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 12,
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"ECC 6:1\" class=\"v\">1</span>There is an evil which I have seen under the sun, and it is heavy on men: <span data-number=\"2\" data-sid=\"ECC 6:2\" class=\"v\">2</span>a man to whom God gives riches, wealth, and honor, so that he lacks nothing for his soul of all that he desires, yet God gives him no power to eat of it, but an alien eats it. This is vanity, and it is an evil disease.</p><p class=\"p\"><span data-number=\"3\" data-sid=\"ECC 6:3\" class=\"v\">3</span>If a man fathers a hundred children, and lives many years, so that the days of his years are many, but his soul is not filled with good, and moreover he has no burial, I say that a stillborn child is better than he; <span data-number=\"4\" data-sid=\"ECC 6:4\" class=\"v\">4</span>for it comes in vanity, and departs in darkness, and its name is covered with darkness. <span data-number=\"5\" data-sid=\"ECC 6:5\" class=\"v\">5</span>Moreover it has not seen the sun nor known it. This has rest rather than the other. <span data-number=\"6\" data-sid=\"ECC 6:6\" class=\"v\">6</span>Yes, though he live a thousand years twice told, and yet fails to enjoy good, don’t all go to one place? <span data-number=\"7\" data-sid=\"ECC 6:7\" class=\"v\">7</span>All the labor of man is for his mouth, and yet the appetite is not filled. <span data-number=\"8\" data-sid=\"ECC 6:8\" class=\"v\">8</span>For what advantage has the wise more than the fool? What has the poor man, that knows how to walk before the living? <span data-number=\"9\" data-sid=\"ECC 6:9\" class=\"v\">9</span>Better is the sight of the eyes than the wandering of the desire. This also is vanity and a chasing after wind. <span data-number=\"10\" data-sid=\"ECC 6:10\" class=\"v\">10</span>Whatever has been, its name was given long ago; and it is known what man is; neither can he contend with him who is mightier than he. <span data-number=\"11\" data-sid=\"ECC 6:11\" class=\"v\">11</span>For there are many words that create vanity. What does that profit man? <span data-number=\"12\" data-sid=\"ECC 6:12\" class=\"v\">12</span>For who knows what is good for man in life, all the days of his vain life which he spends like a shadow? For who can tell a man what will be after him under the sun?</p>",
+    "next": {
+      "id": "ECC.7",
+      "number": "7",
+      "bookId": "ECC"
+    },
+    "previous": {
+      "id": "ECC.5",
+      "number": "5",
+      "bookId": "ECC"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzIBABwHbqxlyoOgvR4ENDZTv_zmFe8kSCK6JUtXX-isu-10UP5_-i7HthaEaaAZJfgAy4P_W06SySK4-u_Sf173I-i31eQ8PnQtuS7n87xYr3xdhaU0Vgt6eOhep6MSmJ9xxggk7_yzZjdaQlTg3CXZBq0Fvu69NFGaNLaxhdxsVTHGCdg9pBmv-wpC1k6qvOBTwwg9WyGbYJ1g_To9XvXBWLtI65mVdRZnMixykdWFIPNiVsJ8Xk0tBAM"
+  }
+}

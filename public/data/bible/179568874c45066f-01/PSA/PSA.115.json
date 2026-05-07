@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.115",
+    "bibleId": "179568874c45066f-01",
+    "number": "115",
+    "bookId": "PSA",
+    "reference": "Psalms 115",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 10,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 115:1\" class=\"v\">1</span>I have believed, therefore have I spoken; but I have been humbled exceedingly.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 115:2\" class=\"v\">2</span>I said in my excess: Every man is a liar.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 115:3\" class=\"v\">3</span>What shall I render to the Lord, for all the things he hath rendered unto me?</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 115:4\" class=\"v\">4</span>I will take the chalice of salvation; and I will call upon the name of the Lord.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 115:5\" class=\"v\">5</span>I will pay my vows to the Lord before all his people:</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 115:6\" class=\"v\">6</span>Precious in the sight of the Lord is the death of his saints.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 115:7\" class=\"v\">7</span>O Lord, for I am thy servant: I am thy servant, and the son of thy handmaid. Thou hast broken my bonds:</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 115:8\" class=\"v\">8</span>I will sacrifice to thee the sacrifice of praise, and I will call upon the name of the Lord.</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 115:9\" class=\"v\">9</span>I will pay my vows to the Lord in the sight of all his people:</p><p class=\"q1\"><span data-number=\"10\" data-sid=\"PSA 115:10\" class=\"v\">10</span>In the courts of the house of the Lord, in the midst of thee, O Jerusalem.</p>",
+    "next": {
+      "id": "PSA.116",
+      "number": "116",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.114",
+      "number": "114",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzgBIIzTFfOihHXP37tU-a8hCXmBcOcq66Zq1VijdVi6-q677XTDA_C_X4K0tbUgTAPNKMGfsiD4v-UkmWSCq__O_eN5OwDiSyI4n_cotVFzr2VeNJmtOEnUM7zH3rATRBRhwQo5JYLmA_7Yc-ouANEQXJos-wOwFfB7Cyet1EairXpkwSSPEbZ3debztgRI9m6qwpAnhmP-0pJbByQRVs_j_WFPvjJJZT7jprpxmWXj2diN3astUqqLLFMc"
+  }
+}

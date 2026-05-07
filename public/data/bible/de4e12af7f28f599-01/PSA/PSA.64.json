@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.64",
+    "bibleId": "de4e12af7f28f599-01",
+    "number": "64",
+    "bookId": "PSA",
+    "reference": "Psalms 64",
+    "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+    "verseCount": 10,
+    "content": "<p class=\"d\">To the chief Musician, A Psalm of David.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 64:1\" class=\"v\">1</span>Hear my voice, O God, in my prayer: preserve my life from fear of the enemy.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 64:2\" class=\"v\">2</span>Hide me from the secret counsel of the wicked; from the insurrection of the workers of iniquity:</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 64:3\" class=\"v\">3</span>Who whet their tongue like a sword, <span class=\"add\">and</span> bend <span class=\"add\">their bows to shoot</span> their arrows, <span class=\"add\">even</span> bitter words:</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 64:4\" class=\"v\">4</span>That they may shoot in secret at the perfect: suddenly do they shoot at him, and fear not.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 64:5\" class=\"v\">5</span>They encourage themselves <span class=\"add\">in</span> an evil matter: they commune of laying snares privily; they say, Who shall see them?</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 64:6\" class=\"v\">6</span>They search out iniquities; they accomplish a diligent search: both the inward <span class=\"add\">thought</span> of every one <span class=\"add\">of them</span>, and the heart, <span class=\"add\">is</span> deep.</p><p class=\"b\"></p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 64:7\" class=\"v\">7</span>But God shall shoot at them <span class=\"add\">with</span> an arrow; suddenly shall they be wounded.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 64:8\" class=\"v\">8</span>So they shall make their own tongue to fall upon themselves: all that see them shall flee away.</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 64:9\" class=\"v\">9</span>And all men shall fear, and shall declare the work of God; for they shall wisely consider of his doing.</p><p class=\"q1\"><span data-number=\"10\" data-sid=\"PSA 64:10\" class=\"v\">10</span>The righteous shall be glad in the <span class=\"nd\">LORD</span>, and shall trust in him; and all the upright in heart shall glory.</p>",
+    "next": {
+      "id": "PSA.65",
+      "number": "65",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.63",
+      "number": "63",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzUBYIzTFfOihHUPAjom-fFX23CWtFFUtA5LV9-3DVyOuxWXIF8QR7PTaNze6kwbs05Qt3pJSnnD1c6Vf563A9Avq7F5vOvFMiytm67yypVVrFUaq9U83XVv2FEpENMznDECwRv-LNl1FyCCcG6RygesDn7uvTRRmjSysfnQQlU2uzGxvSvTn7clAFk7KOqCTQxH6OkS2QLWCFbP4_1Rg5865xf5KW0McxkWJctZrF6WtDLTaVnVeZlz"
+  }
+}

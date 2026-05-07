@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.62",
+    "bibleId": "179568874c45066f-01",
+    "number": "62",
+    "bookId": "PSA",
+    "reference": "Psalms 62",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 12,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 62:1\" class=\"v\">1</span>A psalm of David when he was in the desert of Edom.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 62:2\" class=\"v\">2</span>O God, my God, to thee do I watch at break of day. For thee my soul hath thirsted; for thee my flesh, O how many ways!</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 62:3\" class=\"v\">3</span>In a desert land, and where there is no way, and no water: so in the sanctuary have I come before thee, to see thy power and thy glory.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 62:4\" class=\"v\">4</span>For thy mercy is better than lives: thee my lips shall praise.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 62:5\" class=\"v\">5</span>Thus will I bless thee all my life long: and in thy name I will lift up my hands.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 62:6\" class=\"v\">6</span>Let my soul be filled as with marrow and fatness: and my mouth shall praise thee with joyful lips.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 62:7\" class=\"v\">7</span>If I have remembered thee upon my bed, I will meditate on thee in the morning:</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 62:8\" class=\"v\">8</span>Because thou hast been my helper. And I will rejoice under the covert of thy wings:</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 62:9\" class=\"v\">9</span>My soul hath stuck close to thee: thy right hand hath received me.</p><p class=\"q1\"><span data-number=\"10\" data-sid=\"PSA 62:10\" class=\"v\">10</span>But they have sought my soul in vain, they shall go into the lower parts of the earth:</p><p class=\"q1\"><span data-number=\"11\" data-sid=\"PSA 62:11\" class=\"v\">11</span>They shall be delivered into the hands of the sword, they shall be the portions of foxes.</p><p class=\"q1\"><span data-number=\"12\" data-sid=\"PSA 62:12\" class=\"v\">12</span>But the king shall rejoice in God, all they shall be praised that swear by him: because the mouth is stopped of them that speak wicked things.</p>",
+    "next": {
+      "id": "PSA.63",
+      "number": "63",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.61",
+      "number": "61",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzUBYBwHbqxlyoOgvZ5Zayq_-niSvfy7yjpUrQKCZOnqC52nt0WBci1qC6wFYfYd9EYX7KDfDgfbGBVFTOYXbu0fz9sBiK8csbm8x1wbpVmVuWgiVz7lqObpHnvDTmABTM8oKTkInvhjya67ANIBwS1SMcD6DZRU6JP6xFHWVq0tFjTJGLC9K1PP2xKArB0UdcEmjhF6ukS2QS4Oq-fx_tQbyZWsFtWn-XzmZUXztsjVN_OpLG3My9mSGA"
+  }
+}

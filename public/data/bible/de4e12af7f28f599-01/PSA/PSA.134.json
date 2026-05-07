@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.134",
+    "bibleId": "de4e12af7f28f599-01",
+    "number": "134",
+    "bookId": "PSA",
+    "reference": "Psalms 134",
+    "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+    "verseCount": 3,
+    "content": "<p class=\"d\">A Song of degrees.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 134:1\" class=\"v\">1</span>Behold, bless ye the <span class=\"nd\">LORD</span>, all <span class=\"add\">ye</span> servants of the <span class=\"nd\">LORD</span>, which by night stand in the house of the <span class=\"nd\">LORD</span>.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 134:2\" class=\"v\">2</span>Lift up your hands <span class=\"add\">in</span> the sanctuary, and bless the <span class=\"nd\">LORD</span>.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 134:3\" class=\"v\">3</span>The <span class=\"nd\">LORD</span> that made heaven and earth bless thee out of Zion.</p>",
+    "next": {
+      "id": "PSA.135",
+      "number": "135",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.133",
+      "number": "133",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzcBoBwHbqxlyoOgvR4EdEzy46-24Sxpo6hIlq6-0Fl32-mGB-B_vwRp-9aCMM3ijBLsoG3B_y0nyaSscPXfXf88bwfQL6uhebzrxTIsrZuu8sqVVaxVGqu1DO-6N-wo6wMYnnHGCPTu_Nlx6i4gKnBpsGwDVoefW6SJRdLIxuZD51Qqbgy2d2XG87YEkL17qi7kiWHMXloyu-IFq-fx_qb_NCt2MZ_N5TIsnAzzaZG1Vi-rdzaXXGbungE"
+  }
+}

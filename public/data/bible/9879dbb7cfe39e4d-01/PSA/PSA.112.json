@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.112",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "112",
+    "bookId": "PSA",
+    "reference": "Psalms 112",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 10,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 112:1\" class=\"v\">1</span>Praise Yah!</p><p data-vid=\"PSA 112:1\" class=\"q2\">Blessed is the man who fears Yahweh,</p><p data-vid=\"PSA 112:1\" class=\"q2\">who delights greatly in his commandments.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 112:2\" class=\"v\">2</span>His offspring will be mighty in the land.</p><p data-vid=\"PSA 112:2\" class=\"q2\">The generation of the upright will be blessed.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 112:3\" class=\"v\">3</span>Wealth and riches are in his house.</p><p data-vid=\"PSA 112:3\" class=\"q2\">His righteousness endures forever.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 112:4\" class=\"v\">4</span>Light dawns in the darkness for the upright,</p><p data-vid=\"PSA 112:4\" class=\"q2\">gracious, merciful, and righteous.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 112:5\" class=\"v\">5</span>It is well with the man who deals graciously and lends.</p><p data-vid=\"PSA 112:5\" class=\"q2\">He will maintain his cause in judgment.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 112:6\" class=\"v\">6</span>For he will never be shaken.</p><p data-vid=\"PSA 112:6\" class=\"q2\">The righteous will be remembered forever.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 112:7\" class=\"v\">7</span>He will not be afraid of evil news.</p><p data-vid=\"PSA 112:7\" class=\"q2\">His heart is steadfast, trusting in Yahweh.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 112:8\" class=\"v\">8</span>His heart is established.</p><p data-vid=\"PSA 112:8\" class=\"q2\">He will not be afraid in the end when he sees his adversaries.</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 112:9\" class=\"v\">9</span>He has dispersed, he has given to the poor.</p><p data-vid=\"PSA 112:9\" class=\"q2\">His righteousness endures forever.</p><p data-vid=\"PSA 112:9\" class=\"q2\">His horn will be exalted with honor.</p><p class=\"q1\"><span data-number=\"10\" data-sid=\"PSA 112:10\" class=\"v\">10</span>The wicked will see it, and be grieved.</p><p data-vid=\"PSA 112:10\" class=\"q2\">He shall gnash with his teeth, and melt away.</p><p data-vid=\"PSA 112:10\" class=\"q2\">The desire of the wicked will perish.</p>",
+    "next": {
+      "id": "PSA.113",
+      "number": "113",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.111",
+      "number": "111",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzgBYIzTFfOihHUPAjom-fFX23CWtFFUtA5LV991t51ueAD-90uQtrYWhGmgGSX4Q9wW1DYnESdBJ63gL_fP83YA-mU1Np93XUuui9ksz1dLX5dhIY3VaoZ33Rt2lLWOWF_hjBEoPvDnlFN3AaIRLiOW_YFrBX-3SBOLppGNLaTIq1zLmNjetZnP2xKI7N2o-kKeGI7pS0tqHVgjWD2P92fdQ6nTklOSi4VfyLAs_aWYMJfztAixzLK1ecoB"
+  }
+}

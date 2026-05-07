@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.150",
+    "bibleId": "179568874c45066f-01",
+    "number": "150",
+    "bookId": "PSA",
+    "reference": "Psalms 150",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 6,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 150:1\" class=\"v\">1</span>Praise ye the Lord in his holy places: praise ye him in the firmament of his power.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 150:2\" class=\"v\">2</span>Praise ye him for his mighty acts: praise ye him according to the multitude of his greatness.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 150:3\" class=\"v\">3</span>Praise him with sound of trumpet: praise him with psaltery and harp.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 150:4\" class=\"v\">4</span>Praise him with timbrel and choir: praise him with strings and organs.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 150:5\" class=\"v\">5</span>Praise him on high sounding cymbals: praise him on cymbals of joy: <span data-number=\"6\" data-sid=\"PSA 150:6\" class=\"v\">6</span>let every spirit praise the Lord. Alleluia.</p>",
+    "next": {
+      "id": "PRO.intro",
+      "number": "intro",
+      "bookId": "PRO"
+    },
+    "previous": {
+      "id": "PSA.149",
+      "number": "149",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzcBABwHbqxlyoOgvZ6FY0v98uRl3og0TZDEJFm6-kJn3W2ng_K_Xw73by0I06g4owQLsLagbjhJJmUQ6s_2j-ftAPgXe3Ie755zjamUHOYhUkorS-wFPd59b9hxHAkwoYUQGYhe8MegVXcBRAI4d2nmgdgA3vfeUrSURhxbrI2jU-IxYHuXpz5vS1Ayt1QkBp8YRgDaEtwRyWD1PN4P-6kiGqfLYKcUyYbMS1t5lW0JUvahcFrNCgY"
+  }
+}

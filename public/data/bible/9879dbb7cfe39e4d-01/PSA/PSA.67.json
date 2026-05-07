@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.67",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "67",
+    "bookId": "PSA",
+    "reference": "Psalms 67",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 7,
+    "content": "<p class=\"d\">For the Chief Musician. With stringed instruments. A Psalm. A song.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 67:1\" class=\"v\">1</span>May God be merciful to us, bless us,</p><p data-vid=\"PSA 67:1\" class=\"q2\">and cause his face to shine on us. <span class=\"qs\">Selah.</span></p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 67:2\" class=\"v\">2</span>That your way may be known on earth,</p><p data-vid=\"PSA 67:2\" class=\"q2\">and your salvation among all nations,</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 67:3\" class=\"v\">3</span>let the peoples praise you, God.</p><p data-vid=\"PSA 67:3\" class=\"q2\">Let all the peoples praise you.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 67:4\" class=\"v\">4</span>Oh let the nations be glad and sing for joy,</p><p data-vid=\"PSA 67:4\" class=\"q2\">for you will judge the peoples with equity,</p><p data-vid=\"PSA 67:4\" class=\"q2\">and govern the nations on earth. <span class=\"qs\">Selah.</span></p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 67:5\" class=\"v\">5</span>Let the peoples praise you, God.</p><p data-vid=\"PSA 67:5\" class=\"q2\">Let all the peoples praise you.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 67:6\" class=\"v\">6</span>The earth has yielded its increase.</p><p data-vid=\"PSA 67:6\" class=\"q2\">God, even our own God, will bless us.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 67:7\" class=\"v\">7</span>God will bless us.</p><p data-vid=\"PSA 67:7\" class=\"q2\">All the ends of the earth shall fear him.</p>",
+    "next": {
+      "id": "PSA.68",
+      "number": "68",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.66",
+      "number": "66",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBIIzTFfOihHUPAjom-fFX23CWtFFUtA5LV9-3DVyOuxWXIF8QR7Pba_dWZxY_ouD_lpNksii4-u-Wf563A9Avq8H5vOtacl3MZnm-Wvq6DAtprNZzd9e9YUelTMy3cMYIJC_4s2bWXYAIwrlJMh-4Ovi779JEadLIxhZSc065GsbE9q5Nfd6WQGTspOgLNjEcwadLaHtkwep5vL_qwK-cq9FO5TSXIEOYL4qLWKysNfm5WZaZy0sO"
+  }
+}

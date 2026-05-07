@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.3",
+    "bibleId": "de4e12af7f28f599-01",
+    "number": "3",
+    "bookId": "PSA",
+    "reference": "Psalms 3",
+    "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+    "verseCount": 8,
+    "content": "<p class=\"d\">A Psalm of David, when he fled from Absalom his son.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 3:1\" class=\"v\">1</span><span class=\"nd\">LORD</span>, how are they increased that trouble me! many <span class=\"add\">are</span> they that rise up against me.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 3:2\" class=\"v\">2</span>Many <span class=\"add\">there be</span> which say of my soul, <span class=\"add\">There is</span> no help for him in God. Selah.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 3:3\" class=\"v\">3</span>But thou, O <span class=\"nd\">LORD</span>, <span class=\"add\">art</span> a shield for me; my glory, and the lifter up of mine head.</p><p class=\"b\"></p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 3:4\" class=\"v\">4</span>I cried unto the <span class=\"nd\">LORD</span> with my voice, and he heard me out of his holy hill. Selah.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 3:5\" class=\"v\">5</span>I laid me down and slept; I awaked; for the <span class=\"nd\">LORD</span> sustained me.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 3:6\" class=\"v\">6</span>I will not be afraid of ten thousands of people, that have set <span class=\"add\">themselves</span> against me round about.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 3:7\" class=\"v\">7</span>Arise, O <span class=\"nd\">LORD</span>; save me, O my God: for thou hast smitten all mine enemies <span class=\"add\">upon</span> the cheek bone; thou hast broken the teeth of the ungodly.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 3:8\" class=\"v\">8</span>Salvation <span class=\"add\">belongeth</span> unto the <span class=\"nd\">LORD</span>: thy blessing <span class=\"add\">is</span> upon thy people. Selah.</p>",
+    "next": {
+      "id": "PSA.4",
+      "number": "4",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.2",
+      "number": "2",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzEBYBwHbqxlyoOgvR4EdEzy46-24Sxpo6hIlq6-0Fl32-mg_P_0HeRbC8I0yjNKsCBuBXWyYGaSDOHP8s_zdgD9shqbz7teLMPSuukqr1xZxVqlsVrNzV33hh3lwXCLM0agd-HPjll3AZlAcItUHqgG_O27NFGaNLKx-dCcUTa4MdjedanP2xI8xu6ptuATx4g7W_LaUwSr5_FuR1bTVFbLhZE2zLMMdreS0-yWsvqpzX61mM9SZA"
+  }
+}

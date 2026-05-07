@@ -1,0 +1,153 @@
+{
+  "translation": {
+    "id": "srp_onstl",
+    "name": "Biblica® Novi srpski prevod, slobodna prava",
+    "website": "https://ebible.org/Scriptures/details.php?id=srponstl",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=srponstl",
+    "shortName": "ONSTL",
+    "englishName": "Serbian ONST Latin",
+    "language": "srp",
+    "textDirection": "ltr",
+    "sha256": "a8a96f250d352b1203b94cae20463b53a387d4852f335065e74400234976e767",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/srp_onstl/books.json",
+    "completeTranslationApiLink": "/api/srp_onstl/complete.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31102,
+    "languageName": "српски",
+    "languageEnglishName": "Serbian"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "srp_onstl",
+    "name": "Psalam",
+    "commonName": "Psalam",
+    "title": "Psalmi",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "c6f7504dab6884191b78dc06d3be4895eca6e432bb5bba347779cdd7d9f9c58d",
+    "firstChapterNumber": 1,
+    "firstChapterApiLink": "/api/srp_onstl/PSA/1.json",
+    "lastChapterNumber": 150,
+    "lastChapterApiLink": "/api/srp_onstl/PSA/150.json",
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 70,
+    "content": [
+      {
+        "type": "hebrew_subtitle",
+        "content": [
+          "Horovođi. Davidov. Za spomen."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Bože, izbavi me! U pomoć mi požuri, Gospode!",
+            "poem": 1
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Neka se postide,",
+            "poem": 1
+          },
+          {
+            "text": "neka se osramote ti što mi o glavi rade.",
+            "poem": 2
+          },
+          {
+            "text": "Neka se povuku u sramoti,",
+            "poem": 1
+          },
+          {
+            "text": "neka budu poniženi ti što im je mila nevolja moja.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Nek ustuknu zbog sramote svoje",
+            "poem": 1
+          },
+          {
+            "text": "ti što dovikuju: „Aha! Aha!“",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Nek likuju i nek se raduju u tebi",
+            "poem": 1
+          },
+          {
+            "text": "svi koji te traže;",
+            "poem": 2
+          },
+          {
+            "text": "neka uvek govore oni što spasenje tvoje vole:",
+            "poem": 1
+          },
+          {
+            "text": "„Velik je Bog!“",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "A ja sam siromah i ubog,",
+            "poem": 1
+          },
+          {
+            "text": "Bože, požuri k meni.",
+            "poem": 2
+          },
+          {
+            "text": "Ti si moja pomoć i moj izbavitelj.",
+            "poem": 1
+          },
+          {
+            "text": "O, Gospode, ne oklevaj!",
+            "poem": 2
+          }
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/srp_onstl/PSA/70.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/srp_onstl/PSA/71.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/srp_onstl/PSA/69.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 5
+}

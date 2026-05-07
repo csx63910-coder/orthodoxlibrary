@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.15",
+    "bibleId": "de4e12af7f28f599-01",
+    "number": "15",
+    "bookId": "PSA",
+    "reference": "Psalms 15",
+    "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+    "verseCount": 5,
+    "content": "<p class=\"d\">A Psalm of David.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 15:1\" class=\"v\">1</span><span class=\"nd\">LORD</span>, who shall abide in thy tabernacle? who shall dwell in thy holy hill?</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 15:2\" class=\"v\">2</span>He that walketh uprightly, and worketh righteousness, and speaketh the truth in his heart.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 15:3\" class=\"v\">3</span><span class=\"add\">He that</span> backbiteth not with his tongue, nor doeth evil to his neighbour, nor taketh up a reproach against his neighbour.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 15:4\" class=\"v\">4</span>In whose eyes a vile person is contemned; but he honoureth them that fear the <span class=\"nd\">LORD</span>. <span class=\"add\">He that</span> sweareth to <span class=\"add\">his own</span> hurt, and changeth not.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 15:5\" class=\"v\">5</span><span class=\"add\">He that</span> putteth not out his money to usury, nor taketh reward against the innocent. He that doeth these <span class=\"add\">things</span> shall never be moved.</p>",
+    "next": {
+      "id": "PSA.16",
+      "number": "16",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.14",
+      "number": "14",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBYIzTFfOihHXPwLWlfnnm7SNNE6QZrq3D0tV33W2ng_K_07fD8dsXhGkWZ5RgAZYHtilNIk6ub-HS7R_P2wHAX5Jj83jnrZsuVV75lQorGyMVkqt5uvPxbGDSIkz3oIQgELzCH0tWowaIRHBukSwPsAbg595TYalwc2mTNkk5JqRfIGzvyrTnrQMgcwdFXbCl4Qg97ciOYAlWz-P9TR9yEyIaX6n0eUWNk5nGVda0a-GCXSm7KjgO"
+  }
+}

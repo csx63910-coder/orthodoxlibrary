@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.150",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "150",
+    "bookId": "PSA",
+    "reference": "Psalms 150",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 6,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 150:1\" class=\"v\">1</span>Praise Yah!</p><p data-vid=\"PSA 150:1\" class=\"q2\">Praise God in his sanctuary!</p><p data-vid=\"PSA 150:1\" class=\"q2\">Praise him in his heavens for his acts of power!</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 150:2\" class=\"v\">2</span>Praise him for his mighty acts!</p><p data-vid=\"PSA 150:2\" class=\"q2\">Praise him according to his excellent greatness!</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 150:3\" class=\"v\">3</span>Praise him with the sounding of the trumpet!</p><p data-vid=\"PSA 150:3\" class=\"q2\">Praise him with harp and lyre!</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 150:4\" class=\"v\">4</span>Praise him with tambourine and dancing!</p><p data-vid=\"PSA 150:4\" class=\"q2\">Praise him with stringed instruments and flute!</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 150:5\" class=\"v\">5</span>Praise him with loud cymbals!</p><p data-vid=\"PSA 150:5\" class=\"q2\">Praise him with resounding cymbals!</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 150:6\" class=\"v\">6</span>Let everything that has breath praise Yah!</p><p data-vid=\"PSA 150:6\" class=\"q2\">Praise Yah!</p>",
+    "next": {
+      "id": "PSA.151",
+      "number": "151",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.149",
+      "number": "149",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzcBoBwHbqxlyoOgvR4EdEzy46-24Sxpo6hIlq6-0Fl32-mEB7zzvydB_q0FYZrFGSVY0LygTp1ETBYbNPnr9s_zdgD9shqaz7uuJdfFbJbnq6Wvy7CQxmotj3fdG3aUjQYM9zhjBHpX_uxYdRcQGbg2hCwDVoef-y5NlCaNbGwhN2OV83kMtndl2vO2BJC5e6YupIlhwl5cMjuSBKvn8f4mWi3iolyjjKuVk2HhrZyFZS02y3a6XNXkngE"
+  }
+}

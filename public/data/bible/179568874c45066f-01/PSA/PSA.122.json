@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.122",
+    "bibleId": "179568874c45066f-01",
+    "number": "122",
+    "bookId": "PSA",
+    "reference": "Psalms 122",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 4,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 122:1\" class=\"v\">1</span>To thee have I lifted up my eyes, who dwellest in heaven.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 122:2\" class=\"v\">2</span>Behold as the eyes of the servants are on the hands of their masters, As the eyes of the handmaid are on the hands of her mistress: so are our eyes unto the Lord our God, until he have mercy on us.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 122:3\" class=\"v\">3</span>Have mercy on us, O Lord, have mercy on us: for we are greatly filled with contempt.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 122:4\" class=\"v\">4</span>For our soul is greatly filled: we are a reproach to the rich, and contempt to the proud.</p>",
+    "next": {
+      "id": "PSA.123",
+      "number": "123",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.121",
+      "number": "121",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzcBgIzTFfOihHUPAjom-fFX23CWtFFUtA5LV991t51ueAD-90uQtrYWhGkWZ5RYfZ4Etc1JxElwUyv46_rneTsA_bKams-7trnGVEoO8xBNSitprBbTvevesKOsc8T2CGeMQPCGP4fsugsQhXCZsKwPWjP4ukmaWDSNbGyxeFVVn8fE9i5Nf96WIGTtQpUX4sRwDF9YQjsjCFbP4_1R7365yClHJ02dLmWIZSlnbr6SrnHys0Vd-BiWHA"
+  }
+}

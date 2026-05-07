@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "DEU.34",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "34",
+    "bookId": "DEU",
+    "reference": "Deuteronomy 34",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 12,
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"DEU 34:1\" class=\"v\">1</span>Moses went up from the plains of Moab to Mount Nebo, to the top of Pisgah, that is opposite Jericho. Yahweh showed him all the land of Gilead to Dan, <span data-number=\"2\" data-sid=\"DEU 34:2\" class=\"v\">2</span>and all Naphtali, and the land of Ephraim and Manasseh, and all the land of Judah, to the Western Sea, <span data-number=\"3\" data-sid=\"DEU 34:3\" class=\"v\">3</span>and the south, and the Plain of the valley of Jericho the city of palm trees, to Zoar. <span data-number=\"4\" data-sid=\"DEU 34:4\" class=\"v\">4</span>Yahweh said to him, “This is the land which I swore to Abraham, to Isaac, and to Jacob, saying, ‘I will give it to your offspring.’ I have caused you to see it with your eyes, but you shall not go over there.”</p><p class=\"p\"><span data-number=\"5\" data-sid=\"DEU 34:5\" class=\"v\">5</span>So Moses the servant of Yahweh died there in the land of Moab, according to Yahweh’s word. <span data-number=\"6\" data-sid=\"DEU 34:6\" class=\"v\">6</span>He buried him in the valley in the land of Moab opposite Beth Peor, but no man knows where his tomb is to this day. <span data-number=\"7\" data-sid=\"DEU 34:7\" class=\"v\">7</span>Moses was one hundred twenty years old when he died. His eye was not dim, nor his strength gone. <span data-number=\"8\" data-sid=\"DEU 34:8\" class=\"v\">8</span>The children of Israel wept for Moses in the plains of Moab thirty days, until the days of weeping in the mourning for Moses were ended. <span data-number=\"9\" data-sid=\"DEU 34:9\" class=\"v\">9</span>Joshua the son of Nun was full of the spirit of wisdom, for Moses had laid his hands on him. The children of Israel listened to him, and did as Yahweh commanded Moses. <span data-number=\"10\" data-sid=\"DEU 34:10\" class=\"v\">10</span>Since then, there has not arisen a prophet in Israel like Moses, whom Yahweh knew face to face, <span data-number=\"11\" data-sid=\"DEU 34:11\" class=\"v\">11</span>in all the signs and the wonders which Yahweh sent him to do in the land of Egypt, to Pharaoh, and to all his servants, and to all his land, <span data-number=\"12\" data-sid=\"DEU 34:12\" class=\"v\">12</span>and in all the mighty hand, and in all the awesome deeds, which Moses did in the sight of all Israel.</p>",
+    "next": {
+      "id": "JOS.intro",
+      "number": "intro",
+      "bookId": "JOS"
+    },
+    "previous": {
+      "id": "DEU.33",
+      "number": "33",
+      "bookId": "DEU"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzUBYIzTFfOihHXPpDmVP508kW67zQMpIGgdlq6-T2-LAuVa1Na8rQXh9aA3umAH_EEOtjFKIibzCzfbP563A0C-tMTm8S5zinkxm8X5amnz0i1Yaanm6S6ruiesQ-iewShFELzgjyG7zgIQgeBcIpkPsDrgc-9ZeVahq31xtugkgrJjhO1dmfG8LQGQtYWiLtjEcISeLpFtQBvC6nm8H_VpaaYhzbXl5cJmdgudeDZVjkNwau6m86UySxw"
+  }
+}

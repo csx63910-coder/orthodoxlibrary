@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.110",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "110",
+    "bookId": "PSA",
+    "reference": "Psalms 110",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 7,
+    "content": "<p class=\"d\">A Psalm by David.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 110:1\" class=\"v\">1</span>Yahweh says to my Lord, “Sit at my right hand,</p><p data-vid=\"PSA 110:1\" class=\"q2\">until I make your enemies your footstool for your feet.”</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 110:2\" class=\"v\">2</span>Yahweh will send out the rod of your strength out of Zion.</p><p data-vid=\"PSA 110:2\" class=\"q2\">Rule among your enemies.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 110:3\" class=\"v\">3</span>Your people offer themselves willingly in the day of your power, in holy array.</p><p data-vid=\"PSA 110:3\" class=\"q2\">Out of the womb of the morning, you have the dew of your youth.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 110:4\" class=\"v\">4</span>Yahweh has sworn, and will not change his mind:</p><p data-vid=\"PSA 110:4\" class=\"q2\">“You are a priest forever in the order of Melchizedek.”</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 110:5\" class=\"v\">5</span>The Lord is at your right hand.</p><p data-vid=\"PSA 110:5\" class=\"q2\">He will crush kings in the day of his wrath.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 110:6\" class=\"v\">6</span>He will judge among the nations.</p><p data-vid=\"PSA 110:6\" class=\"q2\">He will heap up dead bodies.</p><p data-vid=\"PSA 110:6\" class=\"q2\">He will crush the ruler of the whole earth.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 110:7\" class=\"v\">7</span>He will drink of the brook on the way;</p><p data-vid=\"PSA 110:7\" class=\"q2\">therefore he will lift up his head.</p>",
+    "next": {
+      "id": "PSA.111",
+      "number": "111",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.109",
+      "number": "109",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzcBoIzTFfOihHUPAjom-fFX23CWtFFUtA5LV991t51ueAD-90uQtm8tCNMszijBDtoW_N9ykkzKClf_3fXP83YA-mU1NI93XUuui9ksz1dLX5dhIY3VWoZ33Rt2lLWGGJ7hjBHo3fFnx6m7AFEJlwbL9oDVwc8t0sSiaWRjCylyqhg_JrZ3ZcbztgQge_dUXcgTwzF7acnsiixYPY_3N_3nalIs2cvFdDaXYeaSrDXPpJ-F-SrYRXSfcw"
+  }
+}

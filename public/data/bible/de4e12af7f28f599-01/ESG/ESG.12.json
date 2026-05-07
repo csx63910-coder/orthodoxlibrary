@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "ESG.12",
+    "bibleId": "de4e12af7f28f599-01",
+    "number": "12",
+    "bookId": "ESG",
+    "reference": "Esther (Greek) 12",
+    "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+    "verseCount": 6,
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"ESG 12:1\" class=\"v\">1</span>And Mardocheus took his rest in the court with Gabatha and Tharra, the two eunuchs of the king, and keepers of the palace.</p><p class=\"p\"><span data-number=\"2\" data-sid=\"ESG 12:2\" class=\"v\">2</span>And he heard their devices, and searched out their purposes, and learned that they were about to lay hands upon Artexerxes the king; and so he certified the king of them.</p><p class=\"p\"><span data-number=\"3\" data-sid=\"ESG 12:3\" class=\"v\">3</span>Then the king examined the two eunuchs, and after that they had confessed it, they were strangled.</p><p class=\"p\"><span data-number=\"4\" data-sid=\"ESG 12:4\" class=\"v\">4</span>And the king made a record of these things, and Mardocheus also wrote thereof.</p><p class=\"p\"><span data-number=\"5\" data-sid=\"ESG 12:5\" class=\"v\">5</span>So the king commanded Mardocheus to serve in the court, and for this he rewarded him.</p><p class=\"p\"><span data-number=\"6\" data-sid=\"ESG 12:6\" class=\"v\">6</span>Howbeit Aman the son of Amadathus the Agagite, who was in great honour with the king, sought to molest Mardocheus and his people because of the two eunuchs of the king.</p>",
+    "next": {
+      "id": "ESG.13",
+      "number": "13",
+      "bookId": "ESG"
+    },
+    "previous": {
+      "id": "ESG.11",
+      "number": "11",
+      "bookId": "ESG"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBABwHbqxlyoOgvZ6Ba0v98sz7IxkSpBmuydLVFzrrbXt6iaIohAh7ssmfMUFU32QtKcWm6SC39RLxJRLICnZd_3jeDgB_SU7O5523brpUeeVXKqxsjFRIbqhdUMNszApAQEIJQeB5xx86u2kDqgIybFG3gdcMfF6mwg7TzaVNOrBgKsQCsL2bM563DkbW7iSDIS0D8_TFTu0MR7B6Hu_PcgLaqlWUxxw1NX7VaQmr02MlurFG69yyxQ"
+  }
+}

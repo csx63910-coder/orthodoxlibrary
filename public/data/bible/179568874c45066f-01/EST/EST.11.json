@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "EST.11",
+    "bibleId": "179568874c45066f-01",
+    "number": "11",
+    "bookId": "EST",
+    "reference": "Esther 11",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 12,
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"EST 11:1\" class=\"v\">1</span>In the fourth year of the reign of Ptolemy and Cleopatra, Dositheus, who said he was a priest, and of the Levitical race, and Ptolemy his son brought this epistle of Phurim, which they said Lysimachus the son of Ptolemy had interpreted in Jerusalem. <span data-number=\"2\" data-sid=\"EST 11:2\" class=\"v\">2</span>In the second year of the reign of Artaxerxes the great, in the first day of the month Nisan, Mardochai the son of Jair, the son of Semei, the son of Cis, of the tribe of Benjamin: <span data-number=\"3\" data-sid=\"EST 11:3\" class=\"v\">3</span>A Jew who dwelt in the city of Susan, a great man and among the first of the king’s court, had it dream. <span data-number=\"4\" data-sid=\"EST 11:4\" class=\"v\">4</span>Now he was of the number of the captives, whom Nabuchodonosor king of Babylon had carried away from Jerusalem with Jechonias king of Juda: <span data-number=\"5\" data-sid=\"EST 11:5\" class=\"v\">5</span>And this was his dream: Behold there were voices, and tumults, and thunders, and earthquakes, and a disturbance upon the earth. <span data-number=\"6\" data-sid=\"EST 11:6\" class=\"v\">6</span>And behold two great dragons came forth ready to fight one against another. <span data-number=\"7\" data-sid=\"EST 11:7\" class=\"v\">7</span>And at their cry all nations were stirred up to fight against the nation of the just. <span data-number=\"8\" data-sid=\"EST 11:8\" class=\"v\">8</span>And that was a day of darkness and danger, of tribulation and distress, and great fear upon the earth. <span data-number=\"9\" data-sid=\"EST 11:9\" class=\"v\">9</span>And the nation of the just was troubled fearing their own evils, and was prepared for death. <span data-number=\"10\" data-sid=\"EST 11:10\" class=\"v\">10</span>And they cried to God: and as they were crying, a little fountain grew into a very great river, and abounded into many waters. <span data-number=\"11\" data-sid=\"EST 11:11\" class=\"v\">11</span>The light and the sun rose up, and the humble were exalted, and they devoured the glorious. <span data-number=\"12\" data-sid=\"EST 11:12\" class=\"v\">12</span>And when Mardochai had seen this, and arose out of his bed, he was thinking what God would do: and he kept it fixed in his mind, desirous to know what the dream should signify.</p>",
+    "next": {
+      "id": "EST.12",
+      "number": "12",
+      "bookId": "EST"
+    },
+    "previous": {
+      "id": "EST.10",
+      "number": "10",
+      "bookId": "EST"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzUBABwHbqxlyoOgvR4ItLbUl8-8Y5lP0EQ8Wbr6QudtA5fjbsUlyBdEqNlt3N7qTBuzIKgbTpLJpqf-lH-etwPol9XkPN61zTWmUnKYh2hSWkljtaGnu-6NO2UtEJhxxgg87_zR2Y0WUAGSp6Rz8OrwvPfSRGlSZ2OLufmskrETsL2bM563JYys7RSDwaaBEX26pLbAOsHqebzf9e1rXvoQoly64mRY5ZUsabGSs2TCLC2iRKuBAQ"
+  }
+}

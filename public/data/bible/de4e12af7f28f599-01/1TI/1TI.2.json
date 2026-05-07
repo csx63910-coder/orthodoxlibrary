@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "1TI.2",
+    "bibleId": "de4e12af7f28f599-01",
+    "number": "2",
+    "bookId": "1TI",
+    "reference": "1 Timothy 2",
+    "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+    "verseCount": 15,
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"1TI 2:1\" class=\"v\">1</span>I exhort therefore, that, first of all, supplications, prayers, intercessions, <span class=\"add\">and</span> giving of thanks, be made for all men; <span data-number=\"2\" data-sid=\"1TI 2:2\" class=\"v\">2</span>For kings, and <span class=\"add\">for</span> all that are in authority; that we may lead a quiet and peaceable life in all godliness and honesty. <span data-number=\"3\" data-sid=\"1TI 2:3\" class=\"v\">3</span>For this <span class=\"add\">is</span> good and acceptable in the sight of God our Saviour; <span data-number=\"4\" data-sid=\"1TI 2:4\" class=\"v\">4</span>Who will have all men to be saved, and to come unto the knowledge of the truth. <span data-number=\"5\" data-sid=\"1TI 2:5\" class=\"v\">5</span>For <span class=\"add\">there is</span> one God, and one mediator between God and men, the man Christ Jesus; <span data-number=\"6\" data-sid=\"1TI 2:6\" class=\"v\">6</span>Who gave himself a ransom for all, to be testified in due time. <span data-number=\"7\" data-sid=\"1TI 2:7\" class=\"v\">7</span>Whereunto I am ordained a preacher, and an apostle, (I speak the truth in Christ, <span class=\"add\">and</span> lie not;) a teacher of the Gentiles in faith and verity. <span data-number=\"8\" data-sid=\"1TI 2:8\" class=\"v\">8</span>I will therefore that men pray every where, lifting up holy hands, without wrath and doubting. <span data-number=\"9\" data-sid=\"1TI 2:9\" class=\"v\">9</span>In like manner also, that women adorn themselves in modest apparel, with shamefacedness and sobriety; not with broided hair, or gold, or pearls, or costly array; <span data-number=\"10\" data-sid=\"1TI 2:10\" class=\"v\">10</span>But (which becometh women professing godliness) with good works. <span data-number=\"11\" data-sid=\"1TI 2:11\" class=\"v\">11</span>Let the woman learn in silence with all subjection. <span data-number=\"12\" data-sid=\"1TI 2:12\" class=\"v\">12</span>But I suffer not a woman to teach, nor to usurp authority over the man, but to be in silence. <span data-number=\"13\" data-sid=\"1TI 2:13\" class=\"v\">13</span>For Adam was first formed, then Eve. <span data-number=\"14\" data-sid=\"1TI 2:14\" class=\"v\">14</span>And Adam was not deceived, but the woman being deceived was in the transgression. <span data-number=\"15\" data-sid=\"1TI 2:15\" class=\"v\">15</span>Notwithstanding she shall be saved in childbearing, if they continue in faith and charity and holiness with sobriety.</p>",
+    "next": {
+      "id": "1TI.3",
+      "number": "3",
+      "bookId": "1TI"
+    },
+    "previous": {
+      "id": "1TI.1",
+      "number": "1",
+      "bookId": "1TI"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzIBgIzTFfOihHUPItpW6pPPds-A0OgkPolJ67B09X3bwOW4W3WJ4wjRaHYbt7c6J7CxoqBOnURMzNDkr-mf5-0A_Es8NZ93v1impeh0VVfarHLb2iBezMPdy9A7JWZHaAgGuRv-rFj1CxCFcO6QrA9SA3zbdxuyDWWQ3CXpRJ0GGYntXZb-vC1Bx9w5lRZ8YjjCzpa4JpBsWD2P9xft2mlcaIlLu9K6t6k00c7m0tpmuVjNF2EW53XKAQ"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "1CO.5",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "5",
+    "bookId": "1CO",
+    "reference": "1 Corinthians 5",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 13,
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"1CO 5:1\" class=\"v\">1</span>It is actually reported that there is sexual immorality among you, and such sexual immorality as is not even named among the Gentiles, that one has his father’s wife. <span data-number=\"2\" data-sid=\"1CO 5:2\" class=\"v\">2</span>You are arrogant, and didn’t mourn instead, that he who had done this deed might be removed from among you. <span data-number=\"3\" data-sid=\"1CO 5:3\" class=\"v\">3</span>For I most certainly, as being absent in body but present in spirit, have already, as though I were present, judged him who has done this thing. <span data-number=\"4\" data-sid=\"1CO 5:4\" class=\"v\">4</span>In the name of our Lord Jesus Christ, when you are gathered together with my spirit with the power of our Lord Jesus Christ, <span data-number=\"5\" data-sid=\"1CO 5:5\" class=\"v\">5</span>you are to deliver such a one to Satan for the destruction of the flesh, that the spirit may be saved in the day of the Lord Jesus.</p><p class=\"p\"><span data-number=\"6\" data-sid=\"1CO 5:6\" class=\"v\">6</span>Your boasting is not good. Don’t you know that a little yeast leavens the whole lump? <span data-number=\"7\" data-sid=\"1CO 5:7\" class=\"v\">7</span>Purge out the old yeast, that you may be a new lump, even as you are unleavened. For indeed Christ, our Passover, has been sacrificed in our place. <span data-number=\"8\" data-sid=\"1CO 5:8\" class=\"v\">8</span>Therefore let’s keep the feast, not with old yeast, neither with the yeast of malice and wickedness, but with the unleavened bread of sincerity and truth.</p><p class=\"p\"><span data-number=\"9\" data-sid=\"1CO 5:9\" class=\"v\">9</span>I wrote to you in my letter to have no company with sexual sinners; <span data-number=\"10\" data-sid=\"1CO 5:10\" class=\"v\">10</span>yet not at all meaning with the sexual sinners of this world, or with the covetous and extortionists, or with idolaters, for then you would have to leave the world. <span data-number=\"11\" data-sid=\"1CO 5:11\" class=\"v\">11</span>But as it is, I wrote to you not to associate with anyone who is called a brother who is a sexual sinner, or covetous, or an idolater, or a slanderer, or a drunkard, or an extortionist. Don’t even eat with such a person. <span data-number=\"12\" data-sid=\"1CO 5:12\" class=\"v\">12</span>For what do I have to do with also judging those who are outside? Don’t you judge those who are within? <span data-number=\"13\" data-sid=\"1CO 5:13\" class=\"v\">13</span>But those who are outside, God judges. “Put away the wicked man from among yourselves.”</p>",
+    "next": {
+      "id": "1CO.6",
+      "number": "6",
+      "bookId": "1CO"
+    },
+    "previous": {
+      "id": "1CO.4",
+      "number": "4",
+      "bookId": "1CO"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzIBQIzTFfOihHXPoLmlfvnFppVE8gRpIt46LF191912Oij_P32XY1sLwjTQjBJ8gOWBbUqTiJPjW7g0vbCMNYCvknPzOHHPdbw4DJ0oTbSXmJgKyeU8TFzeHsxCmJ5BCUEgeIcLS3b3GBAVwblHsj2wWgAf954Kiwr7Ky3fUr5WTFnih1BMwoxlTICPtYMqLvjfcASeJcAmIDVBujTTmz7YbhikQRDQOHFiapQnqZcEIU21I1OVhIldCBw"
+  }
+}

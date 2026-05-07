@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.130",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "130",
+    "bookId": "PSA",
+    "reference": "Psalms 130",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 8,
+    "content": "<p class=\"d\">A Song of Ascents.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 130:1\" class=\"v\">1</span>Out of the depths I have cried to you, Yahweh.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 130:2\" class=\"v\">2</span>Lord, hear my voice.</p><p data-vid=\"PSA 130:2\" class=\"q2\">Let your ears be attentive to the voice of my petitions.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 130:3\" class=\"v\">3</span>If you, Yah, kept a record of sins,</p><p data-vid=\"PSA 130:3\" class=\"q2\">Lord, who could stand?</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 130:4\" class=\"v\">4</span>But there is forgiveness with you,</p><p data-vid=\"PSA 130:4\" class=\"q2\">therefore you are feared.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 130:5\" class=\"v\">5</span>I wait for Yahweh.</p><p data-vid=\"PSA 130:5\" class=\"q2\">My soul waits.</p><p data-vid=\"PSA 130:5\" class=\"q2\">I hope in his word.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 130:6\" class=\"v\">6</span>My soul longs for the Lord more than watchmen long for the morning,</p><p data-vid=\"PSA 130:6\" class=\"q2\">more than watchmen for the morning.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 130:7\" class=\"v\">7</span>Israel, hope in Yahweh,</p><p data-vid=\"PSA 130:7\" class=\"q2\">for there is loving kindness with Yahweh.</p><p data-vid=\"PSA 130:7\" class=\"q2\">Abundant redemption is with him.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 130:8\" class=\"v\">8</span>He will redeem Israel from all their sins.</p>",
+    "next": {
+      "id": "PSA.131",
+      "number": "131",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.129",
+      "number": "129",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzcBYIzTFfOihHUPAjom-fFX23CWtFFUtA5LV9-3DVyOuxU9Dr8QQc1ur91bnVljFgS2MUoiJvMLN7d_nrcD0C-rsXm861pyXcxmeb5a-roMC2msVvN4171hR1lviPYezhiB4hV_pqy6CxCJcC7RzA9cA_zuvTRRmjSysYXUolXJ-DGxvWvTnrclEJnbKPqCTwxH9NmS2hFFsHoe71d9hzhLodgi5zkFGcIiyekyLGVZTufzYJOV1ZID"
+  }
+}

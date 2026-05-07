@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.133",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "133",
+    "bookId": "PSA",
+    "reference": "Psalms 133",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 3,
+    "content": "<p class=\"d\">A Song of Ascents. By David.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 133:1\" class=\"v\">1</span>See how good and how pleasant it is</p><p data-vid=\"PSA 133:1\" class=\"q2\">for brothers to live together in unity!</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 133:2\" class=\"v\">2</span>It is like the precious oil on the head,</p><p data-vid=\"PSA 133:2\" class=\"q2\">that ran down on the beard,</p><p data-vid=\"PSA 133:2\" class=\"q2\">even Aaron’s beard,</p><p data-vid=\"PSA 133:2\" class=\"q2\">that came down on the edge of his robes,</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 133:3\" class=\"v\">3</span>like the dew of Hermon,</p><p data-vid=\"PSA 133:3\" class=\"q2\">that comes down on the hills of Zion;</p><p data-vid=\"PSA 133:3\" class=\"q2\">for there Yahweh gives the blessing,</p><p data-vid=\"PSA 133:3\" class=\"q2\">even life forever more.</p>",
+    "next": {
+      "id": "PSA.134",
+      "number": "134",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.132",
+      "number": "132",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzcBoBwHbqxlyoOgvR4EdEzy46-24Sxpo6hIlq6-0Flv29PjQ8z__tkE3WaCqGqylpSGdQGobQ4i4uQsWsFf2z_P2wH0y2poPu-6llwXs1mer5a-LsNCGqu1PN51b9hR1nuw3OKMEehd-HPGrLuATCBkwCoPWCP83HdpojRpZGMLqUWnanRjsL0rU5-3JYCM3afqQpg4xuz5JbM9XrB6Hu9vupnn4otLXs5Xy6kMNjhpZKKbNxemxDK1q8I"
+  }
+}

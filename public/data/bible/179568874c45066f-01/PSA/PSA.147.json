@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.147",
+    "bibleId": "179568874c45066f-01",
+    "number": "147",
+    "bookId": "PSA",
+    "reference": "Psalms 147",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 9,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 147:1\" class=\"v\">1</span>Praise the Lord, O Jerusalem: praise thy God, O Sion.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 147:2\" class=\"v\">2</span>Because he hath strengthened the bolts of thy gates, he hath blessed thy children within thee.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 147:3\" class=\"v\">3</span>Who hath placed peace in thy borders: and filleth thee with the fat of corn.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 147:4\" class=\"v\">4</span>Who sendeth forth his speech to the earth: his word runneth swiftly.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 147:5\" class=\"v\">5</span>Who giveth snow like wool: scattereth mists like ashes.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 147:6\" class=\"v\">6</span>He sendeth his crystal like morsels: who shall stand before the face of his cold?</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 147:7\" class=\"v\">7</span>He shall send out his word, and shall melt them: his wind shall blow, and the waters shall run.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 147:8\" class=\"v\">8</span>Who declareth his word to Jacob: his justices and his judgments to Israel.</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 147:9\" class=\"v\">9</span>He hath not done in like manner to every nation: and his judgments he hath not made manifest to them. Alleluia.</p>",
+    "next": {
+      "id": "PSA.148",
+      "number": "148",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.146",
+      "number": "146",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzcBoBwHbqxlyoOgvR5EtLbUJ5_8nlgj0jRBFNFk6eoLnXW3nQ7K_3453NtaW2ESpGFGCRZQK6htTiJOjoJawV_bP8_bAexLLDSfdyu5xlRKDvMQu5RWuhOr5fFuB-OekZDBco_rOoXehT9nrPoLiAicBzTTgDXAz33XXdRdmkhssTbxpvo4Bdu7MvV5WwLI3H2iLvjMMGLPlsyOVMXqeby_-ko6KSnrxcJlHUoQXYoUTUxz75fNPA8M"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "ISA.12",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "12",
+    "bookId": "ISA",
+    "reference": "Isaiah 12",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 6,
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"ISA 12:1\" class=\"v\">1</span>In that day you will say, “I will give thanks to you, Yahweh; for though you were angry with me, your anger has turned away and you comfort me. <span data-number=\"2\" data-sid=\"ISA 12:2\" class=\"v\">2</span>Behold, God is my salvation. I will trust, and will not be afraid; for Yah, Yahweh, is my strength and song; and he has become my salvation.” <span data-number=\"3\" data-sid=\"ISA 12:3\" class=\"v\">3</span>Therefore with joy you will draw water out of the wells of salvation. <span data-number=\"4\" data-sid=\"ISA 12:4\" class=\"v\">4</span>In that day you will say, “Give thanks to Yahweh! Call on his name! Declare his doings among the peoples! Proclaim that his name is exalted! <span data-number=\"5\" data-sid=\"ISA 12:5\" class=\"v\">5</span>Sing to Yahweh, for he has done excellent things! Let this be known in all the earth! <span data-number=\"6\" data-sid=\"ISA 12:6\" class=\"v\">6</span>Cry aloud and shout, you inhabitant of Zion, for the Holy One of Israel is great among you!”</p>",
+    "next": {
+      "id": "ISA.13",
+      "number": "13",
+      "bookId": "ISA"
+    },
+    "previous": {
+      "id": "ISA.11",
+      "number": "11",
+      "bookId": "ISA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBgBwHbqxlyoOgvR4EtM3UL795I5JZ2pKYJEtXX-isu-10UP53-nY4fvuCMM3ijBIswPLANqVJxMn5LVy6_fO8HUC_rKbm8a5ryXUxm-X5aunrMiyksVrM0133Q6esA8M9zhiB3pU_O1b9AiKBc4dkGawGfNx7aaI0aWRjC7l5p4xPY7C9C9OetyV8zN0TccEmhhF5uiR2JAlWz-P9SR9MXS6tXyQZba4yTFdJljTz0i1iDcXZ1bTqDA"
+  }
+}

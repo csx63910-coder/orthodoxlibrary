@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.121",
+    "bibleId": "179568874c45066f-01",
+    "number": "121",
+    "bookId": "PSA",
+    "reference": "Psalms 121",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 9,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 121:1\" class=\"v\">1</span>I rejoiced at the things that were said to me: We shall go into the house of the Lord.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 121:2\" class=\"v\">2</span>Our feet were standing in thy courts, O Jerusalem.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 121:3\" class=\"v\">3</span>Jerusalem, which is built as a city, which is compact together.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 121:4\" class=\"v\">4</span>For thither did the tribes go up, the tribes of the Lord: the testimony of Israel, to praise the name of the Lord.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 121:5\" class=\"v\">5</span>Because their seats have sat in judgment, seats upon the house of David.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 121:6\" class=\"v\">6</span>Pray ye for the things that are for the peace of Jerusalem: and abundance for them that love thee.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 121:7\" class=\"v\">7</span>Let peace be in thy strength: and abundance in thy towers.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 121:8\" class=\"v\">8</span>For the sake of my brethren, and of my neighbours, I spoke peace of thee.</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 121:9\" class=\"v\">9</span>Because of the house of the Lord our God, I have sought good things for thee.</p>",
+    "next": {
+      "id": "PSA.122",
+      "number": "122",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.120",
+      "number": "120",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzcBAIzTFfOihHUPAjom-fFX23CWtFFUtA5LV991t51ueAD-90uQtm8tCNMszijBDtoW1K5eSa9EUsfOXf88bwegX1aT83jXNteYSslhHqJJaSWN1YKGd90bdpR1ltgwwxkjEL3jz6JTdwGiEi5Tlu1BrIPvW6SJhaaRjS2WqCrv6pjY3uUZz9sSlOwdVYkhTwzHAKYluCuqYPU83h_2X8osOT_PMvgQZMipyumqzmSuy1wWbjVr-JwD"
+  }
+}

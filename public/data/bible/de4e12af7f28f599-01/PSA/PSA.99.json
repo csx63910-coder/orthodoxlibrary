@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.99",
+    "bibleId": "de4e12af7f28f599-01",
+    "number": "99",
+    "bookId": "PSA",
+    "reference": "Psalms 99",
+    "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+    "verseCount": 9,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 99:1\" class=\"v\">1</span>The <span class=\"nd\">LORD</span> reigneth; let the people tremble: he sitteth <span class=\"add\">between</span> the cherubims; let the earth be moved.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 99:2\" class=\"v\">2</span>The <span class=\"nd\">LORD</span> <span class=\"add\">is</span> great in Zion; and he <span class=\"add\">is</span> high above all the people.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 99:3\" class=\"v\">3</span>Let them praise thy great and terrible name; <span class=\"add\">for</span> it <span class=\"add\">is</span> holy.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 99:4\" class=\"v\">4</span>The king’s strength also loveth judgment; thou dost establish equity, thou executest judgment and righteousness in Jacob.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 99:5\" class=\"v\">5</span>Exalt ye the <span class=\"nd\">LORD</span> our God, and worship at his footstool; <span class=\"add\">for</span> he <span class=\"add\">is</span> holy.</p><p class=\"b\"></p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 99:6\" class=\"v\">6</span>Moses and Aaron among his priests, and Samuel among them that call upon his name; they called upon the <span class=\"nd\">LORD</span>, and he answered them.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 99:7\" class=\"v\">7</span>He spake unto them in the cloudy pillar: they kept his testimonies, and the ordinance <span class=\"add\">that</span> he gave them.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 99:8\" class=\"v\">8</span>Thou answeredst them, O <span class=\"nd\">LORD</span> our God: thou wast a God that forgavest them, though thou tookest vengeance of their inventions.</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 99:9\" class=\"v\">9</span>Exalt the <span class=\"nd\">LORD</span> our God, and worship at his holy hill; for the <span class=\"nd\">LORD</span> our God <span class=\"add\">is</span> holy.</p>",
+    "next": {
+      "id": "PSA.100",
+      "number": "100",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.98",
+      "number": "98",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBCBwHbqxlyoOgvR4EdEzy46-24Sxpo6hIlq6-0Fl32-mGB-B_p2-HqLW1IEyzOKMEO2ge1DYnESfFTShq-riuf563A-iX1Xge73qxDEvrpqu8cmUVa5XGaqnRXfeGHVUrWDLjjBG8vfNn16m7gKjAZajZBtkCH5yliZWkkY3Nhyaq6uIYbO-CxvO2hMneWZUMPjGMAdoS7koVrJ7H-20forWzRfVJJuucDDMXZHHLhXS5ZOejW656Yg"
+  }
+}

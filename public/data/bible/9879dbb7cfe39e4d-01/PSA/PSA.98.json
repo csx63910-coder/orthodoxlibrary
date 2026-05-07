@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.98",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "98",
+    "bookId": "PSA",
+    "reference": "Psalms 98",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 9,
+    "content": "<p class=\"d\">A Psalm.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 98:1\" class=\"v\">1</span>Sing to Yahweh a new song,</p><p data-vid=\"PSA 98:1\" class=\"q2\">for he has done marvelous things!</p><p data-vid=\"PSA 98:1\" class=\"q2\">His right hand and his holy arm have worked salvation for him.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 98:2\" class=\"v\">2</span>Yahweh has made known his salvation.</p><p data-vid=\"PSA 98:2\" class=\"q2\">He has openly shown his righteousness in the sight of the nations.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 98:3\" class=\"v\">3</span>He has remembered his loving kindness and his faithfulness toward the house of Israel.</p><p data-vid=\"PSA 98:3\" class=\"q2\">All the ends of the earth have seen the salvation of our God.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 98:4\" class=\"v\">4</span>Make a joyful noise to Yahweh, all the earth!</p><p data-vid=\"PSA 98:4\" class=\"q2\">Burst out and sing for joy, yes, sing praises!</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 98:5\" class=\"v\">5</span>Sing praises to Yahweh with the harp,</p><p data-vid=\"PSA 98:5\" class=\"q2\">with the harp and the voice of melody.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 98:6\" class=\"v\">6</span>With trumpets and sound of the ram’s horn,</p><p data-vid=\"PSA 98:6\" class=\"q2\">make a joyful noise before the King, Yahweh.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 98:7\" class=\"v\">7</span>Let the sea roar with its fullness;</p><p data-vid=\"PSA 98:7\" class=\"q2\">the world, and those who dwell therein.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 98:8\" class=\"v\">8</span>Let the rivers clap their hands.</p><p data-vid=\"PSA 98:8\" class=\"q2\">Let the mountains sing for joy together.</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 98:9\" class=\"v\">9</span>Let them sing before Yahweh,</p><p data-vid=\"PSA 98:9\" class=\"q2\">for he comes to judge the earth.</p><p data-vid=\"PSA 98:9\" class=\"q1\">He will judge the world with righteousness,</p><p data-vid=\"PSA 98:9\" class=\"q2\">and the peoples with equity.</p>",
+    "next": {
+      "id": "PSA.99",
+      "number": "99",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.97",
+      "number": "97",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBYIzTFfOihHXPwLWlfnnm7eM3LEGb4dY6LF193zZwOe5WXIJ8QYSa3V67tzqzxiwI6tSFiMkMTf66_eN5OwD4S3JsHu88Bh9rzr70pmMzlQrJ1Tzd-WQ-sBgQpntQQhAIXuGPJauxAjIQgluk8gFWB_zceyosFW4hbTIuaceCiUuE7V2Z9rw1AGTuoKgLtnIcoacN2REiQX8e72_6Ns7mbIShWepCTZSdBlkarS7UbFy3UhsO"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.130",
+    "bibleId": "179568874c45066f-01",
+    "number": "130",
+    "bookId": "PSA",
+    "reference": "Psalms 130",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 3,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 130:1\" class=\"v\">1</span>Lord, my heart is not exalted: nor are my eyes lofty. Neither have I walked in great matters, nor in wonderful things above me.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 130:2\" class=\"v\">2</span>If I was not humbly minded, but exalted my soul: As a child that is weaned is towards his mother, so reward in my soul.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 130:3\" class=\"v\">3</span>Let Israel hope in the Lord, from henceforth now and for ever.</p>",
+    "next": {
+      "id": "PSA.131",
+      "number": "131",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.129",
+      "number": "129",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzcBQBwHbqxlyoOgvZ6KYyof3XbrgNzlHapfAUGydPWFzrrbTgflf78c7t9akJVmcUYJFmBtwf8tJ8lkE1z9d9s_nrcDYF5quHm8G801plJymIdoU1qxVSPn8W56w46ot4D5Hs5aguQFf6xZdRdAJIBzj2YeeA3g896zjWzTSGOLtdkgWtIYsL2L0563JRiZOykCg08MI_xsie0IT1g9j_dn_eY69bqsnlNQx2EZplzUB45RZ_MaCnW5zBg"
+  }
+}

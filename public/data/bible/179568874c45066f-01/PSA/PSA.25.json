@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.25",
+    "bibleId": "179568874c45066f-01",
+    "number": "25",
+    "bookId": "PSA",
+    "reference": "Psalms 25",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 12,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 25:1\" class=\"v\">1</span>Unto the end, a psalm for David. Judge me, O Lord, for I have walked in my innocence: and I have put my trust in the Lord, and shall not be weakened.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 25:2\" class=\"v\">2</span>Prove me, O Lord, and try me; burn my reins and my heart.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 25:3\" class=\"v\">3</span>For thy mercy is before my eyes; and I am well pleased with thy truth.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 25:4\" class=\"v\">4</span>I have not sat with the council of vanity: neither will I go in with the doers of unjust things.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 25:5\" class=\"v\">5</span>I have hated the assembly of the malignant; and with the wicked I will not sit.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 25:6\" class=\"v\">6</span>I will wash my hands among the innocent; and will compass thy altar, O Lord:</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 25:7\" class=\"v\">7</span>That I may hear the voice of thy praise: and tell of all thy wondrous works.</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 25:8\" class=\"v\">8</span>I have loved, O Lord, the beauty of thy house; and the place where thy glory dwelleth.</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 25:9\" class=\"v\">9</span>Take not away my soul, O God, with the wicked: nor my life with bloody men:</p><p class=\"q1\"><span data-number=\"10\" data-sid=\"PSA 25:10\" class=\"v\">10</span>In whose hands are iniquities: their right hand is filled with gifts.</p><p class=\"q1\"><span data-number=\"11\" data-sid=\"PSA 25:11\" class=\"v\">11</span>But as for me, I have walked in my innocence: redeem me, and have mercy on me.</p><p class=\"q1\"><span data-number=\"12\" data-sid=\"PSA 25:12\" class=\"v\">12</span>My foot hath stood in the direct way: in the churches I will bless thee, O Lord.</p>",
+    "next": {
+      "id": "PSA.26",
+      "number": "26",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.24",
+      "number": "24",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzUBYIzTFfOihHUPAjom-fFX23CWtFFUtA5LV9-nt0WBci1qC6wFYfYd9EYX7KDfDofcGCUZJvMLu_bP83YA-mU1Npd3bXONqZQc5iGalFbSWO3m6a57w45ykZie4YwRGJ74s2TXXYB0QtwiFQ9Yv4EzLkkTpUkjG1sszVrlvB0T27sz9bwtAcjaQXEXbBI4Qk-XyDawTrB6Hu9PveVpSL5OjZwtlk6G6bzKaY5LGWKaTjXa-WK-5A"
+  }
+}

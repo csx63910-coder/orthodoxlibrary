@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.124",
+    "bibleId": "179568874c45066f-01",
+    "number": "124",
+    "bookId": "PSA",
+    "reference": "Psalms 124",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 5,
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 124:1\" class=\"v\">1</span>They that trust in the Lord shall be as mount Sion: he shall not be moved for ever that dwelleth</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 124:2\" class=\"v\">2</span>In Jerusalem. Mountains are round about it: so the Lord is round about his people from henceforth now and for ever.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 124:3\" class=\"v\">3</span>For the Lord will not leave the rod of sinners upon the lot of the just: that the just may not stretch forth their hands to iniquity.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 124:4\" class=\"v\">4</span>Do good, O Lord, to those that are good, and to the upright of heart.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 124:5\" class=\"v\">5</span>But such as turn aside into bonds, the Lord shall lead out with the workers of iniquity: peace upon Israel.</p>",
+    "next": {
+      "id": "PSA.125",
+      "number": "125",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.123",
+      "number": "123",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzcBYBwHbqxlyoOgvZ6Jayp_upA0KbqXc6g2B8DJ0tUXOutuOx2U__1yuH_7gjDN4owSLMACCWxjlERM5hdubv943g6Af7HH5vHuOdeYSsk610gprSyxV_N49_1R5zgooL1HIDJQvOKPKaveAogEOJdolgHXAH733lK0lMYcW6yNyNVYJoDtXZv2vC2ByNxG0Rd8ahjRZ0tqR0SD1fN4v-oT5bAokrNdpbywuszJloUsLZdZmlMNs2VUDA"
+  }
+}

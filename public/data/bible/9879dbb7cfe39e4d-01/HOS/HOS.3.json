@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "HOS.3",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "3",
+    "bookId": "HOS",
+    "reference": "Hosea 3",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 5,
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"HOS 3:1\" class=\"v\">1</span>Yahweh said to me, “Go again, love a woman loved by another, and an adulteress, even as Yahweh loves the children of Israel, though they turn to other gods, and love cakes of raisins.”</p><p class=\"p\"><span data-number=\"2\" data-sid=\"HOS 3:2\" class=\"v\">2</span>So I bought her for myself for fifteen pieces of silver and a homer and a half of barley. <span data-number=\"3\" data-sid=\"HOS 3:3\" class=\"v\">3</span>I said to her, “You shall stay with me many days. You shall not play the prostitute, and you shall not be with any other man. I will also be so toward you.”</p><p class=\"p\"><span data-number=\"4\" data-sid=\"HOS 3:4\" class=\"v\">4</span>For the children of Israel shall live many days without king, without prince, without sacrifice, without sacred stone, and without ephod or idols. <span data-number=\"5\" data-sid=\"HOS 3:5\" class=\"v\">5</span>Afterward the children of Israel shall return and seek Yahweh their God, and David their king, and shall come with trembling to Yahweh and to his blessings in the last days.</p>",
+    "next": {
+      "id": "HOS.4",
+      "number": "4",
+      "bookId": "HOS"
+    },
+    "previous": {
+      "id": "HOS.2",
+      "number": "2",
+      "bookId": "HOS"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzEBgBwHdiz4CxaLyQeWIKBtpn75zUOCzNKWxKRZ-rqehs7bBi7H3aogSOMI0Wh2W_3e6swasyCobQ4iIg7OWg1_bf88bwfQL6upebzrWnJdzGZ5vlr6ugwLaawW83DX3QblwdkeZ4xA7sqfK1b9AjKD4A3pEkgN-Lb30kRp0sjGFmozTjnnxmB7l6U9b0vomHtOpYU0cTxh50tcR6Jg9TzezajfqSneG5nj0sqw9E6WEKN0ZeFtMNM8ikA"
+  }
+}

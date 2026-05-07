@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "PSA.14",
+    "bibleId": "9879dbb7cfe39e4d-01",
+    "number": "14",
+    "bookId": "PSA",
+    "reference": "Psalms 14",
+    "copyright": "\n          PUBLIC DOMAIN\n        ",
+    "verseCount": 7,
+    "content": "<p class=\"d\">For the Chief Musician. By David.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 14:1\" class=\"v\">1</span>The fool has said in his heart, “There is no God.”</p><p data-vid=\"PSA 14:1\" class=\"q2\">They are corrupt.</p><p data-vid=\"PSA 14:1\" class=\"q2\">They have done abominable deeds.</p><p data-vid=\"PSA 14:1\" class=\"q2\">There is no one who does good.</p><p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 14:2\" class=\"v\">2</span>Yahweh looked down from heaven on the children of men,</p><p data-vid=\"PSA 14:2\" class=\"q2\">to see if there were any who understood,</p><p data-vid=\"PSA 14:2\" class=\"q2\">who sought after God.</p><p class=\"q1\"><span data-number=\"3\" data-sid=\"PSA 14:3\" class=\"v\">3</span>They have all gone aside.</p><p data-vid=\"PSA 14:3\" class=\"q2\">They have together become corrupt.</p><p data-vid=\"PSA 14:3\" class=\"q2\">There is no one who does good, no, not one.</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 14:4\" class=\"v\">4</span>Have all the workers of iniquity no knowledge,</p><p data-vid=\"PSA 14:4\" class=\"q2\">who eat up my people as they eat bread,</p><p data-vid=\"PSA 14:4\" class=\"q2\">and don’t call on Yahweh?</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 14:5\" class=\"v\">5</span>There they were in great fear,</p><p data-vid=\"PSA 14:5\" class=\"q2\">for God is in the generation of the righteous.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 14:6\" class=\"v\">6</span>You frustrate the plan of the poor,</p><p data-vid=\"PSA 14:6\" class=\"q2\">because Yahweh is his refuge.</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 14:7\" class=\"v\">7</span>Oh that the salvation of Israel would come out of Zion!</p><p data-vid=\"PSA 14:7\" class=\"q2\">When Yahweh restores the fortunes of his people,</p><p data-vid=\"PSA 14:7\" class=\"q2\">then Jacob shall rejoice, and Israel shall be glad.</p>",
+    "next": {
+      "id": "PSA.15",
+      "number": "15",
+      "bookId": "PSA"
+    },
+    "previous": {
+      "id": "PSA.13",
+      "number": "13",
+      "bookId": "PSA"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBIBwHbqxlyoOgvR4EdEzy46-24Sxpo6hIlq6-0HnbwOWbjrEVl-COIBrNbq_dW52Zox0Etc1JxEnEQSv46_jneTuAflkNzudd15LrYjbL89XS12VYSGO1ntFd94YdZQPYH3HGCCRv_Dlm111AFOAypFkHrhn-bpImVpJGNrYQxqhCcmOwvWvTn7cliKxdqfqCTwxj-GwJ7UwWrJ7H-6tuqziP3lorXYpZhv6tyjJfzeRsVoufzlycGcM"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "HOS.14",
+    "bibleId": "de4e12af7f28f599-01",
+    "number": "14",
+    "bookId": "HOS",
+    "reference": "Hosea 14",
+    "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+    "verseCount": 9,
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"HOS 14:1\" class=\"v\">1</span>O Israel, return unto the <span class=\"nd\">LORD</span> thy God; for thou hast fallen by thine iniquity. <span data-number=\"2\" data-sid=\"HOS 14:2\" class=\"v\">2</span>Take with you words, and turn to the <span class=\"nd\">LORD</span>: say unto him, Take away all iniquity, and receive <span class=\"add\">us</span> graciously: so will we render the calves of our lips. <span data-number=\"3\" data-sid=\"HOS 14:3\" class=\"v\">3</span>Asshur shall not save us; we will not ride upon horses: neither will we say any more to the work of our hands, <span class=\"add\">Ye are</span> our gods: for in thee the fatherless findeth mercy.</p><p class=\"p\"><span data-number=\"4\" data-sid=\"HOS 14:4\" class=\"v\">4</span>¶ I will heal their backsliding, I will love them freely: for mine anger is turned away from him. <span data-number=\"5\" data-sid=\"HOS 14:5\" class=\"v\">5</span>I will be as the dew unto Israel: he shall grow as the lily, and cast forth his roots as Lebanon. <span data-number=\"6\" data-sid=\"HOS 14:6\" class=\"v\">6</span>His branches shall spread, and his beauty shall be as the olive tree, and his smell as Lebanon. <span data-number=\"7\" data-sid=\"HOS 14:7\" class=\"v\">7</span>They that dwell under his shadow shall return; they shall revive <span class=\"add\">as</span> the corn, and grow as the vine: the scent thereof <span class=\"add\">shall be</span> as the wine of Lebanon.</p><p class=\"p\"><span data-number=\"8\" data-sid=\"HOS 14:8\" class=\"v\">8</span>Ephraim <span class=\"add\">shall say</span>, What have I to do any more with idols? I have heard <span class=\"add\">him</span>, and observed him: I <span class=\"add\">am</span> like a green fir tree. From me is thy fruit found. <span data-number=\"9\" data-sid=\"HOS 14:9\" class=\"v\">9</span>Who <span class=\"add\">is</span> wise, and he shall understand these <span class=\"add\">things</span>? prudent, and he shall know them? for the ways of the <span class=\"nd\">LORD</span> <span class=\"add\">are</span> right, and the just shall walk in them: but the transgressors shall fall therein.</p>",
+    "next": {
+      "id": "JOL.intro",
+      "number": "intro",
+      "bookId": "JOL"
+    },
+    "previous": {
+      "id": "HOS.13",
+      "number": "13",
+      "bookId": "HOS"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBCJwHto06fYLFYrJ5LkFA20z98puHBJmlLYlJsnT1hU48vW3g8k3H2IpLcEcQjWa31-6tziv5naC2OYk46SZCUdPHdf3zvB1Av6zG83nXi2VYWjdd5ZUrq1irNFZLje66G5QNYMmIM0bw9safXbt-AVGAy1CzDrIZPjhJEytNIxubz5FRvrox2N4F9edtCZO1syoZfGIYA7Ql3JkqWD2P99veazbeBJtkifMoQ1l4OfNlJnN3mlnr4qykwg"
+  }
+}

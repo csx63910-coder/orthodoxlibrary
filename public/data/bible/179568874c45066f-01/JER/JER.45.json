@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "JER.45",
+    "bibleId": "179568874c45066f-01",
+    "number": "45",
+    "bookId": "JER",
+    "reference": "Jeremiah 45",
+    "copyright": "PUBLIC DOMAIN",
+    "verseCount": 5,
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"JER 45:1\" class=\"v\">1</span>The word that Jeremias the prophet spoke to Baruch the son of Nerias, when he had written there words in a book, out of the mouth of Jeremias, in the fourth year of Joakim the son of Josias king of Juda, saying: <span data-number=\"2\" data-sid=\"JER 45:2\" class=\"v\">2</span>Thus saith the Lord the God of Israel to thee, Baruch: <span data-number=\"3\" data-sid=\"JER 45:3\" class=\"v\">3</span>Thou hast said: Woe is me, wretch that I am, for the Lord hath added sorrow to my sorrow: I am wearied with my groans, and I find no rest. <span data-number=\"4\" data-sid=\"JER 45:4\" class=\"v\">4</span>Thus saith the Lord: Thus shalt thou say to him: Behold, them whom I have built, I do destroy: and them whom I have planted, I do pluck up, and all this land. <span data-number=\"5\" data-sid=\"JER 45:5\" class=\"v\">5</span>And dost thou seek great things for thyself? Seek not: for behold I will bring evil upon all flesh, saith the Lord! but I will give thee thy life, and save thee in all places whithersoever thou shalt go.</p>",
+    "next": {
+      "id": "JER.46",
+      "number": "46",
+      "bookId": "JER"
+    },
+    "previous": {
+      "id": "JER.44",
+      "number": "44",
+      "bookId": "JER"
+    }
+  },
+  "meta": {
+    "fumsToken": "GzQBgJwHto06fYLFYrJ5LoFEY0t9-d40NIhESGKSLF19oRNFbxu4HHcrLkG-II1mT3rt3urMmt0gsE1pEnFyfguXbv88bwcwL2eoebwbV1rKtZY4j8nmvFLWGTFPdzMc6ZjAcI-3VtC78mfHarCACODcIVkGqw4fNymblM0U36zrvuicyhhs78K0520JH3P3RFywiWFEni6JHUnC6nm8P-lvPs_znFpUceXnKk6tVy0sV6rWslwUcmxz1xg"
+  }
+}
