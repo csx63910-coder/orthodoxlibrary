@@ -96,7 +96,25 @@ class BibleService {
 
   async getChapter(translationId: string, bookId: string, chapter: number): Promise<BibleChapter> {
     try {
-      const response = await fetch(`${LOCAL_BASE}/${translationId}/${bookId}/${chapter}.json`);
+      let path = `${LOCAL_BASE}/${translationId}/${bookId}/${chapter}.json`;
+      
+      // Handle the new folder structure for full bibles
+      const fullBibles = ['eng_kjv', 'rus_syn', 'srp_865'];
+      if (fullBibles.includes(translationId)) {
+        const ot1 = ["GEN", "EXO", "LEV", "NUM", "DEU", "JOS", "JDG", "RUT", "1SA", "2SA", "1KI", "2KI", "1CH", "2CH", "EZR", "NEH", "EST"];
+        const ot2 = ["JOB", "PSA", "PRO", "ECC", "SNG", "ISA", "JER", "LAM", "EZK", "DAN", "HOS", "JOL", "AMO", "OBA", "JON", "MIC", "NAM", "HAB", "ZEP", "HAG", "ZEC", "MAL"];
+        const nt = ["MAT", "MRK", "LUK", "JHN", "ACT", "ROM", "1CO", "2CO", "GAL", "EPH", "PHP", "COL", "1TH", "2TH", "1TI", "2TI", "TIT", "PHM", "HEB", "JAS", "1PE", "2PE", "1JN", "2JN", "3JN", "JUD", "REV"];
+
+        if (ot1.includes(bookId)) {
+          path = `${LOCAL_BASE}/${translationId}/Old Testament 1/${bookId}/${chapter}.json`;
+        } else if (ot2.includes(bookId)) {
+          path = `${LOCAL_BASE}/${translationId}/Old Testament 2/${bookId}/${chapter}.json`;
+        } else if (nt.includes(bookId)) {
+          path = `${LOCAL_BASE}/${translationId}/New Testament/${bookId}/${chapter}.json`;
+        }
+      }
+
+      const response = await fetch(path);
       if (response.ok) {
         const data = await response.json();
         
@@ -139,7 +157,7 @@ class BibleService {
     return data;
   }
 
-  getDefaultTranslation(tradition: 'orthodox' | 'catholic'): string {
+  getDefaultTranslation(_tradition: 'orthodox'): string {
     const lang = (i18next.language || 'en').split('-')[0];
     
     if (lang === 'el' || lang === 'grc') {
@@ -154,11 +172,7 @@ class BibleService {
       return 'srp_865'; // Serbian Danicic-Vuk for Serbian users
     }
 
-    if (tradition === 'orthodox') {
-      return 'grc_bre'; // Default to Brenton Septuagint for Orthodox
-    }
-
-    return 'BSB'; // Default to Berean Standard Bible
+    return 'grc_bre'; // Default to Brenton Septuagint for Orthodox
   }
 }
 
