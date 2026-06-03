@@ -1,19 +1,18 @@
 import { useState, useEffect, useMemo } from 'react';
 import { useSearchParams } from 'react-router-dom';
 import { bibleService, BibleTranslation, BibleBook, BibleChapter } from '../services/BibleService';
-import { getLocalized } from '../utils/cn';
-import { Search, ChevronLeft, ChevronRight, BookOpen, Settings } from 'lucide-react';
+import { ChevronLeft, ChevronRight, BookOpen, Type, Minus, Plus } from 'lucide-react';
 import Card from './Card';
 import SectionDivider from './SectionDivider';
 import LocalizedText from './LocalizedText';
 
 interface Props {
-  tradition: 'orthodox' | 'catholic';
+  tradition: 'orthodox';
   initialSection?: 'OT' | 'NT';
 }
 
 export default function BibleReader({ tradition, initialSection }: Props) {
-  const [searchParams, setSearchParams] = useSearchParams();
+  const [searchParams] = useSearchParams();
   const [translations, setTranslations] = useState<BibleTranslation[]>([]);
   const [selectedTranslation, setSelectedTranslation] = useState('');
   const [books, setBooks] = useState<BibleBook[]>([]);
@@ -21,8 +20,7 @@ export default function BibleReader({ tradition, initialSection }: Props) {
   const [selectedChapter, setSelectedChapter] = useState(1);
   const [chapterData, setChapterData] = useState<BibleChapter | null>(null);
   const [loading, setLoading] = useState(false);
-  const [showSettings, setShowSettings] = useState(false);
-  const [searchQuery, setSearchQuery] = useState('');
+  const [fontSize, setFontSize] = useState(112.5); // 112.5% is approximately 1.125rem (prose-lg default)
 
   // 1. Load available translations and handle initial params
   useEffect(() => {
@@ -101,10 +99,6 @@ export default function BibleReader({ tradition, initialSection }: Props) {
     }
   }, [selectedTranslation, selectedBookId, selectedChapter]);
 
-  const filteredBooks = useMemo(() => {
-    return books.filter(b => b.name.toLowerCase().includes(searchQuery.toLowerCase()));
-  }, [books, searchQuery]);
-
   const selectedBook = useMemo(() => books.find(b => b.id === selectedBookId), [books, selectedBookId]);
 
   const handleNextChapter = () => {
@@ -137,15 +131,15 @@ export default function BibleReader({ tradition, initialSection }: Props) {
   return (
     <div className="flex flex-col gap-6">
       {/* Settings & Selection */}
-      <div className="flex flex-col gap-4 md:flex-row md:items-end">
-        <div className="flex-1">
+      <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-4 md:items-end lg:grid-cols-4">
+        <div className="flex flex-col">
           <label className="mb-2 block text-sm font-bold text-[var(--text-secondary)] uppercase tracking-wider">
             <LocalizedText text="Translation" />
           </label>
           <select
             value={selectedTranslation}
             onChange={(e) => setSelectedTranslation(e.target.value)}
-            className="w-full rounded-xl border border-[var(--border)] bg-[var(--card)] p-3 text-[var(--text-primary)] outline-none focus:border-[var(--accent)]"
+            className="w-full rounded-md border border-[var(--border)]/45 bg-[var(--card)]/85 px-3 py-2 text-[10px] text-[var(--text-secondary)] outline-none hover:bg-[var(--bg-secondary)]"
           >
             {translations.map((t) => (
               <option key={t.id} value={t.id}>
@@ -155,7 +149,7 @@ export default function BibleReader({ tradition, initialSection }: Props) {
           </select>
         </div>
 
-        <div className="flex-1">
+        <div className="flex flex-col">
           <label className="mb-2 block text-sm font-bold text-[var(--text-secondary)] uppercase tracking-wider">
             <LocalizedText text="Book" />
           </label>
@@ -166,7 +160,7 @@ export default function BibleReader({ tradition, initialSection }: Props) {
                 setSelectedBookId(e.target.value);
                 setSelectedChapter(1);
               }}
-              className="w-full rounded-xl border border-[var(--border)] bg-[var(--card)] p-3 text-[var(--text-primary)] outline-none focus:border-[var(--accent)]"
+              className="w-full rounded-md border border-[var(--border)]/45 bg-[var(--card)]/85 px-3 py-2 text-[10px] text-[var(--text-secondary)] outline-none hover:bg-[var(--bg-secondary)]"
             >
               {books.map((b) => (
                 <option key={b.id} value={b.id}>
@@ -177,14 +171,14 @@ export default function BibleReader({ tradition, initialSection }: Props) {
           </div>
         </div>
 
-        <div className="w-full md:w-32">
+        <div className="flex flex-col">
           <label className="mb-2 block text-sm font-bold text-[var(--text-secondary)] uppercase tracking-wider">
             <LocalizedText text="Chapter" />
           </label>
           <select
             value={selectedChapter}
             onChange={(e) => setSelectedChapter(Number(e.target.value))}
-            className="w-full rounded-xl border border-[var(--border)] bg-[var(--card)] p-3 text-[var(--text-primary)] outline-none focus:border-[var(--accent)]"
+            className="w-full rounded-md border border-[var(--border)]/45 bg-[var(--card)]/85 px-3 py-2 text-[10px] text-[var(--text-secondary)] outline-none hover:bg-[var(--bg-secondary)]"
           >
             {selectedBook && Array.from({ length: selectedBook.numberOfChapters }, (_, i) => (
               <option key={i + 1} value={i + 1}>
@@ -192,6 +186,34 @@ export default function BibleReader({ tradition, initialSection }: Props) {
               </option>
             ))}
           </select>
+        </div>
+
+        {/* Font Size Controls */}
+        <div className="flex flex-col">
+          <label className="mb-2 block text-sm font-bold text-[var(--text-secondary)] uppercase tracking-wider">
+            <LocalizedText text="Font Size" />
+          </label>
+          <div className="flex h-[38px] items-center justify-between rounded-md border border-[var(--border)]/45 bg-[var(--card)]/85 p-1">
+            <button
+              onClick={() => setFontSize(prev => Math.max(75, prev - 12.5))}
+              className="flex h-full w-full items-center justify-center rounded text-[var(--text-secondary)] transition-colors hover:bg-[var(--bg-secondary)]"
+              title="Decrease font size"
+            >
+              <Minus size={14} />
+            </button>
+            <div className="flex h-6 w-px bg-[var(--border)]/30 mx-1 shrink-0" />
+            <div className="flex h-full w-full items-center justify-center text-[var(--text-secondary)]">
+              <Type size={14} />
+            </div>
+            <div className="flex h-6 w-px bg-[var(--border)]/30 mx-1 shrink-0" />
+            <button
+              onClick={() => setFontSize(prev => Math.min(250, prev + 12.5))}
+              className="flex h-full w-full items-center justify-center rounded text-[var(--text-secondary)] transition-colors hover:bg-[var(--bg-secondary)]"
+              title="Increase font size"
+            >
+              <Plus size={14} />
+            </button>
+          </div>
         </div>
       </div>
 
@@ -214,10 +236,10 @@ export default function BibleReader({ tradition, initialSection }: Props) {
                 </h2>
               </div>
               
-              <div className="prose prose-lg dark:prose-invert max-w-none">
+              <div className="prose prose-lg dark:prose-invert max-w-none" style={{ fontSize: `${fontSize}%` }}>
                 {chapterData.verses.map((v) => (
                   <p key={v.verse} className="group relative flex gap-4 leading-relaxed">
-                    <span className="mt-1 block h-fit shrink-0 select-none text-xs font-bold text-[var(--accent)] opacity-50">
+                    <span className="mt-1 block h-fit shrink-0 select-none text-xs font-bold text-[var(--accent)] opacity-50" style={{ fontSize: '0.75rem' }}>
                       {v.verse}
                     </span>
                     <span className="text-[var(--text-primary)]/90">
@@ -242,15 +264,15 @@ export default function BibleReader({ tradition, initialSection }: Props) {
       <div className="flex items-center justify-between gap-4">
         <button
           onClick={handlePrevChapter}
-          className="flex flex-1 items-center justify-center gap-2 rounded-xl border border-[var(--border)] bg-[var(--card)] py-4 font-heading text-[var(--text-secondary)] transition-all hover:bg-[var(--accent)]/5 hover:border-[var(--accent)]"
+          className="flex flex-1 items-center justify-center gap-2 rounded-md border border-[var(--border)]/45 bg-[var(--card)]/85 py-2 text-[10px] font-heading text-[var(--text-secondary)] transition-all hover:bg-[var(--bg-secondary)]"
         >
-          <ChevronLeft size={20} /> <LocalizedText text="Previous" />
+          <ChevronLeft size={16} /> <LocalizedText text="Previous" />
         </button>
         <button
           onClick={handleNextChapter}
-          className="flex flex-1 items-center justify-center gap-2 rounded-xl border border-[var(--border)] bg-[var(--card)] py-4 font-heading text-[var(--text-secondary)] transition-all hover:bg-[var(--accent)]/5 hover:border-[var(--accent)]"
+          className="flex flex-1 items-center justify-center gap-2 rounded-md border border-[var(--border)]/45 bg-[var(--card)]/85 py-2 text-[10px] font-heading text-[var(--text-secondary)] transition-all hover:bg-[var(--bg-secondary)]"
         >
-          <LocalizedText text="Next" /> <ChevronRight size={20} />
+          <LocalizedText text="Next" /> <ChevronRight size={16} />
         </button>
       </div>
     </div>

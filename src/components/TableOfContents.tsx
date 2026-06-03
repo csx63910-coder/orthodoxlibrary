@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import { cn } from "../utils/cn";
 
 type Props = {
   items: { id: string; label: string }[];
@@ -33,7 +34,10 @@ export default function TableOfContents({ items }: Props) {
           <li key={item.id}>
             <a
               href={`#${item.id}`}
-              className={`text-sm ${active === item.id ? "text-[var(--text-secondary)]" : "text-[var(--text-primary)]/80"}`}
+              className={cn(
+                "block rounded-md border border-[var(--border)]/45 bg-[var(--card)]/85 px-2 py-1 text-[10px] text-[var(--text-secondary)] hover:bg-[var(--bg-secondary)]",
+                active === item.id && "border-[var(--accent)] bg-[var(--bg-secondary)]"
+              )}
             >
               {item.label}
             </a>

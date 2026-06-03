@@ -1,28 +1,9 @@
-import { HashRouter, Navigate, Route, Routes } from "react-router-dom";
+import { HashRouter, Routes, Route, Navigate } from "react-router-dom";
 import { ThemeProvider } from "./context/ThemeContext";
 import BackToTop from "./components/BackToTop";
 import CandlePage from "./app/candle/page";
-import CatholicLayout from "./app/catholic/CatholicLayout";
-import CatholicArtPage from "./app/catholic/art/page";
-import CatholicCalendarPage from "./app/catholic/calendar/page";
-import CatholicCatechismPage from "./app/catholic/catechism/page";
-import CatholicDevotionsPage from "./app/catholic/devotions/page";
-import CatholicHomeFaithPage from "./app/catholic/home-faith/page";
-import CatholicMassPage from "./app/catholic/mass/page";
-import CatholicMusicPage from "./app/catholic/music/page";
-import CatholicParishesPage from "./app/catholic/parishes/page";
-import CatholicPrayersPage from "./app/catholic/prayers/page";
-import CatholicResourcesPage from "./app/catholic/resources/page";
-import CatholicSaintsPage from "./app/catholic/saints/page";
-import CatholicScripturePage from "./app/catholic/scripture/page";
-import CatholicDashboardPage from "./app/catholic/page";
 import OrthodoxLayout from "./app/orthodox/OrthodoxLayout";
 import OrthodoxCalendarPage from "./app/orthodox/calendar/page";
-import GreekOrthodoxCalendarPage from "./app/orthodox/calendar/greek-orthodox/page";
-import SerbianOrthodoxCalendarPage from "./app/orthodox/calendar/serbian-orthodox/page";
-import RussianOrthodoxCalendarPage from "./app/orthodox/calendar/russian-orthodox/page";
-import ArmenianOrthodoxCalendarPage from "./app/orthodox/calendar/armenian-orthodox/page";
-import AntiochianOrthodoxCalendarPage from "./app/orthodox/calendar/antiochian-orthodox/page";
 import OrthodoxFastingCalendarPage from "./app/orthodox/calendar/fasting-calendar/page";
 import FeastDaysSaintsPage from "./app/orthodox/calendar/feast-days-saints/page";
 import PaschaCalculatorPage from "./app/orthodox/calendar/pascha-calculator/page";
@@ -44,6 +25,8 @@ import HomeIconCornerGuidePage from "./app/orthodox/icons/home-icon-corner-guide
 import OrthodoxLiturgyPage from "./app/orthodox/liturgy/page";
 import OrthodoxParishesPage from "./app/orthodox/parishes/page";
 import OrthodoxPrayersPage from "./app/orthodox/prayers/page";
+import OrthodoxPhilosophyPage from "./app/orthodox/philosophy/page";
+import OrthodoxArticleDetailPage from "./app/orthodox/philosophy/ArticleDetail";
 import OrthodoxResourcesPage from "./app/orthodox/resources/page";
 import OrthodoxSaintsPage from "./app/orthodox/saints/page";
 import OrthodoxScripturePage from "./app/orthodox/scripture/page";
@@ -59,15 +42,12 @@ import PreparingForConfessionPage from "./app/orthodox/home-worship/preparing-fo
 import PreparingForCommunionPage from "./app/orthodox/home-worship/preparing-for-communion";
 import OrthodoxDashboardPage from "./app/orthodox/page";
 import LandingPage from "./app/page";
-import SharedPage from "./app/shared/page";
 import {
   AdminBibleImportPage,
   BookDetailPage,
-  CatholicDeepIndex,
-  ComparePage,
   ConvertGuidePage,
   CouncilDetailPage,
-  CouncilIndexPage,
+  CouncilsIndexPage,
   FatherDetailPage,
   FathersIndexPage,
   FastingPage,
@@ -80,14 +60,14 @@ import {
   PhilokaliaExcerptsPage,
   PrayerDetailPage,
   PrayerRopeInteractivePage,
-  RosaryInteractivePage,
   SaintDetailPage,
   ScriptureReader,
   SearchPage,
-  SharedRelatedSection,
   TodayDashboard,
   WhatIsOrthodoxyPage,
+  LivePrayerViewPage,
   LiturgyDetailPage,
+  OrthodoxResourceSubPage,
 } from "./app/addonPages";
 import SynaxarionPage from "./app/orthodox/saints/tabs/SynaxarionPage";
 import SaintOfDayPage from "./app/orthodox/saints/tabs/SaintOfDayPage";
@@ -100,16 +80,6 @@ export default function App() {
       <HashRouter>
         <Routes>
           <Route path="/" element={<LandingPage />} />
-          <Route
-            path="/shared"
-            element={
-              <>
-                <SharedPage />
-                <SharedRelatedSection />
-              </>
-            }
-          />
-          <Route path="/shared/compare/:topic" element={<ComparePage />} />
           <Route path="/candle" element={<CandlePage />} />
           <Route path="/glossary" element={<GlossaryIndexPage />} />
           <Route path="/glossary/:termSlug" element={<GlossaryDetailPage />} />
@@ -126,19 +96,16 @@ export default function App() {
             <Route path="scripture/full-bible" element={<FullBiblePage />} />
             <Route path="scripture/daily-readings" element={<DailyScriptureReadingsPage />} />
             <Route path="scripture/commandments" element={<CommandmentsPage />} />
+
             <Route path="scripture/reader" element={<ScriptureReader tradition="orthodox" />} />
             <Route path="scripture/:bookSlug/:chapterNumber" element={<ScriptureReader tradition="orthodox" />} />
             <Route path="calendar" element={<OrthodoxCalendarPage />} />
-            <Route path="calendar/greek-orthodox" element={<GreekOrthodoxCalendarPage />} />
-            <Route path="calendar/serbian-orthodox" element={<SerbianOrthodoxCalendarPage />} />
-            <Route path="calendar/russian-orthodox" element={<RussianOrthodoxCalendarPage />} />
-            <Route path="calendar/armenian-orthodox" element={<ArmenianOrthodoxCalendarPage />} />
-            <Route path="calendar/antiochian-orthodox" element={<AntiochianOrthodoxCalendarPage />} />
             <Route path="calendar/fasting-calendar" element={<OrthodoxFastingCalendarPage />} />
             <Route path="calendar/feast-days-saints" element={<FeastDaysSaintsPage />} />
             <Route path="calendar/pascha-calculator" element={<PaschaCalculatorPage />} />
             <Route path="calendar/feasts/:feastSlug" element={<FeastDetailPage tradition="orthodox" />} />
             <Route path="prayers" element={<OrthodoxPrayersPage />} />
+            <Route path="prayers/live" element={<LivePrayerViewPage />} />
             <Route path="prayers/prayer-rope/interactive" element={<PrayerRopeInteractivePage />} />
             <Route path="prayers/:prayerSlug" element={<PrayerDetailPage tradition="orthodox" />} />
             <Route path="liturgy" element={<OrthodoxLiturgyPage />} />
@@ -160,7 +127,7 @@ export default function App() {
             <Route path="catechism/what-is-orthodoxy" element={<WhatIsOrthodoxyPage />} />
             <Route path="catechism/fathers" element={<FathersIndexPage />} />
             <Route path="catechism/fathers/:fatherSlug" element={<FatherDetailPage />} />
-            <Route path="catechism/councils" element={<CouncilIndexPage />} />
+            <Route path="catechism/councils" element={<CouncilsIndexPage />} />
             <Route path="catechism/councils/:councilSlug" element={<CouncilDetailPage />} />
             <Route path="catechism/philokalia" element={<PhilokaliaExcerptsPage />} />
             <Route path="catechism/mysteries" element={<Navigate to="/orthodox/catechism" replace />} />
@@ -180,36 +147,16 @@ export default function App() {
             <Route path="home-worship/preparing-for-confession" element={<PreparingForConfessionPage />} />
             <Route path="home-worship/preparing-for-communion" element={<PreparingForCommunionPage />} />
             <Route path="parishes" element={<OrthodoxParishesPage />} />
+            <Route path="philosophy" element={<OrthodoxPhilosophyPage />} />
+            <Route path="philosophy/:articleSlug" element={<OrthodoxArticleDetailPage />} />
             <Route path="resources" element={<OrthodoxResourcesPage />} />
+            <Route path="resources/books" element={<OrthodoxResourceSubPage contentKey="resources-books" />} />
+            <Route path="resources/podcasts" element={<OrthodoxResourceSubPage contentKey="resources-podcasts" />} />
+            <Route path="resources/monasteries" element={<OrthodoxResourceSubPage contentKey="resources-monasteries" />} />
+            <Route path="resources/pilgrimages" element={<OrthodoxResourceSubPage contentKey="resources-pilgrimages" />} />
+            <Route path="resources/pdfs" element={<OrthodoxResourceSubPage contentKey="resources-pdfs" />} />
             <Route path="resources/books/:bookSlug" element={<BookDetailPage tradition="orthodox" />} />
             <Route path="deep-links" element={<OrthodoxDeepIndex />} />
-          </Route>
-
-          <Route path="/catholic" element={<CatholicLayout />}>
-            <Route index element={<CatholicDashboardPage />} />
-            <Route path="today" element={<TodayDashboard tradition="catholic" />} />
-            <Route path="fasting" element={<FastingPage tradition="catholic" />} />
-            <Route path="scripture" element={<CatholicScripturePage />} />
-            <Route path="scripture/reader" element={<ScriptureReader tradition="catholic" />} />
-            <Route path="scripture/:bookSlug/:chapterNumber" element={<ScriptureReader tradition="catholic" />} />
-            <Route path="calendar" element={<CatholicCalendarPage />} />
-            <Route path="calendar/feasts/:feastSlug" element={<FeastDetailPage tradition="catholic" />} />
-            <Route path="prayers" element={<CatholicPrayersPage />} />
-            <Route path="prayers/rosary/interactive" element={<RosaryInteractivePage />} />
-            <Route path="prayers/:prayerSlug" element={<PrayerDetailPage tradition="catholic" />} />
-            <Route path="mass" element={<CatholicMassPage />} />
-            <Route path="music" element={<CatholicMusicPage />} />
-            <Route path="art" element={<CatholicArtPage />} />
-            <Route path="catechism" element={<CatholicCatechismPage />} />
-            <Route path="catechism/sacraments/:mysterySlug" element={<MysteryPage tradition="catholic" />} />
-            <Route path="saints" element={<CatholicSaintsPage />} />
-            <Route path="saints/:saintSlug" element={<SaintDetailPage tradition="catholic" />} />
-            <Route path="devotions" element={<CatholicDevotionsPage />} />
-            <Route path="home-faith" element={<CatholicHomeFaithPage />} />
-            <Route path="parishes" element={<CatholicParishesPage />} />
-            <Route path="resources" element={<CatholicResourcesPage />} />
-            <Route path="resources/books/:bookSlug" element={<BookDetailPage tradition="catholic" />} />
-            <Route path="deep-links" element={<CatholicDeepIndex />} />
           </Route>
 
           <Route path="*" element={<Navigate to="/" replace />} />

@@ -11,11 +11,11 @@ export type IconSaintEntry = {
   displayName: string;
   saintSlug?: string;
   category: "saint" | "apostle" | "prophet" | "angel" | "christ" | "theotokos" | "trinity" | "feast" | "scene";
-  tradition: "orthodox" | "catholic" | "shared";
+  tradition: "orthodox" | "shared";
   sampleImages: string[];
 };
 
-const BASE =
+const BASE = 
   "https://raw.githubusercontent.com/MachineLearningVisionRG/ICONSAINT/main/Dataset";
 
 export function iconSaintUrl(folder: string, filename: string): string {

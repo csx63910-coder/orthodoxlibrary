@@ -1,14 +1,16 @@
 import { NavLink } from "react-router-dom";
 import { cn } from "../utils/cn";
+import LocalizedText from "./LocalizedText";
 
 const tabs = [
-  { label: "Lives of the Saints (Synaxarion)", to: "/orthodox/saints/synaxarion" },
-  { label: "Saint of the Day", to: "/orthodox/saints/saint-of-the-day" },
-  { label: "Name Saint", to: "/orthodox/saints/name-day-lookup" },
-  { label: "Patron Saints", to: "/orthodox/saints/patron-saints" },
+  { label: "Recommended Books", to: "/orthodox/resources/books" },
+  { label: "Podcasts & Lectures", to: "/orthodox/resources/podcasts" },
+  { label: "Monastery Directory", to: "/orthodox/resources/monasteries" },
+  { label: "Pilgrimage Sites", to: "/orthodox/resources/pilgrimages" },
+  { label: "Downloadable PDFs", to: "/orthodox/resources/pdfs" },
 ];
 
-export default function OrthodoxSaintTabs() {
+export default function OrthodoxResourceTabs() {
   return (
     <div className="mt-4 flex flex-wrap gap-2">
       {tabs.map((tab) => (
@@ -22,7 +24,7 @@ export default function OrthodoxSaintTabs() {
             )
           }
         >
-          {tab.label}
+          <LocalizedText text={tab.label} />
         </NavLink>
       ))}
     </div>

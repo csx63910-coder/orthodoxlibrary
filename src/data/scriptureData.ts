@@ -1,4 +1,4 @@
-import { getLocalized, type LocalizedString } from "../utils/cn";
+import { type LocalizedString } from "../utils/cn";
 
 export type Verse = { verse: number; text: string | LocalizedString };
 export type Chapter = { chapter: number; verses: Verse[] };
@@ -278,14 +278,6 @@ export const orthodoxTranslations: TranslationData[] = [
   { translation: "NKJV", books: loadedBooks },
   { translation: "OSB", books: loadedBooks },
   { translation: "RSV", books: loadedBooks },
-];
-
-export const catholicTranslations: TranslationData[] = [
-  { translation: "Douay-Rheims", books: loadedBooks },
-  { translation: "King James Version", books: loadedBooks },
-  { translation: "RSV-CE", books: loadedBooks },
-  { translation: "NAB", books: loadedBooks },
-  { translation: "Vulgate (Latin)", books: loadedBooks },
 ];
 
 export const scriptureReferencePreview: Record<string, string> = {

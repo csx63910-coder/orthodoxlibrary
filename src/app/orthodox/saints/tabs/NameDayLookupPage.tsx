@@ -1,11 +1,11 @@
 import { useEffect, useState } from "react";
 import { Search, BookCopy, ExternalLink } from "lucide-react";
 import { Link } from "react-router-dom";
-import { useTranslation } from "react-i18next";
 import Breadcrumbs from "../../../../components/Breadcrumbs";
 import Card from "../../../../components/Card";
 import OrthodoxSaintTabs from "../../../../components/OrthodoxSaintTabs";
 import LocalizedText from "../../../../components/LocalizedText";
+import { getLocalized } from "../../../../utils/cn";
 import i18next from "i18next";
 
 // Mapping of Greeklish/Common variants to search terms
@@ -42,7 +42,6 @@ const NAME_VARIANTS: Record<string, string[]> = {
 };
 
 export default function NameDayLookupPage() {
-  const { t } = useTranslation();
   const [query, setQuery] = useState("");
   const [results, setResults] = useState<any[]>([]);
   const [nameSaintsData, setNameSaintsData] = useState<any[]>([]);

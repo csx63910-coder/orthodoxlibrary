@@ -5,7 +5,9 @@ import Card from "../../../components/Card";
 import SectionDivider from "../../../components/SectionDivider";
 import LocalizedText from "../../../components/LocalizedText";
 import { orthodoxContent } from "../../siteData";
-import { Church, ScrollText, History, Landmark, Sparkles, Languages } from "lucide-react";
+import { Church, History, Landmark, Sparkles, Languages } from "lucide-react";
+
+const slugify = (text: string) => text.toLowerCase().replace(/ & /g, "-").replace(/\s+/g, "-").replace(/[()]/g, "");
 
 export default function OrthodoxLiturgyPage() {
   const { t } = useTranslation();
@@ -37,8 +39,9 @@ export default function OrthodoxLiturgyPage() {
         <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
           {content.items.map((item, idx) => {
             const Icon = icons[idx % icons.length];
+            const target = item.path || slugify(item.title);
             return (
-              <Link key={item.path} to={item.path} className="group">
+              <Link key={target} to={target} className="group">
                 <Card className="h-full transition-all duration-300 hover:border-[var(--accent)] hover:shadow-lg group-hover:-translate-y-1">
                   <div className="flex flex-col h-full">
                     <div className="mb-4 flex h-12 w-12 items-center justify-center rounded-xl bg-[var(--accent)]/10 text-[var(--accent)]">

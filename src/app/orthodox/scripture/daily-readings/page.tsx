@@ -4,7 +4,7 @@ import Breadcrumbs from "../../../../components/Breadcrumbs";
 import Card from "../../../../components/Card";
 import SectionDivider from "../../../../components/SectionDivider";
 import LocalizedText from "../../../../components/LocalizedText";
-import { bibleService, BibleBook } from "../../../../services/BibleService";
+import { bibleService } from "../../../../services/BibleService";
 
 type ReadingPick = {
   translationId: string;

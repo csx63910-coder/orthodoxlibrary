@@ -72,12 +72,6 @@ body {
   background-size: 18px 18px;
 }
 
-.catholic-pattern {
-  background-image: radial-gradient(circle at 100% 50%, color-mix(in srgb, var(--accent) 10%, transparent) 5%, transparent 6%),
-    radial-gradient(circle at 0 50%, color-mix(in srgb, var(--accent) 10%, transparent) 5%, transparent 6%);
-  background-size: 28px 22px;
-}
-
 .drop-cap::first-letter {
   font-family: "Uncial Antiqua", serif;
   float: left;

@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react";
-import { useTranslation } from "react-i18next";
 import Breadcrumbs from "../../../../components/Breadcrumbs";
 import Card from "../../../../components/Card";
 import SectionDivider from "../../../../components/SectionDivider";
@@ -9,8 +8,7 @@ import { getLocalized } from "../../../../utils/cn";
 import i18next from "i18next";
 
 export default function SaintOfDayPage() {
-  const { t } = useTranslation();
-  const [data, setData] = useState<any>(null);
+  const [saint, setSaint] = useState<any>(null);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
@@ -31,7 +29,7 @@ export default function SaintOfDayPage() {
             const monthData = await localRes.json();
             const dayData = monthData.find((d: any) => d.day === day);
             if (dayData) {
-              setData(dayData);
+              setSaint(dayData);
               setLoading(false);
               return;
             }
@@ -42,7 +40,7 @@ export default function SaintOfDayPage() {
 
         const res = await fetch(`https://orthocal.info/api/gregorian/${y}/${m}/${day}/`);
         const json = await res.json();
-        setData(json);
+        setSaint(json);
       } catch (e) {
         console.error(e);
       } finally {
@@ -72,20 +70,20 @@ export default function SaintOfDayPage() {
           <div className="mt-12 text-center animate-pulse text-[var(--text-secondary)]">
             <LocalizedText text="Fetching today's commemoration..." />
           </div>
-        ) : data ? (
+        ) : saint ? (
           <div className="mt-8 space-y-6">
             <div className="text-center">
               <p className="text-sm font-semibold uppercase tracking-widest text-[var(--accent)]">
                 <LocalizedText text="Today's Feast" />
               </p>
-              <h2 className="font-heading text-3xl text-[var(--text-secondary)] mt-2">{data.summary_title}</h2>
+              <h2 className="font-heading text-3xl text-[var(--text-secondary)] mt-2">{saint.summary_title}</h2>
               <p className="mt-1 text-[var(--text-primary)]/60">
                 {new Date().toLocaleDateString(undefined, { month: "long", day: "numeric", year: "numeric" })}
               </p>
             </div>
 
-            {data.stories && data.stories.length > 0 ? (
-              data.stories.map((story: any, idx: number) => (
+            {saint.stories && saint.stories.length > 0 ? (
+              saint.stories.map((story: any, idx: number) => (
                 <Card key={idx} className={idx === 0 ? "border-l-4 border-l-[var(--accent)]" : ""}>
                   <h3 className="font-heading text-xl text-[var(--text-secondary)]">{story.title}</h3>
                   <div className="mt-4 text-[var(--text-primary)]/90 leading-relaxed" dangerouslySetInnerHTML={{ __html: story.story }} />
@@ -101,7 +99,7 @@ export default function SaintOfDayPage() {
 
             <SectionDivider label={getLocalized('Daily Readings')} />
             <div className="grid gap-4 md:grid-cols-2">
-              {data.readings.map((reading: any, idx: number) => (
+              {saint.readings && saint.readings.map((reading: any, idx: number) => (
                 <Card key={idx}>
                   <div className="flex items-center justify-between">
                     <span className="text-xs font-bold uppercase text-[var(--accent)]">{reading.source}</span>

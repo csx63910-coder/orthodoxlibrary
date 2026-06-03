@@ -1,11 +1,8 @@
-import { useTranslation } from "react-i18next";
 import Breadcrumbs from "../../../../components/Breadcrumbs";
 import BibleReader from "../../../../components/BibleReader";
 import LocalizedText from "../../../../components/LocalizedText";
 
 export default function OrthodoxNewTestamentPage() {
-  const { t } = useTranslation();
-
   return (
     <main className="orthodox-pattern min-h-screen px-4 py-8 md:px-8">
       <div className="mx-auto w-full max-w-6xl">

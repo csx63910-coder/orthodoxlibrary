@@ -2,6 +2,7 @@ import { useState } from "react";
 import { Link } from "react-router-dom";
 import Card from "./Card";
 import SectionDivider from "./SectionDivider";
+import { cn } from "../utils/cn";
 import {
   iconSaintEntries,
   iconSaintUrl,
@@ -27,19 +28,16 @@ export default function IconSaintGallery({
   pageTitle,
   subtitle,
 }: {
-  tradition: "orthodox" | "catholic" | "shared";
+  tradition: "orthodox";
   pageTitle: string;
   subtitle: string;
 }) {
   const [filter, setFilter] = useState<FilterKey>("all");
   const [lightbox, setLightbox] = useState<string | null>(null);
 
-  const entries =
-    tradition === "shared"
-      ? iconSaintEntries
-      : iconSaintEntries.filter(
-          (e) => e.tradition === tradition || e.tradition === "shared"
-        );
+  const entries = iconSaintEntries.filter(
+    (e) => e.tradition === tradition || e.tradition === "shared"
+  );
 
   const filtered =
     filter === "all" ? entries : entries.filter((e) => e.category === filter);
@@ -49,7 +47,7 @@ export default function IconSaintGallery({
   ).sort();
 
   return (
-    <main className={`${tradition === 'orthodox' ? 'orthodox-pattern' : tradition === 'catholic' ? 'catholic-pattern' : 'sacred-surface'} min-h-screen px-4 py-8 md:px-8`}>
+    <main className="orthodox-pattern min-h-screen px-4 py-8 md:px-8">
       <div className="mx-auto w-full max-w-6xl">
         <h1 className="font-heading text-4xl text-[var(--text-secondary)] md:text-5xl">
           {pageTitle}
@@ -59,11 +57,10 @@ export default function IconSaintGallery({
         <div className="mt-6 flex flex-wrap gap-2">
         <button
           onClick={() => setFilter("all")}
-          className={`rounded-md border px-3 py-1.5 text-sm ${
-            filter === "all"
-              ? "border-[var(--accent)] text-[var(--text-secondary)]"
-              : "border-[var(--border)]/40 text-[var(--text-primary)]/85"
-          }`}
+          className={cn(
+            "rounded-md border border-[var(--border)]/45 bg-[var(--card)]/85 px-2 py-1 text-[10px] text-[var(--text-secondary)] hover:bg-[var(--bg-secondary)]",
+            filter === "all" && "border-[var(--accent)] bg-[var(--bg-secondary)]"
+          )}
         >
           All
         </button>
@@ -71,11 +68,10 @@ export default function IconSaintGallery({
           <button
             key={cat}
             onClick={() => setFilter(cat)}
-            className={`rounded-md border px-3 py-1.5 text-sm ${
-              filter === cat
-                ? "border-[var(--accent)] text-[var(--text-secondary)]"
-                : "border-[var(--border)]/40 text-[var(--text-primary)]/85"
-            }`}
+            className={cn(
+              "rounded-md border border-[var(--border)]/45 bg-[var(--card)]/85 px-2 py-1 text-[10px] text-[var(--text-secondary)] hover:bg-[var(--bg-secondary)]",
+              filter === cat && "border-[var(--accent)] bg-[var(--bg-secondary)]"
+            )}
           >
             {categoryLabels[cat]}
           </button>
@@ -104,7 +100,7 @@ export default function IconSaintGallery({
               />
               {entry.sampleImages.length > 1 && (
                 <div className="absolute bottom-2 right-2 flex gap-1">
-                  {entry.sampleImages.slice(0, 3).map((img, idx) => (
+                  {entry.sampleImages.slice(0, 3).map((img) => (
                     <button
                       key={img}
                       className="h-2 w-2 rounded-full bg-white/70"

@@ -51,7 +51,7 @@ export default function CrossReferenceLink({ to, label, type, preview, fullChapt
           <div className="xref-arrow" />
           <div className="text-[var(--text-primary)]/90">{preview}</div>
           {fullChapterLink && (
-            <Link to={fullChapterLink} className="mt-2 inline-block text-[var(--text-secondary)] underline underline-offset-4">
+            <Link to={fullChapterLink} className="mt-2 inline-block rounded-md border border-[var(--border)]/45 bg-[var(--card)]/85 px-2 py-1 text-[10px] text-[var(--text-secondary)] hover:bg-[var(--bg-secondary)]">
               open full chapter →
             </Link>
           )}

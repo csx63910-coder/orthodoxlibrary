@@ -1,7 +1,6 @@
 import { useEffect, useState, useCallback, useMemo } from "react";
 import { Search, BookOpen, ChevronLeft, ChevronRight } from "lucide-react";
 import { useSearchParams } from "react-router-dom";
-import { useTranslation } from "react-i18next";
 import Breadcrumbs from "../../../../components/Breadcrumbs";
 import Card from "../../../../components/Card";
 import OrthodoxSaintTabs from "../../../../components/OrthodoxSaintTabs";
@@ -11,7 +10,6 @@ import orthodoxCalendarData from "../../../../data/orthodox_calendar_data.json";
 import i18next from "i18next";
 
 export default function SynaxarionPage() {
-  const { t } = useTranslation();
   const [searchParams, setSearchParams] = useSearchParams();
   const [data, setData] = useState<any>(null);
   const [loading, setLoading] = useState(false);

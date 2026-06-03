@@ -19,8 +19,8 @@ export default function ChantTabs() {
           to={tab.to}
           className={({ isActive }) =>
             cn(
-              "rounded-md border px-3 py-2 text-sm",
-              isActive ? "border-[var(--accent)] text-[var(--text-secondary)]" : "border-[var(--border)]/40 text-[var(--text-primary)]/85"
+              "rounded-md border border-[var(--border)]/45 bg-[var(--card)]/85 px-3 py-2 text-[10px] text-[var(--text-secondary)] hover:bg-[var(--bg-secondary)]",
+              isActive && "border-[var(--accent)] bg-[var(--bg-secondary)]"
             )
           }
         >

@@ -12,7 +12,7 @@ export default function Breadcrumbs({ items }: Props) {
         {items.map((item, index) => (
           <li key={item.to} className="flex items-center gap-2">
             {index > 0 && <span className="text-[var(--text-secondary)]/70">&gt;</span>}
-            <Link to={item.to} className="hover:text-[var(--text-secondary)] hover:underline">
+            <Link to={item.to} className="rounded-md border border-[var(--border)]/45 bg-[var(--card)]/85 px-2 py-0.5 text-[10px] text-[var(--text-secondary)] hover:bg-[var(--bg-secondary)]">
               {getLocalized(item.label)}
             </Link>
           </li>

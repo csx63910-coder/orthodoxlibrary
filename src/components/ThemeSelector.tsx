@@ -2,6 +2,7 @@ import { Check, Palette } from "lucide-react";
 import { useState } from "react";
 import { useTranslation } from "react-i18next";
 import { useTheme } from "../context/ThemeContext";
+import { cn } from "../utils/cn";
 
 export default function ThemeSelector() {
   const { t } = useTranslation();
@@ -15,9 +16,9 @@ export default function ThemeSelector() {
         aria-expanded={open}
         aria-label={t('sidebar.theme')}
         onClick={() => setOpen((prev) => !prev)}
-        className="inline-flex items-center gap-2 rounded-lg border border-[var(--border)]/50 bg-[var(--card)] px-3 py-2 text-sm"
+        className="inline-flex items-center gap-2 rounded-md border border-[var(--border)]/45 bg-[var(--card)]/85 px-2 py-1 text-[10px] text-[var(--text-secondary)] hover:bg-[var(--bg-secondary)]"
       >
-        <Palette size={16} />
+        <Palette size={14} />
         {t('sidebar.theme')}
       </button>
       {open && (
@@ -37,7 +38,10 @@ export default function ThemeSelector() {
                     setTheme(theme.value);
                     setOpen(false);
                   }}
-                  className="flex w-full items-center justify-between rounded-lg border border-transparent px-2 py-2 text-left hover:border-[var(--border)]/50"
+                  className={cn(
+                    "flex w-full items-center justify-between rounded-md border border-[var(--border)]/45 bg-[var(--card)]/85 px-2 py-2 text-left hover:bg-[var(--bg-secondary)]",
+                    selected && "border-[var(--accent)]"
+                  )}
                 >
                   <div>
                     <p className="text-sm font-semibold">{theme.name}</p>

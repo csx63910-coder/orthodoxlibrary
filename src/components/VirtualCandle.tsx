@@ -23,8 +23,7 @@ export default function VirtualCandle() {
         />
         <button
           onClick={() => setLit(true)}
-          className="rounded-lg px-4 py-3 font-semibold text-white"
-          style={{ backgroundImage: "linear-gradient(90deg, var(--button-from), var(--button-to))" }}
+          className="rounded-md border border-[var(--border)]/45 bg-[var(--card)]/85 px-4 py-2 text-[10px] font-semibold text-[var(--text-secondary)] hover:bg-[var(--bg-secondary)]"
         >
           Light a Candle
         </button>

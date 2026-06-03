@@ -27,8 +27,8 @@ export default function Header({ onOpenSidebar }: HeaderProps) {
               to={path}
               className={({ isActive }) =>
                 cn(
-                  "inline-flex items-center gap-1 rounded-md px-2.5 py-1.5 text-sm xl:px-3 xl:py-2",
-                  isActive ? "bg-[var(--card)] text-[var(--text-secondary)]" : "text-[var(--text-primary)]/90"
+                  "inline-flex items-center gap-1 rounded-md border border-[var(--border)]/45 bg-[var(--card)]/85 px-2.5 py-1.5 text-[10px] text-[var(--text-secondary)] hover:bg-[var(--bg-secondary)]",
+                  isActive && "border-[var(--accent)] bg-[var(--bg-secondary)]"
                 )
               }
             >
@@ -43,7 +43,7 @@ export default function Header({ onOpenSidebar }: HeaderProps) {
           {onOpenSidebar && (
             <button
               onClick={onOpenSidebar}
-              className="rounded-md border border-[var(--border)]/50 p-2 md:hidden"
+              className="rounded-md border border-[var(--border)]/45 bg-[var(--card)]/85 p-2 text-[var(--text-secondary)] hover:bg-[var(--bg-secondary)] md:hidden"
               aria-label="Open menu"
             >
               <Menu size={18} />

@@ -32,7 +32,7 @@ export default function LanguageTranslator() {
     <div className="relative">
       <button
         onClick={() => setIsOpen(!isOpen)}
-        className="flex items-center gap-2 rounded-full border border-[var(--border)]/50 bg-[var(--card)]/50 px-3 py-1.5 text-xs font-medium text-[var(--text-secondary)] transition-all hover:border-[var(--accent)]/50 hover:bg-[var(--card)] shadow-sm"
+        className="flex items-center gap-2 rounded-md border border-[var(--border)]/45 bg-[var(--card)]/85 px-2 py-1 text-[10px] text-[var(--text-secondary)] hover:bg-[var(--bg-secondary)]"
         title={t('sidebar.language')}
       >
         <Languages size={14} className="text-[var(--accent)]" />
