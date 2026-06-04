@@ -1,0 +1,398 @@
+[
+  {
+    "name": "1 Хроника",
+    "file": "1_Chronicles.json",
+    "slug": "1-chronicles",
+    "chapterCount": 29
+  },
+  {
+    "name": "1 Коринфянам",
+    "file": "1_Corinthians.json",
+    "slug": "1-corinthians",
+    "chapterCount": 16
+  },
+  {
+    "name": "1 Джон",
+    "file": "1_John.json",
+    "slug": "1-john",
+    "chapterCount": 5
+  },
+  {
+    "name": "1 король",
+    "file": "1_Kings.json",
+    "slug": "1-kings",
+    "chapterCount": 22
+  },
+  {
+    "name": "1 Питер",
+    "file": "1_Peter.json",
+    "slug": "1-peter",
+    "chapterCount": 5
+  },
+  {
+    "name": "1 Самуэль",
+    "file": "1_Samuel.json",
+    "slug": "1-samuel",
+    "chapterCount": 31
+  },
+  {
+    "name": "1 Фессалоникийцам",
+    "file": "1_Thessalonians.json",
+    "slug": "1-thessalonians",
+    "chapterCount": 5
+  },
+  {
+    "name": "1 Тимофей",
+    "file": "1_Timothy.json",
+    "slug": "1-timothy",
+    "chapterCount": 6
+  },
+  {
+    "name": "2 Паралипоменон",
+    "file": "2_Chronicles.json",
+    "slug": "2-chronicles",
+    "chapterCount": 36
+  },
+  {
+    "name": "2 Коринфянам",
+    "file": "2_Corinthians.json",
+    "slug": "2-corinthians",
+    "chapterCount": 13
+  },
+  {
+    "name": "2 Иоанна",
+    "file": "2_John.json",
+    "slug": "2-john",
+    "chapterCount": 1
+  },
+  {
+    "name": "2 короля",
+    "file": "2_Kings.json",
+    "slug": "2-kings",
+    "chapterCount": 25
+  },
+  {
+    "name": "2 Питер",
+    "file": "2_Peter.json",
+    "slug": "2-peter",
+    "chapterCount": 3
+  },
+  {
+    "name": "2 Самуэль",
+    "file": "2_Samuel.json",
+    "slug": "2-samuel",
+    "chapterCount": 24
+  },
+  {
+    "name": "2 Фессалоникийцам",
+    "file": "2_Thessalonians.json",
+    "slug": "2-thessalonians",
+    "chapterCount": 3
+  },
+  {
+    "name": "2 Тимоти",
+    "file": "2_Timothy.json",
+    "slug": "2-timothy",
+    "chapterCount": 4
+  },
+  {
+    "name": "3 Джон",
+    "file": "3_John.json",
+    "slug": "3-john",
+    "chapterCount": 1
+  },
+  {
+    "name": "Действия",
+    "file": "Acts.json",
+    "slug": "acts",
+    "chapterCount": 28
+  },
+  {
+    "name": "Амос",
+    "file": "Amos.json",
+    "slug": "amos",
+    "chapterCount": 9
+  },
+  {
+    "name": "Колоссянам",
+    "file": "Colossians.json",
+    "slug": "colossians",
+    "chapterCount": 4
+  },
+  {
+    "name": "Дэниел",
+    "file": "Daniel.json",
+    "slug": "daniel",
+    "chapterCount": 12
+  },
+  {
+    "name": "Второзаконие",
+    "file": "Deuteronomy.json",
+    "slug": "deuteronomy",
+    "chapterCount": 34
+  },
+  {
+    "name": "Экклезиаст",
+    "file": "Ecclesiastes.json",
+    "slug": "ecclesiastes",
+    "chapterCount": 12
+  },
+  {
+    "name": "Ефесянам",
+    "file": "Ephesians.json",
+    "slug": "ephesians",
+    "chapterCount": 6
+  },
+  {
+    "name": "Эстер",
+    "file": "Esther.json",
+    "slug": "esther",
+    "chapterCount": 10
+  },
+  {
+    "name": "Исход",
+    "file": "Exodus.json",
+    "slug": "exodus",
+    "chapterCount": 40
+  },
+  {
+    "name": "Иезекииль",
+    "file": "Ezekiel.json",
+    "slug": "ezekiel",
+    "chapterCount": 48
+  },
+  {
+    "name": "Эзра",
+    "file": "Ezra.json",
+    "slug": "ezra",
+    "chapterCount": 10
+  },
+  {
+    "name": "Галатам",
+    "file": "Galatians.json",
+    "slug": "galatians",
+    "chapterCount": 6
+  },
+  {
+    "name": "Бытие",
+    "file": "Genesis.json",
+    "slug": "genesis",
+    "chapterCount": 50
+  },
+  {
+    "name": "Аввакум",
+    "file": "Habakkuk.json",
+    "slug": "habakkuk",
+    "chapterCount": 3
+  },
+  {
+    "name": "Аггей",
+    "file": "Haggai.json",
+    "slug": "haggai",
+    "chapterCount": 2
+  },
+  {
+    "name": "евреи",
+    "file": "Hebrews.json",
+    "slug": "hebrews",
+    "chapterCount": 13
+  },
+  {
+    "name": "Осия",
+    "file": "Hosea.json",
+    "slug": "hosea",
+    "chapterCount": 14
+  },
+  {
+    "name": "Исайя",
+    "file": "Isaiah.json",
+    "slug": "isaiah",
+    "chapterCount": 66
+  },
+  {
+    "name": "Джеймс",
+    "file": "James.json",
+    "slug": "james",
+    "chapterCount": 5
+  },
+  {
+    "name": "Иеремия",
+    "file": "Jeremiah.json",
+    "slug": "jeremiah",
+    "chapterCount": 52
+  },
+  {
+    "name": "Работа",
+    "file": "Job.json",
+    "slug": "job",
+    "chapterCount": 42
+  },
+  {
+    "name": "Джоэл",
+    "file": "Joel.json",
+    "slug": "joel",
+    "chapterCount": 3
+  },
+  {
+    "name": "Джон",
+    "file": "John.json",
+    "slug": "john",
+    "chapterCount": 21
+  },
+  {
+    "name": "Иона",
+    "file": "Jonah.json",
+    "slug": "jonah",
+    "chapterCount": 4
+  },
+  {
+    "name": "Джошуа",
+    "file": "Joshua.json",
+    "slug": "joshua",
+    "chapterCount": 24
+  },
+  {
+    "name": "Джуд",
+    "file": "Jude.json",
+    "slug": "jude",
+    "chapterCount": 1
+  },
+  {
+    "name": "Судьи",
+    "file": "Judges.json",
+    "slug": "judges",
+    "chapterCount": 21
+  },
+  {
+    "name": "Плач",
+    "file": "Lamentations.json",
+    "slug": "lamentations",
+    "chapterCount": 5
+  },
+  {
+    "name": "Левит",
+    "file": "Leviticus.json",
+    "slug": "leviticus",
+    "chapterCount": 27
+  },
+  {
+    "name": "Люк",
+    "file": "Luke.json",
+    "slug": "luke",
+    "chapterCount": 24
+  },
+  {
+    "name": "Малачи",
+    "file": "Malachi.json",
+    "slug": "malachi",
+    "chapterCount": 4
+  },
+  {
+    "name": "Отметка",
+    "file": "Mark.json",
+    "slug": "mark",
+    "chapterCount": 16
+  },
+  {
+    "name": "Мэтью",
+    "file": "Matthew.json",
+    "slug": "matthew",
+    "chapterCount": 28
+  },
+  {
+    "name": "Мика",
+    "file": "Micah.json",
+    "slug": "micah",
+    "chapterCount": 7
+  },
+  {
+    "name": "Наум",
+    "file": "Nahum.json",
+    "slug": "nahum",
+    "chapterCount": 3
+  },
+  {
+    "name": "Неемия",
+    "file": "Nehemiah.json",
+    "slug": "nehemiah",
+    "chapterCount": 13
+  },
+  {
+    "name": "Числа",
+    "file": "Numbers.json",
+    "slug": "numbers",
+    "chapterCount": 36
+  },
+  {
+    "name": "Обадия",
+    "file": "Obadiah.json",
+    "slug": "obadiah",
+    "chapterCount": 1
+  },
+  {
+    "name": "Филимон",
+    "file": "Philemon.json",
+    "slug": "philemon",
+    "chapterCount": 1
+  },
+  {
+    "name": "Филиппийцы",
+    "file": "Philippians.json",
+    "slug": "philippians",
+    "chapterCount": 4
+  },
+  {
+    "name": "Пословицы",
+    "file": "Proverbs.json",
+    "slug": "proverbs",
+    "chapterCount": 31
+  },
+  {
+    "name": "Псалмы",
+    "file": "Psalms.json",
+    "slug": "psalms",
+    "chapterCount": 150
+  },
+  {
+    "name": "Откровение",
+    "file": "Revelation.json",
+    "slug": "revelation",
+    "chapterCount": 22
+  },
+  {
+    "name": "римляне",
+    "file": "Romans.json",
+    "slug": "romans",
+    "chapterCount": 16
+  },
+  {
+    "name": "Рут",
+    "file": "Ruth.json",
+    "slug": "ruth",
+    "chapterCount": 4
+  },
+  {
+    "name": "Песня Соломона",
+    "file": "Solomon's_Song.json",
+    "slug": "solomons-song",
+    "chapterCount": 8
+  },
+  {
+    "name": "Тит",
+    "file": "Titus.json",
+    "slug": "titus",
+    "chapterCount": 3
+  },
+  {
+    "name": "Захария",
+    "file": "Zechariah.json",
+    "slug": "zechariah",
+    "chapterCount": 14
+  },
+  {
+    "name": "Софония",
+    "file": "Zephaniah.json",
+    "slug": "zephaniah",
+    "chapterCount": 3
+  }
+]
