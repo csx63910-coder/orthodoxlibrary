@@ -61,6 +61,7 @@ export const orthodoxSections: SidebarSection[] = [
     icon: HandHeart,
     subItems: [
       { title: "Live Prayer", path: "/orthodox/prayers/live" },
+      { title: "Morning Prayers", path: "/orthodox/prayers/morning-prayers" },
       { title: "Evening Prayers", path: "/orthodox/prayers/before-sleep" },
       { title: "Midnight Office", path: "/orthodox/prayers/compline" },
       { title: "Akathist Hymns", path: "/orthodox/prayers/akathist-to-theotokos" },
