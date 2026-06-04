@@ -28,7 +28,7 @@ export type PrayerEntry = {
   history?: string[] | LocalizedString[];
   when?: string | LocalizedString;
   rubrics?: string | LocalizedString;
-  related: string[];
+  related?: string[];
 };
 
 export type FeastEntry = {
@@ -451,7 +451,16 @@ export const basePrayers: PrayerEntry[] = [
   },
 ];
 
-export const prayers: PrayerEntry[] = [...basePrayers, ...orthodoxDailyPrayers];
+// Merge base prayers and imported orthodoxDailyPrayers, deduplicating by `slug`.
+export const prayers: PrayerEntry[] = (() => {
+  const combined = [...basePrayers, ...orthodoxDailyPrayers];
+  const map = new Map<string, PrayerEntry>();
+  for (const p of combined) {
+    // keep the last occurrence for a given slug (orthodoxDailyPrayers will override base)
+    map.set(p.slug, p);
+  }
+  return Array.from(map.values());
+})();
 
 export const feasts: FeastEntry[] = [
   {
