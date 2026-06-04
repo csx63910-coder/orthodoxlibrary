@@ -1,0 +1,391 @@
+[
+  {
+    "category": {
+      "en": "Philosophy",
+      "el": "Φιλοσοφία",
+      "ru": "Философия"
+    },
+    "description": {
+      "en": "Exploration of philosophical topics from an Orthodox perspective.",
+      "el": "Εξερεύνηση φιλοσοφικών θεμάτων από μια Ορθόδοξη προοπτική.",
+      "ru": "Исследование философских тем с православной точки зрения."
+    },
+    "articles": [
+      {
+        "title": {
+          "en": "NIHILISM: The Root of the Revolution of the Modern Age",
+          "el": "ΜΗΔΕΝΙΣΜΟΣ: Η Ρίζα της Επανάστασης της Σύγχρονης Εποχής",
+          "ru": "НИГИЛИЗМ: Корень революции современности"
+        },
+        "author": { "en": "Eugene (Fr. Seraphim) Rose", "el": "Eugene (π. Σεραφείμ) Rose", "ru": "Юджин (о. Серафим) Роуз" },
+        "slug": "nihilism-seraphim-rose",
+        "dataPath": "/data/oodegr/philosophy/nihilism-seraphim-rose.json",
+        "summary": { "en": "An examination of Nihilism as the basic philosophy of the 20th century.", "el": "Μια εξέταση του Μηδενισμού ως βασικής φιλοσοφίας του 20ού αιώνα.", "ru": "Исследование нигилизма как основной философии XX века." }
+      },
+      {
+        "title": { "en": "The Limits of Reason", "el": "Τα Όρια της Λογικής", "ru": "Пределы разума" },
+        "author": { "en": "Clark Carlton", "el": "Clark Carlton", "ru": "Кларк Карлтон" },
+        "slug": "limits-of-reason",
+        "dataPath": "/data/oodegr/philosophy/limits-of-reason.json",
+        "summary": { "en": "An analysis of the faculty of reason and its limitations.", "el": "Μια ανάλυση της ικανότητας της λογικής και των περιορισμών της.", "ru": "Анализ способности разума и его ограничений." }
+      },
+      {
+        "title": { "en": "The Mystery of Providence", "el": "Το Μυστήριο της Πρόνοιας", "ru": "Тайна Промысла" },
+        "author": { "en": "Fr. Stephen Freeman", "el": "π. Stephen Freeman", "ru": "о. Стивен Фриман" },
+        "slug": "mystery-of-providence",
+        "dataPath": "/data/oodegr/philosophy/mystery-of-providence.json",
+        "summary": { "en": "How God works in all things for our salvation.", "el": "Πώς ο Θεός ενεργεί σε όλα τα πράγματα για τη σωτηρία μας.", "ru": "Как Бог действует во всем для нашего спасения." }
+      }
+    ]
+  },
+  {
+    "category": {
+      "en": "Dogmatics & Theosis",
+      "el": "Δογματική & Θέωση",
+      "ru": "Догматика и обожение"
+    },
+    "description": {
+      "en": "Core Orthodox doctrines and the goal of human life.",
+      "el": "Βασικά Ορθόδοξα δόγματα και ο σκοπός της ανθρώπινης ζωής.",
+      "ru": "Основные православные догматы и цель человеческой жизни."
+    },
+    "articles": [
+      {
+        "title": { "en": "Knowledge of God", "el": "Γνώση του Θεού", "ru": "Познание Бога" },
+        "author": { "en": "Archimandrite Sophrony Sakharov", "el": "Αρχιμανδρίτης Σωφρόνιος Σαχάρωφ", "ru": "Архимандрит Софроний Сахаров" },
+        "slug": "knowledge-of-god-sophrony",
+        "dataPath": "/data/oodegr/dogmatics/knowledge-of-god.json",
+        "summary": { "en": "The human spirit's hunger for primordial knowledge of Being.", "el": "Η πείνα του ανθρώπινου πνεύματος για την αρχέγονη γνώση του Είναι.", "ru": "Жажда человеческого духа к первоначальному познанию Бытия." }
+      },
+      {
+        "title": { "en": "Theosis: Partaking of the Divine Nature", "el": "Θέωση: Συμμετοχή στη Θεία Φύση", "ru": "Обожение: Причастие Божественной природе" },
+        "author": { "en": "OODE", "el": "ΟΟΔΕ", "ru": "ООДЕ" },
+        "slug": "theosis-divine-nature",
+        "dataPath": "/data/oodegr/dogmatics/theosis.json",
+        "summary": { "en": "The ultimate aim of the Christian life in Orthodoxy.", "el": "Ο απώτερος σκοπός της χριστιανικής ζωής στην Ορθοδοξία.", "ru": "Конечная цель христианской жизни в православии." }
+      }
+    ]
+  },
+  {
+    "category": {
+      "en": "Islam & Oriental Religions",
+      "el": "Ισλάμ & Ανατολικές Θρησκείες",
+      "ru": "Ислам и восточные религии"
+    },
+    "description": {
+      "en": "Orthodox responses to Islam, Buddhism, Hinduism, and the New Age.",
+      "el": "Ορθόδοξες απαντήσεις στο Ισλάμ, τον Βουδισμό, τον Ινδουισμό και τη Νέα Εποχή.",
+      "ru": "Православные ответы на ислам, буддизм, индуизм и Нью-эйдж."
+    },
+    "articles": [
+      {
+        "title": { "en": "Christ, the Eternal Tao", "el": "Χριστός, το Αιώνιο Τάο", "ru": "Христос, Вечное Дао" },
+        "author": { "en": "Hieromonk Damascene", "el": "Ιερομόναχος Δαμασκηνός", "ru": "Иеромонах Дамаскин" },
+        "slug": "christ-eternal-tao",
+        "dataPath": "/data/oodegr/oriental/christ-eternal-tao.json",
+        "summary": { "en": "Finding the fulfillment of Chinese philosophy in Christ.", "el": "Εύρεση της εκπλήρωσης της κινεζικής φιλοσοφίας στον Χριστό.", "ru": "Поиск завершения китайской философии во Христе." }
+      },
+      {
+        "title": { "en": "Yoga and the Christian Faith", "el": "Γιόγκα και Χριστιανική Πίστη", "ru": "Йога и христианская вера" },
+        "author": { "en": "OODE", "el": "ΟΟΔΕ", "ru": "ООДЕ" },
+        "slug": "yoga-christian-faith",
+        "dataPath": "/data/oodegr/oriental/yoga-christian-faith.json",
+        "summary": { "en": "Analyzing the incompatibility of Yoga with Orthodox spirituality.", "el": "Ανάλυση του ασυμβίβαστου της Γιόγκα με την Ορθόδοξη πνευματικότητα.", "ru": "Анализ несовместимости йоги с православной духовностью." }
+      }
+    ]
+  },
+  {
+    "category": {
+      "en": "Science & Faith",
+      "el": "Επιστήμη & Πίστη",
+      "ru": "Наука и вера"
+    },
+    "description": {
+      "en": "The harmony and distinction between scientific research and divine revelation.",
+      "el": "Η αρμονία και η διάκριση μεταξύ επιστημονικής έρευνας και θείας αποκάλυψης.",
+      "ru": "Гармония и различие между научными исследованиями и божественным откровением."
+    },
+    "articles": [
+      {
+        "title": { "en": "Christianity and Science", "el": "Χριστιανισμός και Επιστήμη", "ru": "Христианство и наука" },
+        "author": { "en": "J. Tachos", "el": "Ι. Τάχος", "ru": "Дж. Тахос" },
+        "slug": "christianity-and-science",
+        "dataPath": "/data/oodegr/science/christianity-science.json",
+        "summary": { "en": "Refuting the myth that the Church is anti-scientific.", "el": "Ανασκευή του μύθου ότι η Εκκλησία είναι αντι-επιστημονική.", "ru": "Опровержение мифа о том, что Церковь настроена против науки." }
+      },
+      {
+        "title": { "en": "The Incredible Design of the Earth", "el": "Ο Απίστευτος Σχεδιασμός της Γης", "ru": "Невероятный замысел Земли" },
+        "author": { "en": "OODE", "el": "ΟΟΔΕ", "ru": "ООДЕ" },
+        "slug": "design-of-earth",
+        "dataPath": "/data/oodegr/science/design-of-earth.json",
+        "summary": { "en": "Scientific evidences of fine-tuning in the solar system.", "el": "Επιστημονικές ενδείξεις λεπτομερούς ρύθμισης στο ηλιακό σύστημα.", "ru": "Научные доказательства тонкой настройки в Солнечной системе." }
+      }
+    ]
+  },
+  {
+    "category": {
+      "en": "Atheism & Modernism",
+      "el": "Αθεϊσμός & Μοντερνισμός",
+      "ru": "Атеизм и модернизм"
+    },
+    "description": {
+      "en": "Orthodox engagement with modern atheism and secular ideologies.",
+      "el": "Ορθόδοξη ενασχόληση με τον σύγχρονο αθεϊσμό και τις κοσμικές ιδεολογίες.",
+      "ru": "Православное взаимодействие с современным атеизмом и светскими идеологиями."
+    },
+    "articles": [
+      {
+        "title": { "en": "Atheism in Stages", "el": "Ο Αθεϊσμός σε Στάδια", "ru": "Атеизм в стадиях" },
+        "author": { "en": "Metropolitan Hierotheos Vlachos", "el": "Μητροπολίτης Ιερόθεος Βλάχος", "ru": "Митрополит Иерофей Влахос" },
+        "slug": "atheism-in-stages",
+        "dataPath": "/data/oodegr/other/atheism-in-stages.json",
+        "summary": { "en": "Tracing the trajectory of unbelief from revolt to occultism.", "el": "Παρακολούθηση της πορείας της απιστίας από την επανάσταση στον αποκρυφισμό.", "ru": "Прослеживание траектории неверия от бунта до оккультизма." }
+      }
+    ]
+  },
+  {
+    "category": {
+      "en": "Church History & Roots",
+      "el": "Εκκλησιαστική Ιστορία & Ρίζες",
+      "ru": "История Церкви и корни"
+    },
+    "description": {
+      "en": "The historical journey of the Orthodox Church and its influence on the West.",
+      "el": "Η ιστορική πορεία της Ορθόδοξης Εκκλησίας και η επιρροή της στη Δύση.",
+      "ru": "Исторический путь Православной Церкви и ее влияние на Запад."
+    },
+    "articles": [
+      {
+        "title": { "en": "The Orthodox Roots of the West", "el": "Οι Ορθόδοξες Ρίζες της Δύσης", "ru": "Православные корни Запада" },
+        "author": { "en": "OODE", "el": "ΟΟΔΕ", "ru": "ООДЕ" },
+        "slug": "orthodox-roots-west",
+        "dataPath": "/data/oodegr/history/roots-of-west.json",
+        "summary": { "en": "Discovering the shared heritage of the first millennium.", "el": "Ανακάλυψη της κοινής κληρονομιάς της πρώτης χιλιετίας.", "ru": "Открытие общего наследия первого тысячелетия." }
+      },
+      {
+        "title": { "en": "Constantine the Great and Historical Truth", "el": "Ο Μέγας Κωνσταντίνος και η Ιστορική Αλήθεια", "ru": "Константин Великий и историческая правда" },
+        "author": { "en": "OODE", "el": "ΟΟΔΕ", "ru": "ООДЕ" },
+        "slug": "constantine-historical-truth",
+        "dataPath": "/data/oodegr/history/constantine-truth.json",
+        "summary": { "en": "Debunking pagan myths about the first Christian Emperor.", "el": "Ανασκευή παγανιστικών μύθων για τον πρώτο Χριστιανό Αυτοκράτορα.", "ru": "Развенчание языческих мифов о первом христианском императоре." }
+      }
+    ]
+  },
+  {
+    "category": {
+      "en": "Papacy",
+      "el": "Παπισμός",
+      "ru": "Папство"
+    },
+    "description": {
+      "en": "Orthodox analysis of Roman Catholic doctrines and history.",
+      "el": "Ορθόδοξη ανάλυση των Ρωμαιοκαθολικών δογμάτων και της ιστορίας.",
+      "ru": "Православный анализ римо-католических догматов и истории."
+    },
+    "articles": [
+      {
+        "title": { "en": "Differences between Orthodoxy and Papism", "el": "Διαφορές Ορθοδοξίας και Παπισμού", "ru": "Различия между Православием и Папством" },
+        "author": { "en": "Metropolitan Hierotheos Vlachos", "el": "Μητροπολίτης Ιερόθεος Βλάχος", "ru": "Митрополит Иерофей Влахос" },
+        "slug": "papacy-differences",
+        "dataPath": "/data/oodegr/papacy/papacy-differences.json",
+        "summary": { "en": "Core theological and historical points of divergence.", "el": "Βασικά θεολογικά και ιστορικά σημεία απόκλισης.", "ru": "Основные богословские и исторические пункты расхождения." }
+      }
+    ]
+  },
+  {
+    "category": {
+      "en": "Protestantism",
+      "el": "Προτεσταντισμός",
+      "ru": "Протестантизм"
+    },
+    "description": {
+      "en": "Dialogue and critiques of Protestant theology (Sola Scriptura, etc.).",
+      "el": "Διάλογος και κριτική της Προτεσταντικής θεολογίας (Sola Scriptura κ.λπ.).",
+      "ru": "Диалог и критика протестантского богословия (Sola Scriptura и т. д.)."
+    },
+    "articles": [
+      {
+        "title": { "en": "SOLA SCRIPTURA? An Orthodox Analysis", "el": "SOLA SCRIPTURA; Μια Ορθόδοξη Ανάλυση", "ru": "SOLA SCRIPTURA? Православный анализ" },
+        "author": { "en": "Fr. John Whiteford", "el": "π. John Whiteford", "ru": "о. Джон Уайтфорд" },
+        "slug": "sola-scriptura-analysis",
+        "dataPath": "/data/oodegr/protestantism/sola-scriptura-analysis.json",
+        "summary": { "en": "A deep dive into the Protestant doctrine of 'Scripture Alone'.", "el": "Μια βαθιά ματιά στο προτεσταντικό δόγμα της «Μόνης της Γραφής».", "ru": "Глубокое погружение в протестантское учение о «Только Писании»." }
+      },
+      {
+        "title": { "en": "Salvation: Differences in Understanding", "el": "Σωτηρία: Διαφορές στην Κατανόηση", "ru": "Спасение: различия в понимании" },
+        "author": { "en": "OODE", "el": "ΟΟΔΕ", "ru": "ООДЕ" },
+        "slug": "salvation-differences",
+        "dataPath": "/data/oodegr/protestantism/salvation-differences.json",
+        "summary": { "en": "How Orthodoxy and Protestantism view the process of salvation.", "el": "Πώς η Ορθοδοξία και ο Προτεσταντισμός βλέπουν τη διαδικασία της σωτηρίας.", "ru": "Как Православие и протестантизм видят процесс спасения." }
+      }
+    ]
+  },
+  {
+    "category": {
+      "en": "Sects & Heresies",
+      "el": "Αιρέσεις & Παραφυάδες",
+      "ru": "Секты и ереси"
+    },
+    "description": {
+      "en": "Orthodox responses to modern sects like Jehovah's Witnesses and Mormons.",
+      "el": "Ορθόδοξες απαντήσεις σε σύγχρονες αιρέσεις όπως οι Μάρτυρες του Ιεχωβά και οι Μορμόνοι.",
+      "ru": "Православные ответы современным сектам, таким как Свидетели Иеговы и мормоны."
+    },
+    "articles": [
+      {
+        "title": { "en": "Who are the Jehovah's Witnesses?", "el": "Ποιοι είναι οι Μάρτυρες του Ιεχωβά;", "ru": "Кто такие Свидетели Иеговы?" },
+        "author": { "en": "OODE", "el": "ΟΟΔΕ", "ru": "ООДЕ" },
+        "slug": "who-are-jw",
+        "dataPath": "/data/oodegr/sects/who-are-jw.json",
+        "summary": { "en": "A brief history and overview of the Watchtower society.", "el": "Μια σύντομη ιστορία και επισκόπηση της εταιρείας Σκοπιά.", "ru": "Краткая история и обзор общества Сторожевой башни." }
+      },
+      {
+        "title": { "en": "The Divinity of Christ and the Watchtower", "el": "Η Θεότητα του Χριστού και η Σκοπιά", "ru": "Божественность Христа и Сторожевая башня" },
+        "author": { "en": "OODE", "el": "ΟΟΔΕ", "ru": "ООДЕ" },
+        "slug": "jw-divinity-christ",
+        "dataPath": "/data/oodegr/sects/jw-divinity-christ.json",
+        "summary": { "en": "Biblical refutation of JW claims about Christ's nature.", "el": "Βιβλική αναίρεση των ισχυρισμών των ΜτΙ για τη φύση του Χριστού.", "ru": "Библейское опровержение утверждений Свидетелей Иеговы о природе Христа." }
+      }
+    ]
+  },
+  {
+    "category": {
+      "en": "Paganism & Occult",
+      "el": "Παγανισμός & Αποκρυφισμός",
+      "ru": "Язычество и оккультизм"
+    },
+    "description": {
+      "en": "Orthodox analysis of neopaganism, magic, and hidden knowledge, including Freemasonry.",
+      "el": "Ορθόδοξη ανάλυση του νεοπαγανισμού, της μαγείας και της κρυφής γνώσης, συμπεριλαμβανομένης της Μασονίας.",
+      "ru": "Православный анализ неоязычества, магии и скрытых знаний, включая масонство."
+    },
+    "articles": [
+      {
+        "title": { "en": "The Roots of Modern Occultism", "el": "Οι Ρίζες του Σύγχρονου Αποκρυφισμού", "ru": "Корни современного оккультизма" },
+        "author": { "en": "OODE", "el": "ΟΟΔΕ", "ru": "ООДЕ" },
+        "slug": "roots-modern-occultism",
+        "dataPath": "/data/oodegr/occult/roots-occultism.json",
+        "summary": { "en": "Tracing modern magic back to ancient Babylonian mysteries.", "el": "Παρακολούθηση της σύγχρονης μαγείας πίσω στα αρχαία βαβυλωνιακά μυστήρια.", "ru": "Прослеживание современной магии до древних вавилонских мистерий." }
+      },
+      {
+        "title": { "en": "Freemasonry and the Church", "el": "Η Μασονία και η Εκκλησία", "ru": "Масонство и Церковь" },
+        "author": { "en": "OODE", "el": "ΟΟΔΕ", "ru": "ООДЕ" },
+        "slug": "freemasonry-church",
+        "dataPath": "/data/oodegr/occult/freemasonry-church.json",
+        "summary": { "en": "Why Freemasonry is incompatible with Orthodox Christianity.", "el": "Γιατί η Μασονία είναι ασυμβίβαστη με τον Ορθόδοξο Χριστιανισμό.", "ru": "Почему масонство несовместимо с православным христианством." }
+      }
+    ]
+  },
+  {
+    "category": {
+      "en": "Bioethics & Society",
+      "el": "Βιοηθική & Κοινωνία",
+      "ru": "Биоэтика и общество"
+    },
+    "description": {
+      "en": "Orthodox perspectives on modern ethical and social challenges.",
+      "el": "Ορθόδοξες προοπτικές στις σύγχρονες ηθικές και κοινωνικές προκλήσεις.",
+      "ru": "Православный взгляд на современные этические и социальные проблемы."
+    },
+    "articles": [
+      {
+        "title": { "en": "Orthodox Perspective on Abortion", "el": "Ορθόδοξη Προοπτική στην Έκτρωση", "ru": "Православный взгляд на аборты" },
+        "author": { "en": "OODE", "el": "ΟΟΔΕ", "ru": "ООДЕ" },
+        "slug": "orthodox-abortion",
+        "dataPath": "/data/oodegr/society/abortion-view.json",
+        "summary": { "en": "The sacredness of life from the moment of conception.", "el": "Η ιερότητα της ζωής από τη στιγμή της σύλληψης.", "ru": "Священность жизни с момента зачатия." }
+      }
+    ]
+  },
+  {
+    "category": {
+      "en": "Islam",
+      "el": "Ισλάμ",
+      "ru": "Ислам"
+    },
+    "description": {
+      "en": "Orthodox responses and historical dialogues with Islam.",
+      "el": "Ορθόδοξες απαντήσεις και ιστορικοί διάλογοι με το Ισλάμ.",
+      "ru": "Православные ответы и исторические диалоги с исламом."
+    },
+    "articles": [
+      {
+        "title": { "en": "A Definitive Reply to Islam", "el": "Μια Οριστική Απάντηση στο Ισλάμ", "ru": "Окончательный ответ исламу" },
+        "author": { "en": "OODE", "el": "ΟΟΔΕ", "ru": "ООДЕ" },
+        "slug": "reply-to-islam",
+        "dataPath": "/data/oodegr/oriental/reply-islam.json",
+        "summary": { "en": "Theological points of divergence between Christianity and Islam.", "el": "Θεολογικά σημεία απόκλισης μεταξύ Χριστιανισμού και Ισλάμ.", "ru": "Богословские пункты расхождения между христианством и исламом." }
+      },
+      {
+        "title": { "en": "Dialogues of Ss. Cyril and Methodius with Muslims", "el": "Διάλογοι των Αγίων Κυρίλλου και Μεθοδίου με Μουσουλμάνους", "ru": "Диалоги святых Кирилла и Мефодия с мусульманами" },
+        "author": { "en": "St. Clement of Ohrid", "el": "Άγιος Κλήμης της Αχρίδας", "ru": "Святитель Климент Охридский" },
+        "slug": "cyril-methodius-islam",
+        "dataPath": "/data/oodegr/oriental/cyril-methodius-islam.json",
+        "summary": { "en": "Ancient historical debates between the Apostles to the Slavs and the Saracens.", "el": "Αρχαίες ιστορικές συζητήσεις μεταξύ των Αποστόλων των Σλάβων και των Σαρακηνών.", "ru": "Древние исторические дебаты между просветителями славян и сарацинами." }
+      }
+    ]
+  },
+  {
+    "category": {
+      "en": "Conversion Testimonies",
+      "el": "Μαρτυρίες Μεταστροφής",
+      "ru": "Свидетельства об обращении"
+    },
+    "description": {
+      "en": "Personal stories of people finding the Orthodox Faith.",
+      "el": "Προσωπικές ιστορίες ανθρώπων που βρήκαν την Ορθόδοξη Πίστη.",
+      "ru": "Личные истории людей, нашедших православную веру."
+    },
+    "articles": [
+      {
+        "title": { "en": "From Buddhism to Orthodoxy", "el": "Από τον Βουδισμό στην Ορθοδοξία", "ru": "Из буддизма в православие" },
+        "author": { "en": "OODE", "el": "ΟΟΔΕ", "ru": "ООДЕ" },
+        "slug": "buddhism-to-orthodoxy",
+        "dataPath": "/data/oodegr/other/buddhism-to-orthodoxy.json",
+        "summary": { "en": "A personal journey from Eastern philosophy to the Living Christ.", "el": "Ένα προσωπικό ταξίδι από την ανατολική φιλοσοφία στον Ζώντα Χριστό.", "ru": "Личное путешествие от восточной философии к Живому Христу." }
+      }
+    ]
+  },
+  {
+    "category": {
+      "en": "Ecumenism & Syncretism",
+      "el": "Οικουμενισμός & Συγκρητισμός",
+      "ru": "Экуменизм и синкретизм"
+    },
+    "description": {
+      "en": "The Orthodox critique of religious syncretism and modern ecumenism.",
+      "el": "Η ορθόδοξη κριτική του θρησκευτικού συγκρητισμού και του σύγχρονου οικουμενισμού.",
+      "ru": "Православная критика религиозного синкретизма и современного экуменизма."
+    },
+    "articles": [
+      {
+        "title": { "en": "The Dangers of Syncretism", "el": "Οι Κίνδυνοι του Συγκρητισμού", "ru": "Опасности синкретизма" },
+        "author": { "en": "OODE", "el": "ΟΟΔΕ", "ru": "ООДЕ" },
+        "slug": "dangers-syncretism",
+        "dataPath": "/data/oodegr/other/dangers-syncretism.json",
+        "summary": { "en": "Why all religions are not the same.", "el": "Γιατί όλες οι θρησκείες δεν είναι οι ίδιες.", "ru": "Почему все религии не одинаковы." }
+      }
+    ]
+  },
+  {
+    "category": {
+      "en": "Monasticism",
+      "el": "Μοναχισμός",
+      "ru": "Монашество"
+    },
+    "description": {
+      "en": "The role and meaning of the monastic life in the Orthodox Church.",
+      "el": "Ο ρόλος και η σημασία της μοναχικής ζωής στην Ορθόδοξη Εκκλησία.",
+      "ru": "Роль и значение монашеской жизни в Православной Церкви."
+    },
+    "articles": [
+      {
+        "title": { "en": "The Meaning of the Monastic Life", "el": "Η Σημασία της Μοναχικής Ζωής", "ru": "Смысл монашеской жизни" },
+        "author": { "en": "OODE", "el": "ΟΟΔΕ", "ru": "ООДЕ" },
+        "slug": "meaning-monasticism",
+        "dataPath": "/data/oodegr/other/meaning-monasticism.json",
+        "summary": { "en": "Understanding the angelic life and its service to the world.", "el": "Κατανόηση της αγγελικής ζωής και της προσφοράς της στον κόσμο.", "ru": "Понимание ангельской жизни и ее служения миру." }
+      }
+    ]
+  }
+]
