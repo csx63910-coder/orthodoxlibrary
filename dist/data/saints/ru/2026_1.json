@@ -1,0 +1,613 @@
+[
+  {
+    "pascha_distance": 256,
+    "julian_day_number": 2461042,
+    "year": 2026,
+    "month": 1,
+    "day": 1,
+    "weekday": 4,
+    "tone": 4,
+    "titles": [
+      "Thursday of the 30th week after Pentecost"
+    ],
+    "summary_title": "Обрезание Господне; Святой Василий Великий",
+    "feast_level": 6,
+    "feast_level_description": "Red cross circle (great feast typikon symbol)",
+    "feasts": [
+      "Circumcision of Our Lord; St Basil the Great"
+    ],
+    "fast_level": 0,
+    "fast_level_desc": "Нет быстрого",
+    "fast_exception": 11,
+    "fast_exception_desc": "Быстро Бесплатно",
+    "saints": [
+      "Святитель Григорий, епископ Назианзин (374), отец святителя Григория Богослова.",
+      "Святая Эмилия (375), мать святых Макрины, Василия Великого и Григория Нисского, Петра Севастийского и Феозевии."
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      4,
+      6
+    ],
+    "readings": [
+      {
+        "source": "Вечерня",
+        "book": "ОТ",
+        "description": "",
+        "display": "Составной 1 - Бытие 17:1-2, 4, 5-7, 8, 9-10, 11-12, 14.",
+        "short_display": "Gen 17.1-2, 4, 5-7, 8, 9-10, 11-12, 14",
+        "passage": null
+      },
+      {
+        "source": "Вечерня",
+        "book": "ОТ",
+        "description": "",
+        "display": "Притчи 8:22-30",
+        "short_display": "Prov 8.22-30",
+        "passage": null
+      },
+      {
+        "source": "Вечерня",
+        "book": "ОТ",
+        "description": "",
+        "display": "Притчи 10.31-11.12",
+        "short_display": "Prov 10.31-11.12",
+        "passage": null
+      },
+      {
+        "source": "Утреня Евангелия",
+        "book": "Джон",
+        "description": "",
+        "display": "Иоанна 10:9-16",
+        "short_display": "John 10.9-16",
+        "passage": null
+      },
+      {
+        "source": "Послание",
+        "book": "Апостол",
+        "description": "Circumcision",
+        "display": "Колоссянам 2:8-12",
+        "short_display": "Col 2.8-12",
+        "passage": null
+      },
+      {
+        "source": "Послание",
+        "book": "Апостол",
+        "description": "St Basil",
+        "display": "Евреям 7:26-8:2",
+        "short_display": "Heb 7.26-8.2",
+        "passage": null
+      },
+      {
+        "source": "Евангелие",
+        "book": "Люк",
+        "description": "Circumcision",
+        "display": "Луки 2:20–21, 40–52.",
+        "short_display": "Luke 2.20-21, 40-52",
+        "passage": null
+      },
+      {
+        "source": "Евангелие",
+        "book": "Люк",
+        "description": "St Basil",
+        "display": "Луки 6:17-23",
+        "short_display": "Luke 6.17-23",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 257,
+    "julian_day_number": 2461043,
+    "year": 2026,
+    "month": 1,
+    "day": 2,
+    "weekday": 5,
+    "tone": 4,
+    "titles": [
+      "Friday of the 30th week after Pentecost"
+    ],
+    "summary_title": "Предпразднство Богоявления",
+    "feast_level": 4,
+    "feast_level_description": "Red cross (polyeleos typikon symbol)",
+    "feasts": [
+      "Forefeast of Theophany"
+    ],
+    "fast_level": 0,
+    "fast_level_desc": "Нет быстрого",
+    "fast_exception": 11,
+    "fast_exception_desc": "Быстро Бесплатно",
+    "saints": [
+      "Упокоение преподобного Серафима Саровского.",
+      "Святой Сильвестр, Папа Римский (335 г.)",
+      "Преподобная Иулиана Лазаревская (1604 г.)",
+      "Святой новомученик Георгий Грузин (1770 г.)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      4,
+      6
+    ],
+    "readings": [
+      {
+        "source": "Вечерня",
+        "book": "ОТ",
+        "description": "",
+        "display": "Мудрость Соломона 3.1-9",
+        "short_display": "Wis 3.1-9",
+        "passage": null
+      },
+      {
+        "source": "Вечерня",
+        "book": "ОТ",
+        "description": "",
+        "display": "Мудрость Соломона 5.15-6.3",
+        "short_display": "Wis 5.15-6.3",
+        "passage": null
+      },
+      {
+        "source": "Вечерня",
+        "book": "ОТ",
+        "description": "",
+        "display": "Мудрость Соломона 4.7-15",
+        "short_display": "Wis 4.7-15",
+        "passage": null
+      },
+      {
+        "source": "Утреня Евангелия",
+        "book": "Мэтью",
+        "description": "",
+        "display": "Матфея 11:27-30",
+        "short_display": "Matt 11.27-30",
+        "passage": null
+      },
+      {
+        "source": "Послание",
+        "book": "Апостол",
+        "description": "",
+        "display": "Евреям 11:8, 11-16.",
+        "short_display": "Heb 11.8, 11-16",
+        "passage": null
+      },
+      {
+        "source": "Послание",
+        "book": "Апостол",
+        "description": "St Seraphim",
+        "display": "Галатам 5:22-6:2",
+        "short_display": "Gal 5.22-6.2",
+        "passage": null
+      },
+      {
+        "source": "Евангелие",
+        "book": "Отметка",
+        "description": "",
+        "display": "Марка 12:1-12",
+        "short_display": "Mark 12.1-12",
+        "passage": null
+      },
+      {
+        "source": "Евангелие",
+        "book": "Люк",
+        "description": "St Seraphim",
+        "display": "Луки 6:17-23",
+        "short_display": "Luke 6.17-23",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 258,
+    "julian_day_number": 2461044,
+    "year": 2026,
+    "month": 1,
+    "day": 3,
+    "weekday": 6,
+    "tone": 4,
+    "titles": [
+      "Saturday of the 30th week after Pentecost"
+    ],
+    "summary_title": "Суббота перед Богоявлением; Предпразднство Богоявления",
+    "feast_level": 0,
+    "feast_level_description": "Liturgy",
+    "feasts": [
+      "Saturday before Theophany",
+      "Forefeast of Theophany"
+    ],
+    "fast_level": 0,
+    "fast_level_desc": "Нет быстрого",
+    "fast_exception": 11,
+    "fast_exception_desc": "Быстро Бесплатно",
+    "saints": [
+      "Пророк Малахия",
+      "Святой мученик Гордий Кесарийский (4 в.)",
+      "Святая Мать Женевьева Парижская (ок. 502 г.)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      0,
+      2
+    ],
+    "readings": [
+      {
+        "source": "Послание",
+        "book": "Апостол",
+        "description": "",
+        "display": "Ефесянам 5:1-8",
+        "short_display": "Eph 5.1-8",
+        "passage": null
+      },
+      {
+        "source": "Послание",
+        "book": "Апостол",
+        "description": "Saturday before Theophany",
+        "display": "1 Тимофею 3:14-4,5",
+        "short_display": "1 Tim 3.14-4.5",
+        "passage": null
+      },
+      {
+        "source": "Евангелие",
+        "book": "Люк",
+        "description": "",
+        "display": "Луки 17:3-10",
+        "short_display": "Luke 17.3-10",
+        "passage": null
+      },
+      {
+        "source": "Евангелие",
+        "book": "Мэтью",
+        "description": "Saturday before Theophany",
+        "display": "Матфея 3.1-11",
+        "short_display": "Matt 3.1-11",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 259,
+    "julian_day_number": 2461045,
+    "year": 2026,
+    "month": 1,
+    "day": 4,
+    "weekday": 0,
+    "tone": 5,
+    "titles": [
+      "30th Sunday after Pentecost"
+    ],
+    "summary_title": "Неделя 30-я по Пятидесятнице",
+    "feast_level": 0,
+    "feast_level_description": "Liturgy",
+    "feasts": [
+      "Sunday before Theophany",
+      "Forefeast of Theophany"
+    ],
+    "fast_level": 0,
+    "fast_level_desc": "Нет быстрого",
+    "fast_exception": 11,
+    "fast_exception_desc": "Быстро Бесплатно",
+    "saints": [
+      "Собор семидесяти апостолов",
+      "Эфиопский евнух королевы Кэндис.",
+      "Преподобная Аполлинария (V в.)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      1,
+      2
+    ],
+    "readings": [
+      {
+        "source": "8-я утреня Евангелия",
+        "book": "Джон",
+        "description": "",
+        "display": "Иоанна 20.11-18",
+        "short_display": "John 20.11-18",
+        "passage": null
+      },
+      {
+        "source": "Послание",
+        "book": "Апостол",
+        "description": "Sunday before Theophany",
+        "display": "2 Тимофею 4:5-8",
+        "short_display": "2 Tim 4.5-8",
+        "passage": null
+      },
+      {
+        "source": "Евангелие",
+        "book": "Отметка",
+        "description": "Sunday before Theophany",
+        "display": "Марк 1.1-8",
+        "short_display": "Mark 1.1-8",
+        "passage": null
+      }
+    ]
+  },
+  {
+    "pascha_distance": 260,
+    "julian_day_number": 2461046,
+    "year": 2026,
+    "month": 1,
+    "day": 5,
+    "weekday": 1,
+    "tone": 5,
+    "titles": [
+      "Monday of the 31st week after Pentecost"
+    ],
+    "summary_title": "Канун Богоявления",
+    "feast_level": 0,
+    "feast_level_description": "Liturgy",
+    "feasts": [
+      "Eve of Theophany"
+    ],
+    "fast_level": 1,
+    "fast_level_desc": "Быстрый",
+    "fast_exception": 9,
+    "fast_exception_desc": "Строгий пост",
+    "saints": [
+      "Святые мученики Феопемпт и Феона (ок. 290 г.)",
+      "Преподобная Матерь Синклетика (4 в.)"
+    ],
+    "service_notes": null,
+    "abbreviated_reading_indices": [
+      25,
+      26
+    ],
+    "readings": [
+      {
+        "source": "1-й час, Пророчество",
+        "book": "ОТ",
+        "description": "",
+        "display": "Исаия 35:1-10",
+        "short_display": "Isa 35.1-10",
+        "passage": null
+      },
+      {
+        "source": "1-й час, Послание",
+        "book": "Апостол",
+        "description": "",
+        "display": "Деяния 13:25-33",
+        "short_display": "Acts 13.25-33",
+        "passage": null
+      },
+      {
+        "source": "1-й час, Евангелие",
+        "book": "Мэтью",
+        "description": "",
+        "display": "Матфея 3.1-11",
+        "short_display": "Matt 3.1-11",
+        "passage": null
+      },
+      {
+        "source": "3-й час, Пророчество",
+        "book": "ОТ",
+        "description": "",
+        "display": "Исайя 1:16-20",
+        "short_display": "Isa 1.16-20",
+        "passage": null
+      },
+      {
+        "source": "3-й час, Послание",
+        "book": "Апостол",
+        "description": "",
+        "display": "Деяния 19.1-8",
+        "short_display": "Acts 19.1-8",
+        "passage": null
+      },
+      {
+        "source": "3-й час, Евангелие",
+        "book": "Отметка",
+        "description": "",
+        "display": "Марк 1.1-8",
+        "short_display": "Mark 1.1-8",
+        "passage": null
+      },
+      {
+        "source": "6-й час, Пророчество",
+        "book": "ОТ",
+        "description": "",
+        "display": "Исаия 12:3-6",
+        "short_display": "Isa 12.3-6",
+        "passage": null
+      },
+      {
+        "source": "6-й час, Послание",
+        "book": "Апостол",
+        "description": "",
+        "display": "Римлянам 6.3-11",
+        "short_display": "Rom 6.3-11",
+        "passage": null
+      },
+      {
+        "source": "6-й час, Евангелие",
+        "book": "Отметка",
+        "description": "",
+        "display": "Марка 1,9-15",
+        "short_display": "Mark 1.9-15",
+        "passage": null
+      },
+      {
+        "source": "9-й час, Пророчество",
+        "book": "ОТ",
+        "description": "",
+        "display": "Исаия 49:8-15",
+        "short_display": "Isa 49.8-15",
+        "passage": null
+      },
+      {
+        "source": "9-й час, Послание",
+        "book": "Апостол",
+        "description": "",
+        "display": "Титу 2:11–14, 3:4–7.",
+        "short_display": "Titus 2.11-14, 3.4-7",
+        "passage": null
+      },
+      {
+        "source": "9-й час, Евангелие",
+        "book": "Мэтью",
+        "description": "",
+        "display": "Матфея 3:13-17",
+        "short_display": "Matt 3.13-17",
+        "passage": null
+      },
+      {
+        "source": "Вечерня",
+        "book": "ОТ",
+        "description": "",
+        "display": "Бытие 1:1-13",
+        "short_display": "Gen 1.1-13",
+        "passage": null
+      },
+      {
+        "source": "Вечерня",
+        "book": "ОТ",
+        "description": "",
+        "display": "Исход 14:15–18, 21–23, 27–29.",
+        "short_display": "Exod 14.15-18, 21-23, 27-29",
+        "passage": null
+      },
+      {
+        "source": "Вечерня",
+        "book": "ОТ",
+        "description": "",
+        "display": "Исход 15:22-16:1",
+        "short_display": "Exod 15.22-16.1",
+        "passage": null
+      },
+      {
+        "source": "Вечерня",
+        "book": "ОТ",
+        "description": "",
+        "display": "Иисус Навин 3,7–8, 15–17",
+        "short_display": "Josh 3.7-8, 15-17",
+        "passage": null
+      },
+      {
+        "source": "Вечерня",
+        "book": "ОТ",
+        "description": "",
+        "display": "4[2] Царств 2.6–14",
+        "short_display": "4 Kgs 2.6-14",
+        "passage": null
+      },
+      {
+        "source": "Вечерня",
+        "book": "ОТ",
+        "description": "",
+        "display": "4[2] Царств 5.9–14",
+        "short_display": "4 Kgs 5.9-14",
+        "passage": null
+      },
+      {
+        "source": "Вечерня",
+        "book": "ОТ",
+        "description": "",
+        "display": "Исайя 1:16-20",
+        "short_display": "Isa 1.16-20",
+        "passage": null
+      },
+      {
+        "source": "Вечерня",
+        "book": "ОТ",
+        "description": "",
+        "display": "Бытие 32:1-10",
+        "short_display": "Gen 32.1-10",
+        "passage": null
+      },
+      {
+        "source": "Вечерня",
+        "book": "ОТ",
+        "description": "",
+        "display": "Исход 2,5-10",
+        "short_display": "Exod 2.5-10",
+        "passage": null
+      },
+      {
+        "source": "Вечерня",
+        "book": "ОТ",
+        "description": "",
+        "display": "Судьи 6.36-40",
+        "short_display": "Judges 6.36-40",
+        "passage": null
+      },
+      {
+        "source": "Вечерня",
+        "book": "ОТ",
+        "description": "",
+        "display": "3[1] Царств 18:30–39",
+        "short_display": "3 Kgs 18.30-39",
+        "passage": null
+      },
+      {
+        "source": "Вечерня",
+        "book": "ОТ",
+        "description": "",
+        "display": "4[2] Царств 2:19–22",
+        "short_display": "4 Kgs 2.19-22",
+        "passage": null
+      },
+      {
+        "source": "Вечерня",
+        "book": "ОТ",
+        "description": "",
+        "display": "Исаия 49:8-15",
+        "short_display": "Isa 49.8-15",
+        "passage": null
+      },
+      {
+        "source": "Послание",
+        "book": "Апостол",
+        "description": "Eve of Theophany",
+        "display": "1 Коринфянам 9:19-27",
+        "short_display": "1 Cor 9.19-27",
+        "passage": null
+      },
+      {
+        "source": "Евангелие",
+        "book": "Люк",
+        "description": "Eve of Theophany",
+        "display": "Луки 3:1-18",
+        "short_display": "Luke 3.1-18",
+        "passage": null
+      },
+      {
+        "source": "Великое благословение вод",
+        "book": "ОТ",
+        "description": "",
+        "display": "Исаия 35:1-10",
+        "short_display": "Isa 35.1-10",
+        "passage": null
+      },
+      {
+        "source": "Великое благословение вод",
+        "book": "ОТ",
+        "description": "",
+        "display": "Исаия 55:1-13",
+        "short_display": "Isa 55.1-13",
+        "passage": null
+      },
+      {
+        "source": "Великое благословение вод",
+        "book": "ОТ",
+        "description": "",
+        "display": "Исаия 12:3-6",
+        "short_display": "Isa 12.3-6",
+        "passage": null
+      },
+      {
+        "source": "Великое благословение вод",
+        "book": "Апостол",
+        "description": "Epistle",
+        "display": "1 Коринфянам 10:1-4",
+        "short_display": "1 Cor 10.1-4",
+        "passage": null
+      },
+      {
+        "source": "Великое благословение вод",
+        "book": "Отметка",
+        "description": "Gospel",
+        "display": "Марка 1,9-11",
+        "short_display": "Mark 1.9-11",
+        "passage": null
+      }
+    ]
+  }
+]
