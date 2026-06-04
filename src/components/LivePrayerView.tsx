@@ -24,21 +24,21 @@ export default function LivePrayerView() {
     } else if (hour >= 12 && hour < 18) {
       return {
         title: "Akathist Hymns",
-        slug: "akathist-hymns",
+        slug: "akathist-to-theotokos",   // ← fixed
         description: "Midday devotions and hymns of praise to Christ and the Saints.",
         tag: "Midday"
       };
     } else if (hour >= 18 && hour < 24) {
       return {
         title: "Evening Prayers",
-        slug: "evening-prayers",
+        slug: "before-sleep",   
         description: "Close the day with repentance and examination of conscience.",
         tag: "Evening Rule"
       };
     } else {
       return {
         title: "Midnight Office",
-        slug: "midnight-office",
+        slug: "compline",   
         description: "The Mesonyktikon: Vigilance in the quiet of the night.",
         tag: "Night Vigil"
       };
