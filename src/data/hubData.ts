@@ -449,6 +449,30 @@ export const basePrayers: PrayerEntry[] = [
     rubrics: "Recite attentively as confession, not mere recital.",
     related: ["our-father", "trisagion"],
   },
+    {
+    slug: "before-sleep",
+    tradition: "orthodox",
+    title: { en: "Evening Prayers (Before Sleep)", el: "Αποδειπνόν", ru: "Молитвы на сон грядущим" },
+    text: { en: "O Eternal God and King of all Creation, Who hast granted me to reach this hour: forgive the sins I have committed this day in deed, word and thought. Cleanse, O Lord, my humble soul from every defilement of flesh and spirit." },
+    original: "Ὁ Θεὸς ὁ αἰώνιος καὶ βασιλεὺς πάσης κτίσεως...",
+    language: "Greek",
+    history: [{ en: "Evening prayers from the Orthodox Daily Prayer book, said before sleep with examination of conscience." }],
+    when: { en: "Every evening before sleep", el: "Κάθε βράδυ πριν τον ύπνο", ru: "Каждый вечер перед сном" },
+    rubrics: { en: "Stand before icons, pray with compunction and gratitude for the day." },
+    related: ["morning-prayers", "our-father", "jesus-prayer"]
+  },
+  {
+    slug: "compline",
+    tradition: "orthodox",
+    title: { en: "The Order of Compline (Midnight Office)", el: "Ἀπόδειπνον", ru: "Повечерие" },
+    text: { en: "Blessed is our God, always, now and ever, and unto ages of ages. Amen. O Heavenly King, the Comforter, the Spirit of Truth, Who art everywhere and fillest all things..." },
+    original: "Εὐλογητὸς ὁ Θεὸς ἡμῶν...",
+    language: "Greek",
+    history: [{ en: "Compline is the final service of the day in Orthodox liturgical tradition, also known as the Midnight Office in monastic usage." }],
+    when: { en: "After the evening meal before sleep", el: "Μετά τον εσπερινό", ru: "После вечерней трапезы" },
+    rubrics: { en: "Includes penitential psalms, troparia, the Symbol of Faith, and prayers for protection through the night." },
+    related: ["before-sleep", "morning-prayers", "jesus-prayer"]
+  },
 ];
 
 // Merge base prayers and imported orthodoxDailyPrayers, deduplicating by `slug`.
